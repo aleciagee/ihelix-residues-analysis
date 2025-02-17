@@ -1,0 +1,1338 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  ../output/hmm_round_1/ihelix_seed_hmm.hmm
+# target sequence database:        ../input/databases/uniprot/p450_activesite.fasta
+# MSA of all hits saved to file:   ../output/hmm_search_1/uniprot/p450_activesite/1//ihelixhits_e_10_z__T_.aln
+# sequence reporting threshold:    E-value <= 10
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       ihelix_seed_hmm  [M=33]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                       -----------
+    9.9e-09   36.3   1.2    0.00013   23.3   0.4    2.9  2  tr|A0A0E0B5N3|A0A0E0B5N3_9ORYZ  Endoglucanase OS=Oryza glumipatu
+      1e-08   36.2   0.2    2.2e-08   35.2   0.2    1.6  1  tr|A0A8J6L4K6|A0A8J6L4K6_MICOH  tRNA (guanine-N(7)-)-methyltrans
+    1.2e-08   36.0   0.6    3.9e-08   34.4   0.1    2.1  1  tr|A0A8J6DN26|A0A8J6DN26_GALPY  tRNA (guanine-N(7)-)-methyltrans
+    1.3e-08   36.0   0.2    3.2e-08   34.7   0.2    1.7  1  tr|A0A821G8P4|A0A821G8P4_9BILA  UBC core domain-containing prote
+    1.3e-08   35.9   0.2    3.2e-08   34.7   0.2    1.7  1  tr|A0A818VF01|A0A818VF01_9BILA  UBC core domain-containing prote
+    1.3e-08   35.9   0.2    3.2e-08   34.7   0.2    1.7  1  tr|A0A815YDY4|A0A815YDY4_9BILA  UBC core domain-containing prote
+    1.8e-08   35.4   0.5    4.3e-08   34.3   0.5    1.6  1  tr|A0A8C2RCA8|A0A8C2RCA8_CAPHI  tRNA (guanine-N(7)-)-methyltrans
+    1.9e-08   35.4   0.5    4.6e-08   34.2   0.5    1.6  1  tr|A0A8C2RCB4|A0A8C2RCB4_CAPHI  tRNA (guanine-N(7)-)-methyltrans
+    2.2e-08   35.2   0.1    5.4e-08   34.0   0.1    1.6  1  tr|A0A7J8G0L0|A0A7J8G0L0_MOLMO  tRNA (guanine-N(7)-)-methyltrans
+    3.2e-08   34.7   0.5    7.4e-08   33.5   0.5    1.7  1  tr|A0A8H6RZA7|A0A8H6RZA7_MYCCL  PseudoU-synth-2 domain-containin
+    4.8e-08   34.1   0.1    1.3e-07   32.7   0.1    1.8  1  tr|A0A3A2ZG46|A0A3A2ZG46_9EURO  L-glutamate gamma-semialdehyde d
+    5.5e-08   33.9   0.2    1.1e-07   33.0   0.2    1.5  1  tr|A0A8B9RYU7|A0A8B9RYU7_9AVES  tRNA (guanine-N(7)-)-methyltrans
+    7.4e-08   33.5   0.1    1.6e-07   32.4   0.1    1.6  1  tr|A0A151M655|A0A151M655_ALLMI  tRNA (guanine-N(7)-)-methyltrans
+      2e-07   32.2   0.7    5.3e-07   30.8   0.7    1.8  1  tr|A0A5N6QLC6|A0A5N6QLC6_9ROSI  Succinate dehydrogenase [ubiquin
+    9.3e-07   30.1   0.5    2.3e-06   28.8   0.5    1.7  1  tr|A0A2A2LJR8|A0A2A2LJR8_9BILA  HECT domain-containing protein O
+      1e-06   29.9   0.1      3e-06   28.5   0.1    1.9  1  tr|A0A2S7PJ14|A0A2S7PJ14_9HELO  beta-N-acetylhexosaminidase OS=R
+      1e-06   29.9   0.1    2.9e-06   28.5   0.1    1.8  1  tr|A0A2S7QS38|A0A2S7QS38_9HELO  beta-N-acetylhexosaminidase OS=R
+    1.1e-06   29.9   0.1    2.9e-06   28.5   0.1    1.8  1  tr|A0A2S7QZC2|A0A2S7QZC2_9HELO  beta-N-acetylhexosaminidase OS=R
+    1.4e-06   29.5   0.1    3.9e-06   28.1   0.1    1.8  1  tr|A0A9P9SI23|A0A9P9SI23_9HELO  beta-N-acetylhexosaminidase OS=R
+    1.4e-06   29.5   0.1    3.8e-06   28.1   0.1    1.7  1  tr|A0A2J6PVI2|A0A2J6PVI2_9HELO  beta-N-acetylhexosaminidase OS=H
+    1.5e-06   29.4   0.1    3.8e-06   28.1   0.1    1.7  1  tr|A0A2G2XGU4|A0A2G2XGU4_CAPBA  Succinate dehydrogenase [ubiquin
+    1.5e-06   29.4   0.1    3.8e-06   28.1   0.1    1.7  1  tr|A0A2V1CUQ8|A0A2V1CUQ8_9HELO  beta-N-acetylhexosaminidase OS=C
+    1.5e-06   29.4   0.1    3.8e-06   28.1   0.1    1.6  1  tr|A0A9P6VLX0|A0A9P6VLX0_9HELO  beta-N-acetylhexosaminidase (Fra
+    1.8e-06   29.2   0.1    5.7e-06   27.6   0.1    1.9  1  tr|A0A2J6QY84|A0A2J6QY84_HYAVF  beta-N-acetylhexosaminidase OS=H
+    2.1e-06   28.9   0.1    2.1e-06   28.9   0.1    2.1  1  tr|A0A9Q1MX00|A0A9Q1MX00_9SOLA  3-deoxy-D-manno-octulosonic-acid
+    2.1e-06   28.9   0.6    5.3e-06   27.7   0.6    1.7  1  tr|A0A2A2LIC5|A0A2A2LIC5_9BILA  HECT domain-containing protein O
+    2.6e-06   28.7   0.1    6.3e-06   27.4   0.1    1.7  1  tr|A0A2J6SLM6|A0A2J6SLM6_9HELO  beta-N-acetylhexosaminidase OS=H
+    4.8e-06   27.8   1.3    1.1e-05   26.7   1.3    1.6  1  tr|A0A0W0F4R8|A0A0W0F4R8_9AGAR  DNA-(apurinic or apyrimidinic si
+    5.3e-06   27.7   0.2      1e-05   26.7   0.2    1.5  1  tr|A0A673WAS4|A0A673WAS4_SALTR  Cholesterol side-chain cleavage 
+    6.4e-06   27.4   0.2    1.8e-05   26.0   0.2    1.8  1  tr|A0A3E2HGK1|A0A3E2HGK1_SCYLI  beta-N-acetylhexosaminidase (Fra
+    9.5e-06   26.9   0.1    2.4e-05   25.6   0.1    1.7  1  tr|B8BLY1|B8BLY1_ORYSI          Uncharacterized protein OS=Oryza
+    1.1e-05   26.6   0.1    2.7e-05   25.5   0.1    1.7  1  tr|A0A0E0F9A7|A0A0E0F9A7_9ORYZ  Uncharacterized protein OS=Oryza
+    1.2e-05   26.6   0.1    2.8e-05   25.4   0.1    1.7  1  tr|Q2QY23|Q2QY23_ORYSJ          Cytochrome P450 family protein O
+    1.2e-05   26.6   0.1    2.8e-05   25.4   0.1    1.7  1  tr|I1R3T7|I1R3T7_ORYGL          Uncharacterized protein OS=Oryza
+    1.3e-05   26.5   0.1    2.9e-05   25.3   0.1    1.7  1  tr|A0A0D3HR54|A0A0D3HR54_9ORYZ  Uncharacterized protein OS=Oryza
+    1.3e-05   26.4   0.1    3.5e-05   25.1   0.1    1.8  1  tr|A0A0E0R3X3|A0A0E0R3X3_ORYRU  Uncharacterized protein OS=Oryza
+    1.3e-05   26.4   0.1    3.1e-05   25.3   0.1    1.7  1  tr|A0A0E0IY10|A0A0E0IY10_ORYNI  Uncharacterized protein OS=Oryza
+    1.3e-05   26.4   0.1    3.1e-05   25.2   0.1    1.7  1  tr|A0A0E0IY11|A0A0E0IY11_ORYNI  Uncharacterized protein OS=Oryza
+    2.2e-05   25.7   0.1    5.8e-05   24.4   0.1    1.7  1  tr|A0A194XUG1|A0A194XUG1_MOLSC  beta-N-acetylhexosaminidase OS=M
+    2.5e-05   25.6   0.3      5e-05   24.6   0.3    1.5  1  tr|A0A401NXF9|A0A401NXF9_SCYTO  tRNA (guanine-N(7)-)-methyltrans
+    5.8e-05   24.4   1.9    6.9e-05   24.2   0.2    2.1  1  tr|A0A179A125|A0A179A125_9EURO  beta-N-acetylhexosaminidase OS=F
+    6.2e-05   24.3   0.1    0.00016   23.0   0.1    1.8  1  tr|A0A232ET58|A0A232ET58_9HYME  SAM-dependent MTase RsmB/NOP-typ
+    6.3e-05   24.3   0.1    0.00019   22.8   0.1    1.9  1  tr|A0A9J5XMB3|A0A9J5XMB3_SOLCO  Patatin OS=Solanum commersonii O
+    0.00011   23.5   0.5    0.00011   23.5   0.5    2.3  1  tr|A0A5M9J4T2|A0A5M9J4T2_MONFR  tripeptidyl-peptidase II OS=Moni
+    0.00015   23.1   0.1    0.00031   22.1   0.1    1.5  1  tr|A0A9P7H2B8|A0A9P7H2B8_9HYPO  beta-N-acetylhexosaminidase OS=F
+    0.00023   22.5   0.2    0.00049   21.5   0.2    1.6  1  tr|A0A915GEK8|A0A915GEK8_9BILA  SAM-dependent MTase RsmB/NOP-typ
+    0.00024   22.5   1.2    0.00074   20.9   1.2    1.9  1  tr|A0A4R0RTZ4|A0A4R0RTZ4_9APHY  HECT-type E3 ubiquitin transfera
+    0.00027   22.3   0.1    0.00058   21.3   0.1    1.5  1  tr|A0A8H4SXF0|A0A8H4SXF0_9HYPO  beta-N-acetylhexosaminidase OS=F
+    0.00032   22.1   0.8    0.00082   20.8   0.8    1.8  1  tr|A0A814BST8|A0A814BST8_9BILA  Cytochrome P450 OS=Rotaria sordi
+    0.00041   21.7   0.5     0.0013   20.1   0.5    1.9  1  tr|A0A8J2PQ99|A0A8J2PQ99_9HEXA  Aminopeptidase OS=Allacma fusca 
+    0.00049   21.5   0.1     0.0012   20.3   0.1    1.6  1  tr|A0A7C8IXJ1|A0A7C8IXJ1_9PEZI  beta-N-acetylhexosaminidase OS=X
+    0.00053   21.4   0.0     0.0012   20.2   0.0    1.6  1  tr|H0ED06|H0ED06_GLAL7          beta-N-acetylhexosaminidase OS=G
+    0.00054   21.3   0.2     0.0017   19.8   0.0    2.0  1  tr|A0A225ARF0|A0A225ARF0_9EURO  Alpha/beta hydrolase fold-3 doma
+    0.00064   21.1   0.3    0.00064   21.1   0.3    2.0  1  tr|A0A6B1B826|A0A6B1B826_9ACTN  Cytochrome P450 OS=Acidimicrobia
+    0.00064   21.1   0.3    0.00064   21.1   0.3    2.0  1  tr|A0A6G2JCU2|A0A6G2JCU2_9ACTN  Cytochrome P450 OS=Acidimicrobia
+    0.00064   21.1   0.3    0.00064   21.1   0.3    2.0  1  tr|A0A7K2BFC7|A0A7K2BFC7_9ACTN  Cytochrome P450 OS=Acidimicrobia
+    0.00097   20.5   0.1     0.0021   19.5   0.1    1.6  1  tr|A0A6A6BWU5|A0A6A6BWU5_9PEZI  beta-N-acetylhexosaminidase OS=A
+     0.0012   20.3   0.5     0.0025   19.2   0.5    1.5  1  tr|A0A1Q5TGA4|A0A1Q5TGA4_9EURO  Carboxylic ester hydrolase OS=Pe
+     0.0013   20.1   0.0     0.0032   18.9   0.0    1.6  1  tr|A0A0G4NKU9|A0A0G4NKU9_9PEZI  beta-N-acetylhexosaminidase OS=V
+     0.0016   19.8   0.1     0.0034   18.8   0.1    1.6  1  tr|A0A9P7BXP6|A0A9P7BXP6_RHIOR  aminodeoxychorismate synthase OS
+     0.0016   19.8   0.1     0.0034   18.8   0.1    1.6  1  tr|A0A9P6YNQ3|A0A9P6YNQ3_RHIOR  aminodeoxychorismate synthase OS
+     0.0016   19.8   0.1     0.0034   18.8   0.1    1.6  1  tr|A0A9P6ZEE7|A0A9P6ZEE7_9FUNG  aminodeoxychorismate synthase OS
+     0.0021   19.5   0.2     0.0046   18.4   0.2    1.6  1  tr|A0A4R0RYS1|A0A4R0RYS1_9APHY  Disintegrin domain-containing pr
+     0.0023   19.3   0.7     0.0048   18.4   0.7    1.5  1  tr|A0A553PDS8|A0A553PDS8_TIGCA  tRNA (cytosine(34)-C(5))-methylt
+     0.0024   19.3   0.3     0.0057   18.1   0.3    1.7  1  tr|A0A4S4N3Q9|A0A4S4N3Q9_9APHY  Disintegrin domain-containing pr
+     0.0025   19.3   2.1     0.0052   18.2   2.1    1.5  1  tr|A0A0G2G882|A0A0G2G882_9PEZI  Putative cytochrome p450 OS=Dipl
+     0.0026   19.2   0.0     0.0062   18.0   0.0    1.7  1  tr|A0A9P9DE88|A0A9P9DE88_9PLEO  beta-N-acetylhexosaminidase OS=D
+     0.0048   18.4   0.0      0.013   17.0   0.0    1.8  1  tr|A0A3M7N9W3|A0A3M7N9W3_9EURO  Cytochrome b5 heme-binding domai
+      0.007   17.8   0.3      0.015   16.8   0.3    1.6  1  tr|A0A8H4J355|A0A8H4J355_9PEZI  Histone acetyltransferase OS=Bot
+     0.0086   17.5   2.9     0.0086   17.5   2.9    2.0  1  tr|A0A4Q4WID1|A0A4Q4WID1_9PEZI  Aldehyde dehydrogenase domain-co
+     0.0087   17.5   1.8      0.024   16.1   1.8    1.7  1  tr|K2SEV8|K2SEV8_MACPH          Cytochrome P450 OS=Macrophomina 
+     0.0094   17.4   0.1      0.029   15.9   0.1    1.9  1  tr|A0A8H4IGJ3|A0A8H4IGJ3_9PEZI  beta-N-acetylhexosaminidase OS=B
+  ------ inclusion threshold ------
+       0.01   17.3   0.0      0.026   16.1   0.0    1.7  1  tr|A0A835MH83|A0A835MH83_9ROSI  Patatin OS=Salix dunnii OX=14136
+      0.011   17.2   2.3      0.024   16.1   2.3    1.6  1  tr|A0A0G4MMA3|A0A0G4MMA3_9PEZI  Amine oxidase OS=Verticillium lo
+      0.013   17.0   2.3      0.028   15.9   2.3    1.6  1  tr|A0A0G4MU20|A0A0G4MU20_9PEZI  Amine oxidase (Fragment) OS=Vert
+      0.013   17.0   2.0       0.03   15.9   2.0    1.7  1  tr|A0A444RSM9|A0A444RSM9_VERDA  Amine oxidase OS=Verticillium da
+      0.015   16.8   0.5      0.034   15.7   0.1    1.9  1  tr|A0A7I8V8L5|A0A7I8V8L5_9ANNE  DgyrCDS1797 OS=Dimorphilus gyroc
+      0.015   16.8   2.6      0.041   15.4   2.6    1.7  1  tr|A0A7S9GEM5|A0A7S9GEM5_9PEZI  NAD-dependent deacetylase sirtui
+      0.016   16.7   2.6      0.039   15.5   2.6    1.6  1  tr|A0A5N5CWS7|A0A5N5CWS7_9PEZI  NAD-dependent protein deacetylas
+      0.028   15.9   0.3      0.068   14.7   0.3    1.6  1  tr|A0A7C8MRM6|A0A7C8MRM6_9PEZI  Neutral protease 2 OS=Xylaria mu
+      0.036   15.6   1.2      0.096   14.2   1.2    1.8  1  tr|A0A093VMG7|A0A093VMG7_TALMA  Golgi apyrase OS=Talaromyces mar
+       0.04   15.5   1.9      0.095   14.3   1.9    1.6  1  tr|A0A507QUF9|A0A507QUF9_MONPU  Arabinan endo-1,5-alpha-L-arabin
+      0.055   15.0   0.0        0.3   12.7   0.0    2.3  1  tr|A0A074Y8N5|A0A074Y8N5_AURPU  beta-N-acetylhexosaminidase OS=A
+       0.06   14.9   0.8       0.16   13.5   0.8    1.8  1  tr|A0A2J8A3A2|A0A2J8A3A2_9CHLO  UDP-glucose 6-dehydrogenase OS=T
+      0.076   14.6   0.8       0.25   13.0   0.1    2.2  1  tr|V5FSW2|V5FSW2_BYSSN          Cytochrome P450 OS=Byssochlamys 
+      0.079   14.5   0.2       0.19   13.3   0.2    1.7  1  tr|A0A1W5D373|A0A1W5D373_9LECA  p450 monooxygenase OS=Lasallia p
+      0.088   14.4   0.1       0.35   12.5   0.1    2.1  1  tr|A0A401KIC9|A0A401KIC9_ASPAW  Non-reducing end alpha-L-arabino
+       0.12   13.9   0.4       0.41   12.3   0.4    2.0  1  tr|A0A9Q5I0P9|A0A9Q5I0P9_SANBA  Cytochrome P450 OS=Sanghuangporu
+       0.15   13.7   0.8       0.32   12.6   0.8    1.6  1  tr|A0A8T8TTC9|A0A8T8TTC9_9HELO  PLD phosphodiesterase domain-con
+       0.16   13.5   1.1       0.69   11.5   1.1    2.2  1  tr|W9C2S2|W9C2S2_SCLBF          Tyrosinase copper-binding domain
+       0.19   13.3   0.0       0.43   12.2   0.0    1.6  1  tr|A0A9P6VLD3|A0A9P6VLD3_9HELO  Aldehyde dehydrogenase OS=Hyphod
+        0.2   13.2   0.1       0.49   12.0   0.1    1.6  1  tr|A0A100I5U9|A0A100I5U9_ASPNG  Glycosyl hydrolase OS=Aspergillu
+       0.23   13.1   0.7          1   11.0   0.5    2.1  1  tr|A0A7J7D318|A0A7J7D318_TRIWF  Metalloendopeptidases zinc ion b
+       0.27   12.8   4.8      0.079   14.5   1.3    2.0  1  tr|A0A4Y9YYF6|A0A4Y9YYF6_9AGAM  Uncharacterized protein OS=Denti
+       0.31   12.6   0.0        0.9   11.2   0.0    1.9  1  tr|A0A175YPM4|A0A175YPM4_DAUCS  Uracil-DNA glycosylase OS=Daucus
+       0.35   12.5   0.5        1.7   10.3   0.3    2.1  1  tr|A0A7J7CZA9|A0A7J7CZA9_TRIWF  EGF-like domain-containing prote
+       0.43   12.2   0.2        1.3   10.7   0.2    1.9  1  tr|A0A6S7GEJ6|A0A6S7GEJ6_PARCT  Steroid 17-alpha-hydroxylase 17,
+       0.79   11.4   0.6         11    7.8   0.0    2.9  2  tr|A0A397HAI0|A0A397HAI0_9EURO  Hydroxymethylglutaryl-CoA syntha
+       0.95   11.1   0.1       0.95   11.1   0.1    2.9  1  tr|A0A369GR73|A0A369GR73_9HYPO  Endonuclease III homolog OS=Ophi
+
+
+Domain annotation for each sequence (and alignments):
+>> tr|A0A0E0B5N3|A0A0E0B5N3_9ORYZ  Endoglucanase OS=Oryza glumipatula OX=40148 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   10.8   0.0    0.0021       1.2       2      33 .]     575     606 ..     574     606 .. 0.94
+   2 !   23.3   0.4   2.4e-07   0.00013       6      33 .]    1109    1136 ..    1104    1136 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 10.8 bits;  conditional E-value: 0.0021
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++++a++ +++ A+++T+  ++ w++ +L+r+
+  tr|A0A0E0B5N3|A0A0E0B5N3_9ORYZ 575 DNVKAIIKDIMGAATDTSFVTLEWIMTELIRN 606
+                                     88999999*********************998 PP
+
+  == domain 2  score: 23.3 bits;  conditional E-value: 2.4e-07
+                 ihelix_seed_hmm    6 alvllLlvAGheTTtnaiswalllLlrh 33  
+                                      + v++L++A++eTT+ ++ w++ +L+ +
+  tr|A0A0E0B5N3|A0A0E0B5N3_9ORYZ 1109 SRVVDLIAAATETTSVTLEWTMAELAAN 1136
+                                      5589*********************987 PP
+
+>> tr|A0A8J6L4K6|A0A8J6L4K6_MICOH  tRNA (guanine-N(7)-)-methyltransferase OS=Microtus ochrogaster OX=79684 GN=METTL1 PE=
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.2   0.2   3.9e-11   2.2e-08       3      33 .]     504     534 ..     502     534 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 35.2 bits;  conditional E-value: 3.9e-11
+                 ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                      +v++v++Ll+AG++T++n++sw+l++L+rh
+  tr|A0A8J6L4K6|A0A8J6L4K6_MICOH 504 SIVGNVTELLLAGVDTVSNTLSWTLYELSRH 534
+                                     699***************************9 PP
+
+>> tr|A0A8J6DN26|A0A8J6DN26_GALPY  tRNA (guanine-N(7)-)-methyltransferase OS=Galemys pyrenaicus OX=202257 GN=METTL1 PE=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.4   0.1     7e-11   3.9e-08       4      33 .]     630     659 ..     628     659 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 34.4 bits;  conditional E-value: 7e-11
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++++v++Ll+AG++T++n++swal++L+rh
+  tr|A0A8J6DN26|A0A8J6DN26_GALPY 630 ILGNVTELLLAGVDTVSNTLSWALYELSRH 659
+                                     7899*************************9 PP
+
+>> tr|A0A821G8P4|A0A821G8P4_9BILA  UBC core domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.7   0.2   5.7e-11   3.2e-08       3      33 .]     352     382 ..     351     382 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 34.7 bits;  conditional E-value: 5.7e-11
+                 ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     e+++  ll+lvAG eTT++ai+w+++l+++h
+  tr|A0A821G8P4|A0A821G8P4_9BILA 352 EVIDELLLFLVAGSETTGSAIAWFIYLMSKH 382
+                                     789999***********************99 PP
+
+>> tr|A0A818VF01|A0A818VF01_9BILA  UBC core domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.7   0.2   5.7e-11   3.2e-08       3      33 .]     352     382 ..     351     382 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 34.7 bits;  conditional E-value: 5.7e-11
+                 ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     e+++  ll+lvAG eTT++ai+w+++l+++h
+  tr|A0A818VF01|A0A818VF01_9BILA 352 EVIDELLLFLVAGSETTGSAIAWFIYLMSKH 382
+                                     789999***********************99 PP
+
+>> tr|A0A815YDY4|A0A815YDY4_9BILA  UBC core domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.7   0.2   5.7e-11   3.2e-08       3      33 .]     352     382 ..     351     382 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 34.7 bits;  conditional E-value: 5.7e-11
+                 ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     e+++  ll+lvAG eTT++ai+w+++l+++h
+  tr|A0A815YDY4|A0A815YDY4_9BILA 352 EVIDELLLFLVAGSETTGSAIAWFIYLMSKH 382
+                                     789999***********************99 PP
+
+>> tr|A0A8C2RCA8|A0A8C2RCA8_CAPHI  tRNA (guanine-N(7)-)-methyltransferase OS=Capra hircus OX=9925 GN=CYP27B1 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.3   0.5   7.7e-11   4.3e-08       4      33 .]     476     505 ..     474     505 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 34.3 bits;  conditional E-value: 7.7e-11
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++++v++Ll+AG++T++n++swal++L+rh
+  tr|A0A8C2RCA8|A0A8C2RCA8_CAPHI 476 ILGNVTELLLAGVDTVSNTLSWALYELSRH 505
+                                     7899*************************9 PP
+
+>> tr|A0A8C2RCB4|A0A8C2RCB4_CAPHI  tRNA (guanine-N(7)-)-methyltransferase OS=Capra hircus OX=9925 GN=CYP27B1 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.2   0.5   8.1e-11   4.6e-08       4      33 .]     510     539 ..     508     539 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 34.2 bits;  conditional E-value: 8.1e-11
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++++v++Ll+AG++T++n++swal++L+rh
+  tr|A0A8C2RCB4|A0A8C2RCB4_CAPHI 510 ILGNVTELLLAGVDTVSNTLSWALYELSRH 539
+                                     7899*************************9 PP
+
+>> tr|A0A7J8G0L0|A0A7J8G0L0_MOLMO  tRNA (guanine-N(7)-)-methyltransferase OS=Molossus molossus OX=27622 GN=METTL1 PE=3 S
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.0   0.1   9.6e-11   5.4e-08       4      33 .]     459     488 ..     457     488 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 34.0 bits;  conditional E-value: 9.6e-11
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++++v++Ll+AG++T++n++swal++L+r+
+  tr|A0A7J8G0L0|A0A7J8G0L0_MOLMO 459 ILGNVTELLLAGVDTVSNTLSWALYELSRN 488
+                                     7899************************98 PP
+
+>> tr|A0A8H6RZA7|A0A8H6RZA7_MYCCL  PseudoU-synth-2 domain-containing protein OS=Mycena chlorophos OX=658473 GN=HMN09_013
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.5   0.5   1.3e-10   7.4e-08       1      33 []     944     976 ..     944     976 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 33.5 bits;  conditional E-value: 1.3e-10
+                 ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++el++++ ++++AGheT++n+ +wa+l+L+rh
+  tr|A0A8H6RZA7|A0A8H6RZA7_MYCCL 944 HDELLSQMRTIIMAGHETSANTFAWAVLELARH 976
+                                     69******************************9 PP
+
+>> tr|A0A3A2ZG46|A0A3A2ZG46_9EURO  L-glutamate gamma-semialdehyde dehydrogenase OS=Aspergillus sclerotialis OX=2070753 G
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.7   0.1   2.3e-10   1.3e-07       1      30 [.     793     822 ..     793     823 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 32.7 bits;  conditional E-value: 2.3e-10
+                 ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllL 30 
+                                     d+elv+++l++l+AGheTT+ a++w +++L
+  tr|A0A3A2ZG46|A0A3A2ZG46_9EURO 793 DSELVDQMLTILAAGHETTAGALTWCCYHL 822
+                                     79*************************998 PP
+
+>> tr|A0A8B9RYU7|A0A8B9RYU7_9AVES  tRNA (guanine-N(7)-)-methyltransferase OS=Accipiter nisus OX=211598 GN=METTL1 PE=3 SV
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.0   0.2     2e-10   1.1e-07       2      33 .]     480     511 ..     479     511 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 33.0 bits;  conditional E-value: 2e-10
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     + + ++v++Ll+AG++T ++++sw+l++L+rh
+  tr|A0A8B9RYU7|A0A8B9RYU7_9AVES 480 KTIYGNVTELLLAGVDTISSTLSWSLYELARH 511
+                                     67899**************************9 PP
+
+>> tr|A0A151M655|A0A151M655_ALLMI  tRNA (guanine-N(7)-)-methyltransferase OS=Alligator mississippiensis OX=8496 GN=METTL
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.4   0.1   2.9e-10   1.6e-07       3      33 .]     557     587 ..     555     587 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 32.4 bits;  conditional E-value: 2.9e-10
+                 ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                      + ++v++Ll+AG++T ++++sw+l++L+rh
+  tr|A0A151M655|A0A151M655_ALLMI 557 AIYGNVTELLLAGVDTISSTLSWSLYELARH 587
+                                     58899*************************9 PP
+
+>> tr|A0A5N6QLC6|A0A5N6QLC6_9ROSI  Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial OS=Carpinus 
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.8   0.7   9.4e-10   5.3e-07       2      30 ..     272     300 ..     271     301 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 30.8 bits;  conditional E-value: 9.4e-10
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllL 30 
+                                     e++++l+l+Ll+AGheT++ ai+ a+++L
+  tr|A0A5N6QLC6|A0A5N6QLC6_9ROSI 272 EQILDLILSLLFAGHETSSVAIALAIYFL 300
+                                     89**************************9 PP
+
+>> tr|A0A2A2LJR8|A0A2A2LJR8_9BILA  HECT domain-containing protein OS=Diploscapter pachys OX=2018661 GN=WR25_10689 PE=3 S
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   28.8   0.5   4.1e-09   2.3e-06       8      31 ..     626     649 ..     625     651 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 28.8 bits;  conditional E-value: 4.1e-09
+                 ihelix_seed_hmm   8 vllLlvAGheTTtnaiswalllLl 31 
+                                     +++++vAG+eTT+++++wa+l+++
+  tr|A0A2A2LJR8|A0A2A2LJR8_9BILA 626 AIDFFVAGMETTSTTLRWAMLFMA 649
+                                     689********************8 PP
+
+>> tr|A0A2S7PJ14|A0A2S7PJ14_9HELO  beta-N-acetylhexosaminidase OS=Rutstroemia sp. NJR-2017a BVV2 OX=2070413 GN=CJF31_000
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   28.5   0.1   5.3e-09     3e-06       2      33 .]     897     928 ..     896     928 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 28.5 bits;  conditional E-value: 5.3e-09
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++l+++ +++l+AG +TT+ ++sw++++L+rh
+  tr|A0A2S7PJ14|A0A2S7PJ14_9HELO 897 KMLRDQLVAVLLAGRDTTAATLSWTFYELARH 928
+                                     6899***************************9 PP
+
+>> tr|A0A2S7QS38|A0A2S7QS38_9HELO  beta-N-acetylhexosaminidase OS=Rutstroemia sp. NJR-2017a BBW OX=2070414 GN=CJF30_0000
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   28.5   0.1   5.2e-09   2.9e-06       2      33 .]     878     909 ..     877     909 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 28.5 bits;  conditional E-value: 5.2e-09
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++l+++ +++l+AG +TT+ ++sw++++L+rh
+  tr|A0A2S7QS38|A0A2S7QS38_9HELO 878 KMLRDQLVAVLLAGRDTTAATLSWTFYELARH 909
+                                     6899***************************9 PP
+
+>> tr|A0A2S7QZC2|A0A2S7QZC2_9HELO  beta-N-acetylhexosaminidase OS=Rutstroemia sp. NJR-2017a WRK4 OX=2070412 GN=CJF32_000
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   28.5   0.1   5.2e-09   2.9e-06       2      33 .]     893     924 ..     892     924 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 28.5 bits;  conditional E-value: 5.2e-09
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++l+++ +++l+AG +TT+ ++sw++++L+rh
+  tr|A0A2S7QZC2|A0A2S7QZC2_9HELO 893 KMLRDQLVAVLLAGRDTTAATLSWTFYELARH 924
+                                     6899***************************9 PP
+
+>> tr|A0A9P9SI23|A0A9P9SI23_9HELO  beta-N-acetylhexosaminidase OS=Rhexocercosporidium sp. MPI-PUGE-AT-0058 OX=2042821 GN
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   28.1   0.1     7e-09   3.9e-06       4      33 .]     903     932 ..     902     932 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 28.1 bits;  conditional E-value: 7e-09
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     l+++ +++l+AG +TT++++sw++++L+rh
+  tr|A0A9P9SI23|A0A9P9SI23_9HELO 903 LRDQLVAVLLAGRDTTASTLSWTFYELARH 932
+                                     678899***********************9 PP
+
+>> tr|A0A2J6PVI2|A0A2J6PVI2_9HELO  beta-N-acetylhexosaminidase OS=Hyaloscypha hepaticicola OX=2082293 GN=NA56DRAFT_68086
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   28.1   0.1   6.7e-09   3.8e-06       4      33 .]     838     867 ..     838     867 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 28.1 bits;  conditional E-value: 6.7e-09
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     l+++ +++l+AG +TT++++sw++++L+rh
+  tr|A0A2J6PVI2|A0A2J6PVI2_9HELO 838 LRDQLVAVLLAGRDTTASTLSWTFYELARH 867
+                                     578899***********************9 PP
+
+>> tr|A0A2G2XGU4|A0A2G2XGU4_CAPBA  Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial OS=Capsicum 
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   28.1   0.1   6.7e-09   3.8e-06       2      30 ..     230     258 ..     229     259 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 28.1 bits;  conditional E-value: 6.7e-09
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllL 30 
+                                     e++++l l+Ll+AGheT++ ai+ ++++L
+  tr|A0A2G2XGU4|A0A2G2XGU4_CAPBA 230 EQILDLLLSLLFAGHETSSVAIALSIYFL 258
+                                     899************************98 PP
+
+>> tr|A0A2V1CUQ8|A0A2V1CUQ8_9HELO  beta-N-acetylhexosaminidase OS=Cadophora sp. DSE1049 OX=1485229 GN=DL98DRAFT_445415 P
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   28.1   0.1   6.8e-09   3.8e-06       4      33 .]     879     908 ..     878     908 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 28.1 bits;  conditional E-value: 6.8e-09
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     l+++ +++l+AG +TT++++sw++++L+rh
+  tr|A0A2V1CUQ8|A0A2V1CUQ8_9HELO 879 LRDQLVAVLLAGRDTTASTLSWTFYELARH 908
+                                     678899***********************9 PP
+
+>> tr|A0A9P6VLX0|A0A9P6VLX0_9HELO  beta-N-acetylhexosaminidase (Fragment) OS=Hyphodiscus hymeniophilus OX=353542 GN=D0Z0
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   28.1   0.1   6.7e-09   3.8e-06       4      33 .]     869     898 ..     868     898 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 28.1 bits;  conditional E-value: 6.7e-09
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     l+++ +++l+AG +TT++++sw++++L+rh
+  tr|A0A9P6VLX0|A0A9P6VLX0_9HELO 869 LRDQLVAVLLAGRDTTASTLSWTFYELARH 898
+                                     678899***********************9 PP
+
+>> tr|A0A2J6QY84|A0A2J6QY84_HYAVF  beta-N-acetylhexosaminidase OS=Hyaloscypha variabilis (strain UAMH 11265 / GT02V1 / F
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   27.6   0.1     1e-08   5.7e-06       4      33 .]     764     793 ..     764     793 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 27.6 bits;  conditional E-value: 1e-08
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     l+++ +++l+AG +TT++++sw++++++rh
+  tr|A0A2J6QY84|A0A2J6QY84_HYAVF 764 LRDQLVAVLLAGRDTTASTLSWTFYEMARH 793
+                                     578899***********************9 PP
+
+>> tr|A0A9Q1MX00|A0A9Q1MX00_9SOLA  3-deoxy-D-manno-octulosonic-acid transferase N-terminal domain-containing protein OS=
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   28.9   0.1   3.7e-09   2.1e-06       2      33 .]     298     329 ..     297     329 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 28.9 bits;  conditional E-value: 3.7e-09
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     +e++ +vl++++AG eTT+++  wal +Llrh
+  tr|A0A9Q1MX00|A0A9Q1MX00_9SOLA 298 HEIKVFVLEMFLAGSETTSSSVEWALTELLRH 329
+                                     799****************************9 PP
+
+>> tr|A0A2A2LIC5|A0A2A2LIC5_9BILA  HECT domain-containing protein OS=Diploscapter pachys OX=2018661 GN=WR25_19425 PE=3 S
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   27.7   0.6   9.4e-09   5.3e-06       8      31 ..     996    1019 ..     995    1021 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 27.7 bits;  conditional E-value: 9.4e-09
+                 ihelix_seed_hmm    8 vllLlvAGheTTtnaiswalllLl 31  
+                                      ++++++AG+eTT+++++wa+l+++
+  tr|A0A2A2LIC5|A0A2A2LIC5_9BILA  996 AIDFFIAGMETTSTTLRWAMLFMA 1019
+                                      689********************8 PP
+
+>> tr|A0A2J6SLM6|A0A2J6SLM6_9HELO  beta-N-acetylhexosaminidase OS=Hyaloscypha bicolor E OX=1095630 GN=K444DRAFT_647683 P
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   27.4   0.1   1.1e-08   6.3e-06       4      33 .]     855     884 ..     855     884 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 27.4 bits;  conditional E-value: 1.1e-08
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     l+++ +++l+AG +TT++++sw++++++rh
+  tr|A0A2J6SLM6|A0A2J6SLM6_9HELO 855 LRDQLVAVLLAGRDTTASTLSWTFYEMARH 884
+                                     578899***********************9 PP
+
+>> tr|A0A0W0F4R8|A0A0W0F4R8_9AGAR  DNA-(apurinic or apyrimidinic site) endonuclease 2 OS=Moniliophthora roreri OX=221103
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   26.7   1.3   1.9e-08   1.1e-05      11      33 .]    1023    1045 ..    1021    1045 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 26.7 bits;  conditional E-value: 1.9e-08
+                 ihelix_seed_hmm   11 LlvAGheTTtnaiswalllLlrh 33  
+                                      +++AGheTT+++++w+l++L+++
+  tr|A0A0W0F4R8|A0A0W0F4R8_9AGAR 1023 IILAGHETTSTTLGWTLMELAKN 1045
+                                      899******************98 PP
+
+>> tr|A0A673WAS4|A0A673WAS4_SALTR  Cholesterol side-chain cleavage enzyme, mitochondrial OS=Salmo trutta OX=8032 GN=LOC1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   26.7   0.2   1.9e-08     1e-05       2      33 .]     743     774 ..     742     774 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 26.7 bits;  conditional E-value: 1.9e-08
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     e+++a v++L+++G++TT+ ++ w+l++L+rh
+  tr|A0A673WAS4|A0A673WAS4_SALTR 743 EDIKASVTELMAGGVDTTSITLLWTLYELARH 774
+                                     7899***************************9 PP
+
+>> tr|A0A3E2HGK1|A0A3E2HGK1_SCYLI  beta-N-acetylhexosaminidase (Fragment) OS=Scytalidium lignicola OX=5539 GN=B7463_g387
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   26.0   0.2   3.2e-08   1.8e-05       4      33 .]     923     952 ..     922     952 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 26.0 bits;  conditional E-value: 3.2e-08
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     l+++ +++l+AG +TT+ ++sw++++L+rh
+  tr|A0A3E2HGK1|A0A3E2HGK1_SCYLI 923 LRDQLVAVLLAGRDTTAATLSWTFYELARH 952
+                                     678899***********************9 PP
+
+>> tr|B8BLY1|B8BLY1_ORYSI  Uncharacterized protein OS=Oryza sativa subsp. indica OX=39946 GN=OsI_37392 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   25.6   0.1   4.2e-08   2.4e-05       4      32 ..     299     327 ..     296     328 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 25.6 bits;  conditional E-value: 4.2e-08
+         ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlr 32 
+                             l+++vl++lvAG eTT++ ++w+++lL++
+  tr|B8BLY1|B8BLY1_ORYSI 299 LRDIVLSFLVAGRETTSSGLTWFFWLLSS 327
+                             899************************85 PP
+
+>> tr|A0A0E0F9A7|A0A0E0F9A7_9ORYZ  Uncharacterized protein OS=Oryza meridionalis OX=40149 PE=4 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   25.5   0.1   4.7e-08   2.7e-05       4      32 ..     298     326 ..     295     327 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 25.5 bits;  conditional E-value: 4.7e-08
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlr 32 
+                                     l+++vl++lvAG eTT++ ++w+++lL++
+  tr|A0A0E0F9A7|A0A0E0F9A7_9ORYZ 298 LRDIVLSFLVAGRETTSSGLTWFFWLLSS 326
+                                     899************************85 PP
+
+>> tr|Q2QY23|Q2QY23_ORYSJ  Cytochrome P450 family protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os12g04110 PE=
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   25.4   0.1     5e-08   2.8e-05       4      32 ..     299     327 ..     296     328 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 25.4 bits;  conditional E-value: 5e-08
+         ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlr 32 
+                             l+++vl++lvAG eTT++ ++w+++lL++
+  tr|Q2QY23|Q2QY23_ORYSJ 299 LRDIVLSFLVAGRETTSSGLTWFFWLLSS 327
+                             899************************85 PP
+
+>> tr|I1R3T7|I1R3T7_ORYGL  Uncharacterized protein OS=Oryza glaberrima OX=4538 PE=4 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   25.4   0.1     5e-08   2.8e-05       4      32 ..     299     327 ..     296     328 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 25.4 bits;  conditional E-value: 5e-08
+         ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlr 32 
+                             l+++vl++lvAG eTT++ ++w+++lL++
+  tr|I1R3T7|I1R3T7_ORYGL 299 LRDIVLSFLVAGRETTSSGLTWFFWLLSS 327
+                             899************************85 PP
+
+>> tr|A0A0D3HR54|A0A0D3HR54_9ORYZ  Uncharacterized protein OS=Oryza barthii OX=65489 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   25.3   0.1   5.2e-08   2.9e-05       4      32 ..     299     327 ..     296     328 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 25.3 bits;  conditional E-value: 5.2e-08
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlr 32 
+                                     l+++vl++lvAG eTT++ ++w+++lL++
+  tr|A0A0D3HR54|A0A0D3HR54_9ORYZ 299 LRDIVLSFLVAGRETTSSGLTWFFWLLSS 327
+                                     899************************85 PP
+
+>> tr|A0A0E0R3X3|A0A0E0R3X3_ORYRU  Uncharacterized protein OS=Oryza rufipogon OX=4529 PE=4 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   25.1   0.1   6.2e-08   3.5e-05       4      32 ..      95     123 ..      92     124 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 25.1 bits;  conditional E-value: 6.2e-08
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlr 32 
+                                     l+++vl++lvAG eTT++ ++w+++lL++
+  tr|A0A0E0R3X3|A0A0E0R3X3_ORYRU  95 LRDIVLSFLVAGRETTSSGLTWFFWLLSS 123
+                                     899************************85 PP
+
+>> tr|A0A0E0IY10|A0A0E0IY10_ORYNI  Uncharacterized protein OS=Oryza nivara OX=4536 PE=4 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   25.3   0.1   5.5e-08   3.1e-05       4      32 ..     299     327 ..     296     328 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 25.3 bits;  conditional E-value: 5.5e-08
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlr 32 
+                                     l+++vl++lvAG eTT++ ++w+++lL++
+  tr|A0A0E0IY10|A0A0E0IY10_ORYNI 299 LRDIVLSFLVAGRETTSSGLTWFFWLLSS 327
+                                     899************************85 PP
+
+>> tr|A0A0E0IY11|A0A0E0IY11_ORYNI  Uncharacterized protein OS=Oryza nivara OX=4536 PE=4 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   25.2   0.1   5.6e-08   3.1e-05       4      32 ..     299     327 ..     296     328 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 25.2 bits;  conditional E-value: 5.6e-08
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlr 32 
+                                     l+++vl++lvAG eTT++ ++w+++lL++
+  tr|A0A0E0IY11|A0A0E0IY11_ORYNI 299 LRDIVLSFLVAGRETTSSGLTWFFWLLSS 327
+                                     899************************85 PP
+
+>> tr|A0A194XUG1|A0A194XUG1_MOLSC  beta-N-acetylhexosaminidase OS=Mollisia scopiformis OX=149040 GN=LY89DRAFT_692809 PE=
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   24.4   0.1     1e-07   5.8e-05       4      33 .]     841     870 ..     841     870 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 24.4 bits;  conditional E-value: 1e-07
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     l+++ +++l+AG +TT++++sw +++L+rh
+  tr|A0A194XUG1|A0A194XUG1_MOLSC 841 LRDQLVAVLLAGRDTTASTLSWLFYELARH 870
+                                     578899***********************9 PP
+
+>> tr|A0A401NXF9|A0A401NXF9_SCYTO  tRNA (guanine-N(7)-)-methyltransferase OS=Scyliorhinus torazame OX=75743 GN=METTL1 PE
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   24.6   0.3   8.9e-08     5e-05       4      33 .]     641     670 ..     638     670 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 24.6 bits;  conditional E-value: 8.9e-08
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     + ++v++Ll+AG++T + + sw+l++L+rh
+  tr|A0A401NXF9|A0A401NXF9_SCYTO 641 IYGNVTELLLAGVDTISGTMSWTLYELSRH 670
+                                     7899*************************9 PP
+
+>> tr|A0A179A125|A0A179A125_9EURO  beta-N-acetylhexosaminidase OS=Fonsecaea erecta OX=1367422 GN=AYL99_01263 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   24.2   0.2   1.2e-07   6.9e-05       6      33 .]     612     639 ..     611     639 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 24.2 bits;  conditional E-value: 1.2e-07
+                 ihelix_seed_hmm   6 alvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++ ++Ll+AG +TT+ ++sw++l+L+++
+  tr|A0A179A125|A0A179A125_9EURO 612 DQLTALLLAGRDTTAGTLSWVFLELAKN 639
+                                     67899*********************98 PP
+
+>> tr|A0A232ET58|A0A232ET58_9HYME  SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Trichomalopsis sarcoph
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   23.0   0.1   2.8e-07   0.00016       2      33 .]     774     805 ..     773     805 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 23.0 bits;  conditional E-value: 2.8e-07
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++l++++++++vAG e++++ai+++l++L+ h
+  tr|A0A232ET58|A0A232ET58_9HYME 774 DNLLSQAVSFYVAGFEASSTAIAFSLYELSLH 805
+                                     799**************************988 PP
+
+>> tr|A0A9J5XMB3|A0A9J5XMB3_SOLCO  Patatin OS=Solanum commersonii OX=4109 GN=H5410_039511 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   22.8   0.1   3.3e-07   0.00019       1      33 []     617     649 ..     617     649 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 22.8 bits;  conditional E-value: 3.3e-07
+                 ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     d+++ ++ l+++ AG+ T t++i wa+ +L+r+
+  tr|A0A9J5XMB3|A0A9J5XMB3_SOLCO 617 DDQINYMLLEIFPAGTGTLTSTIEWAMAELVRN 649
+                                     7999***************************98 PP
+
+>> tr|A0A5M9J4T2|A0A5M9J4T2_MONFR  tripeptidyl-peptidase II OS=Monilinia fructicola OX=38448 GN=EYC84_011222 PE=4 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   23.5   0.5     2e-07   0.00011       3      31 ..     954     982 ..     952     983 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 23.5 bits;  conditional E-value: 2e-07
+                 ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLl 31 
+                                     e++++  +Ll+AG eTT++++s ++++Ll
+  tr|A0A5M9J4T2|A0A5M9J4T2_MONFR 954 EIKSTSGVLLLAGSETTATLLSAVTYYLL 982
+                                     89**************************8 PP
+
+>> tr|A0A9P7H2B8|A0A9P7H2B8_9HYPO  beta-N-acetylhexosaminidase OS=Fusarium avenaceum OX=40199 GN=KAF25_001821 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   22.1   0.1   5.4e-07   0.00031       4      30 ..     922     948 ..     921     951 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 22.1 bits;  conditional E-value: 5.4e-07
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllL 30 
+                                     l+++++++l+AG +TT+ ++swal++L
+  tr|A0A9P7H2B8|A0A9P7H2B8_9HYPO 922 LRDQIIAVLLAGRDTTAATLSWALYEL 948
+                                     6899*********************99 PP
+
+>> tr|A0A915GEK8|A0A915GEK8_9BILA  SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Mesorhabditis belari O
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   21.5   0.2   8.7e-07   0.00049       4      32 ..    1015    1043 ..    1012    1044 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 21.5 bits;  conditional E-value: 8.7e-07
+                 ihelix_seed_hmm    4 lvalvllLlvAGheTTtnaiswalllLlr 32  
+                                      l++  +++  AG+eTT++++ wa+++Ll+
+  tr|A0A915GEK8|A0A915GEK8_9BILA 1015 LLGDLVDIWGAGQETTSTTLQWAFHELLS 1043
+                                      6777889999*****************96 PP
+
+>> tr|A0A4R0RTZ4|A0A4R0RTZ4_9APHY  HECT-type E3 ubiquitin transferase OS=Steccherinum ochraceum OX=92696 GN=UFD4 PE=3 SV
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.9   1.2   1.3e-06   0.00074       1      31 [.     295     325 ..     295     327 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 20.9 bits;  conditional E-value: 1.3e-06
+                 ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLl 31 
+                                     d el++++ ++l+AGheTT+ ++ +al lL+
+  tr|A0A4R0RTZ4|A0A4R0RTZ4_9APHY 295 DRELLGNIFVFLIAGHETTAHTLCFALGLLA 325
+                                     569**************************98 PP
+
+>> tr|A0A8H4SXF0|A0A8H4SXF0_9HYPO  beta-N-acetylhexosaminidase OS=Fusarium gaditjirri OX=282569 GN=FGADI_10573 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   21.3   0.1     1e-06   0.00058       4      30 ..     936     962 ..     936     965 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 21.3 bits;  conditional E-value: 1e-06
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllL 30 
+                                     l+++++++l+AG +TT+ ++sw+l++L
+  tr|A0A8H4SXF0|A0A8H4SXF0_9HYPO 936 LRDQIIAVLLAGRDTTAATLSWTLYEL 962
+                                     6899*********************99 PP
+
+>> tr|A0A814BST8|A0A814BST8_9BILA  Cytochrome P450 OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS8962 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.8   0.8   1.5e-06   0.00082       2      33 .]    1071    1102 ..    1070    1102 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 20.8 bits;  conditional E-value: 1.5e-06
+                 ihelix_seed_hmm    2 eelvalvllLlvAGheTTtnaiswalllLlrh 33  
+                                      +el++++ l++vAG eTT++a++++++ L++h
+  tr|A0A814BST8|A0A814BST8_9BILA 1071 NELKQNIYLFMVAGYETTSTALAYVTHILATH 1102
+                                      79999*************************99 PP
+
+>> tr|A0A8J2PQ99|A0A8J2PQ99_9HEXA  Aminopeptidase OS=Allacma fusca OX=39272 GN=AFUS01_LOCUS31245 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.1   0.5   2.4e-06    0.0013       7      31 ..     288     312 ..     286     314 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 20.1 bits;  conditional E-value: 2.4e-06
+                 ihelix_seed_hmm   7 lvllLlvAGheTTtnaiswalllLl 31 
+                                     + +++l+A++eTT+ ++ wa+l+L+
+  tr|A0A8J2PQ99|A0A8J2PQ99_9HEXA 288 FLIDVLLAAVETTSATLEWAVLFLS 312
+                                     6789********************7 PP
+
+>> tr|A0A7C8IXJ1|A0A7C8IXJ1_9PEZI  beta-N-acetylhexosaminidase OS=Xylaria multiplex OX=323545 GN=GQX73_g564 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.3   0.1     2e-06    0.0012       4      33 .]     810     839 ..     810     839 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 20.3 bits;  conditional E-value: 2e-06
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     l+++ +++l+AG +TT+ ++sw++++L rh
+  tr|A0A7C8IXJ1|A0A7C8IXJ1_9PEZI 810 LRDQLIAVLLAGRDTTAATLSWTIYELGRH 839
+                                     5788999*******************9776 PP
+
+>> tr|H0ED06|H0ED06_GLAL7  beta-N-acetylhexosaminidase OS=Glarea lozoyensis (strain ATCC 74030 / MF5533) OX=1104152 GN=M
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.2   0.0   2.2e-06    0.0012       4      31 ..     832     859 ..     831     861 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 20.2 bits;  conditional E-value: 2.2e-06
+         ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLl 31 
+                             l+++ +++l+AG +TT++++sw++++ +
+  tr|H0ED06|H0ED06_GLAL7 832 LRDQLVAVLLAGRDTTASTLSWTFYEIS 859
+                             678899*******************875 PP
+
+>> tr|A0A225ARF0|A0A225ARF0_9EURO  Alpha/beta hydrolase fold-3 domain-containing protein OS=Talaromyces atroroseus OX=14
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.8   0.0     3e-06    0.0017       3      29 ..     320     346 ..     318     348 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 19.8 bits;  conditional E-value: 3e-06
+                 ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalll 29 
+                                     elv  + ++l+AG +TT+n++s+++++
+  tr|A0A225ARF0|A0A225ARF0_9EURO 320 ELVIVAFTQLIAGSDTTSNSLSSIVYY 346
+                                     889999*******************96 PP
+
+>> tr|A0A6B1B826|A0A6B1B826_9ACTN  Cytochrome P450 OS=Acidimicrobiales bacterium OX=2201156 GN=F4155_00860 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   21.1   0.3   1.1e-06   0.00064       6      33 .]     509     536 ..     505     536 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 21.1 bits;  conditional E-value: 1.1e-06
+                 ihelix_seed_hmm   6 alvllLlvAGheTTtnaiswalllLlrh 33 
+                                     +++  LlvAG+eTTt +++ +l lL++h
+  tr|A0A6B1B826|A0A6B1B826_9ACTN 509 SIIQQLLVAGNETTTKMLTEMLRLLAEH 536
+                                     67888*********************98 PP
+
+>> tr|A0A6G2JCU2|A0A6G2JCU2_9ACTN  Cytochrome P450 OS=Acidimicrobiales bacterium OX=2201156 GN=F4190_11530 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   21.1   0.3   1.1e-06   0.00064       6      33 .]     509     536 ..     505     536 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 21.1 bits;  conditional E-value: 1.1e-06
+                 ihelix_seed_hmm   6 alvllLlvAGheTTtnaiswalllLlrh 33 
+                                     +++  LlvAG+eTTt +++ +l lL++h
+  tr|A0A6G2JCU2|A0A6G2JCU2_9ACTN 509 SIIQQLLVAGNETTTKMLTEMLRLLAEH 536
+                                     67888*********************98 PP
+
+>> tr|A0A7K2BFC7|A0A7K2BFC7_9ACTN  Cytochrome P450 OS=Acidimicrobiales bacterium OX=2201156 GN=F4242_05430 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   21.1   0.3   1.1e-06   0.00064       6      33 .]     509     536 ..     505     536 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 21.1 bits;  conditional E-value: 1.1e-06
+                 ihelix_seed_hmm   6 alvllLlvAGheTTtnaiswalllLlrh 33 
+                                     +++  LlvAG+eTTt +++ +l lL++h
+  tr|A0A7K2BFC7|A0A7K2BFC7_9ACTN 509 SIIQQLLVAGNETTTKMLTEMLRLLAEH 536
+                                     67888*********************98 PP
+
+>> tr|A0A6A6BWU5|A0A6A6BWU5_9PEZI  beta-N-acetylhexosaminidase OS=Aplosporella prunicola CBS 121167 OX=1176127 GN=K452DR
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.1   3.8e-06    0.0021       2      33 .]     880     911 ..     879     911 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 19.5 bits;  conditional E-value: 3.8e-06
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++l+++ +++l+AG +TT+ ++sw +++L++h
+  tr|A0A6A6BWU5|A0A6A6BWU5_9PEZI 880 SMLRDQLVAVLLAGRDTTACTLSWLFYELSTH 911
+                                     5899**************************99 PP
+
+>> tr|A0A1Q5TGA4|A0A1Q5TGA4_9EURO  Carboxylic ester hydrolase OS=Penicillium subrubescens OX=1316194 GN=PENSUB_8643 PE=4
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.2   0.5   4.5e-06    0.0025      12      31 ..       1      20 [.       1      20 [. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 19.2 bits;  conditional E-value: 4.5e-06
+                 ihelix_seed_hmm 12 lvAGheTTtnaiswalllLl 31
+                                    ++AGheTT+n++ ++++lL+
+  tr|A0A1Q5TGA4|A0A1Q5TGA4_9EURO  1 MFAGHETTANTLVYIIYLLA 20
+                                    69****************97 PP
+
+>> tr|A0A0G4NKU9|A0A0G4NKU9_9PEZI  beta-N-acetylhexosaminidase OS=Verticillium longisporum OX=100787 GN=BN1723_007328 PE
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   18.9   0.0   5.7e-06    0.0032       4      32 ..    1434    1462 ..    1433    1463 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 18.9 bits;  conditional E-value: 5.7e-06
+                 ihelix_seed_hmm    4 lvalvllLlvAGheTTtnaiswalllLlr 32  
+                                      ++++ +++l+AG +TT+ ++sw++++L+r
+  tr|A0A0G4NKU9|A0A0G4NKU9_9PEZI 1434 IRDQLVAVLLAGRDTTACTLSWTIYELSR 1462
+                                      788999*********************98 PP
+
+>> tr|A0A9P7BXP6|A0A9P7BXP6_RHIOR  aminodeoxychorismate synthase OS=Rhizopus oryzae OX=64495 GN=G6F64_000985 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   18.8   0.1     6e-06    0.0034       2      30 ..     300     328 ..     299     331 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 18.8 bits;  conditional E-value: 6e-06
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllL 30 
+                                     + l+++vl++ +AG +TT+ a+sw+++ L
+  tr|A0A9P7BXP6|A0A9P7BXP6_RHIOR 300 DALRDIVLNFVIAGRDTTAQALSWTFYML 328
+                                     6799**********************976 PP
+
+>> tr|A0A9P6YNQ3|A0A9P6YNQ3_RHIOR  aminodeoxychorismate synthase OS=Rhizopus oryzae OX=64495 GN=G6F51_000711 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   18.8   0.1   6.1e-06    0.0034       2      30 ..     300     328 ..     299     331 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 18.8 bits;  conditional E-value: 6.1e-06
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllL 30 
+                                     + l+++vl++ +AG +TT+ a+sw+++ L
+  tr|A0A9P6YNQ3|A0A9P6YNQ3_RHIOR 300 DALRDIVLNFVIAGRDTTAQALSWTFYML 328
+                                     6799**********************976 PP
+
+>> tr|A0A9P6ZEE7|A0A9P6ZEE7_9FUNG  aminodeoxychorismate synthase OS=Rhizopus delemar OX=936053 GN=G6F50_000478 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   18.8   0.1   6.1e-06    0.0034       2      30 ..     300     328 ..     299     331 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 18.8 bits;  conditional E-value: 6.1e-06
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllL 30 
+                                     + l+++vl++ +AG +TT+ a+sw+++ L
+  tr|A0A9P6ZEE7|A0A9P6ZEE7_9FUNG 300 DALRDIVLNFVIAGRDTTAQALSWTFYML 328
+                                     6799**********************976 PP
+
+>> tr|A0A4R0RYS1|A0A4R0RYS1_9APHY  Disintegrin domain-containing protein OS=Steccherinum ochraceum OX=92696 GN=EIP91_010
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   18.4   0.2   8.2e-06    0.0046       1      33 []     307     339 ..     307     339 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 18.4 bits;  conditional E-value: 8.2e-06
+                 ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     dee+va+v +++ A++eTT n++s +l+ L+ h
+  tr|A0A4R0RYS1|A0A4R0RYS1_9APHY 307 DEEIVATVNSIIYAAVETTPNLTSRMLHILALH 339
+                                     89****************************988 PP
+
+>> tr|A0A553PDS8|A0A553PDS8_TIGCA  tRNA (cytosine(34)-C(5))-methyltransferase OS=Tigriopus californicus OX=6832 GN=TCAL_
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   18.4   0.7   8.5e-06    0.0048       7      33 .]     298     324 ..     296     324 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 18.4 bits;  conditional E-value: 8.5e-06
+                 ihelix_seed_hmm   7 lvllLlvAGheTTtnaiswalllLlrh 33 
+                                     ++l+++++G++TT+ + ++al+ L+++
+  tr|A0A553PDS8|A0A553PDS8_TIGCA 298 MALDMIFGGIDTTSHTVAFALYNLAMN 324
+                                     79***********************97 PP
+
+>> tr|A0A4S4N3Q9|A0A4S4N3Q9_9APHY  Disintegrin domain-containing protein OS=Antrodiella citrinella OX=2447956 GN=EUX98_g
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   18.1   0.3     1e-05    0.0057       1      33 []     304     336 ..     304     336 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 18.1 bits;  conditional E-value: 1e-05
+                 ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     d+el+a+v  +l AG+eTT +ai+ +l++L+ h
+  tr|A0A4S4N3Q9|A0A4S4N3Q9_9APHY 304 DKELIAQVNHVLYAGVETTQTAIARFLHTLALH 336
+                                     79*****************************88 PP
+
+>> tr|A0A0G2G882|A0A0G2G882_9PEZI  Putative cytochrome p450 OS=Diplodia seriata OX=420778 GN=UCDDS831_g09059 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   18.2   2.1   9.3e-06    0.0052       9      33 .]     319     343 ..     315     343 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 18.2 bits;  conditional E-value: 9.3e-06
+                 ihelix_seed_hmm   9 llLlvAGheTTtnaiswalllLlrh 33 
+                                      l+++AG+eTT++++s  +++Llr+
+  tr|A0A0G2G882|A0A0G2G882_9PEZI 319 SLFMIAGTETTATLLSGLTYYLLRN 343
+                                     689*********************8 PP
+
+>> tr|A0A9P9DE88|A0A9P9DE88_9PLEO  beta-N-acetylhexosaminidase OS=Dendryphion nanum OX=256645 GN=B0J11DRAFT_560626 PE=3 
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   18.0   0.0   1.1e-05    0.0062       4      32 ..     913     941 ..     913     942 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 18.0 bits;  conditional E-value: 1.1e-05
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlr 32 
+                                     l+++ +++l+AG +TT+ +++w++++L++
+  tr|A0A9P9DE88|A0A9P9DE88_9PLEO 913 LRDQLVSVLLAGRDTTACTLTWTIYHLSK 941
+                                     578899*********************86 PP
+
+>> tr|A0A3M7N9W3|A0A3M7N9W3_9EURO  Cytochrome b5 heme-binding domain-containing protein (Fragment) OS=Chaetothyriales sp
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   17.0   0.0   2.3e-05     0.013       2      26 ..    1948    1972 ..    1947    1978 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 17.0 bits;  conditional E-value: 2.3e-05
+                 ihelix_seed_hmm    2 eelvalvllLlvAGheTTtnaiswa 26  
+                                      eel+a +l++l+AG +TT+n++  +
+  tr|A0A3M7N9W3|A0A3M7N9W3_9EURO 1948 EELTAEALTQLIAGSDTTSNTSCAI 1972
+                                      8*******************97555 PP
+
+>> tr|A0A8H4J355|A0A8H4J355_9PEZI  Histone acetyltransferase OS=Botryosphaeria dothidea OX=55169 GN=GTA08_BOTSDO13531 PE
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   16.8   0.3   2.7e-05     0.015       2      32 ..     841     871 ..     840     872 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 16.8 bits;  conditional E-value: 2.7e-05
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                                     eel+++ l++l +G +T t++  w++ lL+ 
+  tr|A0A8H4J355|A0A8H4J355_9PEZI 841 EELTSISLTMLSGGLDTITTLVQWSVGLLAQ 871
+                                     8****************************95 PP
+
+>> tr|A0A4Q4WID1|A0A4Q4WID1_9PEZI  Aldehyde dehydrogenase domain-containing protein OS=Monosporascus sp. mg162 OX=108191
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   17.5   2.9   1.5e-05    0.0086       4      33 .]     291     320 ..     289     320 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 17.5 bits;  conditional E-value: 1.5e-05
+                 ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     lv+++ +L++AG eTT++++  +++lL+++
+  tr|A0A4Q4WID1|A0A4Q4WID1_9PEZI 291 LVGNASTLIIAGSETTATLLCGVVYLLATN 320
+                                     889999**********************98 PP
+
+>> tr|K2SEV8|K2SEV8_MACPH  Cytochrome P450 OS=Macrophomina phaseolina (strain MS6) OX=1126212 GN=MPH_07426 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   16.1   1.8   4.3e-05     0.024       9      33 .]     320     344 ..     316     344 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 16.1 bits;  conditional E-value: 4.3e-05
+         ihelix_seed_hmm   9 llLlvAGheTTtnaiswalllLlrh 33 
+                              l++vAG+eTT++++s  ++++l++
+  tr|K2SEV8|K2SEV8_MACPH 320 SLFMVAGTETTATLLSGLTYHFLKN 344
+                             689*******************997 PP
+
+>> tr|A0A8H4IGJ3|A0A8H4IGJ3_9PEZI  beta-N-acetylhexosaminidase OS=Botryosphaeria dothidea OX=55169 GN=GTA08_BOTSDO10748 
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.9   0.1   5.1e-05     0.029       5      33 .]     925     953 ..     924     953 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 15.9 bits;  conditional E-value: 5.1e-05
+                 ihelix_seed_hmm   5 valvllLlvAGheTTtnaiswalllLlrh 33 
+                                     +++  ++l+AG +TT+ ++sw +++L++h
+  tr|A0A8H4IGJ3|A0A8H4IGJ3_9PEZI 925 RDQLAAILLAGRDTTACTLSWLFYELSNH 953
+                                     677889*********************98 PP
+
+>> tr|A0A835MH83|A0A835MH83_9ROSI  Patatin OS=Salix dunnii OX=1413687 GN=SADUNF_Sadunf19G0003000 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   16.1   0.0   4.6e-05     0.026       2      31 ..     632     661 ..     632     663 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 16.1 bits;  conditional E-value: 4.6e-05
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLl 31 
+                                     ++l++++ ++++AG eT+++a++w+ +lL+
+  tr|A0A835MH83|A0A835MH83_9ROSI 632 DDLIDQCKNFYLAGEETSASALTWIAFLLA 661
+                                     68999999****************988887 PP
+
+>> tr|A0A0G4MMA3|A0A0G4MMA3_9PEZI  Amine oxidase OS=Verticillium longisporum OX=100787 GN=BN1723_004092 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   16.1   2.3   4.3e-05     0.024       2      31 ..     821     850 ..     820     852 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 16.1 bits;  conditional E-value: 4.3e-05
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLl 31 
+                                     eel+++ l++l +G +T t++ +w++ lL+
+  tr|A0A0G4MMA3|A0A0G4MMA3_9PEZI 821 EELTSISLTMLSGGLDTLTTLVAWFIGLLV 850
+                                     9***************************97 PP
+
+>> tr|A0A0G4MU20|A0A0G4MU20_9PEZI  Amine oxidase (Fragment) OS=Verticillium longisporum OX=100787 GN=BN1708_007371 PE=3 
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   15.9   2.3     5e-05     0.028       2      31 ..     849     878 ..     848     880 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 15.9 bits;  conditional E-value: 5e-05
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLl 31 
+                                     eel+++ l++l +G +T t++ +w++ lL+
+  tr|A0A0G4MU20|A0A0G4MU20_9PEZI 849 EELTSISLTMLSGGLDTLTTLVAWFIGLLV 878
+                                     9***************************97 PP
+
+>> tr|A0A444RSM9|A0A444RSM9_VERDA  Amine oxidase OS=Verticillium dahliae OX=27337 GN=VDGE_07314 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   15.9   2.0   5.3e-05      0.03       2      31 ..     977    1006 ..     976    1008 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 15.9 bits;  conditional E-value: 5.3e-05
+                 ihelix_seed_hmm    2 eelvalvllLlvAGheTTtnaiswalllLl 31  
+                                      eel+++ l++l +G +T t++ +w++ lL+
+  tr|A0A444RSM9|A0A444RSM9_VERDA  977 EELTSISLTMLSGGLDTLTTLVAWFIGLLV 1006
+                                      89**************************97 PP
+
+>> tr|A0A7I8V8L5|A0A7I8V8L5_9ANNE  DgyrCDS1797 OS=Dimorphilus gyrociliatus OX=2664684 GN=DGYR_LOCUS1699 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   15.7   0.1   6.1e-05     0.034       8      32 ..     357     381 ..     355     382 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 15.7 bits;  conditional E-value: 6.1e-05
+                 ihelix_seed_hmm   8 vllLlvAGheTTtnaiswalllLlr 32 
+                                     v ++l AG+eT++++i w ll+ ++
+  tr|A0A7I8V8L5|A0A7I8V8L5_9ANNE 357 VAEFLSAGVETSSSTILWLLLFIAE 381
+                                     778*****************99885 PP
+
+>> tr|A0A7S9GEM5|A0A7S9GEM5_9PEZI  NAD-dependent deacetylase sirtuin-2 OS=Lasiodiplodia theobromae OX=45133 GN=SIR2 PE=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   15.4   2.6   7.3e-05     0.041       8      33 .]     314     339 ..     310     339 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 15.4 bits;  conditional E-value: 7.3e-05
+                 ihelix_seed_hmm   8 vllLlvAGheTTtnaiswalllLlrh 33 
+                                       l+++AG+eTT++++s  +++Ll++
+  tr|A0A7S9GEM5|A0A7S9GEM5_9PEZI 314 SSLFMIAGTETTATLLSGLTWYLLKN 339
+                                     5689********************98 PP
+
+>> tr|A0A5N5CWS7|A0A5N5CWS7_9PEZI  NAD-dependent protein deacetylase hst2-1 OS=Lasiodiplodia theobromae OX=45133 GN=DBV0
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   15.5   2.6   6.9e-05     0.039       8      33 .]     314     339 ..     310     339 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 15.5 bits;  conditional E-value: 6.9e-05
+                 ihelix_seed_hmm   8 vllLlvAGheTTtnaiswalllLlrh 33 
+                                       l+++AG+eTT++++s  +++Ll++
+  tr|A0A5N5CWS7|A0A5N5CWS7_9PEZI 314 SSLFMIAGTETTATLLSGLTWYLLKN 339
+                                     5689********************98 PP
+
+>> tr|A0A7C8MRM6|A0A7C8MRM6_9PEZI  Neutral protease 2 OS=Xylaria multiplex OX=323545 GN=GQX73_g9728 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   14.7   0.3   0.00012     0.068      12      33 .]     596     617 ..     596     617 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 14.7 bits;  conditional E-value: 0.00012
+                 ihelix_seed_hmm  12 lvAGheTTtnaiswalllLlrh 33 
+                                     ++AG +TT+ ++s +l++Llrh
+  tr|A0A7C8MRM6|A0A7C8MRM6_9PEZI 596 MAAGSDTTSITLSAILYYLLRH 617
+                                     58*******************9 PP
+
+>> tr|A0A093VMG7|A0A093VMG7_TALMA  Golgi apyrase OS=Talaromyces marneffei PM1 OX=1077442 GN=GQ26_0050520 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   14.2   1.2   0.00017     0.096       2      33 .]     237     268 ..     236     268 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 14.2 bits;  conditional E-value: 0.00017
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     +el ++  ++ +AG eTT+++ ++al +L+ +
+  tr|A0A093VMG7|A0A093VMG7_TALMA 237 SELYGNLFVFNLAGYETTASTMTFALSFLAAN 268
+                                     79999************************987 PP
+
+>> tr|A0A507QUF9|A0A507QUF9_MONPU  Arabinan endo-1,5-alpha-L-arabinosidase OS=Monascus purpureus OX=5098 GN=MPDQ_007992 
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   14.3   1.9   0.00017     0.095       7      28 ..     560     581 ..     556     582 .. 0.86
+
+  Alignments for each domain:
+  == domain 1  score: 14.3 bits;  conditional E-value: 0.00017
+                 ihelix_seed_hmm   7 lvllLlvAGheTTtnaiswall 28 
+                                     l+  L+v+G+eTT++++s a++
+  tr|A0A507QUF9|A0A507QUF9_MONPU 560 LAQILIVGGNETTATTLSAATH 581
+                                     7889**************9876 PP
+
+>> tr|A0A074Y8N5|A0A074Y8N5_AURPU  beta-N-acetylhexosaminidase OS=Aureobasidium pullulans EXF-150 OX=1043002 GN=M438DRAF
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   12.7   0.0   0.00053       0.3       5      32 ..     876     903 ..     875     904 .. 0.88
+
+  Alignments for each domain:
+  == domain 1  score: 12.7 bits;  conditional E-value: 0.00053
+                 ihelix_seed_hmm   5 valvllLlvAGheTTtnaiswalllLlr 32 
+                                     +++  ++l+AG +TT+ ++sw++ + +r
+  tr|A0A074Y8N5|A0A074Y8N5_AURPU 876 RDQLAAVLLAGRDTTACTLSWMFSEISR 903
+                                     6778899****************98877 PP
+
+>> tr|A0A2J8A3A2|A0A2J8A3A2_9CHLO  UDP-glucose 6-dehydrogenase OS=Tetrabaena socialis OX=47790 GN=TSOC_006594 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   13.5   0.8   0.00029      0.16       6      31 ..     422     447 ..     421     448 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 13.5 bits;  conditional E-value: 0.00029
+                 ihelix_seed_hmm   6 alvllLlvAGheTTtnaiswalllLl 31 
+                                     +l l++++A +++T++a +w++ +Ll
+  tr|A0A2J8A3A2|A0A2J8A3A2_9CHLO 422 NLLLAVMWASQANTVPAVFWSTAFLL 447
+                                     68899*******************98 PP
+
+>> tr|V5FSW2|V5FSW2_BYSSN  Cytochrome P450 OS=Byssochlamys spectabilis (strain No. 5 / NBRC 109023) OX=1356009 GN=PVAR5_
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   13.0   0.1   0.00044      0.25      12      33 .]     319     340 ..     311     340 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 13.0 bits;  conditional E-value: 0.00044
+         ihelix_seed_hmm  12 lvAGheTTtnaiswalllLlrh 33 
+                             l+AGheT++  +++ +++L++h
+  tr|V5FSW2|V5FSW2_BYSSN 319 LTAGHETSAVGLTYLFWELSKH 340
+                             89******************98 PP
+
+>> tr|A0A1W5D373|A0A1W5D373_9LECA  p450 monooxygenase OS=Lasallia pustulata OX=136370 PE=4 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   13.3   0.2   0.00034      0.19       3      31 ..     316     344 ..     314     345 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 13.3 bits;  conditional E-value: 0.00034
+                 ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLl 31 
+                                     ++++ + ++l+AG++TT+ ++ + +++L+
+  tr|A0A1W5D373|A0A1W5D373_9LECA 316 DIASECADQLLAGIDTTSHTLMFLIWALS 344
+                                     68999****************99999986 PP
+
+>> tr|A0A401KIC9|A0A401KIC9_ASPAW  Non-reducing end alpha-L-arabinofuranosidase BoGH43A OS=Aspergillus awamori OX=105351
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   12.5   0.1   0.00063      0.35      12      33 .]     302     323 ..     302     323 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 12.5 bits;  conditional E-value: 0.00063
+                 ihelix_seed_hmm  12 lvAGheTTtnaiswalllLlrh 33 
+                                     + AG +TT+ ++  ++++Llrh
+  tr|A0A401KIC9|A0A401KIC9_ASPAW 302 IGAGADTTSATLQAFFYYLLRH 323
+                                     57*******************9 PP
+
+>> tr|A0A9Q5I0P9|A0A9Q5I0P9_SANBA  Cytochrome P450 OS=Sanghuangporus baumii OX=108892 GN=A7U60_g3237 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   12.3   0.4   0.00073      0.41      12      33 .]     805     826 ..     802     826 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 12.3 bits;  conditional E-value: 0.00073
+                 ihelix_seed_hmm  12 lvAGheTTtnaiswalllLlrh 33 
+                                     ++AG +TT+++is  +++Ll h
+  tr|A0A9Q5I0P9|A0A9Q5I0P9_SANBA 805 ILAGSDTTATVISGLFYHLLQH 826
+                                     68******************98 PP
+
+>> tr|A0A8T8TTC9|A0A8T8TTC9_9HELO  PLD phosphodiesterase domain-containing protein OS=Helotiales sp. DMI_Dod_QoI OX=2728
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   12.6   0.8   0.00058      0.32      12      33 .]     797     818 ..     797     818 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 12.6 bits;  conditional E-value: 0.00058
+                 ihelix_seed_hmm  12 lvAGheTTtnaiswalllLlrh 33 
+                                     ++AG eTT+ ++s ++++Ll+h
+  tr|A0A8T8TTC9|A0A8T8TTC9_9HELO 797 IAAGSETTAITLSAIFYHLLEH 818
+                                     68******************98 PP
+
+>> tr|W9C2S2|W9C2S2_SCLBF  Tyrosinase copper-binding domain-containing protein OS=Sclerotinia borealis (strain F-4128) O
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   11.5   1.1    0.0012      0.69      10      29 ..     954     973 ..     953     977 .. 0.86
+
+  Alignments for each domain:
+  == domain 1  score: 11.5 bits;  conditional E-value: 0.0012
+         ihelix_seed_hmm  10 lLlvAGheTTtnaiswalll 29 
+                             +++ AG+eTT++++s ++++
+  tr|W9C2S2|W9C2S2_SCLBF 954 TIIGAGTETTAWTLSVITYY 973
+                             799***********988886 PP
+
+>> tr|A0A9P6VLD3|A0A9P6VLD3_9HELO  Aldehyde dehydrogenase OS=Hyphodiscus hymeniophilus OX=353542 GN=D0Z07_3410 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   12.2   0.0   0.00077      0.43      11      33 .]     313     335 ..     310     335 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 12.2 bits;  conditional E-value: 0.00077
+                 ihelix_seed_hmm  11 LlvAGheTTtnaiswalllLlrh 33 
+                                     L +AG +TT+ ++++++++L +h
+  tr|A0A9P6VLD3|A0A9P6VLD3_9HELO 313 LSFAGSDTTAISLRSMFYYLCKH 335
+                                     569*****************777 PP
+
+>> tr|A0A100I5U9|A0A100I5U9_ASPNG  Glycosyl hydrolase OS=Aspergillus niger OX=5061 GN=ABL_01142 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   12.0   0.1   0.00088      0.49      12      33 .]     302     323 ..     302     323 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 12.0 bits;  conditional E-value: 0.00088
+                 ihelix_seed_hmm  12 lvAGheTTtnaiswalllLlrh 33 
+                                     + AG +TT+ ++  +++++lrh
+  tr|A0A100I5U9|A0A100I5U9_ASPNG 302 IGAGADTTSATLQAFFYYMLRH 323
+                                     57*******************9 PP
+
+>> tr|A0A7J7D318|A0A7J7D318_TRIWF  Metalloendopeptidases zinc ion binding isoform 1 OS=Tripterygium wilfordii OX=458696 
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   11.0   0.5    0.0018         1       2      29 ..     235     262 ..     234     262 .. 0.85
+
+  Alignments for each domain:
+  == domain 1  score: 11.0 bits;  conditional E-value: 0.0018
+                 ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalll 29 
+                                     e ++a+ l+Llv    TT+n+++wa+ +
+  tr|A0A7J7D318|A0A7J7D318_TRIWF 235 EGITAADLVLLVTTRPTTGNTLAWAVAC 262
+                                     567777799****************975 PP
+
+>> tr|A0A4Y9YYF6|A0A4Y9YYF6_9AGAM  Uncharacterized protein OS=Dentipellis fragilis OX=205917 GN=EVG20_g4485 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   14.5   1.3   0.00014     0.079      10      33 .]     167     190 ..     159     190 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 14.5 bits;  conditional E-value: 0.00014
+                 ihelix_seed_hmm  10 lLlvAGheTTtnaiswalllLlrh 33 
+                                     l+++AG +TTt+++s  ++lLl+h
+  tr|A0A4Y9YYF6|A0A4Y9YYF6_9AGAM 167 LVILAGSDTTTTVLSVLVYLLLTH 190
+                                     789********************9 PP
+
+>> tr|A0A175YPM4|A0A175YPM4_DAUCS  Uracil-DNA glycosylase OS=Daucus carota subsp. sativus OX=79200 GN=DCAR_026912 PE=3 S
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   11.2   0.0    0.0016       0.9       1      33 []     310     342 ..     310     342 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 11.2 bits;  conditional E-value: 0.0016
+                 ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                                     +ee+++ + l++ AG + T+ ++ w++ +L++h
+  tr|A0A175YPM4|A0A175YPM4_DAUCS 310 MEEVIDECKLFYSAGADSTARLLVWTIVCLSKH 342
+                                     5899***************************99 PP
+
+>> tr|A0A7J7CZA9|A0A7J7CZA9_TRIWF  EGF-like domain-containing protein OS=Tripterygium wilfordii OX=458696 GN=HS088_TW12G
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   10.3   0.3     0.003       1.7       9      29 ..     242     262 ..     234     262 .. 0.84
+
+  Alignments for each domain:
+  == domain 1  score: 10.3 bits;  conditional E-value: 0.003
+                 ihelix_seed_hmm   9 llLlvAGheTTtnaiswalll 29 
+                                     l+Llv    TT+n+++wa+ +
+  tr|A0A7J7CZA9|A0A7J7CZA9_TRIWF 242 LVLLVTTRPTTGNTLAWAVAC 262
+                                     89999999**********975 PP
+
+>> tr|A0A6S7GEJ6|A0A6S7GEJ6_PARCT  Steroid 17-alpha-hydroxylase 17,20 lyase-like OS=Paramuricea clavata OX=317549 GN=PAC
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   10.7   0.2    0.0023       1.3      12      33 .]     580     601 ..     571     601 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 10.7 bits;  conditional E-value: 0.0023
+                 ihelix_seed_hmm  12 lvAGheTTtnaiswalllLlrh 33 
+                                     ++AG  TT++ ++w++ +Ll++
+  tr|A0A6S7GEJ6|A0A6S7GEJ6_PARCT 580 FIAGFKTTATNLRWVFVYLLNN 601
+                                     79******************97 PP
+
+>> tr|A0A397HAI0|A0A397HAI0_9EURO  Hydroxymethylglutaryl-CoA synthase OS=Aspergillus thermomutatus OX=41047 GN=CDV56_107
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -0.3   0.0       7.2   4.1e+03       4      15 ..     374     385 ..     372     386 .. 0.85
+   2 ?    7.8   0.0     0.019        11       1      28 [.     676     703 ..     676     708 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: -0.3 bits;  conditional E-value: 7.2
+                 ihelix_seed_hmm   4 lvalvllLlvAG 15 
+                                     l++++ +Llv+G
+  tr|A0A397HAI0|A0A397HAI0_9EURO 374 LASTMFSLLVVG 385
+                                     789999***999 PP
+
+  == domain 2  score: 7.8 bits;  conditional E-value: 0.019
+                 ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswall 28 
+                                     de l++ + l+ +AG  TT+ ++++a+ 
+  tr|A0A397HAI0|A0A397HAI0_9EURO 676 DERLANEAQLVVFAGEGTTGESSRYAFR 703
+                                     6789999****************99987 PP
+
+>> tr|A0A369GR73|A0A369GR73_9HYPO  Endonuclease III homolog OS=Ophiocordyceps camponoti-leonardi OX=2039875 GN=NTH1 PE=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   11.1   0.1    0.0017      0.95       8      28 ..     286     306 ..     281     310 .. 0.79
+
+  Alignments for each domain:
+  == domain 1  score: 11.1 bits;  conditional E-value: 0.0017
+                 ihelix_seed_hmm   8 vllLlvAGheTTtnaiswall 28 
+                                     + l ++AG +TT+n++++ ++
+  tr|A0A369GR73|A0A369GR73_9HYPO 286 AELYFIAGSDTTANTLTFLVW 306
+                                     55559***********98666 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (33 nodes)
+Target sequences:                      55729  (25232492 residues searched)
+Passed MSV filter:                       461  (0.00827217); expected 1114.6 (0.02)
+Passed bias filter:                      419  (0.00751853); expected 1114.6 (0.02)
+Passed Vit filter:                       135  (0.00242244); expected 55.7 (0.001)
+Passed Fwd filter:                        99  (0.00177645); expected 0.6 (1e-05)
+Initial search space (Z):              55729  [actual number of targets]
+Domain search space  (domZ):              99  [number of targets reported over threshold]
+# CPU time: 0.17u 0.00s 00:00:00.17 Elapsed: 00:00:00.10
+# Mc/sec: 8044.10
+//
+# Alignment of 73 hits satisfying inclusion thresholds saved to: ../output/hmm_search_1/uniprot/p450_activesite/1//ihelixhits_e_10_z__T_.aln
+[ok]
