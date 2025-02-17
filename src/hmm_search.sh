@@ -4,13 +4,13 @@
 # assignments
 DB_NAME="biocatnet"
 # TEST_NAME="p450_reviewed_5star" # only needed for varying uniprot searches
-TEST_NO=1
+TEST_NO=4
 
 
 # parameters
-E_VALUE=10
-E_VALUE_NAME="10"
-# Z_SCORE=700000 # ensure add Z score to options as needed
+E_VALUE=0.0001
+E_VALUE_NAME="0p0001"
+Z_SCORE=52674 # ensure add Z score to options as needed
 # T_SCORE=10 # bit score
 
 
@@ -28,6 +28,6 @@ mkdir -p "$OUTPUT_DIR"
 
 ## Querying the HMM profile
 # varying e values
-hmmsearch -A ${ALN_OUTFILE} -E ${E_VALUE} ${HMM_INFILE} ${DB_INFILE} > ${SCORE_OUTFILE}
+# hmmsearch -A ${ALN_OUTFILE} -E ${E_VALUE} ${HMM_INFILE} ${DB_INFILE} > ${SCORE_OUTFILE}
 # varying z value
-# hmmsearch -A ${ALN_OUTFILE} -E ${E_VALUE} -Z ${Z_SCORE} ${HMM_INFILE} ${DB_INFILE} > ${SCORE_OUTFILE}
+hmmsearch -A ${ALN_OUTFILE} -E ${E_VALUE} -Z ${Z_SCORE} ${HMM_INFILE} ${DB_INFILE} > ${SCORE_OUTFILE}
