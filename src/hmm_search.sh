@@ -4,12 +4,12 @@
 # assignments
 DB_NAME="pfam"
 # TEST_NAME="p450_reviewed_5star" # only needed for varying uniprot searches
-TEST_NO=1
+TEST_NO=5
 
 
 # parameters
-E_VALUE=10
-E_VALUE_NAME="10"
+E_VALUE=0.0001
+E_VALUE_NAME="0p0001"
 # Z_SCORE=52674 # ensure add Z score to options as needed
 # T_SCORE=10 # bit score
 
