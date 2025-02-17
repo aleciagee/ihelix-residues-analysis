@@ -1,0 +1,51 @@
+Number,P450,PDB_Code,Organism,Kingdoms,Start_Motif,End_Motif,Motif_Total,Protein_Length,PDB_URL
+1,CYP1A2,2HI4,Homo sapiens,Animalia,280,312,32,495,https://www.rcsb.org/structure/2hi4
+2,CYP2B4,1PO5,Homo sapiens,Animalia,262,298,36,476,https://www.rcsb.org/structure/1PO5
+3,CYP2R1,3C6G,Homo sapiens,Animalia,270,303,33,479,https://www.rcsb.org/structure/3c6g
+4,CYP17,8FDA,Homo sapiens,Animalia,270,303,33,494,https://www.rcsb.org/structure/8fda
+5,CYP2D6,4XRY,Homo sapiens,Animalia,269,302,33,479,https://www.rcsb.org/structure/4XRY
+6,CYP7A1,3SN5,Homo sapiens,Animalia,254,287,33,491,https://www.rcsb.org/structure/3SN5
+7,CYP8A1,3B98,Danio rerio (zebrafish),Animalia,250,283,33,475,https://www.rcsb.org/structure/3B98
+8,CYP4B1,5T6Q,Oryctolagus cuniculus (rabbit),Animalia,279,312,33,497,https://www.rcsb.org/structure/5T6Q
+9,CYP24A1,3K9V,Rattus norvegicus (rat),Animalia,280,313,33,482,https://www.rcsb.org/structure/3K9V
+10,CYP11B2,6XZ8,Homo sapiens,Animalia,277,311,34,489,https://www.rcsb.org/structure/6xz8
+11,CYP2C5,1DT6,Oryctolagus cuniculus (rabbit),Animalia,262,295,33,473,https://www.rcsb.org/structure/1DT6
+12,CYP11A1,3N9Y,Homo sapiens,Animalia,272,305,33,487,https://www.rcsb.org/structure/3N9Y
+13,CYP2E1,3E4E,Homo sapiens,Animalia,264,297,33,476,https://www.rcsb.org/structure/3E4E
+14,CYP2C9,1OG2,Homo sapiens,Animalia,264,297,33,475,https://www.rcsb.org/structure/1OG2
+15,CYP107A1,1Z8O,Saccharopolyspora erythraea,Bacteria,227,260,33,404,https://www.rcsb.org/structure/1Z8O
+16,CYP101A1,5IK1,Pseudomonas putida,Bacteria,226,259,33,406,https://www.rcsb.org/structure/5IK1
+17,CYP158A2,5DE9,Streptomyces coelicolor,Bacteria,228,260,32,410,https://www.rcsb.org/structure/5DE9
+18,CYP450,4TPN,Streptomyces scabiei,Bacteria,231,265,34,406,https://www.rcsb.org/structure/4TPN
+19,CYP176A1,3BDZ,Citrobacter braakii,Bacteria,217,250,33,397,https://www.rcsb.org/structure/3BDZ
+20,CYP199A4,4DO1,Rhodopseudomonas palustris,Bacteria,237,268,31,410,https://www.rcsb.org/structure/4do1
+21,CYP109B1,4RM4,Bacillus subtilis,Bacteria,225,258,33,396,https://www.rcsb.org/structure/4RM4
+22,CYP102A1,6JLV,Priestia megaterium,Bacteria,251,284,33,456,https://www.rcsb.org/structure/6JLV
+23,CYP134A1,3NC3,Bacillus subtilis,Bacteria,255,288,33,441,https://www.rcsb.org/structure/3nc3
+24,CYP154C5,4J6B,Nocardia farcinica,Bacteria,230,264,34,410,https://www.rcsb.org/structure/4J6B
+25,CYP51,7TEF,Mycobacterium marinum,Bacteria,242,275,33,456,https://www.rcsb.org/structure/7TEF
+26,CYP152A1,1IZO,Bacillus subtilis,Bacteria,229,261,32,417,https://www.rcsb.org/structure/1IZO
+27,CYP105,2Z36,Nonomuraea recticatena,Bacteria,231,264,33,413,https://www.rcsb.org/structure/2z36
+28,CYP113,2JJO,Saccharopolyspora erythraea,Bacteria,227,261,34,441,https://www.rcsb.org/structure/2JJO
+29,CYP1050A1,3WEC,Rhodococcus erythropolis,Bacteria,239,272,33,419,https://www.rcsb.org/structure/3WEC
+30,CYP248,3BUJ,Micromonospora echinospora,Bacteria,219,252,33,397,https://www.rcsb.org/structure/3buj
+31,CYP124,2WM5,Mycobacterium tuberculosis,Bacteria,260,293,33,435,https://www.rcsb.org/structure/2wm5
+32,CYP120A1,2VE4,Synechocystis sp.,Bacteria,240,270,30,444,https://www.rcsb.org/structure/2ve4
+33,CYP245A1,2Z3T,Streptomyces sp.,Bacteria,240,273,33,425,https://www.rcsb.org/structure/2z3t
+34,CYP197,3A4G,Pseudonocardia autotrophica,Bacteria,222,255,33,411,https://www.rcsb.org/structure/3A4G
+35,CYP177,4EP6,Rhodococcus rhodochrous,Bacteria,217,251,34,392,https://www.rcsb.org/structure/4ep6
+36,CYP175A1,1N97,Thermus thermophilus,Bacteria,208,238,30,389,https://www.rcsb.org/structure/1n97
+37,CYP167,1PKF,Sorangium cellulosum,Bacteria,240,273,33,419,https://www.rcsb.org/structure/1pkf
+38,CYP116B46,6LAA,Tepidiphilus thermophilus,Bacteria,260,294,34,779,https://www.rcsb.org/structure/6laa
+39,CYP108A1,8EUK,Pseudomonas sp.,Bacteria,273,307,34,448,https://www.rcsb.org/structure/8EUK
+40,CYP55A1,1CL6,Fusarium oxysporum,Fungi,225,256,31,402,https://www.rcsb.org/structure/1CL6
+41,CYP51,7RYX,Saccharomyces cerevisiae (yeast),Fungi,300,331,31,536,https://www.rcsb.org/structure/7RYX
+42,CYP74A,2RCL,Arabidopsis thaliana,Plant,279,314,35,495,https://www.rcsb.org/structure/2RCL
+43,CYP90B1,6A15,Arabidopsis thaliana,Plant,249,282,33,456,https://www.rcsb.org/structure/6A15
+44,CYP97C1,6L8H,Arabidopsis thaliana,Plant,265,298,33,471,https://www.rcsb.org/structure/6L8H
+45,CYP97A3,6J94,Arabidopsis thaliana,Plant,287,321,34,519,https://www.rcsb.org/structure/6j94
+46,CYP76AH1,5YM3,Salvia miltiorrhiza,Plant,284,317,33,495,https://www.rcsb.org/structure/5YM3
+47,CYP73A,6VBY,Sorghum bicolor (grain),Plant,288,321,33,507,https://www.rcsb.org/structure/6VBY
+48,CYP102L1,6N6Q,Mycobacterium phage,Other (phage),264,297,33,471,https://www.rcsb.org/structure/6N6Q
+49,CYP119,1IO7,Sulfolobus acidocaldarius,Archaea,195,228,33,368,https://www.rcsb.org/structure/1IO7
+50,CYP231A2,2RFB,Picrophilus oshimae,Archaea,174,207,33,343,https://www.rcsb.org/structure/2rfb
