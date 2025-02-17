@@ -1,2 +1,2 @@
 # Ignore database input files
-input/databases/*
+input/databases/
