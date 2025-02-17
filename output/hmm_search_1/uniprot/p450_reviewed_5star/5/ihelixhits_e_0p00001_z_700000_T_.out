@@ -1,0 +1,1475 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  ../output/hmm_round_1/ihelix_seed_hmm.hmm
+# target sequence database:        ../input/databases/uniprot/p450_reviewed_5star.fasta
+# MSA of all hits saved to file:   ../output/hmm_search_1/uniprot/p450_reviewed_5star/5//ihelixhits_e_0p00001_z_700000_T_.aln
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence search space set to:    700000
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       ihelix_seed_hmm  [M=33]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                  Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                  -----------
+    1.2e-10   45.8   2.9    7.4e-10   43.3   2.9    2.2  2  sp|C4B644|CPVDH_PSEAH      Vitamin D(3) 25-hydroxylase OS=Pse
+      2e-09   42.0   0.2    4.6e-09   40.8   0.2    1.7  1  sp|O08336|CYPB_BACSU       Bifunctional cytochrome P450/NADPH
+    2.2e-09   41.8   0.3    4.8e-09   40.7   0.3    1.6  1  sp|P53554|BIOI_BACSU       Biotin biosynthesis cytochrome P45
+    9.1e-09   39.9   0.0    2.6e-08   38.4   0.0    1.8  1  sp|Q9HCS2|CP4FC_HUMAN      Cytochrome P450 4F12 OS=Homo sapie
+    9.7e-09   39.8   0.0    2.5e-08   38.5   0.0    1.8  1  sp|P98187|CP4F8_HUMAN      Cytochrome P450 4F8 OS=Homo sapien
+      1e-08   39.7   0.1    2.3e-08   38.6   0.1    1.6  1  sp|P14779|CPXB_PRIM2       Bifunctional cytochrome P450/NADPH
+    2.5e-08   38.5   1.8    5.6e-08   37.4   1.8    1.6  1  sp|O87605|PIKC_STRVZ       Cytochrome P450 monooxygenase PikC
+    2.9e-08   38.3   1.3    6.2e-08   37.2   1.3    1.6  1  sp|P10632|CP2C8_HUMAN      Cytochrome P450 2C8 OS=Homo sapien
+      3e-08   38.2   0.0      3e-08   38.2   0.0    2.2  1  sp|Q99N16|CP4F3_MOUSE      Cytochrome P450 4F3 OS=Mus musculu
+    3.6e-08   38.0   0.2    7.1e-08   37.1   0.2    1.5  1  sp|O08394|CYPD_BACSU       Bifunctional cytochrome P450/NADPH
+    3.8e-08   37.9   0.9    8.7e-08   36.8   0.9    1.7  1  sp|Q4G0S4|C27C1_HUMAN      Cytochrome P450 27C1 OS=Homo sapie
+    4.7e-08   37.6   0.3    4.7e-08   37.6   0.3    2.1  1  sp|Q9Y8G7|C505_FUSOX       Bifunctional cytochrome P450/NADPH
+    4.7e-08   37.6   0.2      1e-07   36.6   0.2    1.6  1  sp|O35132|CP27B_RAT        25-hydroxyvitamin D-1 alpha hydrox
+    5.8e-08   37.3   0.2    1.5e-07   36.0   0.2    1.8  1  sp|P56590|CP1A1_CANLF      Cytochrome P450 1A1 OS=Canis lupus
+      6e-08   37.3   1.2    1.7e-07   35.9   1.2    1.8  1  sp|A8WGA0|C27C1_DANRE      Cytochrome P450 27C1 OS=Danio reri
+      7e-08   37.1   0.0      2e-07   35.6   0.0    1.8  1  sp|P78329|CP4F2_HUMAN      Cytochrome P450 4F2 OS=Homo sapien
+    7.7e-08   36.9   0.4    2.1e-07   35.5   0.0    2.0  1  sp|Q9EP75|CP4FE_MOUSE      Leukotriene-B4 omega-hydroxylase 3
+      8e-08   36.9   0.1      2e-07   35.6   0.1    1.7  1  sp|P20817|CP4AE_RAT        Cytochrome P450 4A14 OS=Rattus nor
+    8.1e-08   36.9   0.0      2e-07   35.6   0.0    1.7  1  sp|Q08477|CP4F3_HUMAN      Cytochrome P450 4F3 OS=Homo sapien
+    8.1e-08   36.9   0.4    1.8e-07   35.8   0.4    1.6  1  sp|O15528|CP27B_HUMAN      25-hydroxyvitamin D-1 alpha hydrox
+    8.4e-08   36.8   0.1      2e-07   35.6   0.1    1.7  1  sp|P20816|CP4A2_RAT        Cytochrome P450 4A2 OS=Rattus norv
+    8.4e-08   36.8   0.2    1.9e-07   35.7   0.2    1.6  1  sp|O35084|CP27B_MOUSE      25-hydroxyvitamin D-1 alpha hydrox
+    9.2e-08   36.7   0.7    2.1e-07   35.5   0.0    2.0  1  sp|P51869|CP4F4_RAT        Cytochrome P450 4F4 OS=Rattus norv
+    9.3e-08   36.7   0.1    2.4e-07   35.4   0.1    1.8  1  sp|O35728|CP4AE_MOUSE      Cytochrome P450 4A14 OS=Mus muscul
+      1e-07   36.6   0.2    2.8e-07   35.2   0.2    1.8  1  sp|Q6TBX7|LUT1_ARATH       Carotene epsilon-monooxygenase, ch
+    1.1e-07   36.5   0.1    3.5e-07   34.8   0.1    2.0  1  sp|Q02928|CP4AB_HUMAN      Cytochrome P450 4A11 OS=Homo sapie
+    1.2e-07   36.3   0.1    3.5e-07   34.8   0.1    1.9  1  sp|Q5TCH4|CP4AM_HUMAN      Cytochrome P450 4A22 OS=Homo sapie
+    1.7e-07   35.9   1.5      2e-07   35.6   0.0    2.0  1  sp|Q9HBI6|CP4FB_HUMAN      Cytochrome P450 4F11 OS=Homo sapie
+    1.8e-07   35.8   0.1      4e-07   34.7   0.1    1.6  1  sp|Q6GUR1|CP1A1_MACMU      Cytochrome P450 1A1 OS=Macaca mula
+    1.8e-07   35.8   0.1      4e-07   34.7   0.1    1.6  1  sp|P33616|CP1A1_MACFA      Cytochrome P450 1A1 OS=Macaca fasc
+    1.9e-07   35.7   1.1    2.8e-07   35.1   0.1    1.9  1  sp|P04798|CP1A1_HUMAN      Cytochrome P450 1A1 OS=Homo sapien
+      2e-07   35.6   1.3    5.7e-07   34.2   1.3    1.8  1  sp|P00178|CP2B4_RABIT      Cytochrome P450 2B4 OS=Oryctolagus
+    2.3e-07   35.4   0.0    8.2e-07   33.7   0.0    2.0  1  sp|P24464|CP4AC_RAT        Cytochrome P450 4A12 OS=Rattus nor
+    2.6e-07   35.3   2.2    6.2e-07   34.1   2.2    1.7  1  sp|P18326|CPXE_STRGO       Vitamin D3 dihydroxylase OS=Strept
+    2.8e-07   35.2   0.0    7.3e-07   33.9   0.0    1.7  1  sp|Q86W10|CP4Z1_HUMAN      Cytochrome P450 4Z1 OS=Homo sapien
+    3.5e-07   34.9   0.0    8.2e-07   33.7   0.0    1.7  1  sp|A2A974|CP4CB_MOUSE      Cytochrome P450 4A12B OS=Mus muscu
+    3.6e-07   34.8   1.1    4.8e-07   34.4   0.1    1.8  1  sp|Q06367|CP1A1_CAVPO      Cytochrome P450 1A1 OS=Cavia porce
+    3.6e-07   34.8   0.0    8.2e-07   33.7   0.0    1.6  1  sp|Q91WL5|CP4CA_MOUSE      Cytochrome P450 4A12A OS=Mus muscu
+      4e-07   34.7   1.8    8.3e-07   33.7   1.8    1.6  1  sp|P08683|CP2CB_RAT        Cytochrome P450 2C11 OS=Rattus nor
+    4.7e-07   34.5   0.9      1e-06   33.4   0.9    1.6  1  sp|O54749|CP2J5_MOUSE      Cytochrome P450 2J5 OS=Mus musculu
+    4.9e-07   34.4   1.4    1.2e-06   33.2   1.4    1.7  1  sp|Q64458|CP2CT_MOUSE      Cytochrome P450 2C29 OS=Mus muscul
+    5.4e-07   34.3   0.4    1.3e-06   33.1   0.4    1.7  1  sp|Q0D1W9|CYPE3_ASPTN      Self-sufficient cytochrome P450 mo
+    5.5e-07   34.2   0.2    5.5e-07   34.2   0.2    1.9  1  sp|P56591|CP1A1_SHEEP      Cytochrome P450 1A1 OS=Ovis aries 
+    5.7e-07   34.2   0.1    1.4e-06   32.9   0.1    1.7  1  sp|Q3LFU0|CP1A1_BALAC      Cytochrome P450 1A1 OS=Balaenopter
+    5.9e-07   34.2   1.2    4.5e-06   31.4   1.1    2.4  2  sp|P36423|THAS_MOUSE       Thromboxane-A synthase OS=Mus musc
+    6.3e-07   34.1   0.0    1.3e-06   33.0   0.0    1.6  1  sp|P15129|CP4B1_RAT        Cytochrome P450 4B1 OS=Rattus norv
+    6.7e-07   34.0   0.1    1.5e-06   32.9   0.1    1.7  1  sp|Q00557|CP1A1_MESAU      Cytochrome P450 1A1 OS=Mesocricetu
+    7.8e-07   33.8   1.0    1.7e-06   32.7   1.0    1.5  1  sp|P11712|CP2C9_HUMAN      Cytochrome P450 2C9 OS=Homo sapien
+    7.9e-07   33.7   0.1      2e-06   32.5   0.1    1.7  1  sp|Q55080|CP119_SULAC      Cytochrome P450 119 OS=Sulfolobus 
+      8e-07   33.7   1.0    1.7e-06   32.7   1.0    1.6  1  sp|P33260|CP2CI_HUMAN      Cytochrome P450 2C18 OS=Homo sapie
+    8.9e-07   33.6   0.0    8.9e-07   33.6   0.0    1.9  1  sp|Q6NT55|CP4FN_HUMAN      Ultra-long-chain fatty acid omega-
+      1e-06   33.4   0.2    2.7e-06   32.1   0.2    1.8  1  sp|Q5KQT6|CP1A2_FELCA      Cytochrome P450 1A2 OS=Felis catus
+    1.1e-06   33.3   0.0    3.7e-06   31.6   0.0    2.0  1  sp|P08516|CP4AA_RAT        Cytochrome P450 4A10 OS=Rattus nor
+    1.1e-06   33.3   0.8      3e-06   31.9   0.8    1.8  1  sp|P9WPP9|CP51_MYCTU       Sterol 14alpha-demethylase OS=Myco
+    1.1e-06   33.2   0.2    2.6e-06   32.1   0.2    1.6  1  sp|P00184|CP1A1_MOUSE      Cytochrome P450 1A1 OS=Mus musculu
+    1.1e-06   33.2   2.5    2.3e-06   32.3   2.5    1.5  1  sp|P33261|CP2CJ_HUMAN      Cytochrome P450 2C19 OS=Homo sapie
+    1.1e-06   33.2   0.6    3.6e-06   31.7   0.6    1.9  1  sp|Q9GMC8|CP17A_FELCA      Steroid 17-alpha-hydroxylase/17,20
+    1.2e-06   33.1   0.4      4e-06   31.5   0.0    2.1  1  sp|P33274|CP4F1_RAT        Cytochrome P450 4F1 OS=Rattus norv
+    1.3e-06   33.1   2.0    3.2e-06   31.8   2.0    1.7  1  sp|P56654|CP237_MOUSE      Cytochrome P450 2C37 OS=Mus muscul
+    1.4e-06   33.0   0.0    3.7e-06   31.6   0.0    1.8  1  sp|O88833|CP4AA_MOUSE      Cytochrome P450 4A10 OS=Mus muscul
+    1.5e-06   32.9   0.0    3.4e-06   31.7   0.0    1.7  1  sp|P13584|CP4B1_HUMAN      Cytochrome P450 4B1 OS=Homo sapien
+    1.6e-06   32.8   0.5    1.6e-06   32.8   0.5    2.1  1  sp|Q6VVW9|CP2R1_MOUSE      Vitamin D 25-hydroxylase OS=Mus mu
+    1.6e-06   32.8   0.5    1.6e-06   32.8   0.5    2.0  1  sp|Q6VVX0|CP2R1_HUMAN      Vitamin D 25-hydroxylase OS=Homo s
+    1.7e-06   32.7   2.4    3.4e-06   31.7   2.4    1.5  1  sp|Q91X77|CY250_MOUSE      Cytochrome P450 2C50 OS=Mus muscul
+    1.8e-06   32.7   0.0    5.3e-06   31.1   0.0    1.9  1  sp|Q64391|CP1A2_CAVPO      Cytochrome P450 1A2 OS=Cavia porce
+    1.9e-06   32.6   0.2    9.3e-06   30.4   0.2    2.3  1  sp|P79761|CP1A5_CHICK      Cytochrome P450 1A5 OS=Gallus gall
+    1.9e-06   32.5   0.1    4.5e-06   31.4   0.1    1.7  1  sp|Q07973|CP24A_HUMAN      1,25-dihydroxyvitamin D(3) 24-hydr
+    1.9e-06   32.5   0.5    4.9e-06   31.2   0.5    1.8  1  sp|O64989|C90B1_ARATH      Steroid (22S)-hydroxylase OS=Arabi
+      2e-06   32.5   0.3      4e-06   31.5   0.3    1.5  1  sp|Q9JMA7|CP341_MOUSE      Cytochrome P450 3A41 OS=Mus muscul
+    2.2e-06   32.3   0.1    4.5e-06   31.4   0.1    1.6  1  sp|Q09128|CP24A_RAT        1,25-dihydroxyvitamin D(3) 24-hydr
+    2.2e-06   32.3   0.7    5.3e-06   31.2   0.7    1.7  1  sp|A0A517FNC6|C9B51_TRIFG  Cholesterol 22-monohydroxylase CYP
+    2.3e-06   32.3   0.1    4.5e-06   31.4   0.1    1.5  1  sp|Q64441|CP24A_MOUSE      1,25-dihydroxyvitamin D(3) 24-hydr
+    2.3e-06   32.3   0.2    6.1e-06   31.0   0.2    1.8  1  sp|Q9HGE0|FUM6_GIBM7       Bifunctional cytochrome P450/NADPH
+    2.5e-06   32.2   1.0    6.8e-06   30.8   1.0    1.8  1  sp|Q9QXF7|CP2J4_RAT        Cytochrome P450 2J4 OS=Rattus norv
+    2.6e-06   32.1   0.1    5.1e-06   31.2   0.1    1.5  1  sp|P9WPP3|CP124_MYCTU      Methyl-branched lipid omega-hydrox
+    2.8e-06   32.0   0.1    1.2e-05   30.0   0.1    2.2  1  sp|Q95328|CP17A_HORSE      Steroid 17-alpha-hydroxylase/17,20
+      3e-06   31.9   1.0    6.8e-06   30.8   1.0    1.7  1  sp|O54750|CP2J6_MOUSE      Cytochrome P450 2J6 OS=Mus musculu
+      3e-06   31.9   1.0    6.9e-06   30.8   1.0    1.7  1  sp|P51589|CP2J2_HUMAN      Cytochrome P450 2J2 OS=Homo sapien
+    3.5e-06   31.7   1.7    8.6e-06   30.5   1.7    1.7  1  sp|P70687|CP17A_MESAU      Steroid 17-alpha-hydroxylase/17,20
+    3.8e-06   31.6   0.2    9.6e-06   30.3   0.2    1.8  1  sp|P04799|CP1A2_RAT        Cytochrome P450 1A2 OS=Rattus norv
+    3.9e-06   31.6   0.3    7.3e-06   30.7   0.3    1.5  1  sp|P05183|CP3A2_RAT        Cytochrome P450 3A2 OS=Rattus norv
+      4e-06   31.5   3.0    9.2e-06   30.4   3.0    1.6  1  sp|P08686|CP21A_HUMAN      Steroid 21-hydroxylase OS=Homo sap
+    4.1e-06   31.5   0.1      1e-05   30.3   0.1    1.7  1  sp|P00187|CP1A2_RABIT      Cytochrome P450 1A2 OS=Oryctolagus
+    4.9e-06   31.3   0.4    1.1e-05   30.1   0.4    1.7  1  sp|Q91Z85|CP17A_PERLE      Steroid 17-alpha-hydroxylase/17,20
+      5e-06   31.2   0.2    1.1e-05   30.1   0.2    1.7  1  sp|P17178|CP27A_RAT        Sterol 26-hydroxylase, mitochondri
+    5.3e-06   31.1   1.3    1.3e-05   29.9   1.3    1.7  1  sp|P05178|CP2C6_RAT        Cytochrome P450 2C6 OS=Rattus norv
+    5.4e-06   31.1   0.8      1e-05   30.3   0.0    1.9  1  sp|P05177|CP1A2_HUMAN      Cytochrome P450 1A2 OS=Homo sapien
+    5.4e-06   31.1   0.8      1e-05   30.3   0.0    1.9  1  sp|Q5RBQ1|CP1A2_PONAB      Cytochrome P450 1A2 OS=Pongo abeli
+    5.6e-06   31.1   0.8    1.2e-05   30.1   0.0    2.0  1  sp|Q1PS23|AMO_ARTAN        Amorpha-4,11-diene 12-monooxygenas
+    5.9e-06   31.0   1.0    1.3e-05   29.9   1.0    1.6  1  sp|O18963|CP2E1_BOVIN      Cytochrome P450 2E1 OS=Bos taurus 
+      6e-06   31.0   0.1    1.6e-05   29.7   0.1    1.8  1  sp|G5EJN7|CYPD6_PHACH      Self-sufficient cytochrome P450 mo
+    6.2e-06   30.9   0.4    1.4e-05   29.8   0.4    1.6  1  sp|P17177|CP27A_RABIT      Sterol 26-hydroxylase, mitochondri
+    6.3e-06   30.9   0.3    1.6e-05   29.6   0.3    1.7  1  sp|Q9GMC7|CP17A_BISBI      Steroid 17-alpha-hydroxylase/17,20
+    6.8e-06   30.8   1.2    6.8e-06   30.8   1.2    2.4  2  sp|P08682|CP2E1_RABIT      Cytochrome P450 2E1 OS=Oryctolagus
+    7.1e-06   30.7   0.6    7.1e-06   30.7   0.6    1.9  1  sp|P11715|CP17A_RAT        Steroid 17-alpha-hydroxylase/17,20
+    7.2e-06   30.7   0.6    1.5e-05   29.8   0.6    1.6  1  sp|Q9MZY0|CP2E1_CANLF      Cytochrome P450 2E1 OS=Canis lupus
+    7.6e-06   30.7   0.2    1.7e-05   29.5   0.2    1.6  1  sp|P00185|CP1A1_RAT        Cytochrome P450 1A1 OS=Rattus norv
+    7.6e-06   30.6   0.6    2.1e-05   29.3   0.6    1.8  1  sp|Q93VK5|LUT5_ARATH       Protein LUTEIN DEFICIENT 5, chloro
+    7.7e-06   30.6   2.1    7.7e-06   30.6   2.1    1.9  1  sp|P00191|CP21A_BOVIN      Steroid 21-hydroxylase OS=Bos taur
+    7.9e-06   30.6   0.6    2.1e-05   29.2   0.6    1.7  1  sp|P05185|CP17A_BOVIN      Steroid 17-alpha-hydroxylase/17,20
+    8.1e-06   30.6   0.4    2.4e-05   29.1   0.4    1.9  1  sp|O55071|CP2BJ_MOUSE      Cytochrome P450 2B19 OS=Mus muscul
+    8.3e-06   30.5   2.6    8.3e-06   30.5   0.1    2.2  1  sp|P56592|CP1A2_CANLF      Cytochrome P450 1A2 OS=Canis lupus
+    8.3e-06   30.5   0.0      2e-05   29.3   0.0    1.7  1  sp|O77810|CP1A2_CALJA      Cytochrome P450 1A2 OS=Callithrix 
+    8.3e-06   30.5   0.4    2.3e-05   29.1   0.4    1.8  1  sp|P00186|CP1A2_MOUSE      Cytochrome P450 1A2 OS=Mus musculu
+    8.6e-06   30.5   0.5    1.9e-05   29.4   0.5    1.6  1  sp|Q9DBG1|CP27A_MOUSE      Sterol 26-hydroxylase, mitochondri
+    9.6e-06   30.3   2.5    2.6e-05   29.0   2.5    1.8  1  sp|P10634|CP2DQ_RAT        Cytochrome P450 2D26 OS=Rattus nor
+    9.6e-06   30.3   1.0    1.8e-05   29.5   1.0    1.5  1  sp|Q9UVC3|CP51_CUNEL       Lanosterol 14-alpha demethylase OS
+    9.7e-06   30.3   1.2    1.4e-05   29.8   0.1    1.9  1  sp|P05176|CP1A1_RABIT      Cytochrome P450 1A1 OS=Oryctolagus
+      1e-05   30.3   1.2    2.6e-05   29.0   1.2    1.8  1  sp|P05093|CP17A_HUMAN      Steroid 17-alpha-hydroxylase/17,20
+
+
+Domain annotation for each sequence (and alignments):
+>> sp|C4B644|CPVDH_PSEAH  Vitamin D(3) 25-hydroxylase OS=Pseudonocardia autotrophica OX=2074 GN=vdh PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   43.3   2.9   1.2e-13   7.4e-10       2      33 .]     224     255 ..     223     255 .. 0.98
+   2 ?   -0.5   0.0       8.7   5.6e+04      21      32 ..     267     278 ..     266     279 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 43.3 bits;  conditional E-value: 1.2e-13
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            eelva+++lLl+AGheTT+n+i++++l+Ll+h
+  sp|C4B644|CPVDH_PSEAH 224 EELVAMAMLLLIAGHETTVNLIGNGVLALLTH 255
+                            8******************************9 PP
+
+  == domain 2  score: -0.5 bits;  conditional E-value: 8.7
+        ihelix_seed_hmm  21 naiswalllLlr 32 
+                            ++is+a+ ++lr
+  sp|C4B644|CPVDH_PSEAH 267 SLISSAVEEFLR 278
+                            79********98 PP
+
+>> sp|O08336|CYPB_BACSU  Bifunctional cytochrome P450/NADPH--P450 reductase 2 OS=Bacillus subtilis (strain 168) OX=22430
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   40.8   0.2   7.2e-13   4.6e-09       1      33 []     254     286 ..     254     286 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 40.8 bits;  conditional E-value: 7.2e-13
+       ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           de+++++++++l+AGheTT+ ++s+a+++Ll+h
+  sp|O08336|CYPB_BACSU 254 DENIRYQIITFLIAGHETTSGLLSFAIYCLLTH 286
+                           79******************************9 PP
+
+>> sp|P53554|BIOI_BACSU  Biotin biosynthesis cytochrome P450 OS=Bacillus subtilis (strain 168) OX=224308 GN=bioI PE=1 SV
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   40.7   0.3   7.5e-13   4.8e-09       1      33 []     222     254 ..     222     254 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 40.7 bits;  conditional E-value: 7.5e-13
+       ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           +ee++++++lL +AGheTT+n+is+++l+Ll h
+  sp|P53554|BIOI_BACSU 222 EEEAASTCILLAIAGHETTVNLISNSVLCLLQH 254
+                           69*****************************98 PP
+
+>> sp|Q9HCS2|CP4FC_HUMAN  Cytochrome P450 4F12 OS=Homo sapiens OX=9606 GN=CYP4F12 PE=1 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   38.4   0.0     4e-12   2.6e-08       1      33 []     315     347 ..     315     347 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 38.4 bits;  conditional E-value: 4e-12
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de+++a + +++++Gh+TT++ +sw+l+ L+rh
+  sp|Q9HCS2|CP4FC_HUMAN 315 DEDIRAEADTFMFGGHDTTASGLSWVLYNLARH 347
+                            79******************************9 PP
+
+>> sp|P98187|CP4F8_HUMAN  Cytochrome P450 4F8 OS=Homo sapiens OX=9606 GN=CYP4F8 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   38.5   0.0   3.9e-12   2.5e-08       1      33 []     315     347 ..     315     347 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 38.5 bits;  conditional E-value: 3.9e-12
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de+++a + +++++Gh+TT++ +sw+l+ L+rh
+  sp|P98187|CP4F8_HUMAN 315 DEDIRAEADTFMFGGHDTTASGLSWVLYNLARH 347
+                            79******************************9 PP
+
+>> sp|P14779|CPXB_PRIM2  Bifunctional cytochrome P450/NADPH--P450 reductase OS=Priestia megaterium (strain ATCC 14581 / 
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   38.6   0.1   3.5e-12   2.3e-08       1      33 []     252     284 ..     252     284 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 38.6 bits;  conditional E-value: 3.5e-12
+       ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           de+++++++++l+AGheTT+ ++s+al++L+++
+  sp|P14779|CPXB_PRIM2 252 DENIRYQIITFLIAGHETTSGLLSFALYFLVKN 284
+                           79****************************997 PP
+
+>> sp|O87605|PIKC_STRVZ  Cytochrome P450 monooxygenase PikC OS=Streptomyces venezuelae OX=54571 GN=pikC PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   37.4   1.8   8.7e-12   5.6e-08       2      33 .]     231     262 ..     230     262 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 37.4 bits;  conditional E-value: 8.7e-12
+       ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           eel++++  LlvAGheTT+n+i++++++Ll+h
+  sp|O87605|PIKC_STRVZ 231 EELLGMAHILLVAGHETTVNLIANGMYALLSH 262
+                           89****************************98 PP
+
+>> sp|P10632|CP2C8_HUMAN  Cytochrome P450 2C8 OS=Homo sapiens OX=9606 GN=CYP2C8 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   37.2   1.3   9.6e-12   6.2e-08       2      33 .]     285     316 ..     284     316 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 37.2 bits;  conditional E-value: 9.6e-12
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e+lv++v +L+vAG+eTT+++++++lllLl+h
+  sp|P10632|CP2C8_HUMAN 285 ENLVGTVADLFVAGTETTSTTLRYGLLLLLKH 316
+                            79****************************99 PP
+
+>> sp|Q99N16|CP4F3_MOUSE  Cytochrome P450 4F3 OS=Mus musculus OX=10090 GN=Cyp4f3 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   38.2   0.0   4.6e-12     3e-08       1      33 []     315     347 ..     315     347 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 38.2 bits;  conditional E-value: 4.6e-12
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de+++a + +++++Gh+TT++ +sw+l+ L+rh
+  sp|Q99N16|CP4F3_MOUSE 315 DEDIRAEADTFMFGGHDTTASGLSWILYNLARH 347
+                            79******************************9 PP
+
+>> sp|O08394|CYPD_BACSU  Bifunctional cytochrome P450/NADPH--P450 reductase 1 OS=Bacillus subtilis (strain 168) OX=22430
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   37.1   0.2   1.1e-11   7.1e-08       1      33 []     254     286 ..     254     286 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 37.1 bits;  conditional E-value: 1.1e-11
+       ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           de+++ +++++l+AGheTT+ ++s+a+++Ll+h
+  sp|O08394|CYPD_BACSU 254 DENIRFQIITFLIAGHETTSGLLSFATYFLLKH 286
+                           79*****************************99 PP
+
+>> sp|Q4G0S4|C27C1_HUMAN  Cytochrome P450 27C1 OS=Homo sapiens OX=9606 GN=CYP27C1 PE=1 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   36.8   0.9   1.4e-11   8.7e-08       2      33 .]     338     369 ..     337     369 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 36.8 bits;  conditional E-value: 1.4e-11
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            +e+ a+v+++l+AG++TT++++sw+++lL+rh
+  sp|Q4G0S4|C27C1_HUMAN 338 QEIYANVTEMLLAGVDTTSFTLSWTVYLLARH 369
+                            79*****************************9 PP
+
+>> sp|Q9Y8G7|C505_FUSOX  Bifunctional cytochrome P450/NADPH--P450 reductase OS=Fusarium oxysporum OX=5507 GN=CYP505 PE=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   37.6   0.3   7.2e-12   4.7e-08       1      33 []     253     285 ..     253     285 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 37.6 bits;  conditional E-value: 7.2e-12
+       ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           de+++++ +++l+AGheTT+ ++s+a++ Ll++
+  sp|Q9Y8G7|C505_FUSOX 253 DENITNQLITFLIAGHETTSGTLSFAMYQLLKN 285
+                           79*****************************98 PP
+
+>> sp|O35132|CP27B_RAT  25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cyp27b1 
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   36.6   0.2   1.6e-11     1e-07       3      33 .]     299     329 ..     297     329 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 36.6 bits;  conditional E-value: 1.6e-11
+      ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           +v++v++Ll+AG++T++n++swal++L+rh
+  sp|O35132|CP27B_RAT 299 SIVGNVTELLLAGVDTVSNTLSWALYELSRH 329
+                          699***************************9 PP
+
+>> sp|P56590|CP1A1_CANLF  Cytochrome P450 1A1 OS=Canis lupus familiaris OX=9615 GN=CYP1A1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   36.0   0.2   2.4e-11   1.5e-07       1      33 []     308     340 ..     308     340 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 36.0 bits;  conditional E-value: 2.4e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de +v+ vl+L+ AG +T+t+aisw+ll+L+++
+  sp|P56590|CP1A1_CANLF 308 DEKIVNVVLDLFGAGFDTVTTAISWSLLYLVTN 340
+                            789****************************98 PP
+
+>> sp|A8WGA0|C27C1_DANRE  Cytochrome P450 27C1 OS=Danio rerio OX=7955 GN=cyp27c1 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.9   1.2   2.6e-11   1.7e-07       2      33 .]     337     368 ..     336     368 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 35.9 bits;  conditional E-value: 2.6e-11
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            ee+ a+++++l+AG++TT++++sw+++lL+rh
+  sp|A8WGA0|C27C1_DANRE 337 EEIYANMTEMLLAGVDTTSFTLSWSTYLLARH 368
+                            8******************************9 PP
+
+>> sp|P78329|CP4F2_HUMAN  Cytochrome P450 4F2 OS=Homo sapiens OX=9606 GN=CYP4F2 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.6   0.0   3.1e-11     2e-07       1      33 []     315     347 ..     315     347 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 35.6 bits;  conditional E-value: 3.1e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de+++a + ++++ Gh+TT++ +sw+l++L++h
+  sp|P78329|CP4F2_HUMAN 315 DEDIRAEADTFMFEGHDTTASGLSWVLYHLAKH 347
+                            79*****************************99 PP
+
+>> sp|Q9EP75|CP4FE_MOUSE  Leukotriene-B4 omega-hydroxylase 3 OS=Mus musculus OX=10090 GN=Cyp4f14 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.5   0.0   3.3e-11   2.1e-07       1      33 []     315     347 ..     315     347 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 35.5 bits;  conditional E-value: 3.3e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de+++a + ++++ Gh+TT++ +sw+l+ L+rh
+  sp|Q9EP75|CP4FE_MOUSE 315 DEDIRAEADTFMFEGHDTTASGLSWILYNLARH 347
+                            79******************************9 PP
+
+>> sp|P20817|CP4AE_RAT  Cytochrome P450 4A14 OS=Rattus norvegicus OX=10116 GN=Cyp4a14 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.6   0.1   3.2e-11     2e-07       1      33 []     305     337 ..     305     337 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 35.6 bits;  conditional E-value: 3.2e-11
+      ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                          de+l+a v ++++ Gh+TT++ isw++++L++h
+  sp|P20817|CP4AE_RAT 305 DEDLRAEVDTFMFEGHDTTASGISWVFYALATH 337
+                          79******************************9 PP
+
+>> sp|Q08477|CP4F3_HUMAN  Cytochrome P450 4F3 OS=Homo sapiens OX=9606 GN=CYP4F3 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.6   0.0   3.1e-11     2e-07       1      33 []     315     347 ..     315     347 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 35.6 bits;  conditional E-value: 3.1e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de+++a + ++++ Gh+TT++ +sw+l++L++h
+  sp|Q08477|CP4F3_HUMAN 315 DEDIRAEADTFMFEGHDTTASGLSWVLYHLAKH 347
+                            79*****************************99 PP
+
+>> sp|O15528|CP27B_HUMAN  25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial OS=Homo sapiens OX=9606 GN=CYP27B1 PE=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.8   0.4   2.8e-11   1.8e-07       3      33 .]     306     336 ..     304     336 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 35.8 bits;  conditional E-value: 2.8e-11
+        ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                             ++++v++Ll+AG++T++n++swal++L+rh
+  sp|O15528|CP27B_HUMAN 306 SILGNVTELLLAGVDTVSNTLSWALYELSRH 336
+                            6899**************************9 PP
+
+>> sp|P20816|CP4A2_RAT  Cytochrome P450 4A2 OS=Rattus norvegicus OX=10116 GN=Cyp4a2 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.6   0.1   3.2e-11     2e-07       1      33 []     302     334 ..     302     334 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 35.6 bits;  conditional E-value: 3.2e-11
+      ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                          de+l+a v ++++ Gh+TT++ isw++++L++h
+  sp|P20816|CP4A2_RAT 302 DEDLRAEVDTFMFEGHDTTASGISWVFYALATH 334
+                          79******************************9 PP
+
+>> sp|O35084|CP27B_MOUSE  25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial OS=Mus musculus OX=10090 GN=Cyp27b1 PE=
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.7   0.2   2.9e-11   1.9e-07       3      33 .]     306     336 ..     304     336 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 35.7 bits;  conditional E-value: 2.9e-11
+        ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                             +v++v++Ll+AG++T++n++sw+l++L+rh
+  sp|O35084|CP27B_MOUSE 306 SIVGNVTELLLAGVDTVSNTLSWTLYELSRH 336
+                            699***************************9 PP
+
+>> sp|P51869|CP4F4_RAT  Cytochrome P450 4F4 OS=Rattus norvegicus OX=10116 GN=Cyp4f4 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.5   0.0   3.3e-11   2.1e-07       1      33 []     315     347 ..     315     347 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 35.5 bits;  conditional E-value: 3.3e-11
+      ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                          de+++a + ++++ Gh+TT++ +sw+l+ L+rh
+  sp|P51869|CP4F4_RAT 315 DEDIRAEADTFMFEGHDTTASGLSWILYNLARH 347
+                          79******************************9 PP
+
+>> sp|O35728|CP4AE_MOUSE  Cytochrome P450 4A14 OS=Mus musculus OX=10090 GN=Cyp4a14 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.4   0.1   3.7e-11   2.4e-07       1      33 []     305     337 ..     305     337 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 35.4 bits;  conditional E-value: 3.7e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de+l+a v ++++ Gh+TT++ isw++++L++h
+  sp|O35728|CP4AE_MOUSE 305 DEDLRAEVDTFMFEGHDTTASGISWIFYALATH 337
+                            79******************************9 PP
+
+>> sp|Q6TBX7|LUT1_ARATH  Carotene epsilon-monooxygenase, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=CYP97C1 PE=1 S
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.2   0.2   4.3e-11   2.8e-07       3      33 .]     336     366 ..     334     366 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 35.2 bits;  conditional E-value: 4.3e-11
+       ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           +l++  l++lvAGheTT+++++w+l+lL+++
+  sp|Q6TBX7|LUT1_ARATH 336 QLRDDLLSMLVAGHETTGSVLTWTLYLLSKN 366
+                           588999**********************998 PP
+
+>> sp|Q02928|CP4AB_HUMAN  Cytochrome P450 4A11 OS=Homo sapiens OX=9606 GN=CYP4A11 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.8   0.1   5.5e-11   3.5e-07       1      33 []     308     340 ..     308     340 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 34.8 bits;  conditional E-value: 5.5e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            d++l+a v ++++ Gh+TT++ isw+l++L++h
+  sp|Q02928|CP4AB_HUMAN 308 DKDLRAEVDTFMFEGHDTTASGISWILYALATH 340
+                            789*****************************9 PP
+
+>> sp|Q5TCH4|CP4AM_HUMAN  Cytochrome P450 4A22 OS=Homo sapiens OX=9606 GN=CYP4A22 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.8   0.1   5.5e-11   3.5e-07       1      33 []     308     340 ..     308     340 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 34.8 bits;  conditional E-value: 5.5e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            d++l+a v ++++ Gh+TT++ isw+l++L++h
+  sp|Q5TCH4|CP4AM_HUMAN 308 DKDLRAEVDTFMFEGHDTTASGISWILYALATH 340
+                            789*****************************9 PP
+
+>> sp|Q9HBI6|CP4FB_HUMAN  Cytochrome P450 4F11 OS=Homo sapiens OX=9606 GN=CYP4F11 PE=1 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.6   0.0   3.1e-11     2e-07       1      33 []     315     347 ..     315     347 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 35.6 bits;  conditional E-value: 3.1e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de+++a + ++++ Gh+TT++ +sw+l++L++h
+  sp|Q9HBI6|CP4FB_HUMAN 315 DEDIRAEADTFMFEGHDTTASGLSWVLYHLAKH 347
+                            79*****************************99 PP
+
+>> sp|Q6GUR1|CP1A1_MACMU  Cytochrome P450 1A1 OS=Macaca mulatta OX=9544 GN=CYP1A1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.7   0.1   6.2e-11     4e-07       1      33 []     304     336 ..     304     336 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 34.7 bits;  conditional E-value: 6.2e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de +v+ vl+L+ AG +T+t+aisw+l++L+++
+  sp|Q6GUR1|CP1A1_MACMU 304 DEKIVNVVLDLFGAGFDTVTTAISWSLMYLVTN 336
+                            789****************************98 PP
+
+>> sp|P33616|CP1A1_MACFA  Cytochrome P450 1A1 OS=Macaca fascicularis OX=9541 GN=CYP1A1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.7   0.1   6.2e-11     4e-07       1      33 []     304     336 ..     304     336 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 34.7 bits;  conditional E-value: 6.2e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de +v+ vl+L+ AG +T+t+aisw+l++L+++
+  sp|P33616|CP1A1_MACFA 304 DEKIVNVVLDLFGAGFDTVTTAISWSLMYLVTN 336
+                            789****************************98 PP
+
+>> sp|P04798|CP1A1_HUMAN  Cytochrome P450 1A1 OS=Homo sapiens OX=9606 GN=CYP1A1 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.1   0.1   4.4e-11   2.8e-07       1      33 []     304     336 ..     304     336 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 35.1 bits;  conditional E-value: 4.4e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de ++++vl+L+ AG +T+t+aisw+l++L+++
+  sp|P04798|CP1A1_HUMAN 304 DEKIINIVLDLFGAGFDTVTTAISWSLMYLVMN 336
+                            789***************************987 PP
+
+>> sp|P00178|CP2B4_RABIT  Cytochrome P450 2B4 OS=Oryctolagus cuniculus OX=9986 GN=CYP2B4 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.2   1.3   8.8e-11   5.7e-07       1      33 []     285     317 ..     285     317 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 34.2 bits;  conditional E-value: 8.8e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            +++l+ +vl+L++AG+eTT++++++++ll+l++
+  sp|P00178|CP2B4_RABIT 285 HQNLILTVLSLFFAGTETTSTTLRYGFLLMLKY 317
+                            689***************************986 PP
+
+>> sp|P24464|CP4AC_RAT  Cytochrome P450 4A12 OS=Rattus norvegicus OX=10116 GN=Cyp4a12 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.7   0.0   1.3e-10   8.2e-07       1      33 []     306     338 ..     306     338 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 33.7 bits;  conditional E-value: 1.3e-10
+      ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                          d++l+a v ++++ Gh+TT++ isw++++L+++
+  sp|P24464|CP4AC_RAT 306 DKDLRAEVDTFMFEGHDTTASGISWIFYALATN 338
+                          789****************************98 PP
+
+>> sp|P18326|CPXE_STRGO  Vitamin D3 dihydroxylase OS=Streptomyces griseolus OX=1909 GN=cyp105A1 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.1   2.2   9.7e-11   6.2e-07       2      33 .]     232     263 ..     231     263 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 34.1 bits;  conditional E-value: 9.7e-11
+       ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           eel+++++lLl+AGheTT++++s ++++Ll h
+  sp|P18326|CPXE_STRGO 232 EELISTAMLLLIAGHETTASMTSLSVITLLDH 263
+                           8****************************965 PP
+
+>> sp|Q86W10|CP4Z1_HUMAN  Cytochrome P450 4Z1 OS=Homo sapiens OX=9606 GN=CYP4Z1 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.9   0.0   1.1e-10   7.3e-07      10      33 .]     310     333 ..     303     333 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 33.9 bits;  conditional E-value: 1.1e-10
+        ihelix_seed_hmm  10 lLlvAGheTTtnaiswalllLlrh 33 
+                            ++++AGh+TT++aisw+l++L+++
+  sp|Q86W10|CP4Z1_HUMAN 310 TFMFAGHDTTSSAISWILYCLAKY 333
+                            89********************86 PP
+
+>> sp|A2A974|CP4CB_MOUSE  Cytochrome P450 4A12B OS=Mus musculus OX=10090 GN=Cyp4a12b PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.7   0.0   1.3e-10   8.2e-07       1      33 []     306     338 ..     306     338 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 33.7 bits;  conditional E-value: 1.3e-10
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            d++l+a v ++++ Gh+TT++ isw++++L+++
+  sp|A2A974|CP4CB_MOUSE 306 DKDLRAEVDTFMFEGHDTTASGISWIFYALATN 338
+                            789****************************98 PP
+
+>> sp|Q06367|CP1A1_CAVPO  Cytochrome P450 1A1 OS=Cavia porcellus OX=10141 GN=CYP1A1 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.4   0.1   7.5e-11   4.8e-07       1      33 []     300     332 ..     300     332 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 34.4 bits;  conditional E-value: 7.5e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            d+ ++++vl+L+ AG +T t+aisw+ll+L+++
+  sp|Q06367|CP1A1_CAVPO 300 DQKIIGIVLDLFGAGFDTITTAISWSLLYLVMN 332
+                            6789**************************987 PP
+
+>> sp|Q91WL5|CP4CA_MOUSE  Cytochrome P450 4A12A OS=Mus musculus OX=10090 GN=Cyp4a12a PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.7   0.0   1.3e-10   8.2e-07       1      33 []     306     338 ..     306     338 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 33.7 bits;  conditional E-value: 1.3e-10
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            d++l+a v ++++ Gh+TT++ isw++++L+++
+  sp|Q91WL5|CP4CA_MOUSE 306 DKDLRAEVDTFMFEGHDTTASGISWIFYALATN 338
+                            789****************************98 PP
+
+>> sp|P08683|CP2CB_RAT  Cytochrome P450 2C11 OS=Rattus norvegicus OX=10116 GN=Cyp2c11 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.7   1.8   1.3e-10   8.3e-07       2      33 .]     285     316 ..     284     316 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 33.7 bits;  conditional E-value: 1.3e-10
+      ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                          e lva+v++++ AG+eTT+++++++lllLl+h
+  sp|P08683|CP2CB_RAT 285 ESLVATVTDMFGAGTETTSTTLRYGLLLLLKH 316
+                          679***************************99 PP
+
+>> sp|O54749|CP2J5_MOUSE  Cytochrome P450 2J5 OS=Mus musculus OX=10090 GN=Cyp2j5 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.4   0.9   1.6e-10     1e-06       1      32 [.     297     328 ..     297     329 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 33.4 bits;  conditional E-value: 1.6e-10
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlr 32 
+                            +e+l+++ l+L+++G+eTT+++++wall++++
+  sp|O54749|CP2J5_MOUSE 297 EENLISTTLDLFLGGTETTSSTLRWALLYMSS 328
+                            599***************************87 PP
+
+>> sp|Q64458|CP2CT_MOUSE  Cytochrome P450 2C29 OS=Mus musculus OX=10090 GN=Cyp2c29 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.2   1.4   1.8e-10   1.2e-06       2      33 .]     285     316 ..     284     316 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 33.2 bits;  conditional E-value: 1.8e-10
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e+l++++ +L+ AG+eTT++++++alllLl++
+  sp|Q64458|CP2CT_MOUSE 285 ENLASTINDLFGAGTETTSTTLRYALLLLLKY 316
+                            89****************************86 PP
+
+>> sp|Q0D1W9|CYPE3_ASPTN  Self-sufficient cytochrome P450 monooxygenase CYP505E3 OS=Aspergillus terreus (strain NIH 2624
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.1   0.4     2e-10   1.3e-06       4      33 .]     258     287 ..     255     287 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 33.1 bits;  conditional E-value: 2e-10
+        ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            ++++v+++l+AGheTT+ ++s+++++Ll +
+  sp|Q0D1W9|CYPE3_ASPTN 258 IINNVITFLIAGHETTSGLLSFTFYYLLQN 287
+                            89*************************987 PP
+
+>> sp|P56591|CP1A1_SHEEP  Cytochrome P450 1A1 OS=Ovis aries OX=9940 GN=CYP1A1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.2   0.2   8.6e-11   5.5e-07       1      32 [.     311     342 ..     311     343 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 34.2 bits;  conditional E-value: 8.6e-11
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlr 32 
+                            de +++ v++L+ AG +T+t+aisw+ll+L++
+  sp|P56591|CP1A1_SHEEP 311 DEKIINVVMDLFGAGFDTVTTAISWSLLYLVT 342
+                            789***************************87 PP
+
+>> sp|Q3LFU0|CP1A1_BALAC  Cytochrome P450 1A1 OS=Balaenoptera acutorostrata OX=9767 GN=CYP1A1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.9   0.1   2.2e-10   1.4e-06       1      32 [.     308     339 ..     308     340 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 32.9 bits;  conditional E-value: 2.2e-10
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlr 32 
+                            de +v+ v++L+ AG +T+t+aisw+l++L++
+  sp|Q3LFU0|CP1A1_BALAC 308 DEKIVNVVMDLFGAGFDTVTTAISWSLMYLVT 339
+                            789***************************87 PP
+
+>> sp|P36423|THAS_MOUSE  Thromboxane-A synthase OS=Mus musculus OX=10090 GN=Tbxas1 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -0.6   0.0       9.5   6.1e+04      20      33 .]     152     165 ..     151     165 .. 0.89
+   2 !   31.4   1.1     7e-10   4.5e-06       2      33 .]     329     360 ..     328     360 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: -0.6 bits;  conditional E-value: 9.5
+       ihelix_seed_hmm  20 tnaiswalllLlrh 33 
+                           t++is a+ lL+ h
+  sp|P36423|THAS_MOUSE 152 TPLISQACELLVAH 165
+                           899********988 PP
+
+  == domain 2  score: 31.4 bits;  conditional E-value: 7e-10
+       ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           +e+v+++ l+l+AGhe  tn++s++++lL++h
+  sp|P36423|THAS_MOUSE 329 DEIVGQAFLFLIAGHEVITNTLSFITYLLATH 360
+                           8******************************9 PP
+
+>> sp|P15129|CP4B1_RAT  Cytochrome P450 4B1 OS=Rattus norvegicus OX=10116 GN=Cyp4b1 PE=1 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.0   0.0   2.1e-10   1.3e-06       2      32 ..     303     333 ..     302     334 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 33.0 bits;  conditional E-value: 2.1e-10
+      ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                           el+a v ++++ Gh+TTt+ isw+l++++ 
+  sp|P15129|CP4B1_RAT 303 AELRAEVDTFMFEGHDTTTSGISWFLYCMAL 333
+                          69***************************96 PP
+
+>> sp|Q00557|CP1A1_MESAU  Cytochrome P450 1A1 OS=Mesocricetus auratus OX=10036 GN=CYP1A1 PE=2 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.9   0.1   2.3e-10   1.5e-06       1      33 []     308     340 ..     308     340 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 32.9 bits;  conditional E-value: 2.3e-10
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            d+ +++++++L+ AG +T+t+aisw+l++L+++
+  sp|Q00557|CP1A1_MESAU 308 DDRVINIIVDLFGAGFDTVTTAISWSLMYLVTN 340
+                            67899**************************98 PP
+
+>> sp|P11712|CP2C9_HUMAN  Cytochrome P450 2C9 OS=Homo sapiens OX=9606 GN=CYP2C9 PE=1 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.7   1.0   2.6e-10   1.7e-06       4      33 .]     287     316 ..     285     316 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 32.7 bits;  conditional E-value: 2.6e-10
+        ihelix_seed_hmm   4 lvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            l +++++L+ AG+eTT++++++alllLl+h
+  sp|P11712|CP2C9_HUMAN 287 LENTAVDLFGAGTETTSTTLRYALLLLLKH 316
+                            6799************************99 PP
+
+>> sp|Q55080|CP119_SULAC  Cytochrome P450 119 OS=Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBR
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.5   0.1   3.1e-10     2e-06       2      32 ..     197     227 ..     196     228 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 32.5 bits;  conditional E-value: 3.1e-10
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                             e++++++lLl+AG+eTTtn+is++++ + r
+  sp|Q55080|CP119_SULAC 197 IEKLGYIILLLIAGNETTTNLISNSVIDFTR 227
+                            5899**********************98876 PP
+
+>> sp|P33260|CP2CI_HUMAN  Cytochrome P450 2C18 OS=Homo sapiens OX=9606 GN=CYP2C18 PE=1 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.7   1.0   2.6e-10   1.7e-06       2      33 .]     285     316 ..     284     316 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 32.7 bits;  conditional E-value: 2.6e-10
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e l+a+v++++ AG+eTT+++++++lllLl++
+  sp|P33260|CP2CI_HUMAN 285 ESLIATVTDMFGAGTETTSTTLRYGLLLLLKY 316
+                            679***************************86 PP
+
+>> sp|Q6NT55|CP4FN_HUMAN  Ultra-long-chain fatty acid omega-hydroxylase OS=Homo sapiens OX=9606 GN=CYP4F22 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.6   0.0   1.4e-10   8.9e-07       1      33 []     322     354 ..     322     354 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 33.6 bits;  conditional E-value: 1.4e-10
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            de+++a + ++++ Gh+TT++ isw+l+ L+++
+  sp|Q6NT55|CP4FN_HUMAN 322 DEDIRAEADTFMFEGHDTTSSGISWMLFNLAKY 354
+                            79****************************986 PP
+
+>> sp|Q5KQT6|CP1A2_FELCA  Cytochrome P450 1A2 OS=Felis catus OX=9685 GN=CYP1A2 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.1   0.2   4.2e-10   2.7e-06       1      33 []     300     332 ..     300     332 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 32.1 bits;  conditional E-value: 4.2e-10
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            +e +v+l+ +++ AG +T+t+aisw+l++L+++
+  sp|Q5KQT6|CP1A2_FELCA 300 HEKIVSLINDIFGAGFDTVTTAISWSLMYLVTN 332
+                            688****************************98 PP
+
+>> sp|P08516|CP4AA_RAT  Cytochrome P450 4A10 OS=Rattus norvegicus OX=10116 GN=Cyp4a10 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.6   0.0   5.8e-10   3.7e-06       1      33 []     307     339 ..     307     339 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 31.6 bits;  conditional E-value: 5.8e-10
+      ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                          d++l+a v ++++ Gh+TT++  sw++++L++h
+  sp|P08516|CP4AA_RAT 307 DKDLRAEVDTFMFEGHDTTASGVSWIFYALATH 339
+                          789*****************************9 PP
+
+>> sp|P9WPP9|CP51_MYCTU  Sterol 14alpha-demethylase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 G
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.9   0.8   4.7e-10     3e-06       2      33 .]     244     275 ..     243     275 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 31.9 bits;  conditional E-value: 4.7e-10
+       ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           +e++++++++++AGh+T++ + sw+l++L rh
+  sp|P9WPP9|CP51_MYCTU 244 DEITGMFISMMFAGHHTSSGTASWTLIELMRH 275
+                           8******************************9 PP
+
+>> sp|P00184|CP1A1_MOUSE  Cytochrome P450 1A1 OS=Mus musculus OX=10090 GN=Cyp1a1 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.1   0.2     4e-10   2.6e-06       1      33 []     308     340 ..     308     340 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 32.1 bits;  conditional E-value: 4e-10
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            d+ ++ +vl+L+ AG +T+t+aisw+l++L+++
+  sp|P00184|CP1A1_MOUSE 308 DDKVITIVLDLFGAGFDTVTTAISWSLMYLVTN 340
+                            6788999************************98 PP
+
+>> sp|P33261|CP2CJ_HUMAN  Cytochrome P450 2C19 OS=Homo sapiens OX=9606 GN=CYP2C19 PE=1 SV=4
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.3   2.5   3.5e-10   2.3e-06       2      33 .]     285     316 ..     284     316 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 32.3 bits;  conditional E-value: 3.5e-10
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e+lv ++ +Ll AG+eTT++++++alllLl+h
+  sp|P33261|CP2CJ_HUMAN 285 ENLVITAADLLGAGTETTSTTLRYALLLLLKH 316
+                            799***************************99 PP
+
+>> sp|Q9GMC8|CP17A_FELCA  Steroid 17-alpha-hydroxylase/17,20 lyase OS=Felis catus OX=9685 GN=CYP17A1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.7   0.6   5.6e-10   3.6e-06       1      33 []     289     321 ..     289     321 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 31.7 bits;  conditional E-value: 5.6e-10
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            d++++ ++ +++ AG+eTTt++ +w++ +Ll+h
+  sp|Q9GMC8|CP17A_FELCA 289 DKHILTTIGDIFGAGVETTTSVVRWTVAFLLHH 321
+                            789****************************98 PP
+
+>> sp|P33274|CP4F1_RAT  Cytochrome P450 4F1 OS=Rattus norvegicus OX=10116 GN=Cyp4f1 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.5   0.0   6.2e-10     4e-06       1      32 [.     315     346 ..     315     347 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 31.5 bits;  conditional E-value: 6.2e-10
+      ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlr 32 
+                          de+++a + ++++ Gh+TT++ +sw+l+ L++
+  sp|P33274|CP4F1_RAT 315 DEDIRAEADTFMFEGHDTTASGLSWILYNLAN 346
+                          79****************************96 PP
+
+>> sp|P56654|CP237_MOUSE  Cytochrome P450 2C37 OS=Mus musculus OX=10090 GN=Cyp2c37 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.8   2.0     5e-10   3.2e-06       2      33 .]     285     316 ..     284     316 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 31.8 bits;  conditional E-value: 5e-10
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e+l+ +v++L+ AG+eTT++++++a+llLl++
+  sp|P56654|CP237_MOUSE 285 EHLAITVTDLFSAGTETTSTTLRYAILLLLKY 316
+                            899***************************86 PP
+
+>> sp|O88833|CP4AA_MOUSE  Cytochrome P450 4A10 OS=Mus musculus OX=10090 GN=Cyp4a10 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.6   0.0   5.8e-10   3.7e-06       1      33 []     307     339 ..     307     339 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 31.6 bits;  conditional E-value: 5.8e-10
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            d++l+a v ++++ Gh+TT++  sw++++L++h
+  sp|O88833|CP4AA_MOUSE 307 DKDLRAEVDTFMFEGHDTTASGVSWIFYALATH 339
+                            789*****************************9 PP
+
+>> sp|P13584|CP4B1_HUMAN  Cytochrome P450 4B1 OS=Homo sapiens OX=9606 GN=CYP4B1 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.7   0.0   5.3e-10   3.4e-06       3      32 ..     304     333 ..     302     334 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 31.7 bits;  conditional E-value: 5.3e-10
+        ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlr 32 
+                            +l+a v ++++ Gh+TTt+ isw+l++++ 
+  sp|P13584|CP4B1_HUMAN 304 DLRAEVDTFMFEGHDTTTSGISWFLYCMAL 333
+                            799*************************96 PP
+
+>> sp|Q6VVW9|CP2R1_MOUSE  Vitamin D 25-hydroxylase OS=Mus musculus OX=10090 GN=Cyp2r1 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.8   0.5   2.4e-10   1.6e-06       2      32 ..     298     328 ..     297     329 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 32.8 bits;  conditional E-value: 2.4e-10
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                            e+l+  v +L++AG+eTTtn+++wa+l+++ 
+  sp|Q6VVW9|CP2R1_MOUSE 298 ENLIFSVGELIIAGTETTTNVLRWAILFMAL 328
+                            789999***********************96 PP
+
+>> sp|Q6VVX0|CP2R1_HUMAN  Vitamin D 25-hydroxylase OS=Homo sapiens OX=9606 GN=CYP2R1 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.8   0.5   2.4e-10   1.6e-06       2      32 ..     298     328 ..     297     329 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 32.8 bits;  conditional E-value: 2.4e-10
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                            e+l+  v +L++AG+eTTtn+++wa+l+++ 
+  sp|Q6VVX0|CP2R1_HUMAN 298 ENLIFSVGELIIAGTETTTNVLRWAILFMAL 328
+                            789999***********************96 PP
+
+>> sp|Q91X77|CY250_MOUSE  Cytochrome P450 2C50 OS=Mus musculus OX=10090 GN=Cyp2c50 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.7   2.4   5.3e-10   3.4e-06       2      33 .]     285     316 ..     284     316 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 31.7 bits;  conditional E-value: 5.3e-10
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e+l+ +v++L+ AG+eTT++++++alllLl++
+  sp|Q91X77|CY250_MOUSE 285 EHLAITVTDLFSAGTETTSTTLRYALLLLLKY 316
+                            899***************************86 PP
+
+>> sp|Q64391|CP1A2_CAVPO  Cytochrome P450 1A2 OS=Cavia porcellus OX=10141 GN=CYP1A2 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.1   0.0   8.3e-10   5.3e-06       3      32 ..     306     335 ..     304     336 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 31.1 bits;  conditional E-value: 8.3e-10
+        ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlr 32 
+                             +v+lv +++ AG +T+t+aisw+ll+L++
+  sp|Q64391|CP1A2_CAVPO 306 KIVNLVNDIFGAGFDTVTTAISWSLLYLVT 335
+                            69**************************87 PP
+
+>> sp|P79761|CP1A5_CHICK  Cytochrome P450 1A5 OS=Gallus gallus OX=9031 GN=CYP1A5 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.4   0.2   1.5e-09   9.3e-06       2      33 .]     314     345 ..     313     345 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 30.4 bits;  conditional E-value: 1.5e-09
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e +++lv +++ AG +T+t+a+sw+l++L+++
+  sp|P79761|CP1A5_CHICK 314 EKIINLVNDIFGAGFDTVTTALSWSLMYLVTY 345
+                            679**************************986 PP
+
+>> sp|Q07973|CP24A_HUMAN  1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial OS=Homo sapiens OX=9606 GN=CYP24A1 PE
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.4   0.1   7.1e-10   4.5e-06       2      33 .]     314     345 ..     313     345 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 31.4 bits;  conditional E-value: 7.1e-10
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            +el a+v++L++A++eTT+n++ w+l+ L+r+
+  sp|Q07973|CP24A_HUMAN 314 KELYAAVTELQLAAVETTANSLMWILYNLSRN 345
+                            799***************************98 PP
+
+>> sp|O64989|C90B1_ARATH  Steroid (22S)-hydroxylase OS=Arabidopsis thaliana OX=3702 GN=CYP90B1 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.2   0.5   7.7e-10   4.9e-06       2      31 ..     299     328 ..     298     330 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 31.2 bits;  conditional E-value: 7.7e-10
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLl 31 
+                            e++++l+l+Ll+AGheT++ ai+ a+++L 
+  sp|O64989|C90B1_ARATH 299 EQILDLILSLLFAGHETSSVAIALAIFFLQ 328
+                            89**************************95 PP
+
+>> sp|Q9JMA7|CP341_MOUSE  Cytochrome P450 3A41 OS=Mus musculus OX=10090 GN=Cyp3a41a PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.5   0.3   6.2e-10     4e-06       3      33 .]     295     325 ..     293     325 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 31.5 bits;  conditional E-value: 6.2e-10
+        ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e++a+ +++++AG eTT++++s++l++L++h
+  sp|Q9JMA7|CP341_MOUSE 295 EITAQSIVFIFAGYETTSSTLSFTLYCLATH 325
+                            89****************************9 PP
+
+>> sp|Q09128|CP24A_RAT  1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cyp24a
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.4   0.1   7.1e-10   4.5e-06       2      33 .]     314     345 ..     313     345 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 31.4 bits;  conditional E-value: 7.1e-10
+      ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                          +el a+v++L++A++eTT+n++ w+l+ L+r+
+  sp|Q09128|CP24A_RAT 314 KELYAAVTELQLAAVETTANSLMWILYNLSRN 345
+                          799***************************98 PP
+
+>> sp|A0A517FNC6|C9B51_TRIFG  Cholesterol 22-monohydroxylase CYP90B51 OS=Trigonella foenum-graecum OX=78534 GN=CYP90B51 
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.2   0.7   8.2e-10   5.3e-06       2      30 ..     276     304 ..     275     304 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 31.2 bits;  conditional E-value: 8.2e-10
+            ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllL 30 
+                                e++++l+l+Ll+AGheT++ +i+ a+++L
+  sp|A0A517FNC6|C9B51_TRIFG 276 EQILDLILSLLFAGHETSSVSIALAIYFL 304
+                                89*************************98 PP
+
+>> sp|Q64441|CP24A_MOUSE  1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial OS=Mus musculus OX=10090 GN=Cyp24a1 P
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.4   0.1   7.1e-10   4.5e-06       2      33 .]     314     345 ..     313     345 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 31.4 bits;  conditional E-value: 7.1e-10
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            +el a+v++L++A++eTT+n++ w+l+ L+r+
+  sp|Q64441|CP24A_MOUSE 314 KELYAAVTELQLAAVETTANSLMWILYNLSRN 345
+                            799***************************98 PP
+
+>> sp|Q9HGE0|FUM6_GIBM7  Bifunctional cytochrome P450/NADPH--P450 reductase OS=Gibberella moniliformis (strain M3125 / F
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.0   0.2   9.5e-10   6.1e-06       3      33 .]     273     303 ..     272     303 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 31.0 bits;  conditional E-value: 9.5e-10
+       ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            +v++ l++l+AGheTT++++s+ +++Ll++
+  sp|Q9HGE0|FUM6_GIBM7 273 SIVDNLLTFLIAGHETTSSLLSFCFYYLLEN 303
+                           6999*************************97 PP
+
+>> sp|Q9QXF7|CP2J4_RAT  Cytochrome P450 2J4 OS=Rattus norvegicus OX=10116 GN=CYP2J4 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.8   1.0   1.1e-09   6.8e-06       9      32 ..     305     328 ..     297     329 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 30.8 bits;  conditional E-value: 1.1e-09
+      ihelix_seed_hmm   9 llLlvAGheTTtnaiswalllLlr 32 
+                          l+L++AG+eTT+++++wall+++ 
+  sp|Q9QXF7|CP2J4_RAT 305 LDLFFAGTETTSTTLRWALLYMAL 328
+                          89********************96 PP
+
+>> sp|P9WPP3|CP124_MYCTU  Methyl-branched lipid omega-hydroxylase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.2   0.1   7.9e-10   5.1e-06       3      33 .]     256     286 ..     254     286 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 31.2 bits;  conditional E-value: 7.9e-10
+        ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e++++++lL vAG+eTT nai+ ++l+L+r+
+  sp|P9WPP3|CP124_MYCTU 256 EIASFFILLVVAGNETTRNAITHGVLALSRY 286
+                            9****************************97 PP
+
+>> sp|Q95328|CP17A_HORSE  Steroid 17-alpha-hydroxylase/17,20 lyase OS=Equus caballus OX=9796 GN=CYP17A1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.0   0.1   1.9e-09   1.2e-05       1      32 [.     289     320 ..     289     321 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 30.0 bits;  conditional E-value: 1.9e-09
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlr 32 
+                            d++++a++ +++ AG+eTTt++  w++ +Ll+
+  sp|Q95328|CP17A_HORSE 289 DKHILATIGDIFGAGVETTTSVVKWIVAFLLH 320
+                            789***************************95 PP
+
+>> sp|O54750|CP2J6_MOUSE  Cytochrome P450 2J6 OS=Mus musculus OX=10090 GN=Cyp2j6 PE=2 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.8   1.0   1.1e-09   6.8e-06       9      32 ..     305     328 ..     297     329 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 30.8 bits;  conditional E-value: 1.1e-09
+        ihelix_seed_hmm   9 llLlvAGheTTtnaiswalllLlr 32 
+                            l+L++AG+eTT+++++wall+++ 
+  sp|O54750|CP2J6_MOUSE 305 LDLFFAGTETTSTTLRWALLYMAL 328
+                            89********************96 PP
+
+>> sp|P51589|CP2J2_HUMAN  Cytochrome P450 2J2 OS=Homo sapiens OX=9606 GN=CYP2J2 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.8   1.0   1.1e-09   6.9e-06       9      32 ..     306     329 ..     298     330 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 30.8 bits;  conditional E-value: 1.1e-09
+        ihelix_seed_hmm   9 llLlvAGheTTtnaiswalllLlr 32 
+                            l+L++AG+eTT+++++wall+++ 
+  sp|P51589|CP2J2_HUMAN 306 LDLFFAGTETTSTTLRWALLYMAL 329
+                            89********************96 PP
+
+>> sp|P70687|CP17A_MESAU  Steroid 17-alpha-hydroxylase/17,20 lyase OS=Mesocricetus auratus OX=10036 GN=CYP17A1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.5   1.7   1.3e-09   8.6e-06       3      33 .]     291     321 ..     289     321 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 30.5 bits;  conditional E-value: 1.3e-09
+        ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            +++a++ +++ AG+eTT++++sw++ +Ll++
+  sp|P70687|CP17A_MESAU 291 HILATIADIFGAGIETTASVLSWIIAFLLHN 321
+                            799**************************87 PP
+
+>> sp|P04799|CP1A2_RAT  Cytochrome P450 1A2 OS=Rattus norvegicus OX=10116 GN=Cyp1a2 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.3   0.2   1.5e-09   9.6e-06       2      32 ..     303     333 ..     302     334 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 30.3 bits;  conditional E-value: 1.5e-09
+      ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                          e +v++v +++ AG eT+t+ai+w++llL++
+  sp|P04799|CP1A2_RAT 303 EKIVNIVNDIFGAGFETVTTAIFWSILLLVT 333
+                          679**************************87 PP
+
+>> sp|P05183|CP3A2_RAT  Cytochrome P450 3A2 OS=Rattus norvegicus OX=10116 GN=Cyp3a2 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.7   0.3   1.1e-09   7.3e-06       2      33 .]     294     325 ..     293     325 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 30.7 bits;  conditional E-value: 1.1e-09
+      ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           e++a+ + +++AG eTT++++s++l++L++h
+  sp|P05183|CP3A2_RAT 294 VEIIAQSVIFIFAGYETTSSTLSFVLYFLATH 325
+                          59*****************************9 PP
+
+>> sp|P08686|CP21A_HUMAN  Steroid 21-hydroxylase OS=Homo sapiens OX=9606 GN=CYP21A2 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.4   3.0   1.4e-09   9.2e-06       7      33 .]     285     311 ..     281     311 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 30.4 bits;  conditional E-value: 1.4e-09
+        ihelix_seed_hmm   7 lvllLlvAGheTTtnaiswalllLlrh 33 
+                            ++++Ll++G+eTT+n++swa+ +Ll+h
+  sp|P08686|CP21A_HUMAN 285 AAVDLLIGGTETTANTLSWAVVFLLHH 311
+                            689**********************98 PP
+
+>> sp|P00187|CP1A2_RABIT  Cytochrome P450 1A2 OS=Oryctolagus cuniculus OX=9986 GN=CYP1A2 PE=1 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.3   0.1   1.6e-09     1e-05       2      33 .]     305     336 ..     304     336 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 30.3 bits;  conditional E-value: 1.6e-09
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e +v+lv +++ AG +T t+a+sw+l++L+++
+  sp|P00187|CP1A2_RABIT 305 EKIVNLVNDIFGAGFDTITTALSWSLMYLVTN 336
+                            679***************************98 PP
+
+>> sp|Q91Z85|CP17A_PERLE  Steroid 17-alpha-hydroxylase/17,20 lyase OS=Peromyscus leucopus OX=10041 GN=Cyp17a1 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.1   0.4   1.7e-09   1.1e-05       1      33 []     287     319 ..     287     319 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 30.1 bits;  conditional E-value: 1.7e-09
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            d++++++v +++ AG+eTTt+++ w++ +Ll++
+  sp|Q91Z85|CP17A_PERLE 287 DSHILSTVGDFFGAGIETTTSVLCWIVAFLLHN 319
+                            789****************************87 PP
+
+>> sp|P17178|CP27A_RAT  Sterol 26-hydroxylase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cyp27a1 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.1   0.2   1.8e-09   1.1e-05       6      33 .]     329     356 ..     325     356 .. 0.88
+
+  Alignments for each domain:
+  == domain 1  score: 30.1 bits;  conditional E-value: 1.8e-09
+      ihelix_seed_hmm   6 alvllLlvAGheTTtnaiswalllLlrh 33 
+                          +++ +L++AG++TT+n+++wal++L+++
+  sp|P17178|CP27A_RAT 329 GTFPELILAGVDTTSNTLTWALYHLSKN 356
+                          566689*******************998 PP
+
+>> sp|P05178|CP2C6_RAT  Cytochrome P450 2C6 OS=Rattus norvegicus OX=10116 GN=Cyp2c6 PE=2 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.9   1.3     2e-09   1.3e-05       2      32 ..     285     315 ..     284     316 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 29.9 bits;  conditional E-value: 2e-09
+      ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                          e+l  +v++L+ AG+eTT++++++alllLl+
+  sp|P05178|CP2C6_RAT 285 ENLSITVTDLFGAGTETTSTTLRYALLLLLK 315
+                          667789***********************97 PP
+
+>> sp|P05177|CP1A2_HUMAN  Cytochrome P450 1A2 OS=Homo sapiens OX=9606 GN=CYP1A2 PE=1 SV=4
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.3   0.0   1.6e-09     1e-05       2      32 ..     305     335 ..     304     336 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 30.3 bits;  conditional E-value: 1.6e-09
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                            e +v+lv +++ AG +T+t+aisw+l++L++
+  sp|P05177|CP1A2_HUMAN 305 EKIVNLVNDIFGAGFDTVTTAISWSLMYLVT 335
+                            679**************************87 PP
+
+>> sp|Q5RBQ1|CP1A2_PONAB  Cytochrome P450 1A2 OS=Pongo abelii OX=9601 GN=CYP1A2 PE=2 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.3   0.0   1.6e-09     1e-05       2      32 ..     305     335 ..     304     336 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 30.3 bits;  conditional E-value: 1.6e-09
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                            e +v+lv +++ AG +T+t+aisw+l++L++
+  sp|Q5RBQ1|CP1A2_PONAB 305 EKIVNLVNDIFGAGFDTVTTAISWSLMYLVT 335
+                            679**************************87 PP
+
+>> sp|Q1PS23|AMO_ARTAN  Amorpha-4,11-diene 12-monooxygenase OS=Artemisia annua OX=35608 GN=CYP71AV1 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.1   0.0   1.8e-09   1.2e-05       2      32 ..     288     318 ..     287     319 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 30.1 bits;  conditional E-value: 1.8e-09
+      ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                          ++++a++l+++ AG++T++++i wa+ +L++
+  sp|Q1PS23|AMO_ARTAN 288 DNIKAIILDMFGAGTDTSSSTIEWAISELIK 318
+                          89*************************9986 PP
+
+>> sp|O18963|CP2E1_BOVIN  Cytochrome P450 2E1 OS=Bos taurus OX=9913 GN=CYP2E1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.9   1.0   2.1e-09   1.3e-05       2      33 .]     287     318 ..     286     318 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 29.9 bits;  conditional E-value: 2.1e-09
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e+++ +v +Ll+AG+eTT+++++++ll L ++
+  sp|O18963|CP2E1_BOVIN 287 ENIAVTVADLLFAGTETTSTTLRYGLLILMKY 318
+                            899************************99875 PP
+
+>> sp|G5EJN7|CYPD6_PHACH  Self-sufficient cytochrome P450 monooxygenase CYP505E3 OS=Phanerodontia chrysosporium OX=28222
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.7   0.1   2.4e-09   1.6e-05       3      33 .]     253     283 ..     251     283 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 29.7 bits;  conditional E-value: 2.4e-09
+        ihelix_seed_hmm   3 elvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            +++++ l++l+AGhe T+ ++++al++L+++
+  sp|G5EJN7|CYPD6_PHACH 253 NIRNNLLTFLIAGHEPTSGLLTFALYYLIKN 283
+                            89**************************997 PP
+
+>> sp|P17177|CP27A_RABIT  Sterol 26-hydroxylase, mitochondrial OS=Oryctolagus cuniculus OX=9986 GN=CYP27A1 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.8   0.4   2.2e-09   1.4e-05      10      33 .]     334     357 ..     327     357 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 29.8 bits;  conditional E-value: 2.2e-09
+        ihelix_seed_hmm  10 lLlvAGheTTtnaiswalllLlrh 33 
+                            +Ll+AG++TT+n+++wal++L+++
+  sp|P17177|CP27A_RABIT 334 ELLLAGVDTTSNTLTWALYHLSKN 357
+                            59*******************998 PP
+
+>> sp|Q9GMC7|CP17A_BISBI  Steroid 17-alpha-hydroxylase/17,20 lyase OS=Bison bison OX=9901 GN=CYP17A1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.6   0.3   2.5e-09   1.6e-05       5      33 .]     293     321 ..     290     321 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 29.6 bits;  conditional E-value: 2.5e-09
+        ihelix_seed_hmm   5 valvllLlvAGheTTtnaiswalllLlrh 33 
+                            +a++ +++ AG+eTTt++i w++ +Ll+h
+  sp|Q9GMC7|CP17A_BISBI 293 LATIGDIFGAGVETTTSVIKWIVAYLLHH 321
+                            689************************98 PP
+
+>> sp|P08682|CP2E1_RABIT  Cytochrome P450 2E1 OS=Oryctolagus cuniculus OX=9986 GN=CYP2E1 PE=2 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.5   0.7       2.1   1.4e+04      19      30 ..       7      18 ..       7      19 .. 0.92
+   2 !   30.8   1.2   1.1e-09   6.8e-06       2      33 .]     287     318 ..     286     318 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 1.5 bits;  conditional E-value: 2.1
+        ihelix_seed_hmm 19 TtnaiswalllL 30
+                           T+ +++w+++lL
+  sp|P08682|CP2E1_RABIT  7 TVALLGWMVILL 18
+                           8899*****998 PP
+
+  == domain 2  score: 30.8 bits;  conditional E-value: 1.1e-09
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e+++ +v ++++AG+eTT+++++++ll Ll+h
+  sp|P08682|CP2E1_RABIT 287 ENIAVTVADMFFAGTETTSTTLRYGLLILLKH 318
+                            899***************************99 PP
+
+>> sp|P11715|CP17A_RAT  Steroid 17-alpha-hydroxylase/17,20 lyase OS=Rattus norvegicus OX=10116 GN=Cyp17a1 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.7   0.6   1.1e-09   7.1e-06       2      33 .]     289     320 ..     288     320 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 30.7 bits;  conditional E-value: 1.1e-09
+      ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                           +++a+v +++ AG+eTTt+++ w+l +L+++
+  sp|P11715|CP17A_RAT 289 RHILATVGDIFGAGIETTTTVLKWILAFLVHN 320
+                          689**************************987 PP
+
+>> sp|Q9MZY0|CP2E1_CANLF  Cytochrome P450 2E1 OS=Canis lupus familiaris OX=9615 GN=CYP2E1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.8   0.6   2.3e-09   1.5e-05       2      33 .]     287     318 ..     286     318 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 29.8 bits;  conditional E-value: 2.3e-09
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            ++++ +v +L++AG+eTT+++++++ll L ++
+  sp|Q9MZY0|CP2E1_CANLF 287 DNIAVTVADLFFAGTETTSTTLRYGLLILMKY 318
+                            8999***********************99875 PP
+
+>> sp|P00185|CP1A1_RAT  Cytochrome P450 1A1 OS=Rattus norvegicus OX=10116 GN=Cyp1a1 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.5   0.2   2.6e-09   1.7e-05       1      33 []     308     340 ..     308     340 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 29.5 bits;  conditional E-value: 2.6e-09
+      ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                          d+ ++ +v +L+ AG +T t+aisw+l++L+++
+  sp|P00185|CP1A1_RAT 308 DDKVITIVFDLFGAGFDTITTAISWSLMYLVTN 340
+                          6778999************************98 PP
+
+>> sp|Q93VK5|LUT5_ARATH  Protein LUTEIN DEFICIENT 5, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=CYP97A3 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.3   0.6   3.3e-09   2.1e-05       2      32 ..     365     395 ..     364     396 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 29.3 bits;  conditional E-value: 3.3e-09
+       ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                           ++l++  +++l+AGheT++ +++w+++lL +
+  sp|Q93VK5|LUT5_ARATH 365 KQLRDDLMTMLIAGHETSAAVLTWTFYLLTT 395
+                           68999************************76 PP
+
+>> sp|P00191|CP21A_BOVIN  Steroid 21-hydroxylase OS=Bos taurus OX=9913 GN=CYP21 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.6   2.1   1.2e-09   7.7e-06       8      33 .]     284     309 ..     279     309 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 30.6 bits;  conditional E-value: 1.2e-09
+        ihelix_seed_hmm   8 vllLlvAGheTTtnaiswalllLlrh 33 
+                            v++L+++G+eTT++++swa+ +Ll+h
+  sp|P00191|CP21A_BOVIN 284 VVDLFIGGTETTASTLSWAVAFLLHH 309
+                            89**********************98 PP
+
+>> sp|P05185|CP17A_BOVIN  Steroid 17-alpha-hydroxylase/17,20 lyase OS=Bos taurus OX=9913 GN=CYP17A1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.2   0.6   3.3e-09   2.1e-05       5      33 .]     293     321 ..     291     321 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 29.2 bits;  conditional E-value: 3.3e-09
+        ihelix_seed_hmm   5 valvllLlvAGheTTtnaiswalllLlrh 33 
+                            +a++ +++ AG+eTTt++i w++ +Ll+h
+  sp|P05185|CP17A_BOVIN 293 LATIGDIFGAGVETTTSVIKWIVAYLLHH 321
+                            689************************98 PP
+
+>> sp|O55071|CP2BJ_MOUSE  Cytochrome P450 2B19 OS=Mus musculus OX=10090 GN=Cyp2b19 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.1   0.4   3.7e-09   2.4e-05       1      33 []     286     318 ..     286     318 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 29.1 bits;  conditional E-value: 3.7e-09
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            +++lv  vl+L++AG+eTT++++++++l +l++
+  sp|O55071|CP2BJ_MOUSE 286 HQNLVISVLSLFFAGTETTSTTLRYSFLIMLKY 318
+                            5899999***********************986 PP
+
+>> sp|P56592|CP1A2_CANLF  Cytochrome P450 1A2 OS=Canis lupus familiaris OX=9615 GN=CYP1A2 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.5   0.1   1.3e-09   8.3e-06       2      33 .]     301     332 ..     300     332 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 30.5 bits;  conditional E-value: 1.3e-09
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            e +v+l+ +++ AG +T+t+aisw+l++L+ +
+  sp|P56592|CP1A2_CANLF 301 EKIVNLINDIFGAGFDTVTTAISWSLMYLVAN 332
+                            679**************************976 PP
+
+>> sp|O77810|CP1A2_CALJA  Cytochrome P450 1A2 OS=Callithrix jacchus OX=9483 GN=CYP1A2 PE=2 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.3   0.0   3.1e-09     2e-05       2      32 ..     305     335 ..     304     336 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 29.3 bits;  conditional E-value: 3.1e-09
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                            e +v+lv +++ AG +T t+aisw+l++L++
+  sp|O77810|CP1A2_CALJA 305 EKIVNLVNDIFGAGFDTITTAISWSLMYLVT 335
+                            679**************************87 PP
+
+>> sp|P00186|CP1A2_MOUSE  Cytochrome P450 1A2 OS=Mus musculus OX=10090 GN=Cyp1a2 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.1   0.4   3.6e-09   2.3e-05       2      32 ..     303     333 ..     302     333 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 29.1 bits;  conditional E-value: 3.6e-09
+        ihelix_seed_hmm   2 eelvalvllLlvAGheTTtnaiswalllLlr 32 
+                            e +v++v +++ AG +T+t+ai+w++llL++
+  sp|P00186|CP1A2_MOUSE 303 EKIVNIVNDIFGAGFDTVTTAITWSILLLVT 333
+                            789**************************86 PP
+
+>> sp|Q9DBG1|CP27A_MOUSE  Sterol 26-hydroxylase, mitochondrial OS=Mus musculus OX=10090 GN=Cyp27a1 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.4   0.5   2.9e-09   1.9e-05       5      32 ..     328     355 ..     324     356 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 29.4 bits;  conditional E-value: 2.9e-09
+        ihelix_seed_hmm   5 valvllLlvAGheTTtnaiswalllLlr 32 
+                            ++++ +Ll+AG++TT+n+++wal++L++
+  sp|Q9DBG1|CP27A_MOUSE 328 IGTFPELLLAGVDTTSNTLTWALYHLSK 355
+                            667778********************86 PP
+
+>> sp|P10634|CP2DQ_RAT  Cytochrome P450 2D26 OS=Rattus norvegicus OX=10116 GN=Cyp2d26 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.0   2.5     4e-09   2.6e-05       1      33 []     295     327 ..     295     327 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 29.0 bits;  conditional E-value: 4e-09
+      ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                          de+l+  v++L++AG+ TT++++swalll++ h
+  sp|P10634|CP2DQ_RAT 295 DENLRLVVIDLFMAGMVTTSTTLSWALLLMILH 327
+                          799***************************987 PP
+
+>> sp|Q9UVC3|CP51_CUNEL  Lanosterol 14-alpha demethylase OS=Cunninghamella elegans OX=4853 GN=CYP51 PE=3 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.5   1.0   2.8e-09   1.8e-05       1      32 [.     284     315 ..     284     316 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 29.5 bits;  conditional E-value: 2.8e-09
+       ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlr 32 
+                           d++++++++++l++G++T++++++w++l+L++
+  sp|Q9UVC3|CP51_CUNEL 284 DHHIAGMMIAVLFGGQHTSATTSAWTILELAN 315
+                           789***************************97 PP
+
+>> sp|P05176|CP1A1_RABIT  Cytochrome P450 1A1 OS=Oryctolagus cuniculus OX=9986 GN=CYP1A1 PE=2 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.8   0.1   2.2e-09   1.4e-05       5      32 ..     312     339 ..     308     340 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 29.8 bits;  conditional E-value: 2.2e-09
+        ihelix_seed_hmm   5 valvllLlvAGheTTtnaiswalllLlr 32 
+                            v++vl+L+ AG +T+t+aisw+l++L++
+  sp|P05176|CP1A1_RABIT 312 VGIVLDLFGAGFDTVTTAISWSLMYLVT 339
+                            789***********************87 PP
+
+>> sp|P05093|CP17A_HUMAN  Steroid 17-alpha-hydroxylase/17,20 lyase OS=Homo sapiens OX=9606 GN=CYP17A1 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   29.0   1.2     4e-09   2.6e-05       1      33 []     289     321 ..     289     321 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 29.0 bits;  conditional E-value: 4e-09
+        ihelix_seed_hmm   1 deelvalvllLlvAGheTTtnaiswalllLlrh 33 
+                            d++++ ++ +++ AG+eTTt++  w+l +Ll++
+  sp|P05093|CP17A_HUMAN 289 DNHILTTIGDIFGAGVETTTSVVKWTLAFLLHN 321
+                            789****************************87 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (33 nodes)
+Target sequences:                        653  (464441 residues searched)
+Passed MSV filter:                       398  (0.609495); expected 13.1 (0.02)
+Passed bias filter:                      397  (0.607963); expected 13.1 (0.02)
+Passed Vit filter:                       378  (0.578867); expected 0.7 (0.001)
+Passed Fwd filter:                       349  (0.534456); expected 0.0 (1e-05)
+Initial search space (Z):             700000  [as set by --Z on cmdline]
+Domain search space  (domZ):             109  [number of targets reported over threshold]
+# CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00.04
+# Mc/sec: 347.44
+//
+# Alignment of 109 hits satisfying inclusion thresholds saved to: ../output/hmm_search_1/uniprot/p450_reviewed_5star/5//ihelixhits_e_0p00001_z_700000_T_.aln
+[ok]

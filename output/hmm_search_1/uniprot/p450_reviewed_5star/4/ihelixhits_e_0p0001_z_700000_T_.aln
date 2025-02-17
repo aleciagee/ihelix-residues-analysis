@@ -1,0 +1,488 @@
+# STOCKHOLM 1.0
+#=GF ID ihelix_seed_hmm
+#=GF AU hmmsearch (HMMER 3.3.2)
+
+#=GS sp|C4B644|CPVDH_PSEAH/224-255     DE [subseq from] Vitamin D(3) 25-hydroxylase OS=Pseudonocardia autotrophica OX=2074 GN=vdh PE=1 SV=1
+#=GS sp|O08336|CYPB_BACSU/254-286      DE [subseq from] Bifunctional cytochrome P450/NADPH--P450 reductase 2 OS=Bacillus subtilis (strain 168) OX=224308 GN=cypB PE=1 SV=1
+#=GS sp|P53554|BIOI_BACSU/222-254      DE [subseq from] Biotin biosynthesis cytochrome P450 OS=Bacillus subtilis (strain 168) OX=224308 GN=bioI PE=1 SV=1
+#=GS sp|Q9HCS2|CP4FC_HUMAN/315-347     DE [subseq from] Cytochrome P450 4F12 OS=Homo sapiens OX=9606 GN=CYP4F12 PE=1 SV=3
+#=GS sp|P98187|CP4F8_HUMAN/315-347     DE [subseq from] Cytochrome P450 4F8 OS=Homo sapiens OX=9606 GN=CYP4F8 PE=1 SV=1
+#=GS sp|P14779|CPXB_PRIM2/252-284      DE [subseq from] Bifunctional cytochrome P450/NADPH--P450 reductase OS=Priestia megaterium (strain ATCC 14581 / DSM 32 / CCUG 1817 / JCM 2506 / NBRC 15308 / NCIMB 9376 / NCTC 10342 / NRRL B-14308 / VKM B-512 / Ford 19) OX=1348623 GN=cyp102A1 PE=1 SV=2
+#=GS sp|O87605|PIKC_STRVZ/231-262      DE [subseq from] Cytochrome P450 monooxygenase PikC OS=Streptomyces venezuelae OX=54571 GN=pikC PE=1 SV=1
+#=GS sp|P10632|CP2C8_HUMAN/285-316     DE [subseq from] Cytochrome P450 2C8 OS=Homo sapiens OX=9606 GN=CYP2C8 PE=1 SV=2
+#=GS sp|Q99N16|CP4F3_MOUSE/315-347     DE [subseq from] Cytochrome P450 4F3 OS=Mus musculus OX=10090 GN=Cyp4f3 PE=1 SV=2
+#=GS sp|O08394|CYPD_BACSU/254-286      DE [subseq from] Bifunctional cytochrome P450/NADPH--P450 reductase 1 OS=Bacillus subtilis (strain 168) OX=224308 GN=cypD PE=1 SV=1
+#=GS sp|Q4G0S4|C27C1_HUMAN/338-369     DE [subseq from] Cytochrome P450 27C1 OS=Homo sapiens OX=9606 GN=CYP27C1 PE=1 SV=3
+#=GS sp|Q9Y8G7|C505_FUSOX/253-285      DE [subseq from] Bifunctional cytochrome P450/NADPH--P450 reductase OS=Fusarium oxysporum OX=5507 GN=CYP505 PE=1 SV=1
+#=GS sp|O35132|CP27B_RAT/299-329       DE [subseq from] 25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cyp27b1 PE=2 SV=2
+#=GS sp|P56590|CP1A1_CANLF/308-340     DE [subseq from] Cytochrome P450 1A1 OS=Canis lupus familiaris OX=9615 GN=CYP1A1 PE=2 SV=1
+#=GS sp|A8WGA0|C27C1_DANRE/337-368     DE [subseq from] Cytochrome P450 27C1 OS=Danio rerio OX=7955 GN=cyp27c1 PE=1 SV=2
+#=GS sp|P78329|CP4F2_HUMAN/315-347     DE [subseq from] Cytochrome P450 4F2 OS=Homo sapiens OX=9606 GN=CYP4F2 PE=1 SV=1
+#=GS sp|Q9EP75|CP4FE_MOUSE/315-347     DE [subseq from] Leukotriene-B4 omega-hydroxylase 3 OS=Mus musculus OX=10090 GN=Cyp4f14 PE=1 SV=1
+#=GS sp|P20817|CP4AE_RAT/305-337       DE [subseq from] Cytochrome P450 4A14 OS=Rattus norvegicus OX=10116 GN=Cyp4a14 PE=1 SV=2
+#=GS sp|Q08477|CP4F3_HUMAN/315-347     DE [subseq from] Cytochrome P450 4F3 OS=Homo sapiens OX=9606 GN=CYP4F3 PE=1 SV=2
+#=GS sp|O15528|CP27B_HUMAN/306-336     DE [subseq from] 25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial OS=Homo sapiens OX=9606 GN=CYP27B1 PE=1 SV=1
+#=GS sp|P20816|CP4A2_RAT/302-334       DE [subseq from] Cytochrome P450 4A2 OS=Rattus norvegicus OX=10116 GN=Cyp4a2 PE=1 SV=2
+#=GS sp|O35084|CP27B_MOUSE/306-336     DE [subseq from] 25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial OS=Mus musculus OX=10090 GN=Cyp27b1 PE=1 SV=2
+#=GS sp|P51869|CP4F4_RAT/315-347       DE [subseq from] Cytochrome P450 4F4 OS=Rattus norvegicus OX=10116 GN=Cyp4f4 PE=1 SV=1
+#=GS sp|O35728|CP4AE_MOUSE/305-337     DE [subseq from] Cytochrome P450 4A14 OS=Mus musculus OX=10090 GN=Cyp4a14 PE=1 SV=1
+#=GS sp|Q6TBX7|LUT1_ARATH/336-366      DE [subseq from] Carotene epsilon-monooxygenase, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=CYP97C1 PE=1 SV=1
+#=GS sp|Q02928|CP4AB_HUMAN/308-340     DE [subseq from] Cytochrome P450 4A11 OS=Homo sapiens OX=9606 GN=CYP4A11 PE=1 SV=1
+#=GS sp|Q5TCH4|CP4AM_HUMAN/308-340     DE [subseq from] Cytochrome P450 4A22 OS=Homo sapiens OX=9606 GN=CYP4A22 PE=1 SV=1
+#=GS sp|Q9HBI6|CP4FB_HUMAN/315-347     DE [subseq from] Cytochrome P450 4F11 OS=Homo sapiens OX=9606 GN=CYP4F11 PE=1 SV=3
+#=GS sp|Q6GUR1|CP1A1_MACMU/304-336     DE [subseq from] Cytochrome P450 1A1 OS=Macaca mulatta OX=9544 GN=CYP1A1 PE=2 SV=1
+#=GS sp|P33616|CP1A1_MACFA/304-336     DE [subseq from] Cytochrome P450 1A1 OS=Macaca fascicularis OX=9541 GN=CYP1A1 PE=2 SV=1
+#=GS sp|P04798|CP1A1_HUMAN/304-336     DE [subseq from] Cytochrome P450 1A1 OS=Homo sapiens OX=9606 GN=CYP1A1 PE=1 SV=1
+#=GS sp|P00178|CP2B4_RABIT/285-317     DE [subseq from] Cytochrome P450 2B4 OS=Oryctolagus cuniculus OX=9986 GN=CYP2B4 PE=1 SV=1
+#=GS sp|P24464|CP4AC_RAT/306-338       DE [subseq from] Cytochrome P450 4A12 OS=Rattus norvegicus OX=10116 GN=Cyp4a12 PE=1 SV=2
+#=GS sp|P18326|CPXE_STRGO/232-263      DE [subseq from] Vitamin D3 dihydroxylase OS=Streptomyces griseolus OX=1909 GN=cyp105A1 PE=1 SV=2
+#=GS sp|Q86W10|CP4Z1_HUMAN/310-333     DE [subseq from] Cytochrome P450 4Z1 OS=Homo sapiens OX=9606 GN=CYP4Z1 PE=1 SV=1
+#=GS sp|A2A974|CP4CB_MOUSE/306-338     DE [subseq from] Cytochrome P450 4A12B OS=Mus musculus OX=10090 GN=Cyp4a12b PE=1 SV=1
+#=GS sp|Q06367|CP1A1_CAVPO/300-332     DE [subseq from] Cytochrome P450 1A1 OS=Cavia porcellus OX=10141 GN=CYP1A1 PE=1 SV=1
+#=GS sp|Q91WL5|CP4CA_MOUSE/306-338     DE [subseq from] Cytochrome P450 4A12A OS=Mus musculus OX=10090 GN=Cyp4a12a PE=1 SV=2
+#=GS sp|P08683|CP2CB_RAT/285-316       DE [subseq from] Cytochrome P450 2C11 OS=Rattus norvegicus OX=10116 GN=Cyp2c11 PE=1 SV=1
+#=GS sp|O54749|CP2J5_MOUSE/297-328     DE [subseq from] Cytochrome P450 2J5 OS=Mus musculus OX=10090 GN=Cyp2j5 PE=1 SV=1
+#=GS sp|Q64458|CP2CT_MOUSE/285-316     DE [subseq from] Cytochrome P450 2C29 OS=Mus musculus OX=10090 GN=Cyp2c29 PE=1 SV=2
+#=GS sp|Q0D1W9|CYPE3_ASPTN/258-287     DE [subseq from] Self-sufficient cytochrome P450 monooxygenase CYP505E3 OS=Aspergillus terreus (strain NIH 2624 / FGSC A1156) OX=341663 GN=CYP505E3 PE=1 SV=1
+#=GS sp|P56591|CP1A1_SHEEP/311-342     DE [subseq from] Cytochrome P450 1A1 OS=Ovis aries OX=9940 GN=CYP1A1 PE=2 SV=1
+#=GS sp|Q3LFU0|CP1A1_BALAC/308-339     DE [subseq from] Cytochrome P450 1A1 OS=Balaenoptera acutorostrata OX=9767 GN=CYP1A1 PE=2 SV=1
+#=GS sp|P36423|THAS_MOUSE/329-360      DE [subseq from] Thromboxane-A synthase OS=Mus musculus OX=10090 GN=Tbxas1 PE=1 SV=2
+#=GS sp|P15129|CP4B1_RAT/303-333       DE [subseq from] Cytochrome P450 4B1 OS=Rattus norvegicus OX=10116 GN=Cyp4b1 PE=1 SV=3
+#=GS sp|Q00557|CP1A1_MESAU/308-340     DE [subseq from] Cytochrome P450 1A1 OS=Mesocricetus auratus OX=10036 GN=CYP1A1 PE=2 SV=2
+#=GS sp|P11712|CP2C9_HUMAN/287-316     DE [subseq from] Cytochrome P450 2C9 OS=Homo sapiens OX=9606 GN=CYP2C9 PE=1 SV=3
+#=GS sp|Q55080|CP119_SULAC/197-227     DE [subseq from] Cytochrome P450 119 OS=Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770) OX=330779 GN=cyp119 PE=1 SV=1
+#=GS sp|P33260|CP2CI_HUMAN/285-316     DE [subseq from] Cytochrome P450 2C18 OS=Homo sapiens OX=9606 GN=CYP2C18 PE=1 SV=3
+#=GS sp|Q6NT55|CP4FN_HUMAN/322-354     DE [subseq from] Ultra-long-chain fatty acid omega-hydroxylase OS=Homo sapiens OX=9606 GN=CYP4F22 PE=1 SV=1
+#=GS sp|Q5KQT6|CP1A2_FELCA/300-332     DE [subseq from] Cytochrome P450 1A2 OS=Felis catus OX=9685 GN=CYP1A2 PE=2 SV=1
+#=GS sp|P08516|CP4AA_RAT/307-339       DE [subseq from] Cytochrome P450 4A10 OS=Rattus norvegicus OX=10116 GN=Cyp4a10 PE=1 SV=2
+#=GS sp|P9WPP9|CP51_MYCTU/244-275      DE [subseq from] Sterol 14alpha-demethylase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cyp51 PE=1 SV=1
+#=GS sp|P00184|CP1A1_MOUSE/308-340     DE [subseq from] Cytochrome P450 1A1 OS=Mus musculus OX=10090 GN=Cyp1a1 PE=1 SV=2
+#=GS sp|P33261|CP2CJ_HUMAN/285-316     DE [subseq from] Cytochrome P450 2C19 OS=Homo sapiens OX=9606 GN=CYP2C19 PE=1 SV=4
+#=GS sp|Q9GMC8|CP17A_FELCA/289-321     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Felis catus OX=9685 GN=CYP17A1 PE=2 SV=1
+#=GS sp|P33274|CP4F1_RAT/315-346       DE [subseq from] Cytochrome P450 4F1 OS=Rattus norvegicus OX=10116 GN=Cyp4f1 PE=1 SV=1
+#=GS sp|P56654|CP237_MOUSE/285-316     DE [subseq from] Cytochrome P450 2C37 OS=Mus musculus OX=10090 GN=Cyp2c37 PE=1 SV=2
+#=GS sp|O88833|CP4AA_MOUSE/307-339     DE [subseq from] Cytochrome P450 4A10 OS=Mus musculus OX=10090 GN=Cyp4a10 PE=1 SV=2
+#=GS sp|P13584|CP4B1_HUMAN/304-333     DE [subseq from] Cytochrome P450 4B1 OS=Homo sapiens OX=9606 GN=CYP4B1 PE=1 SV=2
+#=GS sp|Q6VVW9|CP2R1_MOUSE/298-328     DE [subseq from] Vitamin D 25-hydroxylase OS=Mus musculus OX=10090 GN=Cyp2r1 PE=1 SV=1
+#=GS sp|Q6VVX0|CP2R1_HUMAN/298-328     DE [subseq from] Vitamin D 25-hydroxylase OS=Homo sapiens OX=9606 GN=CYP2R1 PE=1 SV=1
+#=GS sp|Q91X77|CY250_MOUSE/285-316     DE [subseq from] Cytochrome P450 2C50 OS=Mus musculus OX=10090 GN=Cyp2c50 PE=1 SV=2
+#=GS sp|Q64391|CP1A2_CAVPO/306-335     DE [subseq from] Cytochrome P450 1A2 OS=Cavia porcellus OX=10141 GN=CYP1A2 PE=2 SV=1
+#=GS sp|P79761|CP1A5_CHICK/314-345     DE [subseq from] Cytochrome P450 1A5 OS=Gallus gallus OX=9031 GN=CYP1A5 PE=2 SV=1
+#=GS sp|Q07973|CP24A_HUMAN/314-345     DE [subseq from] 1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial OS=Homo sapiens OX=9606 GN=CYP24A1 PE=1 SV=2
+#=GS sp|O64989|C90B1_ARATH/299-328     DE [subseq from] Steroid (22S)-hydroxylase OS=Arabidopsis thaliana OX=3702 GN=CYP90B1 PE=1 SV=2
+#=GS sp|Q9JMA7|CP341_MOUSE/295-325     DE [subseq from] Cytochrome P450 3A41 OS=Mus musculus OX=10090 GN=Cyp3a41a PE=1 SV=2
+#=GS sp|Q09128|CP24A_RAT/314-345       DE [subseq from] 1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cyp24a1 PE=1 SV=1
+#=GS sp|A0A517FNC6|C9B51_TRIFG/276-304 DE [subseq from] Cholesterol 22-monohydroxylase CYP90B51 OS=Trigonella foenum-graecum OX=78534 GN=CYP90B51 PE=1 SV=1
+#=GS sp|Q64441|CP24A_MOUSE/314-345     DE [subseq from] 1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial OS=Mus musculus OX=10090 GN=Cyp24a1 PE=2 SV=1
+#=GS sp|Q9HGE0|FUM6_GIBM7/273-303      DE [subseq from] Bifunctional cytochrome P450/NADPH--P450 reductase OS=Gibberella moniliformis (strain M3125 / FGSC 7600) OX=334819 GN=FUM6 PE=2 SV=1
+#=GS sp|Q9QXF7|CP2J4_RAT/305-328       DE [subseq from] Cytochrome P450 2J4 OS=Rattus norvegicus OX=10116 GN=CYP2J4 PE=1 SV=1
+#=GS sp|P9WPP3|CP124_MYCTU/256-286     DE [subseq from] Methyl-branched lipid omega-hydroxylase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cyp124 PE=1 SV=1
+#=GS sp|Q95328|CP17A_HORSE/289-320     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Equus caballus OX=9796 GN=CYP17A1 PE=2 SV=1
+#=GS sp|O54750|CP2J6_MOUSE/305-328     DE [subseq from] Cytochrome P450 2J6 OS=Mus musculus OX=10090 GN=Cyp2j6 PE=2 SV=2
+#=GS sp|P51589|CP2J2_HUMAN/306-329     DE [subseq from] Cytochrome P450 2J2 OS=Homo sapiens OX=9606 GN=CYP2J2 PE=1 SV=2
+#=GS sp|P70687|CP17A_MESAU/291-321     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Mesocricetus auratus OX=10036 GN=CYP17A1 PE=2 SV=1
+#=GS sp|P04799|CP1A2_RAT/303-333       DE [subseq from] Cytochrome P450 1A2 OS=Rattus norvegicus OX=10116 GN=Cyp1a2 PE=1 SV=2
+#=GS sp|P05183|CP3A2_RAT/294-325       DE [subseq from] Cytochrome P450 3A2 OS=Rattus norvegicus OX=10116 GN=Cyp3a2 PE=1 SV=2
+#=GS sp|P08686|CP21A_HUMAN/285-311     DE [subseq from] Steroid 21-hydroxylase OS=Homo sapiens OX=9606 GN=CYP21A2 PE=1 SV=2
+#=GS sp|P00187|CP1A2_RABIT/305-336     DE [subseq from] Cytochrome P450 1A2 OS=Oryctolagus cuniculus OX=9986 GN=CYP1A2 PE=1 SV=3
+#=GS sp|Q91Z85|CP17A_PERLE/287-319     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Peromyscus leucopus OX=10041 GN=Cyp17a1 PE=3 SV=1
+#=GS sp|P17178|CP27A_RAT/329-356       DE [subseq from] Sterol 26-hydroxylase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cyp27a1 PE=1 SV=1
+#=GS sp|P05178|CP2C6_RAT/285-315       DE [subseq from] Cytochrome P450 2C6 OS=Rattus norvegicus OX=10116 GN=Cyp2c6 PE=2 SV=2
+#=GS sp|P05177|CP1A2_HUMAN/305-335     DE [subseq from] Cytochrome P450 1A2 OS=Homo sapiens OX=9606 GN=CYP1A2 PE=1 SV=4
+#=GS sp|Q5RBQ1|CP1A2_PONAB/305-335     DE [subseq from] Cytochrome P450 1A2 OS=Pongo abelii OX=9601 GN=CYP1A2 PE=2 SV=3
+#=GS sp|Q1PS23|AMO_ARTAN/288-318       DE [subseq from] Amorpha-4,11-diene 12-monooxygenase OS=Artemisia annua OX=35608 GN=CYP71AV1 PE=1 SV=2
+#=GS sp|O18963|CP2E1_BOVIN/287-318     DE [subseq from] Cytochrome P450 2E1 OS=Bos taurus OX=9913 GN=CYP2E1 PE=2 SV=1
+#=GS sp|G5EJN7|CYPD6_PHACH/253-283     DE [subseq from] Self-sufficient cytochrome P450 monooxygenase CYP505E3 OS=Phanerodontia chrysosporium OX=2822231 GN=CYP505D6 PE=1 SV=1
+#=GS sp|P17177|CP27A_RABIT/334-357     DE [subseq from] Sterol 26-hydroxylase, mitochondrial OS=Oryctolagus cuniculus OX=9986 GN=CYP27A1 PE=1 SV=1
+#=GS sp|Q9GMC7|CP17A_BISBI/293-321     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Bison bison OX=9901 GN=CYP17A1 PE=2 SV=1
+#=GS sp|P08682|CP2E1_RABIT/287-318     DE [subseq from] Cytochrome P450 2E1 OS=Oryctolagus cuniculus OX=9986 GN=CYP2E1 PE=2 SV=2
+#=GS sp|P11715|CP17A_RAT/289-320       DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Rattus norvegicus OX=10116 GN=Cyp17a1 PE=1 SV=2
+#=GS sp|Q9MZY0|CP2E1_CANLF/287-318     DE [subseq from] Cytochrome P450 2E1 OS=Canis lupus familiaris OX=9615 GN=CYP2E1 PE=2 SV=1
+#=GS sp|P00185|CP1A1_RAT/308-340       DE [subseq from] Cytochrome P450 1A1 OS=Rattus norvegicus OX=10116 GN=Cyp1a1 PE=1 SV=1
+#=GS sp|Q93VK5|LUT5_ARATH/365-395      DE [subseq from] Protein LUTEIN DEFICIENT 5, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=CYP97A3 PE=1 SV=1
+#=GS sp|P00191|CP21A_BOVIN/284-309     DE [subseq from] Steroid 21-hydroxylase OS=Bos taurus OX=9913 GN=CYP21 PE=1 SV=2
+#=GS sp|P05185|CP17A_BOVIN/293-321     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Bos taurus OX=9913 GN=CYP17A1 PE=2 SV=1
+#=GS sp|O55071|CP2BJ_MOUSE/286-318     DE [subseq from] Cytochrome P450 2B19 OS=Mus musculus OX=10090 GN=Cyp2b19 PE=2 SV=1
+#=GS sp|P56592|CP1A2_CANLF/301-332     DE [subseq from] Cytochrome P450 1A2 OS=Canis lupus familiaris OX=9615 GN=CYP1A2 PE=1 SV=2
+#=GS sp|O77810|CP1A2_CALJA/305-335     DE [subseq from] Cytochrome P450 1A2 OS=Callithrix jacchus OX=9483 GN=CYP1A2 PE=2 SV=3
+#=GS sp|P00186|CP1A2_MOUSE/303-333     DE [subseq from] Cytochrome P450 1A2 OS=Mus musculus OX=10090 GN=Cyp1a2 PE=1 SV=1
+#=GS sp|Q9DBG1|CP27A_MOUSE/328-355     DE [subseq from] Sterol 26-hydroxylase, mitochondrial OS=Mus musculus OX=10090 GN=Cyp27a1 PE=1 SV=1
+#=GS sp|P10634|CP2DQ_RAT/295-327       DE [subseq from] Cytochrome P450 2D26 OS=Rattus norvegicus OX=10116 GN=Cyp2d26 PE=1 SV=2
+#=GS sp|Q9UVC3|CP51_CUNEL/284-315      DE [subseq from] Lanosterol 14-alpha demethylase OS=Cunninghamella elegans OX=4853 GN=CYP51 PE=3 SV=1
+#=GS sp|P05176|CP1A1_RABIT/312-339     DE [subseq from] Cytochrome P450 1A1 OS=Oryctolagus cuniculus OX=9986 GN=CYP1A1 PE=2 SV=1
+#=GS sp|P05093|CP17A_HUMAN/289-321     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Homo sapiens OX=9606 GN=CYP17A1 PE=1 SV=1
+#=GS sp|Q8HYN1|CP17A_PANTR/289-321     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Pan troglodytes OX=9598 GN=CYP17A1 PE=2 SV=1
+#=GS sp|P05181|CP2E1_HUMAN/287-318     DE [subseq from] Cytochrome P450 2E1 OS=Homo sapiens OX=9606 GN=CYP2E1 PE=1 SV=1
+#=GS sp|Q2XVA1|CP17A_MACFA/289-321     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Macaca fascicularis OX=9541 GN=CYP17A1 PE=2 SV=1
+#=GS sp|Q8HYM9|CP17A_MACMU/289-321     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Macaca mulatta OX=9544 GN=CYP17A1 PE=2 SV=1
+#=GS sp|Q8HYN0|CP17A_PAPCY/289-321     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Papio cynocephalus OX=9556 GN=CYP17A1 PE=2 SV=1
+#=GS sp|Q9GLD2|CP17A_PAPHU/289-321     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Papio hamadryas ursinus OX=36229 GN=CYP17A1 PE=1 SV=1
+#=GS sp|Q2QUC5|C71P1_ORYSJ/297-329     DE [subseq from] Tryptamine 5-hydroxylase OS=Oryza sativa subsp. japonica OX=39947 GN=CYP71P1 PE=1 SV=1
+#=GS sp|Q64562|CP21A_RAT/283-308       DE [subseq from] Steroid 21-hydroxylase OS=Rattus norvegicus OX=10116 GN=Cyp21 PE=1 SV=1
+#=GS sp|Q9N0U7|CP17A_CAPHI/293-321     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Capra hircus OX=9925 GN=CYP17A1 PE=2 SV=1
+#=GS sp|Q6GUQ4|CP2E1_MACMU/287-318     DE [subseq from] Cytochrome P450 2E1 OS=Macaca mulatta OX=9544 GN=CYP2E1 PE=2 SV=1
+#=GS sp|P33266|CP2E1_MACFA/243-274     DE [subseq from] Cytochrome P450 2E1 (Fragment) OS=Macaca fascicularis OX=9541 GN=CYP2E1 PE=2 SV=1
+#=GS sp|Q29497|CP17A_SHEEP/293-321     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Ovis aries OX=9940 GN=CYP17A1 PE=2 SV=2
+#=GS sp|P08684|CP3A4_HUMAN/293-324     DE [subseq from] Cytochrome P450 3A4 OS=Homo sapiens OX=9606 GN=CYP3A4 PE=1 SV=4
+#=GS sp|P49602|CP51_USTMA/314-343      DE [subseq from] Lanosterol 14-alpha demethylase OS=Ustilago maydis (strain 521 / FGSC 9021) OX=237631 GN=ERG11 PE=3 SV=1
+#=GS sp|L7X3S1|MSH_PAPSO/318-346       DE [subseq from] Methyltetrahydroprotoberberine 14-monooxygenase OS=Papaver somniferum OX=3469 GN=CYP82N4 PE=1 SV=1
+#=GS sp|P56655|CP238_MOUSE/285-316     DE [subseq from] Cytochrome P450 2C38 OS=Mus musculus OX=10090 GN=Cyp2c38 PE=1 SV=2
+#=GS sp|Q92109|CP1A3_ONCMY/309-340     DE [subseq from] Cytochrome P450 1A3 OS=Oncorhynchus mykiss OX=8022 GN=cyp1a3 PE=2 SV=2
+#=GS sp|P79383|CP2E1_PIG/287-318       DE [subseq from] Cytochrome P450 2E1 OS=Sus scrofa OX=9823 GN=CYP2E1 PE=2 SV=1
+#=GS sp|Q92110|CP1A1_ONCMY/309-340     DE [subseq from] Cytochrome P450 1A1 OS=Oncorhynchus mykiss OX=8022 GN=cyp1a1 PE=2 SV=2
+#=GS sp|O77809|CP1A2_MACFA/305-335     DE [subseq from] Cytochrome P450 1A2 OS=Macaca fascicularis OX=9541 GN=CYP1A2 PE=1 SV=3
+#=GS sp|P30437|CP17A_ONCMY/297-328     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Oncorhynchus mykiss OX=8022 GN=cyp17a1 PE=2 SV=1
+#=GS sp|Q02318|CP27A_HUMAN/332-353     DE [subseq from] Sterol 26-hydroxylase, mitochondrial OS=Homo sapiens OX=9606 GN=CYP27A1 PE=1 SV=1
+#=GS sp|Q2XNC8|CP2D6_PANTR/292-324     DE [subseq from] Cytochrome P450 2D6 OS=Pan troglodytes OX=9598 GN=CYP2D6 PE=3 SV=1
+#=GS sp|P24456|CP2DA_MOUSE/295-327     DE [subseq from] Cytochrome P450 2D10 OS=Mus musculus OX=10090 GN=Cyp2d10 PE=1 SV=2
+#=GS sp|Q64464|CP3AD_MOUSE/293-322     DE [subseq from] Cytochrome P450 3A13 OS=Mus musculus OX=10090 GN=Cyp3a13 PE=1 SV=1
+#=GS sp|A0A087X1C5|CP2D7_HUMAN/292-324 DE [subseq from] Putative cytochrome P450 2D7 OS=Homo sapiens OX=9606 GN=CYP2D7 PE=5 SV=1
+#=GS sp|Q2XNC9|CP2D6_PANPA/292-324     DE [subseq from] Cytochrome P450 2D6 OS=Pan paniscus OX=9597 GN=CYP2D6 PE=3 SV=1
+#=GS sp|P10635|CP2D6_HUMAN/292-324     DE [subseq from] Cytochrome P450 2D6 OS=Homo sapiens OX=9606 GN=CYP2D6 PE=1 SV=2
+#=GS sp|P20815|CP3A5_HUMAN/293-324     DE [subseq from] Cytochrome P450 3A5 OS=Homo sapiens OX=9606 GN=CYP3A5 PE=1 SV=1
+#=GS sp|Q9CX98|CP2U1_MOUSE/328-357     DE [subseq from] Cytochrome P450 2U1 OS=Mus musculus OX=10090 GN=Cyp2u1 PE=2 SV=2
+#=GS sp|P56656|CP239_MOUSE/285-316     DE [subseq from] Cytochrome P450 2C39 OS=Mus musculus OX=10090 GN=Cyp2c39 PE=1 SV=2
+#=GS sp|Q7Z449|CP2U1_HUMAN/341-371     DE [subseq from] Cytochrome P450 2U1 OS=Homo sapiens OX=9606 GN=CYP2U1 PE=1 SV=1
+#=GS sp|A0A517FNB9|C9B52_PARPY/270-298 DE [subseq from] Cholesterol 22-monohydroxylase CYP90B52 OS=Paris polyphylla OX=49666 GN=CYP90B52 PE=1 SV=1
+#=GS sp|P20813|CP2B6_HUMAN/290-317     DE [subseq from] Cytochrome P450 2B6 OS=Homo sapiens OX=9606 GN=CYP2B6 PE=1 SV=1
+#=GS sp|Q9SZ46|C82C4_ARATH/311-340     DE [subseq from] Xanthotoxin 5-hydroxylase CYP82C4 OS=Arabidopsis thaliana OX=3702 GN=CYP82C4 PE=1 SV=1
+#=GS sp|O49394|C82C2_ARATH/310-339     DE [subseq from] Xanthotoxin 5-hydroxylase CYP82C2 OS=Arabidopsis thaliana OX=3702 GN=CYP82C2 PE=1 SV=2
+#=GS sp|P48635|ERYK_SACEN/214-246      DE [subseq from] Erythromycin C-12 hydroxylase OS=Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338) OX=405948 GN=eryK PE=1 SV=3
+#=GS sp|P49430|THAS_RAT/329-360        DE [subseq from] Thromboxane-A synthase OS=Rattus norvegicus OX=10116 GN=Tbxas1 PE=2 SV=1
+#=GS sp|S4UX02|CYPH1_SALMI/286-317     DE [subseq from] Ferruginol synthase OS=Salvia miltiorrhiza OX=226208 GN=CYP76AH1 PE=1 SV=1
+#=GS sp|P23295|NOR_FUSOX/227-258       DE [subseq from] NADP nitrous oxide-forming nitric oxide reductase OS=Fusarium oxysporum OX=5507 GN=CYP55A1 PE=1 SV=2
+#=GS sp|P24457|CP2DB_MOUSE/295-327     DE [subseq from] Cytochrome P450 2D11 OS=Mus musculus OX=10090 GN=Cyp2d11 PE=2 SV=2
+#=GS sp|A0A0C5Q4Y6|C76H2_ROSOF/286-317 DE [subseq from] Ferruginol synthase 1 OS=Rosmarinus officinalis OX=39367 GN=CYP76AH22 PE=1 SV=1
+#=GS sp|Q9D816|CP255_MOUSE/288-316     DE [subseq from] Cytochrome P450 2C55 OS=Mus musculus OX=10090 GN=Cyp2c55 PE=1 SV=1
+#=GS sp|Q9VWR5|CP306_DROME/357-388     DE [subseq from] Cytochrome P450 306a1 OS=Drosophila melanogaster OX=7227 GN=phtm PE=1 SV=1
+#=GS sp|Q9Y6A2|CP46A_HUMAN/289-320     DE [subseq from] Cholesterol 24-hydroxylase OS=Homo sapiens OX=9606 GN=CYP46A1 PE=1 SV=1
+#=GS sp|P51538|CP3A9_RAT/293-322       DE [subseq from] Cytochrome P450 3A9 OS=Rattus norvegicus OX=10116 GN=Cyp3a9 PE=2 SV=2
+#=GS sp|P27786|CP17A_MOUSE/288-320     DE [subseq from] Steroid 17-alpha-hydroxylase/17,20 lyase OS=Mus musculus OX=10090 GN=Cyp17a1 PE=1 SV=1
+#=GS sp|I1RJR2|CP51A_GIBZE/278-309     DE [subseq from] Sterol 14-alpha demethylase CYP51A OS=Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1) OX=229533 GN=CYP51A PE=2 SV=1
+#=GS sp|Q64680|CP2D4_RAT/295-325       DE [subseq from] Cytochrome P450 2D4 OS=Rattus norvegicus OX=10116 GN=Cyp2d4 PE=2 SV=1
+#=GS sp|Q5KQT7|CP1A1_FELCA/309-340     DE [subseq from] Cytochrome P450 1A1 OS=Felis catus OX=9685 GN=CYP1A1 PE=2 SV=1
+#=GS sp|B8QHP1|CP52M_STABO/326-355     DE [subseq from] Cytochrome P450 52-M1 OS=Starmerella bombicola OX=75736 GN=cyp52M1 PE=1 SV=1
+
+sp|C4B644|CPVDH_PSEAH/224-255             -EELVAMAMLLLIAGHETTVNLIGNGVLALLTH
+#=GR sp|C4B644|CPVDH_PSEAH/224-255     PP .8******************************9
+sp|O08336|CYPB_BACSU/254-286              DENIRYQIITFLIAGHETTSGLLSFAIYCLLTH
+#=GR sp|O08336|CYPB_BACSU/254-286      PP 79******************************9
+sp|P53554|BIOI_BACSU/222-254              EEEAASTCILLAIAGHETTVNLISNSVLCLLQH
+#=GR sp|P53554|BIOI_BACSU/222-254      PP 69*****************************98
+sp|Q9HCS2|CP4FC_HUMAN/315-347             DEDIRAEADTFMFGGHDTTASGLSWVLYNLARH
+#=GR sp|Q9HCS2|CP4FC_HUMAN/315-347     PP 79******************************9
+sp|P98187|CP4F8_HUMAN/315-347             DEDIRAEADTFMFGGHDTTASGLSWVLYNLARH
+#=GR sp|P98187|CP4F8_HUMAN/315-347     PP 79******************************9
+sp|P14779|CPXB_PRIM2/252-284              DENIRYQIITFLIAGHETTSGLLSFALYFLVKN
+#=GR sp|P14779|CPXB_PRIM2/252-284      PP 79****************************997
+sp|O87605|PIKC_STRVZ/231-262              -EELLGMAHILLVAGHETTVNLIANGMYALLSH
+#=GR sp|O87605|PIKC_STRVZ/231-262      PP .89****************************98
+sp|P10632|CP2C8_HUMAN/285-316             -ENLVGTVADLFVAGTETTSTTLRYGLLLLLKH
+#=GR sp|P10632|CP2C8_HUMAN/285-316     PP .79****************************99
+sp|Q99N16|CP4F3_MOUSE/315-347             DEDIRAEADTFMFGGHDTTASGLSWILYNLARH
+#=GR sp|Q99N16|CP4F3_MOUSE/315-347     PP 79******************************9
+sp|O08394|CYPD_BACSU/254-286              DENIRFQIITFLIAGHETTSGLLSFATYFLLKH
+#=GR sp|O08394|CYPD_BACSU/254-286      PP 79*****************************99
+sp|Q4G0S4|C27C1_HUMAN/338-369             -QEIYANVTEMLLAGVDTTSFTLSWTVYLLARH
+#=GR sp|Q4G0S4|C27C1_HUMAN/338-369     PP .79*****************************9
+sp|Q9Y8G7|C505_FUSOX/253-285              DENITNQLITFLIAGHETTSGTLSFAMYQLLKN
+#=GR sp|Q9Y8G7|C505_FUSOX/253-285      PP 79*****************************98
+sp|O35132|CP27B_RAT/299-329               --SIVGNVTELLLAGVDTVSNTLSWALYELSRH
+#=GR sp|O35132|CP27B_RAT/299-329       PP ..699***************************9
+sp|P56590|CP1A1_CANLF/308-340             DEKIVNVVLDLFGAGFDTVTTAISWSLLYLVTN
+#=GR sp|P56590|CP1A1_CANLF/308-340     PP 789****************************98
+sp|A8WGA0|C27C1_DANRE/337-368             -EEIYANMTEMLLAGVDTTSFTLSWSTYLLARH
+#=GR sp|A8WGA0|C27C1_DANRE/337-368     PP .8******************************9
+sp|P78329|CP4F2_HUMAN/315-347             DEDIRAEADTFMFEGHDTTASGLSWVLYHLAKH
+#=GR sp|P78329|CP4F2_HUMAN/315-347     PP 79*****************************99
+sp|Q9EP75|CP4FE_MOUSE/315-347             DEDIRAEADTFMFEGHDTTASGLSWILYNLARH
+#=GR sp|Q9EP75|CP4FE_MOUSE/315-347     PP 79******************************9
+sp|P20817|CP4AE_RAT/305-337               DEDLRAEVDTFMFEGHDTTASGISWVFYALATH
+#=GR sp|P20817|CP4AE_RAT/305-337       PP 79******************************9
+sp|Q08477|CP4F3_HUMAN/315-347             DEDIRAEADTFMFEGHDTTASGLSWVLYHLAKH
+#=GR sp|Q08477|CP4F3_HUMAN/315-347     PP 79*****************************99
+sp|O15528|CP27B_HUMAN/306-336             --SILGNVTELLLAGVDTVSNTLSWALYELSRH
+#=GR sp|O15528|CP27B_HUMAN/306-336     PP ..6899**************************9
+sp|P20816|CP4A2_RAT/302-334               DEDLRAEVDTFMFEGHDTTASGISWVFYALATH
+#=GR sp|P20816|CP4A2_RAT/302-334       PP 79******************************9
+sp|O35084|CP27B_MOUSE/306-336             --SIVGNVTELLLAGVDTVSNTLSWTLYELSRH
+#=GR sp|O35084|CP27B_MOUSE/306-336     PP ..699***************************9
+sp|P51869|CP4F4_RAT/315-347               DEDIRAEADTFMFEGHDTTASGLSWILYNLARH
+#=GR sp|P51869|CP4F4_RAT/315-347       PP 79******************************9
+sp|O35728|CP4AE_MOUSE/305-337             DEDLRAEVDTFMFEGHDTTASGISWIFYALATH
+#=GR sp|O35728|CP4AE_MOUSE/305-337     PP 79******************************9
+sp|Q6TBX7|LUT1_ARATH/336-366              --QLRDDLLSMLVAGHETTGSVLTWTLYLLSKN
+#=GR sp|Q6TBX7|LUT1_ARATH/336-366      PP ..588999**********************998
+sp|Q02928|CP4AB_HUMAN/308-340             DKDLRAEVDTFMFEGHDTTASGISWILYALATH
+#=GR sp|Q02928|CP4AB_HUMAN/308-340     PP 789*****************************9
+sp|Q5TCH4|CP4AM_HUMAN/308-340             DKDLRAEVDTFMFEGHDTTASGISWILYALATH
+#=GR sp|Q5TCH4|CP4AM_HUMAN/308-340     PP 789*****************************9
+sp|Q9HBI6|CP4FB_HUMAN/315-347             DEDIRAEADTFMFEGHDTTASGLSWVLYHLAKH
+#=GR sp|Q9HBI6|CP4FB_HUMAN/315-347     PP 79*****************************99
+sp|Q6GUR1|CP1A1_MACMU/304-336             DEKIVNVVLDLFGAGFDTVTTAISWSLMYLVTN
+#=GR sp|Q6GUR1|CP1A1_MACMU/304-336     PP 789****************************98
+sp|P33616|CP1A1_MACFA/304-336             DEKIVNVVLDLFGAGFDTVTTAISWSLMYLVTN
+#=GR sp|P33616|CP1A1_MACFA/304-336     PP 789****************************98
+sp|P04798|CP1A1_HUMAN/304-336             DEKIINIVLDLFGAGFDTVTTAISWSLMYLVMN
+#=GR sp|P04798|CP1A1_HUMAN/304-336     PP 789***************************987
+sp|P00178|CP2B4_RABIT/285-317             HQNLILTVLSLFFAGTETTSTTLRYGFLLMLKY
+#=GR sp|P00178|CP2B4_RABIT/285-317     PP 689***************************986
+sp|P24464|CP4AC_RAT/306-338               DKDLRAEVDTFMFEGHDTTASGISWIFYALATN
+#=GR sp|P24464|CP4AC_RAT/306-338       PP 789****************************98
+sp|P18326|CPXE_STRGO/232-263              -EELISTAMLLLIAGHETTASMTSLSVITLLDH
+#=GR sp|P18326|CPXE_STRGO/232-263      PP .8****************************965
+sp|Q86W10|CP4Z1_HUMAN/310-333             ---------TFMFAGHDTTSSAISWILYCLAKY
+#=GR sp|Q86W10|CP4Z1_HUMAN/310-333     PP .........89********************86
+sp|A2A974|CP4CB_MOUSE/306-338             DKDLRAEVDTFMFEGHDTTASGISWIFYALATN
+#=GR sp|A2A974|CP4CB_MOUSE/306-338     PP 789****************************98
+sp|Q06367|CP1A1_CAVPO/300-332             DQKIIGIVLDLFGAGFDTITTAISWSLLYLVMN
+#=GR sp|Q06367|CP1A1_CAVPO/300-332     PP 6789**************************987
+sp|Q91WL5|CP4CA_MOUSE/306-338             DKDLRAEVDTFMFEGHDTTASGISWIFYALATN
+#=GR sp|Q91WL5|CP4CA_MOUSE/306-338     PP 789****************************98
+sp|P08683|CP2CB_RAT/285-316               -ESLVATVTDMFGAGTETTSTTLRYGLLLLLKH
+#=GR sp|P08683|CP2CB_RAT/285-316       PP .679***************************99
+sp|O54749|CP2J5_MOUSE/297-328             EENLISTTLDLFLGGTETTSSTLRWALLYMSS-
+#=GR sp|O54749|CP2J5_MOUSE/297-328     PP 599***************************87.
+sp|Q64458|CP2CT_MOUSE/285-316             -ENLASTINDLFGAGTETTSTTLRYALLLLLKY
+#=GR sp|Q64458|CP2CT_MOUSE/285-316     PP .89****************************86
+sp|Q0D1W9|CYPE3_ASPTN/258-287             ---IINNVITFLIAGHETTSGLLSFTFYYLLQN
+#=GR sp|Q0D1W9|CYPE3_ASPTN/258-287     PP ...89*************************987
+sp|P56591|CP1A1_SHEEP/311-342             DEKIINVVMDLFGAGFDTVTTAISWSLLYLVT-
+#=GR sp|P56591|CP1A1_SHEEP/311-342     PP 789***************************87.
+sp|Q3LFU0|CP1A1_BALAC/308-339             DEKIVNVVMDLFGAGFDTVTTAISWSLMYLVT-
+#=GR sp|Q3LFU0|CP1A1_BALAC/308-339     PP 789***************************87.
+sp|P36423|THAS_MOUSE/329-360              -DEIVGQAFLFLIAGHEVITNTLSFITYLLATH
+#=GR sp|P36423|THAS_MOUSE/329-360      PP .8******************************9
+sp|P15129|CP4B1_RAT/303-333               -AELRAEVDTFMFEGHDTTTSGISWFLYCMAL-
+#=GR sp|P15129|CP4B1_RAT/303-333       PP .69***************************96.
+sp|Q00557|CP1A1_MESAU/308-340             DDRVINIIVDLFGAGFDTVTTAISWSLMYLVTN
+#=GR sp|Q00557|CP1A1_MESAU/308-340     PP 67899**************************98
+sp|P11712|CP2C9_HUMAN/287-316             ---LENTAVDLFGAGTETTSTTLRYALLLLLKH
+#=GR sp|P11712|CP2C9_HUMAN/287-316     PP ...6799************************99
+sp|Q55080|CP119_SULAC/197-227             -IEKLGYIILLLIAGNETTTNLISNSVIDFTR-
+#=GR sp|Q55080|CP119_SULAC/197-227     PP .5899**********************98876.
+sp|P33260|CP2CI_HUMAN/285-316             -ESLIATVTDMFGAGTETTSTTLRYGLLLLLKY
+#=GR sp|P33260|CP2CI_HUMAN/285-316     PP .679***************************86
+sp|Q6NT55|CP4FN_HUMAN/322-354             DEDIRAEADTFMFEGHDTTSSGISWMLFNLAKY
+#=GR sp|Q6NT55|CP4FN_HUMAN/322-354     PP 79****************************986
+sp|Q5KQT6|CP1A2_FELCA/300-332             HEKIVSLINDIFGAGFDTVTTAISWSLMYLVTN
+#=GR sp|Q5KQT6|CP1A2_FELCA/300-332     PP 688****************************98
+sp|P08516|CP4AA_RAT/307-339               DKDLRAEVDTFMFEGHDTTASGVSWIFYALATH
+#=GR sp|P08516|CP4AA_RAT/307-339       PP 789*****************************9
+sp|P9WPP9|CP51_MYCTU/244-275              -DEITGMFISMMFAGHHTSSGTASWTLIELMRH
+#=GR sp|P9WPP9|CP51_MYCTU/244-275      PP .8******************************9
+sp|P00184|CP1A1_MOUSE/308-340             DDKVITIVLDLFGAGFDTVTTAISWSLMYLVTN
+#=GR sp|P00184|CP1A1_MOUSE/308-340     PP 6788999************************98
+sp|P33261|CP2CJ_HUMAN/285-316             -ENLVITAADLLGAGTETTSTTLRYALLLLLKH
+#=GR sp|P33261|CP2CJ_HUMAN/285-316     PP .799***************************99
+sp|Q9GMC8|CP17A_FELCA/289-321             DKHILTTIGDIFGAGVETTTSVVRWTVAFLLHH
+#=GR sp|Q9GMC8|CP17A_FELCA/289-321     PP 789****************************98
+sp|P33274|CP4F1_RAT/315-346               DEDIRAEADTFMFEGHDTTASGLSWILYNLAN-
+#=GR sp|P33274|CP4F1_RAT/315-346       PP 79****************************96.
+sp|P56654|CP237_MOUSE/285-316             -EHLAITVTDLFSAGTETTSTTLRYAILLLLKY
+#=GR sp|P56654|CP237_MOUSE/285-316     PP .899***************************86
+sp|O88833|CP4AA_MOUSE/307-339             DKDLRAEVDTFMFEGHDTTASGVSWIFYALATH
+#=GR sp|O88833|CP4AA_MOUSE/307-339     PP 789*****************************9
+sp|P13584|CP4B1_HUMAN/304-333             --DLRAEVDTFMFEGHDTTTSGISWFLYCMAL-
+#=GR sp|P13584|CP4B1_HUMAN/304-333     PP ..799*************************96.
+sp|Q6VVW9|CP2R1_MOUSE/298-328             -ENLIFSVGELIIAGTETTTNVLRWAILFMAL-
+#=GR sp|Q6VVW9|CP2R1_MOUSE/298-328     PP .789999***********************96.
+sp|Q6VVX0|CP2R1_HUMAN/298-328             -ENLIFSVGELIIAGTETTTNVLRWAILFMAL-
+#=GR sp|Q6VVX0|CP2R1_HUMAN/298-328     PP .789999***********************96.
+sp|Q91X77|CY250_MOUSE/285-316             -EHLAITVTDLFSAGTETTSTTLRYALLLLLKY
+#=GR sp|Q91X77|CY250_MOUSE/285-316     PP .899***************************86
+sp|Q64391|CP1A2_CAVPO/306-335             --KIVNLVNDIFGAGFDTVTTAISWSLLYLVT-
+#=GR sp|Q64391|CP1A2_CAVPO/306-335     PP ..69**************************87.
+sp|P79761|CP1A5_CHICK/314-345             -EKIINLVNDIFGAGFDTVTTALSWSLMYLVTY
+#=GR sp|P79761|CP1A5_CHICK/314-345     PP .679**************************986
+sp|Q07973|CP24A_HUMAN/314-345             -KELYAAVTELQLAAVETTANSLMWILYNLSRN
+#=GR sp|Q07973|CP24A_HUMAN/314-345     PP .799***************************98
+sp|O64989|C90B1_ARATH/299-328             -EQILDLILSLLFAGHETSSVAIALAIFFLQ--
+#=GR sp|O64989|C90B1_ARATH/299-328     PP .89**************************95..
+sp|Q9JMA7|CP341_MOUSE/295-325             --EITAQSIVFIFAGYETTSSTLSFTLYCLATH
+#=GR sp|Q9JMA7|CP341_MOUSE/295-325     PP ..89****************************9
+sp|Q09128|CP24A_RAT/314-345               -KELYAAVTELQLAAVETTANSLMWILYNLSRN
+#=GR sp|Q09128|CP24A_RAT/314-345       PP .799***************************98
+sp|A0A517FNC6|C9B51_TRIFG/276-304         -EQILDLILSLLFAGHETSSVSIALAIYFL---
+#=GR sp|A0A517FNC6|C9B51_TRIFG/276-304 PP .89*************************98...
+sp|Q64441|CP24A_MOUSE/314-345             -KELYAAVTELQLAAVETTANSLMWILYNLSRN
+#=GR sp|Q64441|CP24A_MOUSE/314-345     PP .799***************************98
+sp|Q9HGE0|FUM6_GIBM7/273-303              --SIVDNLLTFLIAGHETTSSLLSFCFYYLLEN
+#=GR sp|Q9HGE0|FUM6_GIBM7/273-303      PP ..6999*************************97
+sp|Q9QXF7|CP2J4_RAT/305-328               --------LDLFFAGTETTSTTLRWALLYMAL-
+#=GR sp|Q9QXF7|CP2J4_RAT/305-328       PP ........89********************96.
+sp|P9WPP3|CP124_MYCTU/256-286             --EIASFFILLVVAGNETTRNAITHGVLALSRY
+#=GR sp|P9WPP3|CP124_MYCTU/256-286     PP ..9****************************97
+sp|Q95328|CP17A_HORSE/289-320             DKHILATIGDIFGAGVETTTSVVKWIVAFLLH-
+#=GR sp|Q95328|CP17A_HORSE/289-320     PP 789***************************95.
+sp|O54750|CP2J6_MOUSE/305-328             --------LDLFFAGTETTSTTLRWALLYMAL-
+#=GR sp|O54750|CP2J6_MOUSE/305-328     PP ........89********************96.
+sp|P51589|CP2J2_HUMAN/306-329             --------LDLFFAGTETTSTTLRWALLYMAL-
+#=GR sp|P51589|CP2J2_HUMAN/306-329     PP ........89********************96.
+sp|P70687|CP17A_MESAU/291-321             --HILATIADIFGAGIETTASVLSWIIAFLLHN
+#=GR sp|P70687|CP17A_MESAU/291-321     PP ..799**************************87
+sp|P04799|CP1A2_RAT/303-333               -EKIVNIVNDIFGAGFETVTTAIFWSILLLVT-
+#=GR sp|P04799|CP1A2_RAT/303-333       PP .679**************************87.
+sp|P05183|CP3A2_RAT/294-325               -VEIIAQSVIFIFAGYETTSSTLSFVLYFLATH
+#=GR sp|P05183|CP3A2_RAT/294-325       PP .59*****************************9
+sp|P08686|CP21A_HUMAN/285-311             ------AAVDLLIGGTETTANTLSWAVVFLLHH
+#=GR sp|P08686|CP21A_HUMAN/285-311     PP ......689**********************98
+sp|P00187|CP1A2_RABIT/305-336             -EKIVNLVNDIFGAGFDTITTALSWSLMYLVTN
+#=GR sp|P00187|CP1A2_RABIT/305-336     PP .679***************************98
+sp|Q91Z85|CP17A_PERLE/287-319             DSHILSTVGDFFGAGIETTTSVLCWIVAFLLHN
+#=GR sp|Q91Z85|CP17A_PERLE/287-319     PP 789****************************87
+sp|P17178|CP27A_RAT/329-356               -----GTFPELILAGVDTTSNTLTWALYHLSKN
+#=GR sp|P17178|CP27A_RAT/329-356       PP .....566689*******************998
+sp|P05178|CP2C6_RAT/285-315               -ENLSITVTDLFGAGTETTSTTLRYALLLLLK-
+#=GR sp|P05178|CP2C6_RAT/285-315       PP .667789***********************97.
+sp|P05177|CP1A2_HUMAN/305-335             -EKIVNLVNDIFGAGFDTVTTAISWSLMYLVT-
+#=GR sp|P05177|CP1A2_HUMAN/305-335     PP .679**************************87.
+sp|Q5RBQ1|CP1A2_PONAB/305-335             -EKIVNLVNDIFGAGFDTVTTAISWSLMYLVT-
+#=GR sp|Q5RBQ1|CP1A2_PONAB/305-335     PP .679**************************87.
+sp|Q1PS23|AMO_ARTAN/288-318               -DNIKAIILDMFGAGTDTSSSTIEWAISELIK-
+#=GR sp|Q1PS23|AMO_ARTAN/288-318       PP .89*************************9986.
+sp|O18963|CP2E1_BOVIN/287-318             -ENIAVTVADLLFAGTETTSTTLRYGLLILMKY
+#=GR sp|O18963|CP2E1_BOVIN/287-318     PP .899************************99875
+sp|G5EJN7|CYPD6_PHACH/253-283             --NIRNNLLTFLIAGHEPTSGLLTFALYYLIKN
+#=GR sp|G5EJN7|CYPD6_PHACH/253-283     PP ..89**************************997
+sp|P17177|CP27A_RABIT/334-357             ---------ELLLAGVDTTSNTLTWALYHLSKN
+#=GR sp|P17177|CP27A_RABIT/334-357     PP .........59*******************998
+sp|Q9GMC7|CP17A_BISBI/293-321             ----LATIGDIFGAGVETTTSVIKWIVAYLLHH
+#=GR sp|Q9GMC7|CP17A_BISBI/293-321     PP ....689************************98
+sp|P08682|CP2E1_RABIT/287-318             -ENIAVTVADMFFAGTETTSTTLRYGLLILLKH
+#=GR sp|P08682|CP2E1_RABIT/287-318     PP .899***************************99
+sp|P11715|CP17A_RAT/289-320               -RHILATVGDIFGAGIETTTTVLKWILAFLVHN
+#=GR sp|P11715|CP17A_RAT/289-320       PP .689**************************987
+sp|Q9MZY0|CP2E1_CANLF/287-318             -DNIAVTVADLFFAGTETTSTTLRYGLLILMKY
+#=GR sp|Q9MZY0|CP2E1_CANLF/287-318     PP .8999***********************99875
+sp|P00185|CP1A1_RAT/308-340               DDKVITIVFDLFGAGFDTITTAISWSLMYLVTN
+#=GR sp|P00185|CP1A1_RAT/308-340       PP 6778999************************98
+sp|Q93VK5|LUT5_ARATH/365-395              -KQLRDDLMTMLIAGHETSAAVLTWTFYLLTT-
+#=GR sp|Q93VK5|LUT5_ARATH/365-395      PP .68999************************76.
+sp|P00191|CP21A_BOVIN/284-309             -------VVDLFIGGTETTASTLSWAVAFLLHH
+#=GR sp|P00191|CP21A_BOVIN/284-309     PP .......89**********************98
+sp|P05185|CP17A_BOVIN/293-321             ----LATIGDIFGAGVETTTSVIKWIVAYLLHH
+#=GR sp|P05185|CP17A_BOVIN/293-321     PP ....689************************98
+sp|O55071|CP2BJ_MOUSE/286-318             HQNLVISVLSLFFAGTETTSTTLRYSFLIMLKY
+#=GR sp|O55071|CP2BJ_MOUSE/286-318     PP 5899999***********************986
+sp|P56592|CP1A2_CANLF/301-332             -EKIVNLINDIFGAGFDTVTTAISWSLMYLVAN
+#=GR sp|P56592|CP1A2_CANLF/301-332     PP .679**************************976
+sp|O77810|CP1A2_CALJA/305-335             -EKIVNLVNDIFGAGFDTITTAISWSLMYLVT-
+#=GR sp|O77810|CP1A2_CALJA/305-335     PP .679**************************87.
+sp|P00186|CP1A2_MOUSE/303-333             -EKIVNIVNDIFGAGFDTVTTAITWSILLLVT-
+#=GR sp|P00186|CP1A2_MOUSE/303-333     PP .789**************************86.
+sp|Q9DBG1|CP27A_MOUSE/328-355             ----IGTFPELLLAGVDTTSNTLTWALYHLSK-
+#=GR sp|Q9DBG1|CP27A_MOUSE/328-355     PP ....667778********************86.
+sp|P10634|CP2DQ_RAT/295-327               DENLRLVVIDLFMAGMVTTSTTLSWALLLMILH
+#=GR sp|P10634|CP2DQ_RAT/295-327       PP 799***************************987
+sp|Q9UVC3|CP51_CUNEL/284-315              DHHIAGMMIAVLFGGQHTSATTSAWTILELAN-
+#=GR sp|Q9UVC3|CP51_CUNEL/284-315      PP 789***************************97.
+sp|P05176|CP1A1_RABIT/312-339             ----VGIVLDLFGAGFDTVTTAISWSLMYLVT-
+#=GR sp|P05176|CP1A1_RABIT/312-339     PP ....789***********************87.
+sp|P05093|CP17A_HUMAN/289-321             DNHILTTIGDIFGAGVETTTSVVKWTLAFLLHN
+#=GR sp|P05093|CP17A_HUMAN/289-321     PP 789****************************87
+sp|Q8HYN1|CP17A_PANTR/289-321             DNHILTTIGDIFGAGVETTTSVVKWTLAFLLHN
+#=GR sp|Q8HYN1|CP17A_PANTR/289-321     PP 789****************************87
+sp|P05181|CP2E1_HUMAN/287-318             -DGITVTVADLFFAGTETTSTTLRYGLLILMKY
+#=GR sp|P05181|CP2E1_HUMAN/287-318     PP .78999**********************99875
+sp|Q2XVA1|CP17A_MACFA/289-321             DNHILTTIGDIFGAGVETTTSVVKWIVAFLLHN
+#=GR sp|Q2XVA1|CP17A_MACFA/289-321     PP 789****************************87
+sp|Q8HYM9|CP17A_MACMU/289-321             DNHILTTIGDIFGAGVETTTSVVKWIVAFLLHN
+#=GR sp|Q8HYM9|CP17A_MACMU/289-321     PP 789****************************87
+sp|Q8HYN0|CP17A_PAPCY/289-321             DNHILTTIGDIFGAGVETTTSVVKWIVAFLLHN
+#=GR sp|Q8HYN0|CP17A_PAPCY/289-321     PP 789****************************87
+sp|Q9GLD2|CP17A_PAPHU/289-321             DNHILTTIGDIFGAGVETTTSVVKWIVAFLLHN
+#=GR sp|Q9GLD2|CP17A_PAPHU/289-321     PP 789****************************87
+sp|Q2QUC5|C71P1_ORYSJ/297-329             DDNLKALVLDMFVAGTDTTFATLEWVMTELVRH
+#=GR sp|Q2QUC5|C71P1_ORYSJ/297-329     PP 79******************************9
+sp|Q64562|CP21A_RAT/283-308               -------VVDLFVGGTETTAATLSWAVAFLLHH
+#=GR sp|Q64562|CP21A_RAT/283-308       PP .......89**********************98
+sp|Q9N0U7|CP17A_CAPHI/293-321             ----LATIADIFGAGVETTTSVIKWIVAYLLHH
+#=GR sp|Q9N0U7|CP17A_CAPHI/293-321     PP ....589************************98
+sp|Q6GUQ4|CP2E1_MACMU/287-318             -DGITVTVADLFFAGTETTSTTLRYGLLILMKY
+#=GR sp|Q6GUQ4|CP2E1_MACMU/287-318     PP .78999**********************99875
+sp|P33266|CP2E1_MACFA/243-274             -DGITVTVADLFFAGTETTSTTLRYGLLILMKY
+#=GR sp|P33266|CP2E1_MACFA/243-274     PP .78999**********************99875
+sp|Q29497|CP17A_SHEEP/293-321             ----LATIADIFGAGVETTTSVIKWIVAYLLHH
+#=GR sp|Q29497|CP17A_SHEEP/293-321     PP ....589************************98
+sp|P08684|CP3A4_HUMAN/293-324             -LELVAQSIIFIFAGYETTSSVLSFIMYELATH
+#=GR sp|P08684|CP3A4_HUMAN/293-324     PP .69*****************************9
+sp|P49602|CP51_USTMA/314-343              --EIAHMMIALLMAGQHTSSATSSWAFLRLAS-
+#=GR sp|P49602|CP51_USTMA/314-343      PP ..89**************************96.
+sp|L7X3S1|MSH_PAPSO/318-346               ----KSTCLDMILGGSDTTTVTLTWAMSLLLNH
+#=GR sp|L7X3S1|MSH_PAPSO/318-346       PP ....689************************99
+sp|P56655|CP238_MOUSE/285-316             -ENLVCTINNLFAAGTETTSTTLRYALLLLMKY
+#=GR sp|P56655|CP238_MOUSE/285-316     PP .788889***********************875
+sp|Q92109|CP1A3_ONCMY/309-340             DEKIVGIVNDLFGAGFDTISTALSWAVVYLVA-
+#=GR sp|Q92109|CP1A3_ONCMY/309-340     PP 789**************************986.
+sp|P79383|CP2E1_PIG/287-318               -DNIAVTVADMFFAGTETTSTTLRYGLLILMKY
+#=GR sp|P79383|CP2E1_PIG/287-318       PP .8999***********************99875
+sp|Q92110|CP1A1_ONCMY/309-340             DEKIVGIVNDLFGAGFDTISTALSWAVVYLVA-
+#=GR sp|Q92110|CP1A1_ONCMY/309-340     PP 789**************************986.
+sp|O77809|CP1A2_MACFA/305-335             -EKIVNLVNDIFGAGFDTIATAISWSLMYLVT-
+#=GR sp|O77809|CP1A2_MACFA/305-335     PP .679**************************87.
+sp|P30437|CP17A_ONCMY/297-328             -DHLLMTVGDIFGAGVETTSTVLKWAIAYLIHH
+#=GR sp|P30437|CP17A_ONCMY/297-328     PP .788889***********************988
+sp|Q02318|CP27A_HUMAN/332-353             ----------LLMAGVDTTSNTLTWALYHLSK-
+#=GR sp|Q02318|CP27A_HUMAN/332-353     PP ..........9*******************86.
+sp|Q2XNC8|CP2D6_PANTR/292-324             DENLRIVVADLFSAGIVTTSTTLAWGLLLMILH
+#=GR sp|Q2XNC8|CP2D6_PANTR/292-324     PP 79****************************987
+sp|P24456|CP2DA_MOUSE/295-327             DENLRMVVLDLFTAGMVTTSTTLSWALLLMILH
+#=GR sp|P24456|CP2DA_MOUSE/295-327     PP 7899999***********************987
+sp|Q64464|CP3AD_MOUSE/293-322             -VEIVAQSVIFIFAGYETTSSALSFALYLLA--
+#=GR sp|Q64464|CP3AD_MOUSE/293-322     PP .59***************************8..
+sp|A0A087X1C5|CP2D7_HUMAN/292-324         DENLRIVVGNLFLAGMVTTSTTLAWGLLLMILH
+#=GR sp|A0A087X1C5|CP2D7_HUMAN/292-324 PP 79****************************987
+sp|Q2XNC9|CP2D6_PANPA/292-324             DENLRIVVADLFSAGMVTTSTTLAWGLLLMILH
+#=GR sp|Q2XNC9|CP2D6_PANPA/292-324     PP 79****************************987
+sp|P10635|CP2D6_HUMAN/292-324             DENLRIVVADLFSAGMVTTSTTLAWGLLLMILH
+#=GR sp|P10635|CP2D6_HUMAN/292-324     PP 79****************************987
+sp|P20815|CP3A5_HUMAN/293-324             -LELAAQSIIFIFAGYETTSSVLSFTLYELATH
+#=GR sp|P20815|CP3A5_HUMAN/293-324     PP .699****************************9
+sp|Q9CX98|CP2U1_MOUSE/328-357             ---LFYIIGDLFIAGTDTTTNSLLWCLLYMSLN
+#=GR sp|Q9CX98|CP2U1_MOUSE/328-357     PP ...567899*********************976
+sp|P56656|CP239_MOUSE/285-316             -ENLACTINNLFAAGTETTSTTLRYALLLLMKY
+#=GR sp|P56656|CP239_MOUSE/285-316     PP .67777999*********************875
+sp|Q7Z449|CP2U1_HUMAN/341-371             --YLFYIIGDLFIAGTDTTTNSLLWCLLYMSLN
+#=GR sp|Q7Z449|CP2U1_HUMAN/341-371     PP ..566789**********************976
+sp|A0A517FNB9|C9B52_PARPY/270-298         -EQILDLLLSLLFAGHETSSMALALAIYFL---
+#=GR sp|A0A517FNB9|C9B52_PARPY/270-298 PP .899************************98...
+sp|P20813|CP2B6_HUMAN/290-317             -----LNTLSLFFAGTETTSTTLRYGFLLMLKY
+#=GR sp|P20813|CP2B6_HUMAN/290-317     PP .....55689********************986
+sp|Q9SZ46|C82C4_ARATH/311-340             ---IKSTCLALILGGSDTSASTLTWAISLLLNN
+#=GR sp|Q9SZ46|C82C4_ARATH/311-340     PP ...889*************************97
+sp|O49394|C82C2_ARATH/310-339             ---IKSTCLALILGGSETSPSTLTWAISLLLNN
+#=GR sp|O49394|C82C2_ARATH/310-339     PP ...889*************************97
+sp|P48635|ERYK_SACEN/214-246              DEEAANFSTALLLAGHITTTVLLGNIVRTLDEH
+#=GR sp|P48635|ERYK_SACEN/214-246      PP 89****************************988
+sp|P49430|THAS_RAT/329-360                -DEIAGQAFLFLIAGHEITTNTLSFITYLLATH
+#=GR sp|P49430|THAS_RAT/329-360        PP .89*****************************9
+sp|S4UX02|CYPH1_SALMI/286-317             -HHFTHLMLDLFVGGSDTNTTSIEWAMSELVMN
+#=GR sp|S4UX02|CYPH1_SALMI/286-317     PP .57899************************987
+sp|P23295|NOR_FUSOX/227-258               -SDAVQIAFLLLVAGNATMVNMIALGVATLAQH
+#=GR sp|P23295|NOR_FUSOX/227-258       PP .5899**************************98
+sp|P24457|CP2DB_MOUSE/295-327             DENLRMVVGDLFTAGMVTTSTTLSWALLLMILH
+#=GR sp|P24457|CP2DB_MOUSE/295-327     PP 7899999***********************987
+sp|A0A0C5Q4Y6|C76H2_ROSOF/286-317         -DHLTHLMLDLFVGGSETSTTEIEWIMWELLAN
+#=GR sp|A0A0C5Q4Y6|C76H2_ROSOF/286-317 PP .89***************************987
+sp|Q9D816|CP255_MOUSE/288-316             ----MATVTDIFVAGTETTNITLRYGLLLLLKH
+#=GR sp|Q9D816|CP255_MOUSE/288-316     PP ....589************************99
+sp|Q9VWR5|CP306_DROME/357-388             DDQLRHLLADLFGAGVDTSLATLRWFLLYLAR-
+#=GR sp|Q9VWR5|CP306_DROME/357-388     PP 799****************************8.
+sp|Q9Y6A2|CP46A_HUMAN/289-320             DEGLLDNFVTFFIAGHETSANHLAFTVMELSR-
+#=GR sp|Q9Y6A2|CP46A_HUMAN/289-320     PP 7899**************************97.
+sp|P51538|CP3A9_RAT/293-322               -VEIVAQSVIFIFAGYETTSSALSFVLYLLA--
+#=GR sp|P51538|CP3A9_RAT/293-322       PP .59***************************8..
+sp|P27786|CP17A_MOUSE/288-320             DKHILVTVGDIFGAGIETTSSVLNWILAFLVHN
+#=GR sp|P27786|CP17A_MOUSE/288-320     PP 7899**************************987
+sp|I1RJR2|CP51A_GIBZE/278-309             DKEIAHMMITLLMAGQHSSSSASSWIVLHLAS-
+#=GR sp|I1RJR2|CP51A_GIBZE/278-309     PP 79****************************95.
+sp|Q64680|CP2D4_RAT/295-325               DENLRVVVADLFMAGMVTTSTTLTWALLFMI--
+#=GR sp|Q64680|CP2D4_RAT/295-325       PP 7999*************************96..
+sp|Q5KQT7|CP1A1_FELCA/309-340             DEKIVNVVSDLFGAGFDTVTTAISWCLMYLVT-
+#=GR sp|Q5KQT7|CP1A1_FELCA/309-340     PP 789***************************87.
+sp|B8QHP1|CP52M_STABO/326-355             ---IRDQIFNILIAGRDTTAATLSFAIHFLARN
+#=GR sp|B8QHP1|CP52M_STABO/326-355     PP ...899**************************8
+#=GC PP_cons                              78999*************************988
+#=GC RF                                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//
