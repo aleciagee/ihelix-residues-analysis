@@ -2,20 +2,20 @@
 
 
 # assignments
-DB_NAME="pfam"
+DB_NAME="biocatnet"
 # TEST_NAME="p450_reviewed_5star" # only needed for varying uniprot searches
 TEST_NO=5
 
 
 # parameters
-E_VALUE=0.0001
-E_VALUE_NAME="0p0001"
+E_VALUE=0.00001
+E_VALUE_NAME="0p00001"
 # Z_SCORE=52674 # ensure add Z score to options as needed
 # T_SCORE=10 # bit score
 
 
 # locations
-DB_INFILE=../input/databases/pfam_cytochrome_p450_sequences.fasta # database to query
+DB_INFILE=../input/databases/biocatnet_p450.fasta # database to query
 HMM_INFILE=../output/hmm_round_1/ihelix_seed_hmm.hmm
 # OUTPUT_DIR=../output/hmm_search_1/${DB_NAME}/${TEST_NAME}/${TEST_NO}/ # for uniprot searches with test_name
 OUTPUT_DIR=../output/hmm_search_1/${DB_NAME}/${TEST_NO}/
