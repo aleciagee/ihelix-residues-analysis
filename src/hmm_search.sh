@@ -16,9 +16,9 @@ E_VALUE_NAME="0p00001"
 
 # locations
 DB_INFILE=../input/databases/biocatnet_p450.fasta # database to query
-HMM_INFILE=../output/hmm_round_1/ihelix_seed_hmm.hmm
-# OUTPUT_DIR=../output/hmm_search_1/${DB_NAME}/${TEST_NAME}/${TEST_NO}/ # for uniprot searches with test_name
-OUTPUT_DIR=../output/hmm_search_1/${DB_NAME}/${TEST_NO}/
+HMM_INFILE=../output/hmm_round_2/ihelix_round2_hmm.hmm
+# OUTPUT_DIR=../output/hmm_search_2/${DB_NAME}/${TEST_NAME}/${TEST_NO}/ # for uniprot searches with test_name
+OUTPUT_DIR=../output/hmm_search_2/${DB_NAME}/${TEST_NO}/
 SCORE_OUTFILE=${OUTPUT_DIR}/ihelixhits_e_${E_VALUE_NAME}_z_${Z_SCORE}_T_${T_SCORE}.out
 ALN_OUTFILE=${OUTPUT_DIR}/ihelixhits_e_${E_VALUE_NAME}_z_${Z_SCORE}_T_${T_SCORE}.aln
 
