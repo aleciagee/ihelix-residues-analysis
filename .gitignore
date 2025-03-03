@@ -6,5 +6,5 @@ output/hmm_search_1/pfam/
 output/hmm_search_2/pfam/
 
 # Ignore large taxonomy output
-analysis/pfam_r1r2_comparison/r1r2_pfam_acidalc_taxon.csv   
-anaylsis/pfam_r1r2_comparison/taxonomy_parsed.csv
+analysis/pfam_tax/r1r2_pfam_acidalc_taxon.csv
+analysis/pfam_tax/taxonomy_parsed.csv

@@ -1,0 +1,881 @@
+# STOCKHOLM 1.0
+#=GF ID Round3_FinalIHelix
+#=GF AU hmmsearch (HMMER 3.3.2)
+
+#=GS tr|A0A8J4WTT4|A0A8J4WTT4_CLAMG/477-503   DE [subseq from] Germinal-center associated nuclear protein (Fragment) OS=Clarias magur OX=1594786 GN=mcm3ap PE=3 SV=1
+#=GS tr|A0A8J4WTT4|A0A8J4WTT4_CLAMG/896-919   DE [subseq from] Germinal-center associated nuclear protein (Fragment) OS=Clarias magur OX=1594786 GN=mcm3ap PE=3 SV=1
+#=GS tr|A0A8J4WTT4|A0A8J4WTT4_CLAMG/1259-1281 DE [subseq from] Germinal-center associated nuclear protein (Fragment) OS=Clarias magur OX=1594786 GN=mcm3ap PE=3 SV=1
+#=GS tr|A0A8J4WTT4|A0A8J4WTT4_CLAMG/2478-2504 DE [subseq from] Germinal-center associated nuclear protein (Fragment) OS=Clarias magur OX=1594786 GN=mcm3ap PE=3 SV=1
+#=GS tr|T1IQ14|T1IQ14_STRMM/303-325           DE [subseq from] Cytochrome P450 OS=Strigamia maritima OX=126957 PE=3 SV=1
+#=GS tr|T1IQ14|T1IQ14_STRMM/1155-1182         DE [subseq from] Cytochrome P450 OS=Strigamia maritima OX=126957 PE=3 SV=1
+#=GS tr|T1IQ14|T1IQ14_STRMM/1687-1715         DE [subseq from] Cytochrome P450 OS=Strigamia maritima OX=126957 PE=3 SV=1
+#=GS tr|T1IQ14|T1IQ14_STRMM/2107-2136         DE [subseq from] Cytochrome P450 OS=Strigamia maritima OX=126957 PE=3 SV=1
+#=GS tr|A0A7R8X8W7|A0A7R8X8W7_9CRUS/313-338   DE [subseq from] Cytochrome P450 (Fragment) OS=Darwinula stevensoni OX=69355 GN=DSTB1V02_LOCUS3234 PE=3 SV=1
+#=GS tr|A0A7R8X8W7|A0A7R8X8W7_9CRUS/543-572   DE [subseq from] Cytochrome P450 (Fragment) OS=Darwinula stevensoni OX=69355 GN=DSTB1V02_LOCUS3234 PE=3 SV=1
+#=GS tr|A0A7R8X8W7|A0A7R8X8W7_9CRUS/1425-1453 DE [subseq from] Cytochrome P450 (Fragment) OS=Darwinula stevensoni OX=69355 GN=DSTB1V02_LOCUS3234 PE=3 SV=1
+#=GS tr|A0A7R8X8W7|A0A7R8X8W7_9CRUS/2164-2191 DE [subseq from] Cytochrome P450 (Fragment) OS=Darwinula stevensoni OX=69355 GN=DSTB1V02_LOCUS3234 PE=3 SV=1
+#=GS tr|A0A914TY97|A0A914TY97_9BILA/228-255   DE [subseq from] Cytochrome P450 OS=Panagrolaimus sp. PS1159 OX=55785 PE=3 SV=1
+#=GS tr|A0A914TY97|A0A914TY97_9BILA/350-377   DE [subseq from] Cytochrome P450 OS=Panagrolaimus sp. PS1159 OX=55785 PE=3 SV=1
+#=GS tr|A0A2P4UUB4|A0A2P4UUB4_CAERE/830-851   DE [subseq from] Cytochrome P450 OS=Caenorhabditis remanei OX=31234 GN=FL81_17644 PE=3 SV=1
+#=GS tr|A0A2P4UUB4|A0A2P4UUB4_CAERE/1683-1704 DE [subseq from] Cytochrome P450 OS=Caenorhabditis remanei OX=31234 GN=FL81_17644 PE=3 SV=1
+#=GS tr|A0A2P4UUB4|A0A2P4UUB4_CAERE/2162-2183 DE [subseq from] Cytochrome P450 OS=Caenorhabditis remanei OX=31234 GN=FL81_17644 PE=3 SV=1
+#=GS tr|A0A6P8J260|A0A6P8J260_ACTTE/323-345   DE [subseq from] Uncharacterized protein LOC116305923 OS=Actinia tenebrosa OX=6105 GN=LOC116305923 PE=3 SV=1
+#=GS tr|A0A6P8J260|A0A6P8J260_ACTTE/874-899   DE [subseq from] Uncharacterized protein LOC116305923 OS=Actinia tenebrosa OX=6105 GN=LOC116305923 PE=3 SV=1
+#=GS tr|A0A7R9AEE9|A0A7R9AEE9_9CRUS/329-357   DE [subseq from] Cytochrome P450 (Fragment) OS=Darwinula stevensoni OX=69355 GN=DSTB1V02_LOCUS12045 PE=3 SV=1
+#=GS tr|A0A7R9AEE9|A0A7R9AEE9_9CRUS/641-669   DE [subseq from] Cytochrome P450 (Fragment) OS=Darwinula stevensoni OX=69355 GN=DSTB1V02_LOCUS12045 PE=3 SV=1
+#=GS tr|A0A6H0JLQ2|A0A6H0JLQ2_APHGO/325-350   DE [subseq from] Cytochrome P450 monooxygenase CYP301B1 OS=Aphis gossypii OX=80765 PE=2 SV=1
+#=GS tr|A0A6H0JLQ2|A0A6H0JLQ2_APHGO/865-889   DE [subseq from] Cytochrome P450 monooxygenase CYP301B1 OS=Aphis gossypii OX=80765 PE=2 SV=1
+#=GS tr|A0A9D3SN64|A0A9D3SN64_9TELE/315-339   DE [subseq from] Cytochrome P450 OS=Hemibagrus wyckioides OX=337641 GN=KOW79_004935 PE=3 SV=1
+#=GS tr|A0A9D3SN64|A0A9D3SN64_9TELE/755-779   DE [subseq from] Cytochrome P450 OS=Hemibagrus wyckioides OX=337641 GN=KOW79_004935 PE=3 SV=1
+#=GS tr|A0A9D3SN64|A0A9D3SN64_9TELE/1130-1153 DE [subseq from] Cytochrome P450 OS=Hemibagrus wyckioides OX=337641 GN=KOW79_004935 PE=3 SV=1
+#=GS tr|A0A7R8D2R9|A0A7R8D2R9_LEPSM/271-298   DE [subseq from] (salmon louse) hypothetical protein OS=Lepeophtheirus salmonis OX=72036 GN=LSAA_13237 PE=3 SV=1
+#=GS tr|A0A7R8D2R9|A0A7R8D2R9_LEPSM/638-665   DE [subseq from] (salmon louse) hypothetical protein OS=Lepeophtheirus salmonis OX=72036 GN=LSAA_13237 PE=3 SV=1
+#=GS tr|A0A7R8D2D1|A0A7R8D2D1_LEPSM/271-298   DE [subseq from] (salmon louse) hypothetical protein OS=Lepeophtheirus salmonis OX=72036 GN=LSAA_13237 PE=3 SV=1
+#=GS tr|A0A7R8D2D1|A0A7R8D2D1_LEPSM/665-692   DE [subseq from] (salmon louse) hypothetical protein OS=Lepeophtheirus salmonis OX=72036 GN=LSAA_13237 PE=3 SV=1
+#=GS tr|A0A182K8E3|A0A182K8E3_9DIPT/31-55     DE [subseq from] Cytochrome P450 OS=Anopheles christyi OX=43041 PE=3 SV=1
+#=GS tr|A0A182K8E3|A0A182K8E3_9DIPT/1040-1065 DE [subseq from] Cytochrome P450 OS=Anopheles christyi OX=43041 PE=3 SV=1
+#=GS tr|A0A6J2X2Z7|A0A6J2X2Z7_SITOR/321-346   DE [subseq from] Uncharacterized protein LOC115874478 OS=Sitophilus oryzae OX=7048 GN=LOC115874478 PE=3 SV=1
+#=GS tr|A0A6J2X2Z7|A0A6J2X2Z7_SITOR/893-920   DE [subseq from] Uncharacterized protein LOC115874478 OS=Sitophilus oryzae OX=7048 GN=LOC115874478 PE=3 SV=1
+#=GS tr|A0A3Q0JHQ7|A0A3Q0JHQ7_DIACI/19-42     DE [subseq from] Uncharacterized protein LOC103519287 OS=Diaphorina citri OX=121845 GN=LOC103519287 PE=3 SV=1
+#=GS tr|A0A3Q0JHQ7|A0A3Q0JHQ7_DIACI/354-377   DE [subseq from] Uncharacterized protein LOC103519287 OS=Diaphorina citri OX=121845 GN=LOC103519287 PE=3 SV=1
+#=GS tr|A0A498NHQ1|A0A498NHQ1_LABRO/321-344   DE [subseq from] Sterol 26-mitochondrial-like protein OS=Labeo rohita OX=84645 GN=ROHU_017039 PE=1 SV=1
+#=GS tr|A0A498NHQ1|A0A498NHQ1_LABRO/693-721   DE [subseq from] Sterol 26-mitochondrial-like protein OS=Labeo rohita OX=84645 GN=ROHU_017039 PE=1 SV=1
+#=GS tr|A0AA47P344|A0AA47P344_MERPO/284-311   DE [subseq from] Cytochrome P450 2D15 OS=Merluccius polli OX=89951 GN=CYP2D15_0 PE=3 SV=1
+#=GS tr|A0AA47P344|A0AA47P344_MERPO/751-775   DE [subseq from] Cytochrome P450 2D15 OS=Merluccius polli OX=89951 GN=CYP2D15_0 PE=3 SV=1
+#=GS tr|A0AA47P344|A0AA47P344_MERPO/1248-1275 DE [subseq from] Cytochrome P450 2D15 OS=Merluccius polli OX=89951 GN=CYP2D15_0 PE=3 SV=1
+#=GS tr|A0AA47P344|A0AA47P344_MERPO/1752-1776 DE [subseq from] Cytochrome P450 2D15 OS=Merluccius polli OX=89951 GN=CYP2D15_0 PE=3 SV=1
+#=GS tr|C3XV68|C3XV68_BRAFL/330-354           DE [subseq from] Cytochrome P450 OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_91871 PE=3 SV=1
+#=GS tr|C3XV68|C3XV68_BRAFL/787-811           DE [subseq from] Cytochrome P450 OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_91871 PE=3 SV=1
+#=GS tr|C3XV68|C3XV68_BRAFL/1267-1295         DE [subseq from] Cytochrome P450 OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_91871 PE=3 SV=1
+#=GS tr|A0A182NTP7|A0A182NTP7_9DIPT/781-807   DE [subseq from] Cytochrome P450 OS=Anopheles dirus OX=7168 PE=3 SV=1
+#=GS tr|A0A182NTP7|A0A182NTP7_9DIPT/1756-1780 DE [subseq from] Cytochrome P450 OS=Anopheles dirus OX=7168 PE=3 SV=1
+#=GS tr|A0A9J6AKC7|A0A9J6AKC7_SOLCO/13-39     DE [subseq from] Cytochrome P450 OS=Solanum commersonii OX=4109 GN=H5410_009681 PE=3 SV=1
+#=GS tr|A0A9J6AKC7|A0A9J6AKC7_SOLCO/391-416   DE [subseq from] Cytochrome P450 OS=Solanum commersonii OX=4109 GN=H5410_009681 PE=3 SV=1
+#=GS tr|A0A8S1CB21|A0A8S1CB21_9INSE/322-345   DE [subseq from] Cytochrome P450 OS=Cloeon dipterum OX=197152 GN=CLODIP_2_CD14423 PE=3 SV=1
+#=GS tr|A0A8S1CB21|A0A8S1CB21_9INSE/805-827   DE [subseq from] Cytochrome P450 OS=Cloeon dipterum OX=197152 GN=CLODIP_2_CD14423 PE=3 SV=1
+#=GS tr|M1DND6|M1DND6_SOLTU/82-108            DE [subseq from] Cytochrome P450 OS=Solanum tuberosum OX=4113 PE=3 SV=1
+#=GS tr|M1DND6|M1DND6_SOLTU/460-485           DE [subseq from] Cytochrome P450 OS=Solanum tuberosum OX=4113 PE=3 SV=1
+#=GS tr|A0A2A4K8G4|A0A2A4K8G4_HELVI/334-358   DE [subseq from] Cytochrome P450 301a1, mitochondrial OS=Heliothis virescens OX=7102 GN=B5V51_12880 PE=3 SV=1
+#=GS tr|A0A2A4K8G4|A0A2A4K8G4_HELVI/565-589   DE [subseq from] Cytochrome P450 301a1, mitochondrial OS=Heliothis virescens OX=7102 GN=B5V51_12880 PE=3 SV=1
+#=GS tr|A0A7R9BFG6|A0A7R9BFG6_9CRUS/318-342   DE [subseq from] Cytochrome P450 OS=Notodromas monacha OX=399045 GN=NMOB1V02_LOCUS2139 PE=3 SV=1
+#=GS tr|A0A7R9BFG6|A0A7R9BFG6_9CRUS/824-848   DE [subseq from] Cytochrome P450 OS=Notodromas monacha OX=399045 GN=NMOB1V02_LOCUS2139 PE=3 SV=1
+#=GS tr|A0A8J6HEY8|A0A8J6HEY8_TENMO/840-868   DE [subseq from] HAT C-terminal dimerisation domain-containing protein OS=Tenebrio molitor OX=7067 GN=GEV33_009586 PE=3 SV=1
+#=GS tr|A0A1I7RLW6|A0A1I7RLW6_BURXY/297-322   DE [subseq from] Cytochrome P450 OS=Bursaphelenchus xylophilus OX=6326 PE=3 SV=1
+#=GS tr|A0A1I7RLW6|A0A1I7RLW6_BURXY/491-516   DE [subseq from] Cytochrome P450 OS=Bursaphelenchus xylophilus OX=6326 PE=3 SV=1
+#=GS tr|A0A8J4UMJ4|A0A8J4UMJ4_CLAMG/329-357   DE [subseq from] Cytochrome P450 2F2-like OS=Clarias magur OX=1594786 GN=DAT39_012293 PE=3 SV=1
+#=GS tr|A0A8J4UMJ4|A0A8J4UMJ4_CLAMG/755-783   DE [subseq from] Cytochrome P450 2F2-like OS=Clarias magur OX=1594786 GN=DAT39_012293 PE=3 SV=1
+#=GS tr|A0A8J4UMJ4|A0A8J4UMJ4_CLAMG/1202-1230 DE [subseq from] Cytochrome P450 2F2-like OS=Clarias magur OX=1594786 GN=DAT39_012293 PE=3 SV=1
+#=GS tr|A0A146B458|A0A146B458_BUBBU/8-37      DE [subseq from] Cytochrome P450 aromatase (Fragment) OS=Bubalus bubalis OX=89462 GN=Cyp19 PE=3 SV=1
+#=GS tr|A0A2P4USE4|A0A2P4USE4_CAERE/295-316   DE [subseq from] Uncharacterized protein OS=Caenorhabditis remanei OX=31234 GN=FL81_18256 PE=3 SV=1
+#=GS tr|A0A5C6MWB6|A0A5C6MWB6_9TELE/234-258   DE [subseq from] Cytochrome P450 2J2 OS=Takifugu flavidus OX=433684 GN=D4764_07G0004060 PE=3 SV=1
+#=GS tr|A0A5C6MWB6|A0A5C6MWB6_9TELE/631-658   DE [subseq from] Cytochrome P450 2J2 OS=Takifugu flavidus OX=433684 GN=D4764_07G0004060 PE=3 SV=1
+#=GS tr|A0A5C6MWB6|A0A5C6MWB6_9TELE/1100-1127 DE [subseq from] Cytochrome P450 2J2 OS=Takifugu flavidus OX=433684 GN=D4764_07G0004060 PE=3 SV=1
+#=GS tr|E3NG39|E3NG39_CAERE/292-319           DE [subseq from] CYtochrome P450 family OS=Caenorhabditis remanei OX=31234 GN=CRE_02666 PE=3 SV=1
+#=GS tr|E3NG39|E3NG39_CAERE/605-632           DE [subseq from] CYtochrome P450 family OS=Caenorhabditis remanei OX=31234 GN=CRE_02666 PE=3 SV=1
+#=GS tr|A0A2J8VBN7|A0A2J8VBN7_PONAB/5-34      DE [subseq from] Aromatase (Fragment) OS=Pongo abelii OX=9601 GN=CR201_G0020169 PE=3 SV=1
+#=GS tr|A0A2J8NSX2|A0A2J8NSX2_PANTR/5-34      DE [subseq from] Aromatase (Fragment) OS=Pan troglodytes OX=9598 GN=CK820_G0008582 PE=3 SV=1
+#=GS tr|H0YK57|H0YK57_HUMAN/6-35              DE [subseq from] Aromatase (Fragment) OS=Homo sapiens OX=9606 GN=CYP19A1 PE=1 SV=1
+#=GS tr|A0A261CMN1|A0A261CMN1_9PELO/249-271   DE [subseq from] Cytochrome P450 (Fragment) OS=Caenorhabditis latens OX=1503980 GN=FL83_01912 PE=3 SV=1
+#=GS tr|A0A498MRQ1|A0A498MRQ1_LABRO/1366-1389 DE [subseq from] Cytochrome P450 2J2-like isoform X1 OS=Labeo rohita OX=84645 GN=ROHU_022301 PE=1 SV=1
+#=GS tr|A0A498MRQ1|A0A498MRQ1_LABRO/1643-1665 DE [subseq from] Cytochrome P450 2J2-like isoform X1 OS=Labeo rohita OX=84645 GN=ROHU_022301 PE=1 SV=1
+#=GS tr|A0A8H3GYA2|A0A8H3GYA2_9AGAM/330-350   DE [subseq from] Benzoate 4-monooxygenase OS=Rhizoctonia solani OX=456999 GN=RDB_LOCUS177404 PE=4 SV=1
+#=GS tr|A0A8H3GYA2|A0A8H3GYA2_9AGAM/669-689   DE [subseq from] Benzoate 4-monooxygenase OS=Rhizoctonia solani OX=456999 GN=RDB_LOCUS177404 PE=4 SV=1
+#=GS tr|A0A7R9Q1U2|A0A7R9Q1U2_9ACAR/542-564   DE [subseq from] Cytochrome P450 OS=Medioppia subpectinata OX=1979941 GN=OSB1V03_LOCUS9420 PE=3 SV=1
+#=GS tr|A0A7R9Q1U2|A0A7R9Q1U2_9ACAR/566-593   DE [subseq from] Cytochrome P450 OS=Medioppia subpectinata OX=1979941 GN=OSB1V03_LOCUS9420 PE=3 SV=1
+#=GS tr|A0A2P4WPX1|A0A2P4WPX1_CAERE/237-259   DE [subseq from] Cytochrome P450 OS=Caenorhabditis remanei OX=31234 GN=FL81_03529 PE=3 SV=1
+#=GS tr|A0A6J1N4F9|A0A6J1N4F9_BICAN/313-337   DE [subseq from] Uncharacterized protein LOC112049185 OS=Bicyclus anynana OX=110368 GN=LOC112049185 PE=3 SV=1
+#=GS tr|A0A6J1N4F9|A0A6J1N4F9_BICAN/809-838   DE [subseq from] Uncharacterized protein LOC112049185 OS=Bicyclus anynana OX=110368 GN=LOC112049185 PE=3 SV=1
+#=GS tr|A0A0D3F1P3|A0A0D3F1P3_9ORYZ/1749-1769 DE [subseq from] Cytochrome P450 OS=Oryza barthii OX=65489 PE=4 SV=1
+#=GS tr|A0A182XZZ6|A0A182XZZ6_ANOST/821-844   DE [subseq from] Uncharacterized protein OS=Anopheles stephensi OX=30069 PE=3 SV=1
+#=GS tr|A0A182XZZ6|A0A182XZZ6_ANOST/1305-1329 DE [subseq from] Uncharacterized protein OS=Anopheles stephensi OX=30069 PE=3 SV=1
+#=GS tr|A0A2J8NSW7|A0A2J8NSW7_PANTR/294-323   DE [subseq from] Aromatase (Fragment) OS=Pan troglodytes OX=9598 GN=CK820_G0008582 PE=3 SV=1
+#=GS tr|E7EQ08|E7EQ08_HUMAN/294-323           DE [subseq from] Aromatase OS=Homo sapiens OX=9606 GN=CYP19A1 PE=1 SV=2
+#=GS tr|Q7Z471|Q7Z471_HUMAN/294-323           DE [subseq from] Aromatase (Fragment) OS=Homo sapiens OX=9606 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A3EYF4|A3EYF4_BUBBU/8-37              DE [subseq from] Aromatase cytochrome P450 (Fragment) OS=Bubalus bubalis OX=89462 PE=3 SV=1
+#=GS tr|A0A2J8VBP2|A0A2J8VBP2_PONAB/294-323   DE [subseq from] Aromatase (Fragment) OS=Pongo abelii OX=9601 GN=CR201_G0020169 PE=3 SV=1
+#=GS tr|Q05CU4|Q05CU4_HUMAN/294-323           DE [subseq from] Aromatase (Fragment) OS=Homo sapiens OX=9606 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A0A8J6FXK7|A0A8J6FXK7_MICOH/294-322   DE [subseq from] Aromatase OS=Microtus ochrogaster OX=79684 GN=LTLLF_200080 PE=3 SV=1
+#=GS tr|H3ALV3|H3ALV3_LATCH/311-340           DE [subseq from] Cytochrome P450 family 19 subfamily A member 1 OS=Latimeria chalumnae OX=7897 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A1D5QZ23|A0A1D5QZ23_MACMU/294-323   DE [subseq from] Aromatase OS=Macaca mulatta OX=9544 GN=CYP19A1 PE=3 SV=2
+#=GS tr|A0A8J8XT54|A0A8J8XT54_MACMU/294-323   DE [subseq from] Aromatase OS=Macaca mulatta OX=9544 GN=EGK_17491 PE=3 SV=1
+#=GS tr|A0A8J8YF18|A0A8J8YF18_MACFA/294-323   DE [subseq from] Aromatase OS=Macaca fascicularis OX=9541 GN=EGM_15975 PE=3 SV=1
+#=GS tr|Q95LY0|Q95LY0_MACFA/294-323           DE [subseq from] Aromatase OS=Macaca fascicularis OX=9541 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A0A8C5PHZ9|A0A8C5PHZ9_9ANUR/306-334   DE [subseq from] aromatase OS=Leptobrachium leishanense OX=445787 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A8C0R3Y2|A0A8C0R3Y2_CANLU/294-323   DE [subseq from] Aromatase OS=Canis lupus dingo OX=286419 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A8X7XPU8|A0A8X7XPU8_POLSE/260-288   DE [subseq from] aromatase (Fragment) OS=Polypterus senegalus OX=55291 GN=Cyp19a1 PE=3 SV=1
+#=GS tr|A0A2K6CXJ1|A0A2K6CXJ1_MACNE/294-323   DE [subseq from] Aromatase OS=Macaca nemestrina OX=9545 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A2J8NSX0|A0A2J8NSX0_PANTR/294-323   DE [subseq from] Aromatase OS=Pan troglodytes OX=9598 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A6D2Y496|A0A6D2Y496_PANTR/294-323   DE [subseq from] Aromatase OS=Pan troglodytes OX=9598 GN=CK820_G0008582 PE=3 SV=1
+#=GS tr|A0A2K5KCE1|A0A2K5KCE1_COLAP/294-323   DE [subseq from] Aromatase OS=Colobus angolensis palliatus OX=336983 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A2K5L4E2|A0A2K5L4E2_CERAT/294-323   DE [subseq from] Aromatase OS=Cercocebus atys OX=9531 GN=CYP19A1 PE=3 SV=1
+#=GS tr|Q45RG7|Q45RG7_HUMAN/294-323           DE [subseq from] Aromatase OS=Homo sapiens OX=9606 GN=CYP19A1 PE=2 SV=1
+#=GS tr|Q8IYG4|Q8IYG4_HUMAN/294-323           DE [subseq from] Aromatase OS=Homo sapiens OX=9606 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A8K6W3|A8K6W3_HUMAN/294-323           DE [subseq from] Aromatase OS=Homo sapiens OX=9606 PE=2 SV=1
+#=GS tr|A0A2K6N010|A0A2K6N010_RHIBE/294-323   DE [subseq from] Aromatase OS=Rhinopithecus bieti OX=61621 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A2K6NTQ0|A0A2K6NTQ0_RHIRO/294-323   DE [subseq from] Aromatase OS=Rhinopithecus roxellana OX=61622 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A8C9GPQ8|A0A8C9GPQ8_9PRIM/294-323   DE [subseq from] Aromatase OS=Piliocolobus tephrosceles OX=591936 GN=LOC111552757 PE=3 SV=1
+#=GS sp|P11511|CP19A_HUMAN/294-323            DE [subseq from] Aromatase OS=Homo sapiens OX=9606 GN=CYP19A1 PE=1 SV=3
+#=GS tr|A0A2R9A604|A0A2R9A604_PANPA/294-323   DE [subseq from] Aromatase OS=Pan paniscus OX=9597 GN=CYP19A1 PE=3 SV=1
+#=GS tr|G3RDS5|G3RDS5_GORGO/294-323           DE [subseq from] Aromatase OS=Gorilla gorilla gorilla OX=9595 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A096NM34|A0A096NM34_PAPAN/294-323   DE [subseq from] Aromatase OS=Papio anubis OX=9555 PE=3 SV=1
+#=GS tr|A0A0D9RFI7|A0A0D9RFI7_CHLSB/294-323   DE [subseq from] Aromatase OS=Chlorocebus sabaeus OX=60711 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A2K6A906|A0A2K6A906_MANLE/294-323   DE [subseq from] Aromatase OS=Mandrillus leucophaeus OX=9568 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A8D2K1I4|A0A8D2K1I4_THEGE/294-323   DE [subseq from] Aromatase OS=Theropithecus gelada OX=9565 GN=LOC112627390 PE=3 SV=1
+#=GS tr|A0A6D2WR21|A0A6D2WR21_PONAB/294-323   DE [subseq from] Aromatase OS=Pongo abelii OX=9601 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A2I3NHQ8|A0A2I3NHQ8_PAPAN/294-323   DE [subseq from] Aromatase OS=Papio anubis OX=9555 PE=3 SV=2
+#=GS tr|A0A8D1I0T9|A0A8D1I0T9_PIG/294-323     DE [subseq from] Uncharacterized protein OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS sp|P46194|CP19A_BOVIN/294-323            DE [subseq from] Aromatase OS=Bos taurus OX=9913 GN=CYP19A1 PE=2 SV=3
+#=GS tr|A0A6P3FG77|A0A6P3FG77_OCTDE/294-323   DE [subseq from] Aromatase OS=Octodon degus OX=10160 GN=LOC101569378 PE=3 SV=1
+#=GS tr|A0A6J1P1G8|A0A6J1P1G8_BICAN/317-341   DE [subseq from] Uncharacterized protein LOC112055283 OS=Bicyclus anynana OX=110368 GN=LOC112055283 PE=3 SV=1
+#=GS tr|A0A6J1P1G8|A0A6J1P1G8_BICAN/824-849   DE [subseq from] Uncharacterized protein LOC112055283 OS=Bicyclus anynana OX=110368 GN=LOC112055283 PE=3 SV=1
+#=GS tr|H0VPL2|H0VPL2_CAVPO/294-323           DE [subseq from] Aromatase OS=Cavia porcellus OX=10141 GN=CYP19A1 PE=3 SV=2
+#=GS tr|Q4STF7|Q4STF7_TETNG/173-201           DE [subseq from] (spotted green pufferfish) hypothetical protein OS=Tetraodon nigroviridis OX=99883 GN=GSTENG00012975001 PE=3 SV=1
+#=GS tr|Q4STF7|Q4STF7_TETNG/414-439           DE [subseq from] (spotted green pufferfish) hypothetical protein OS=Tetraodon nigroviridis OX=99883 GN=GSTENG00012975001 PE=3 SV=1
+#=GS tr|A0A1S3AAJ1|A0A1S3AAJ1_ERIEU/294-323   DE [subseq from] aromatase OS=Erinaceus europaeus OX=9365 GN=LOC103121348 PE=3 SV=1
+#=GS tr|A0A8D1SXV6|A0A8D1SXV6_PIG/59-88       DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|A0A643BN43|A0A643BN43_BALPH/327-356   DE [subseq from] Cytochrome P450 family 19 subfamily A member 1 (Fragment) OS=Balaenoptera physalus OX=9770 GN=E2I00_004217 PE=3 SV=1
+#=GS tr|A0A340X6F7|A0A340X6F7_LIPVE/294-323   DE [subseq from] aromatase OS=Lipotes vexillifer OX=118797 GN=LOC103080853 PE=3 SV=1
+#=GS tr|A0A8C6D9I3|A0A8C6D9I3_MOSMO/294-323   DE [subseq from] aromatase OS=Moschus moschiferus OX=68415 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A0D3F1P4|A0A0D3F1P4_9ORYZ/1548-1568 DE [subseq from] Cytochrome P450 OS=Oryza barthii OX=65489 PE=4 SV=1
+#=GS tr|L8I947|L8I947_9CETA/294-323           DE [subseq from] aromatase OS=Bos mutus OX=72004 GN=M91_14099 PE=3 SV=1
+#=GS tr|A0A4W2G0D8|A0A4W2G0D8_BOBOX/294-323   DE [subseq from] aromatase OS=Bos indicus x Bos taurus OX=30522 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A6B0RA67|A0A6B0RA67_9CETA/294-323   DE [subseq from] aromatase OS=Bos mutus OX=72004 GN=E5288_WYG006508 PE=3 SV=1
+#=GS tr|A0A6P5CER6|A0A6P5CER6_BOSIN/294-323   DE [subseq from] aromatase OS=Bos indicus OX=9915 GN=LOC109565118 PE=3 SV=1
+#=GS tr|F2Z4F2|F2Z4F2_BOVIN/294-323           DE [subseq from] aromatase OS=Bos taurus OX=9913 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A6P6HHE0|A0A6P6HHE0_PUMCO/235-264   DE [subseq from] aromatase OS=Puma concolor OX=9696 GN=LOC112855925 PE=3 SV=1
+#=GS tr|A0A8D1QUM0|A0A8D1QUM0_PIG/131-160     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|K7TVY1|K7TVY1_BUBBU/294-323           DE [subseq from] aromatase OS=Bubalus bubalis OX=89462 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A0A212CTA7|A0A212CTA7_CEREH/169-198   DE [subseq from] CYP19A1 (Fragment) OS=Cervus elaphus hippelaphus OX=46360 GN=Celaphus_00006193 PE=3 SV=1
+#=GS tr|A0A8C2VRD8|A0A8C2VRD8_CHILA/294-323   DE [subseq from] Aromatase OS=Chinchilla lanigera OX=34839 GN=CYP19A1 PE=3 SV=1
+#=GS tr|Q208A6|Q208A6_BUBBU/294-323           DE [subseq from] aromatase OS=Bubalus bubalis OX=89462 GN=CYP19 PE=2 SV=2
+#=GS tr|P79286|P79286_PIG/145-174             DE [subseq from] aromatase OS=Sus scrofa OX=9823 GN=HFAROA10 PE=2 SV=1
+#=GS tr|A0A4X1SYE6|A0A4X1SYE6_PIG/145-174     DE [subseq from] aromatase OS=Sus scrofa OX=9823 GN=CYP19A1 PE=3 SV=1
+#=GS tr|I3LPP5|I3LPP5_PIG/145-174             DE [subseq from] aromatase OS=Sus scrofa OX=9823 GN=CYP19A1 PE=3 SV=2
+#=GS tr|A0A8D1SVX4|A0A8D1SVX4_PIG/85-114      DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|A0A8D0NN40|A0A8D0NN40_PIG/145-174     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|A0A8C2P619|A0A8C2P619_CAPHI/269-298   DE [subseq from] aromatase OS=Capra hircus OX=9925 PE=3 SV=1
+#=GS tr|A0A5N3V6P0|A0A5N3V6P0_MUNMU/219-248   DE [subseq from] Cytochrome P450 family 19 subfamily A member 1 OS=Muntiacus muntjak OX=9888 GN=FD754_021773 PE=3 SV=1
+#=GS tr|A0A8D1YA89|A0A8D1YA89_PIG/145-174     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|G3T3M3|G3T3M3_LOXAF/210-239           DE [subseq from] aromatase OS=Loxodonta africana OX=9785 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A8J2RD02|A0A8J2RD02_9CRUS/274-302   DE [subseq from] S1 motif domain-containing protein OS=Daphnia galeata OX=27404 GN=DGAL_LOCUS1309 PE=3 SV=1
+#=GS tr|A0A8J2RD02|A0A8J2RD02_9CRUS/704-732   DE [subseq from] S1 motif domain-containing protein OS=Daphnia galeata OX=27404 GN=DGAL_LOCUS1309 PE=3 SV=1
+#=GS tr|A0A8D0VSZ3|A0A8D0VSZ3_PIG/145-174     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|A0A0B7G0E2|A0A0B7G0E2_THACB/89-109    DE [subseq from] Uncharacterized protein OS=Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) OX=1108050 GN=RSOLAG1IB_10758 PE=3 SV=1
+#=GS tr|A0A0B7G0E2|A0A0B7G0E2_THACB/402-422   DE [subseq from] Uncharacterized protein OS=Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) OX=1108050 GN=RSOLAG1IB_10758 PE=3 SV=1
+#=GS tr|A0A8C2PDH2|A0A8C2PDH2_CAPHI/295-324   DE [subseq from] aromatase OS=Capra hircus OX=9925 PE=3 SV=1
+#=GS tr|W5QIJ0|W5QIJ0_SHEEP/215-244           DE [subseq from] aromatase OS=Ovis aries OX=9940 GN=CYP19 PE=3 SV=1
+#=GS tr|A0A260ZQ36|A0A260ZQ36_CAERE/295-316   DE [subseq from] Uncharacterized protein (Fragment) OS=Caenorhabditis remanei OX=31234 GN=FL82_23392 PE=3 SV=1
+#=GS tr|A0A4U1EBV8|A0A4U1EBV8_MONMO/299-328   DE [subseq from] Cytochrome P450 family 19 subfamily A member 1 (Fragment) OS=Monodon monoceros OX=40151 GN=EI555_006427 PE=3 SV=1
+#=GS sp|Q6YI21|CP19A_CAPHI/294-323            DE [subseq from] Aromatase OS=Capra hircus OX=9925 GN=CYP19A1 PE=2 SV=1
+#=GS sp|Q9XS28|CP19A_SHEEP/294-323            DE [subseq from] Aromatase OS=Ovis aries OX=9940 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A0A5N4E3E5|A0A5N4E3E5_CAMDR/135-164   DE [subseq from] aromatase OS=Camelus dromedarius OX=9838 GN=Aromatase PE=3 SV=1
+#=GS tr|A0A7J8JT89|A0A7J8JT89_MOLMO/294-323   DE [subseq from] aromatase OS=Molossus molossus OX=27622 GN=HJG59_003579 PE=3 SV=1
+#=GS tr|G5C8S5|G5C8S5_HETGA/101-130           DE [subseq from] Aromatase OS=Heterocephalus glaber OX=10181 GN=GW7_20253 PE=3 SV=1
+#=GS tr|A0A8C4T3V6|A0A8C4T3V6_ERPCA/280-308   DE [subseq from] aromatase OS=Erpetoichthys calabaricus OX=27687 GN=LOC114667208 PE=3 SV=1
+#=GS tr|A0A5N4E2D8|A0A5N4E2D8_CAMDR/155-184   DE [subseq from] aromatase (Fragment) OS=Camelus dromedarius OX=9838 GN=Aromatase PE=3 SV=1
+#=GS tr|A0A6J3A280|A0A6J3A280_VICPA/169-198   DE [subseq from] aromatase OS=Vicugna pacos OX=30538 GN=LOC102526537 PE=3 SV=1
+#=GS tr|Q2XVA0|Q2XVA0_MACFA/210-239           DE [subseq from] Aromatase (Fragment) OS=Macaca fascicularis OX=9541 GN=CYP19 PE=2 SV=1
+#=GS tr|A0A2Y9MJL7|A0A2Y9MJL7_DELLE/84-113    DE [subseq from] aromatase OS=Delphinapterus leucas OX=9749 GN=LOC111171015 PE=3 SV=2
+#=GS tr|A0A6P6HHH2|A0A6P6HHH2_PUMCO/294-323   DE [subseq from] aromatase OS=Puma concolor OX=9696 GN=LOC112855925 PE=3 SV=1
+#=GS sp|Q29624|CP19A_PIG/294-323              DE [subseq from] Aromatase 1 OS=Sus scrofa OX=9823 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A0A6J8EGF9|A0A6J8EGF9_MYTCO/309-331   DE [subseq from] Cytochrome P450 3A41,Cytochrome P450 3A19,Cytochrome P450 3A31,Cytochrome P450 3A16,Cytochrome P450 3A8,Cytochrome P450 3A21,Cytochrome P450 3A4,Cytochrome P450 3A2 OS=Mytilus coruscus OX=42192 GN=MCOR_51204 PE=3 SV=1
+#=GS tr|A0A6J8EGF9|A0A6J8EGF9_MYTCO/830-850   DE [subseq from] Cytochrome P450 3A41,Cytochrome P450 3A19,Cytochrome P450 3A31,Cytochrome P450 3A16,Cytochrome P450 3A8,Cytochrome P450 3A21,Cytochrome P450 3A4,Cytochrome P450 3A2 OS=Mytilus coruscus OX=42192 GN=MCOR_51204 PE=3 SV=1
+#=GS tr|A0A553PP19|A0A553PP19_TIGCA/1058-1078 DE [subseq from] Cytochrome P450 (Fragment) OS=Tigriopus californicus OX=6832 GN=TCAL_10761 PE=3 SV=1
+#=GS tr|G1PEN3|G1PEN3_MYOLU/295-324           DE [subseq from] aromatase OS=Myotis lucifugus OX=59463 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A8D1QUG3|A0A8D1QUG3_PIG/252-281     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|S7PEE2|S7PEE2_MYOBR/295-324           DE [subseq from] aromatase OS=Myotis brandtii OX=109478 GN=D623_10026016 PE=3 SV=1
+#=GS tr|A0A5S6HC39|A0A5S6HC39_PIG/311-340     DE [subseq from] aromatase OS=Sus scrofa OX=9823 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A8D1Y6K2|A0A8D1Y6K2_PIG/311-340     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|A0A8C9B464|A0A8C9B464_PHOSS/294-323   DE [subseq from] aromatase OS=Phocoena sinus OX=42100 GN=LOC116749060 PE=3 SV=1
+#=GS tr|A0A8D0VRV5|A0A8D0VRV5_PIG/311-340     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|Q9TSH1|Q9TSH1_PIG/195-224             DE [subseq from] aromatase (Fragment) OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|A0A8D0NPU7|A0A8D0NPU7_PIG/311-340     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|A0A8D0ZCU4|A0A8D0ZCU4_PIG/311-340     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS sp|Q69FB6|CP19A_LAGAC/294-323            DE [subseq from] Aromatase OS=Lagenorhynchus acutus OX=90246 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A0A8C6BIC7|A0A8C6BIC7_MONMO/294-323   DE [subseq from] aromatase OS=Monodon monoceros OX=40151 GN=LOC114903553 PE=3 SV=1
+#=GS tr|A0A2Y9MYF4|A0A2Y9MYF4_DELLE/294-323   DE [subseq from] aromatase OS=Delphinapterus leucas OX=9749 GN=LOC111170860 PE=3 SV=1
+#=GS tr|A0A6J1UPQ4|A0A6J1UPQ4_9SAUR/295-324   DE [subseq from] aromatase OS=Notechis scutatus OX=8663 GN=LOC113418339 PE=3 SV=1
+#=GS tr|A0A9W3GRH6|A0A9W3GRH6_CAMBA/192-221   DE [subseq from] aromatase OS=Camelus bactrianus OX=9837 GN=LOC105067585 PE=3 SV=1
+#=GS tr|A0A8C5PHM5|A0A8C5PHM5_9ANUR/348-376   DE [subseq from] aromatase OS=Leptobrachium leishanense OX=445787 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A383Z5M0|A0A383Z5M0_BALAS/294-323   DE [subseq from] aromatase OS=Balaenoptera acutorostrata scammoni OX=310752 GN=LOC103012080 PE=3 SV=1
+#=GS tr|A0A226MIA2|A0A226MIA2_CALSU/294-322   DE [subseq from] Cytochrome P450 2J2 (Fragment) OS=Callipepla squamata OX=9009 GN=ASZ78_003709 PE=3 SV=1
+#=GS tr|A0A226MIA2|A0A226MIA2_CALSU/768-797   DE [subseq from] Cytochrome P450 2J2 (Fragment) OS=Callipepla squamata OX=9009 GN=ASZ78_003709 PE=3 SV=1
+#=GS tr|A0A226MIA2|A0A226MIA2_CALSU/1262-1290 DE [subseq from] Cytochrome P450 2J2 (Fragment) OS=Callipepla squamata OX=9009 GN=ASZ78_003709 PE=3 SV=1
+#=GS tr|A0A2Y9S1I1|A0A2Y9S1I1_PHYMC/294-323   DE [subseq from] aromatase OS=Physeter macrocephalus OX=9755 GN=LOC102982383 PE=3 SV=1
+#=GS tr|A0A8S4BMR2|A0A8S4BMR2_9TELE/316-337   DE [subseq from] (Atlantic silverside) hypothetical protein (Fragment) OS=Menidia menidia OX=238744 GN=MMEN_LOCUS15310 PE=3 SV=1
+#=GS tr|A0A8S4BMR2|A0A8S4BMR2_9TELE/481-502   DE [subseq from] (Atlantic silverside) hypothetical protein (Fragment) OS=Menidia menidia OX=238744 GN=MMEN_LOCUS15310 PE=3 SV=1
+#=GS tr|A0A8S4BMR2|A0A8S4BMR2_9TELE/731-758   DE [subseq from] (Atlantic silverside) hypothetical protein (Fragment) OS=Menidia menidia OX=238744 GN=MMEN_LOCUS15310 PE=3 SV=1
+#=GS tr|A0A341B5G2|A0A341B5G2_NEOAA/294-323   DE [subseq from] aromatase OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=LOC112397422 PE=3 SV=1
+#=GS tr|A0A6J2BAC1|A0A6J2BAC1_ZALCA/235-264   DE [subseq from] aromatase OS=Zalophus californianus OX=9704 GN=LOC113910201 PE=3 SV=2
+#=GS tr|A0A2Y9HJM6|A0A2Y9HJM6_NEOSC/235-264   DE [subseq from] aromatase OS=Neomonachus schauinslandi OX=29088 GN=LOC110583928 PE=3 SV=1
+#=GS tr|A0A7J7FBI8|A0A7J7FBI8_DICBM/205-234   DE [subseq from] aromatase OS=Diceros bicornis minor OX=77932 GN=HPG69_001871 PE=3 SV=1
+#=GS tr|A0A6J3R1G7|A0A6J3R1G7_TURTR/294-323   DE [subseq from] aromatase OS=Tursiops truncatus OX=9739 GN=LOC101335827 PE=3 SV=1
+#=GS tr|A0A4U1EC89|A0A4U1EC89_MONMO/221-250   DE [subseq from] aromatase (Fragment) OS=Monodon monoceros OX=40151 GN=EI555_001007 PE=3 SV=1
+#=GS tr|L5MCK1|L5MCK1_MYODS/295-324           DE [subseq from] aromatase OS=Myotis davidii OX=225400 GN=MDA_GLEAN10016345 PE=3 SV=1
+#=GS tr|A0A8B6YCQ2|A0A8B6YCQ2_CAMFR/295-324   DE [subseq from] aromatase OS=Camelus ferus OX=419612 GN=LOC102519005 PE=3 SV=1
+#=GS tr|A0A8D1QW76|A0A8D1QW76_PIG/287-316     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|A0A7J8AJN1|A0A7J8AJN1_MYOMY/295-324   DE [subseq from] aromatase OS=Myotis myotis OX=51298 GN=mMyoMyo1_003566 PE=3 SV=1
+#=GS tr|A0A6P4YM69|A0A6P4YM69_BRABE/327-354   DE [subseq from] Uncharacterized protein LOC109466472 OS=Branchiostoma belcheri OX=7741 GN=LOC109466472 PE=3 SV=1
+#=GS tr|A0A6P4YM69|A0A6P4YM69_BRABE/1290-1318 DE [subseq from] Uncharacterized protein LOC109466472 OS=Branchiostoma belcheri OX=7741 GN=LOC109466472 PE=3 SV=1
+#=GS tr|A0A8B8WR26|A0A8B8WR26_BALMU/294-323   DE [subseq from] aromatase OS=Balaenoptera musculus OX=9771 GN=LOC118890681 PE=3 SV=1
+#=GS tr|A0A8D1E091|A0A8D1E091_PIG/294-323     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|A0A8B6ZCI0|A0A8B6ZCI0_ORYAF/294-323   DE [subseq from] aromatase OS=Orycteropus afer afer OX=1230840 GN=LOC103192233 PE=3 SV=1
+#=GS tr|A0A0E0CGV1|A0A0E0CGV1_9ORYZ/822-842   DE [subseq from] Cytochrome P450 OS=Oryza meridionalis OX=40149 PE=4 SV=1
+#=GS tr|A0A0L0C020|A0A0L0C020_LUCCU/330-358   DE [subseq from] Cytochrome P450 12a5, mitochondrial OS=Lucilia cuprina OX=7375 GN=FF38_05788 PE=3 SV=1
+#=GS tr|A0A0L0C020|A0A0L0C020_LUCCU/857-884   DE [subseq from] Cytochrome P450 12a5, mitochondrial OS=Lucilia cuprina OX=7375 GN=FF38_05788 PE=3 SV=1
+#=GS tr|A0A8D1E2U5|A0A8D1E2U5_PIG/145-174     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS sp|Q5QQX7|CP19A_CANLF/294-323            DE [subseq from] Aromatase OS=Canis lupus familiaris OX=9615 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A0A3Q7TH54|A0A3Q7TH54_VULVU/294-323   DE [subseq from] aromatase OS=Vulpes vulpes OX=9627 GN=LOC112920063 PE=3 SV=1
+#=GS tr|A0A8C0TCX1|A0A8C0TCX1_CANLF/294-323   DE [subseq from] aromatase OS=Canis lupus familiaris OX=9615 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A8I3PXC9|A0A8I3PXC9_CANLF/294-323   DE [subseq from] aromatase OS=Canis lupus familiaris OX=9615 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A811Y5L1|A0A811Y5L1_NYCPR/294-323   DE [subseq from] aromatase OS=Nyctereutes procyonoides OX=34880 GN=NYPRO_LOCUS5674 PE=3 SV=1
+#=GS tr|A0A3Q7Q1J8|A0A3Q7Q1J8_CALUR/294-323   DE [subseq from] aromatase OS=Callorhinus ursinus OX=34884 GN=LOC112833088 PE=3 SV=1
+#=GS tr|A0A2U3VNE3|A0A2U3VNE3_ODORO/294-323   DE [subseq from] aromatase OS=Odobenus rosmarus divergens OX=9708 GN=LOC101383271 PE=3 SV=1
+#=GS tr|A0A2U3YTF3|A0A2U3YTF3_LEPWE/294-323   DE [subseq from] aromatase OS=Leptonychotes weddellii OX=9713 GN=LOC102731614 PE=3 SV=1
+#=GS tr|A0A6J2B7T1|A0A6J2B7T1_ZALCA/294-323   DE [subseq from] aromatase OS=Zalophus californianus OX=9704 GN=LOC113910201 PE=3 SV=2
+#=GS tr|A0A2Y9HDD8|A0A2Y9HDD8_NEOSC/294-323   DE [subseq from] aromatase OS=Neomonachus schauinslandi OX=29088 GN=LOC110583928 PE=3 SV=1
+#=GS tr|K7NAC7|K7NAC7_LYNPA/235-264           DE [subseq from] aromatase OS=Lynx pardinus OX=191816 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A0A2Y9MJE2|A0A2Y9MJE2_DELLE/294-323   DE [subseq from] Aromatase-like OS=Delphinapterus leucas OX=9749 GN=LOC111170861 PE=3 SV=2
+#=GS tr|A0A836A5V0|A0A836A5V0_SHEEP/311-340   DE [subseq from] aromatase OS=Ovis aries OX=9940 GN=JEQ12_018259 PE=3 SV=1
+#=GS tr|A0A1B0F0M7|A0A1B0F0M7_PHLPP/328-352   DE [subseq from] Cytochrome P450 OS=Phlebotomus papatasi OX=29031 PE=3 SV=1
+#=GS tr|A0A1B0F0M7|A0A1B0F0M7_PHLPP/789-816   DE [subseq from] Cytochrome P450 OS=Phlebotomus papatasi OX=29031 PE=3 SV=1
+#=GS tr|K7N9Z5|K7N9Z5_FELCA/235-264           DE [subseq from] aromatase OS=Felis catus OX=9685 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A0A5N4E2I3|A0A5N4E2I3_CAMDR/289-318   DE [subseq from] aromatase OS=Camelus dromedarius OX=9838 GN=Aromatase PE=3 SV=1
+#=GS tr|A0A1A6GMM0|A0A1A6GMM0_NEOLE/84-112    DE [subseq from] Aromatase (Fragment) OS=Neotoma lepida OX=56216 GN=A6R68_04870 PE=3 SV=1
+#=GS tr|A0A260ZHC3|A0A260ZHC3_CAERE/287-308   DE [subseq from] CYtochrome P450 family (Fragment) OS=Caenorhabditis remanei OX=31234 GN=FL82_14672 PE=3 SV=1
+#=GS tr|A0A260ZHC3|A0A260ZHC3_CAERE/775-796   DE [subseq from] CYtochrome P450 family (Fragment) OS=Caenorhabditis remanei OX=31234 GN=FL82_14672 PE=3 SV=1
+#=GS tr|G3UND5|G3UND5_LOXAF/294-323           DE [subseq from] aromatase OS=Loxodonta africana OX=9785 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A384DAX2|A0A384DAX2_URSMA/294-323   DE [subseq from] aromatase OS=Ursus maritimus OX=29073 GN=LOC103676745 PE=3 SV=1
+#=GS tr|C9K5T2|C9K5T2_URSTH/294-323           DE [subseq from] aromatase OS=Ursus thibetanus japonicus OX=378754 GN=cyp19 PE=2 SV=1
+#=GS tr|D2HEH6|D2HEH6_AILME/294-323           DE [subseq from] aromatase (Fragment) OS=Ailuropoda melanoleuca OX=9646 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A452QBZ3|A0A452QBZ3_URSAM/256-285   DE [subseq from] aromatase OS=Ursus americanus OX=9643 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A8J5ZPF1|A0A8J5ZPF1_GALPY/304-333   DE [subseq from] aromatase (Fragment) OS=Galemys pyrenaicus OX=202257 GN=J0S82_001109 PE=3 SV=1
+#=GS tr|A0A9B0T5R1|A0A9B0T5R1_CHRAS/294-323   DE [subseq from] aromatase OS=Chrysochloris asiatica OX=185453 GN=LOC102840356 PE=3 SV=1
+#=GS tr|A0AA40HX56|A0AA40HX56_EPTNI/294-322   DE [subseq from] Aromatase OS=Eptesicus nilssonii OX=59451 GN=QTO34_019729 PE=3 SV=1
+#=GS tr|A0A5N4E2N3|A0A5N4E2N3_CAMDR/288-317   DE [subseq from] aromatase OS=Camelus dromedarius OX=9838 GN=Aromatase PE=3 SV=1
+#=GS tr|A0A8B8T4L6|A0A8B8T4L6_CAMFR/295-324   DE [subseq from] aromatase OS=Camelus ferus OX=419612 GN=LOC116664105 PE=3 SV=1
+#=GS tr|S9Y8A1|S9Y8A1_CAMFR/227-256           DE [subseq from] aromatase OS=Camelus ferus OX=419612 GN=CB1_000540013 PE=3 SV=1
+#=GS sp|Q29605|CP19A_RABIT/294-323            DE [subseq from] Aromatase OS=Oryctolagus cuniculus OX=9986 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A0A667GXF9|A0A667GXF9_LYNCA/294-323   DE [subseq from] aromatase OS=Lynx canadensis OX=61383 GN=CYP19A1 PE=3 SV=1
+#=GS tr|K7NAI8|K7NAI8_LYNPA/294-323           DE [subseq from] aromatase OS=Lynx pardinus OX=191816 GN=CYP19A1 PE=2 SV=1
+#=GS tr|A0A6I9ZI52|A0A6I9ZI52_ACIJB/294-323   DE [subseq from] aromatase OS=Acinonyx jubatus OX=32536 GN=LOC106967273 PE=3 SV=1
+#=GS tr|A0A8C8WMB9|A0A8C8WMB9_PANLE/294-323   DE [subseq from] aromatase OS=Panthera leo OX=9689 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A8C9J912|A0A8C9J912_PANTA/294-323   DE [subseq from] aromatase OS=Panthera tigris altaica OX=74533 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A9W2UFY1|A0A9W2UFY1_PANPR/294-323   DE [subseq from] aromatase OS=Panthera pardus OX=9691 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A6G1AXR0|A0A6G1AXR0_CROCR/294-323   DE [subseq from] aromatase (Fragment) OS=Crocuta crocuta OX=9678 GN=Cyp19a1 PE=3 SV=1
+#=GS tr|K7NAJ2|K7NAJ2_FELCA/294-323           DE [subseq from] aromatase OS=Felis catus OX=9685 GN=CYP19A1 PE=2 SV=1
+#=GS tr|H0WJG7|H0WJG7_OTOGA/294-323           DE [subseq from] Aromatase OS=Otolemur garnettii OX=30611 GN=CYP19A1 PE=3 SV=1
+#=GS tr|G1R3I0|G1R3I0_NOMLE/294-323           DE [subseq from] Aromatase OS=Nomascus leucogenys OX=61853 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A182Y1B2|A0A182Y1B2_ANOST/291-320   DE [subseq from] Uncharacterized protein OS=Anopheles stephensi OX=30069 PE=3 SV=1
+#=GS tr|A0A182Y1B2|A0A182Y1B2_ANOST/785-815   DE [subseq from] Uncharacterized protein OS=Anopheles stephensi OX=30069 PE=3 SV=1
+#=GS tr|A0A811KXK1|A0A811KXK1_9BILA/297-318   DE [subseq from] CYtochrome P450 family OS=Bursaphelenchus okinawaensis OX=465554 GN=BOKJ2_LOCUS9446 PE=3 SV=1
+#=GS tr|A0A811KXK1|A0A811KXK1_9BILA/755-781   DE [subseq from] CYtochrome P450 family OS=Bursaphelenchus okinawaensis OX=465554 GN=BOKJ2_LOCUS9446 PE=3 SV=1
+#=GS tr|A0A6G1ED27|A0A6G1ED27_9ORYZ/299-323   DE [subseq from] Cytochrome P450 OS=Oryza meyeriana var. granulata OX=110450 GN=E2562_020307 PE=3 SV=1
+#=GS tr|A0A341B782|A0A341B782_NEOAA/294-323   DE [subseq from] aromatase OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=LOC112397499 PE=3 SV=1
+#=GS tr|F7ADA9|F7ADA9_ORNAN/303-332           DE [subseq from] aromatase OS=Ornithorhynchus anatinus OX=9258 GN=CYP19A1 PE=3 SV=2
+#=GS tr|A0A8C9B7K7|A0A8C9B7K7_PHOSS/294-323   DE [subseq from] aromatase OS=Phocoena sinus OX=42100 GN=LOC116749147 PE=3 SV=1
+#=GS tr|A0A8D1DGT6|A0A8D1DGT6_PIG/46-75       DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|A0A8D1CL66|A0A8D1CL66_PIG/127-156     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|A0A7R8YLE5|A0A7R8YLE5_HERIL/320-344   DE [subseq from] Cytochrome P450 OS=Hermetia illucens OX=343691 GN=HERILL_LOCUS805 PE=3 SV=1
+#=GS tr|A0A7R8YLE5|A0A7R8YLE5_HERIL/751-777   DE [subseq from] Cytochrome P450 OS=Hermetia illucens OX=343691 GN=HERILL_LOCUS805 PE=3 SV=1
+#=GS tr|A0A7J8AZ37|A0A7J8AZ37_PIPKU/294-322   DE [subseq from] aromatase OS=Pipistrellus kuhlii OX=59472 GN=mPipKuh1_003520 PE=3 SV=1
+#=GS tr|A0A8C6BGT4|A0A8C6BGT4_MONMO/294-323   DE [subseq from] aromatase OS=Monodon monoceros OX=40151 GN=LOC114903554 PE=3 SV=1
+#=GS tr|A0A6J3R200|A0A6J3R200_TURTR/294-323   DE [subseq from] aromatase OS=Tursiops truncatus OX=9739 GN=LOC101337437 PE=3 SV=1
+#=GS tr|A0A8C9A8Q6|A0A8C9A8Q6_PROSS/294-323   DE [subseq from] Aromatase OS=Prolemur simus OX=1328070 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A182TWT1|A0A182TWT1_9DIPT/318-342   DE [subseq from] Uncharacterized protein OS=Anopheles melas OX=34690 PE=3 SV=1
+#=GS tr|A0A182TWT1|A0A182TWT1_9DIPT/778-805   DE [subseq from] Uncharacterized protein OS=Anopheles melas OX=34690 PE=3 SV=1
+#=GS tr|A0A8D2AQY8|A0A8D2AQY8_SCIVU/294-323   DE [subseq from] Aromatase OS=Sciurus vulgaris OX=55149 GN=CYP19A1 PE=3 SV=1
+#=GS tr|A0A8D0R3G1|A0A8D0R3G1_PIG/143-172     DE [subseq from] aromatase OS=Sus scrofa OX=9823 PE=3 SV=1
+#=GS tr|A0A6J2L7H2|A0A6J2L7H2_9CHIR/293-322   DE [subseq from] aromatase OS=Phyllostomus discolor OX=89673 GN=LOC114493114 PE=3 SV=1
+#=GS tr|A0AA41MIZ6|A0AA41MIZ6_SCICA/279-308   DE [subseq from] Aromatase OS=Sciurus carolinensis OX=30640 GN=SUZIE_119950 PE=3 SV=1
+#=GS tr|A0A5N4CXY9|A0A5N4CXY9_CAMDR/18-38     DE [subseq from] unspecific monooxygenase OS=Camelus dromedarius OX=9838 GN=Cadr_000023629 PE=3 SV=1
+#=GS tr|A0A5N4CXY9|A0A5N4CXY9_CAMDR/75-95     DE [subseq from] unspecific monooxygenase OS=Camelus dromedarius OX=9838 GN=Cadr_000023629 PE=3 SV=1
+#=GS tr|A0A8W7PEZ2|A0A8W7PEZ2_ANOCL/263-287   DE [subseq from] Cytochrome P450 OS=Anopheles coluzzii OX=1518534 PE=3 SV=1
+#=GS tr|A0A8W7PEZ2|A0A8W7PEZ2_ANOCL/752-779   DE [subseq from] Cytochrome P450 OS=Anopheles coluzzii OX=1518534 PE=3 SV=1
+#=GS tr|A0A8D0M1N2|A0A8D0M1N2_PIG/145-174     DE [subseq from] aromatase OS=Sus scrofa OX=9823 GN=CYP19A2 PE=3 SV=1
+
+tr|A0A8J4WTT4|A0A8J4WTT4_CLAMG/477-503           ----.YGSVAELLLAGVDTTSITL-MWALYLLS-
+#=GR tr|A0A8J4WTT4|A0A8J4WTT4_CLAMG/477-503   PP .....566799*************.5*999986.
+tr|A0A8J4WTT4|A0A8J4WTT4_CLAMG/896-919           ----.---VTELLLAGVDTTSNTM-MWALYLLS-
+#=GR tr|A0A8J4WTT4|A0A8J4WTT4_CLAMG/896-919   PP ........679*************.5*999986.
+tr|A0A8J4WTT4|A0A8J4WTT4_CLAMG/1259-1281         ----.---VTELLLAGVDTTSNTM-MW-AFYLL-
+#=GR tr|A0A8J4WTT4|A0A8J4WTT4_CLAMG/1259-1281 PP ........679*************.59.77776.
+tr|A0A8J4WTT4|A0A8J4WTT4_CLAMG/2478-2504         ----.NGSIAELLLAGVDTTSNTL-MWALYLLS-
+#=GR tr|A0A8J4WTT4|A0A8J4WTT4_CLAMG/2478-2504 PP .....66789**************.5*9**997.
+tr|T1IQ14|T1IQ14_STRMM/303-325                   ----.----FDLFLAGSDTTTNTLGWSLLYMI--
+#=GR tr|T1IQ14|T1IQ14_STRMM/303-325           PP .........478*************9999985..
+tr|T1IQ14|T1IQ14_STRMM/1155-1182                 -KHL.SGVLLDLFFAGSDTTTNTLGWCLLY----
+#=GR tr|T1IQ14|T1IQ14_STRMM/1155-1182         PP .788.8889***************944444....
+tr|T1IQ14|T1IQ14_STRMM/1687-1715                 --QL.PGVLFDLFAAGSDTTTNTIGWSLLYMI--
+#=GR tr|T1IQ14|T1IQ14_STRMM/1687-1715         PP ..55.5666799*************9999985..
+tr|T1IQ14|T1IQ14_STRMM/2107-2136                 -KQL.PMVLLDLFLAGSDTTTNTLGWSLLYMI--
+#=GR tr|T1IQ14|T1IQ14_STRMM/2107-2136         PP .688.8999****************9999985..
+tr|A0A7R8X8W7|A0A7R8X8W7_9CRUS/313-338           ----.-VMILDMLLAGIDTTSHSI-AFTIYNLA-
+#=GR tr|A0A7R8X8W7|A0A7R8X8W7_9CRUS/313-338   PP ......799***************.599***98.
+tr|A0A7R8X8W7|A0A7R8X8W7_9CRUS/543-572           -KEV.LVMILDMLLAGVDTTSNTIG-FALYHLA-
+#=GR tr|A0A7R8X8W7|A0A7R8X8W7_9CRUS/543-572   PP .566.6899***************9.5588876.
+tr|A0A7R8X8W7|A0A7R8X8W7_9CRUS/1425-1453         --EV.LVMILDMLFAGIDTTSNTVA-FTMFHLA-
+#=GR tr|A0A7R8X8W7|A0A7R8X8W7_9CRUS/1425-1453 PP ..56.6799***************5.8888776.
+tr|A0A7R8X8W7|A0A7R8X8W7_9CRUS/2164-2191         ---V.FVMILDMLFAGIDTVCFTCLSVLCQVI--
+#=GR tr|A0A7R8X8W7|A0A7R8X8W7_9CRUS/2164-2191 PP ...5.5799***************87777766..
+tr|A0A914TY97|A0A914TY97_9BILA/228-255           --QL.YATILDLWIAGQETVSYTL-SWMCIYL--
+#=GR tr|A0A914TY97|A0A914TY97_9BILA/228-255   PP ..66.8889***************.****998..
+tr|A0A914TY97|A0A914TY97_9BILA/350-377           --QL.YAIILDLWIAGQETASYTL-SWMCIYL--
+#=GR tr|A0A914TY97|A0A914TY97_9BILA/350-377   PP ..78.99*****************.****998..
+tr|A0A2P4UUB4|A0A2P4UUB4_CAERE/830-851           ----.-----DLWLAGQETTSTTL-TWACACLL-
+#=GR tr|A0A2P4UUB4|A0A2P4UUB4_CAERE/830-851   PP ..........89************.8*****98.
+tr|A0A2P4UUB4|A0A2P4UUB4_CAERE/1683-1704         ----.-----DLWLAGQETTSTTL-TWACVCLL-
+#=GR tr|A0A2P4UUB4|A0A2P4UUB4_CAERE/1683-1704 PP ..........89************.8*****97.
+tr|A0A2P4UUB4|A0A2P4UUB4_CAERE/2162-2183         ----.-----DLWIAGQETTSTTL-SWACACLL-
+#=GR tr|A0A2P4UUB4|A0A2P4UUB4_CAERE/2162-2183 PP ..........89************.******98.
+tr|A0A6P8J260|A0A6P8J260_ACTTE/323-345           ----.----IEMFMGGVDTTSNTA-LWLLYNLA-
+#=GR tr|A0A6P8J260|A0A6P8J260_ACTTE/323-345   PP .........69*************.6******8.
+tr|A0A6P8J260|A0A6P8J260_ACTTE/874-899           ----.-MSAIEMFMAGVDTTSNTA-LWLLYSLA-
+#=GR tr|A0A6P8J260|A0A6P8J260_ACTTE/874-899   PP ......5589**************.6******8.
+tr|A0A7R9AEE9|A0A7R9AEE9_9CRUS/329-357           --EV.LTMITDMLIAGIDTTGNCLG-FTLYHLA-
+#=GR tr|A0A7R9AEE9|A0A7R9AEE9_9CRUS/329-357   PP ..55.6899***************8.99**987.
+tr|A0A7R9AEE9|A0A7R9AEE9_9CRUS/641-669           --EV.LTMITDMLIAGIDTTGNCLG-FTLYHLA-
+#=GR tr|A0A7R9AEE9|A0A7R9AEE9_9CRUS/641-669   PP ..55.6899***************8.99**987.
+tr|A0A6H0JLQ2|A0A6H0JLQ2_APHGO/325-350           ----.-ILALDLILVGIDTISMAV-CSMLYQIA-
+#=GR tr|A0A6H0JLQ2|A0A6H0JLQ2_APHGO/325-350   PP ......589***************.9****987.
+tr|A0A6H0JLQ2|A0A6H0JLQ2_APHGO/865-889           ----.--LSLDMFIVGIDTTSAAL-ASILYQLS-
+#=GR tr|A0A6H0JLQ2|A0A6H0JLQ2_APHGO/865-889   PP .......789**************.6*****97.
+tr|A0A9D3SN64|A0A9D3SN64_9TELE/315-339           ----.-GSVTELLLAGVDTTSNTM-MWALHLL--
+#=GR tr|A0A9D3SN64|A0A9D3SN64_9TELE/315-339   PP ......55679*************.5877655..
+tr|A0A9D3SN64|A0A9D3SN64_9TELE/755-779           ----.-GSVTELLLAGVDTTSNTM-MWALHLL--
+#=GR tr|A0A9D3SN64|A0A9D3SN64_9TELE/755-779   PP ......55679*************.5877655..
+tr|A0A9D3SN64|A0A9D3SN64_9TELE/1130-1153         ----.---VTELLLAGVDTTSNTM-MWALYLLS-
+#=GR tr|A0A9D3SN64|A0A9D3SN64_9TELE/1130-1153 PP ........679*************.5*999986.
+tr|A0A7R8D2R9|A0A7R8D2R9_LEPSM/271-298           --QL.AVICMDLFVAGSETSSITL-TWMLMYM--
+#=GR tr|A0A7R8D2R9|A0A7R8D2R9_LEPSM/271-298   PP ..66.6788***************.8****96..
+tr|A0A7R8D2R9|A0A7R8D2R9_LEPSM/638-665           --QL.AVICMDLFVAGSETSSTTL-TWMLMYM--
+#=GR tr|A0A7R8D2R9|A0A7R8D2R9_LEPSM/638-665   PP ..66.6788***************.8****96..
+tr|A0A7R8D2D1|A0A7R8D2D1_LEPSM/271-298           --QL.AVICMDLFVAGSETSSITL-TWMLMYM--
+#=GR tr|A0A7R8D2D1|A0A7R8D2D1_LEPSM/271-298   PP ..66.6788***************.8****96..
+tr|A0A7R8D2D1|A0A7R8D2D1_LEPSM/665-692           --QL.AVICMDLFVAGSETSSTTL-TWMLMYM--
+#=GR tr|A0A7R8D2D1|A0A7R8D2D1_LEPSM/665-692   PP ..66.6788***************.8****96..
+tr|A0A182K8E3|A0A182K8E3_9DIPT/31-55             ----.--MALDMIFAGIDTTSSGSV-AILYCLA-
+#=GR tr|A0A182K8E3|A0A182K8E3_9DIPT/31-55     PP .......89***************7.******8.
+tr|A0A182K8E3|A0A182K8E3_9DIPT/1040-1065         ----.-VMAFDMLMAGIDTTSSST-FGILYCLA-
+#=GR tr|A0A182K8E3|A0A182K8E3_9DIPT/1040-1065 PP ......6889**************.6******8.
+tr|A0A6J2X2Z7|A0A6J2X2Z7_SITOR/321-346           ----.-ILALDLILVGIDTISMAV-CSILYQLA-
+#=GR tr|A0A6J2X2Z7|A0A6J2X2Z7_SITOR/321-346   PP ......589***************.9*****98.
+tr|A0A6J2X2Z7|A0A6J2X2Z7_SITOR/893-920           ---A.SILALDMFLVGVDTISNAV-ASILYQLA-
+#=GR tr|A0A6J2X2Z7|A0A6J2X2Z7_SITOR/893-920   PP ...5.669****************.6*****97.
+tr|A0A3Q0JHQ7|A0A3Q0JHQ7_DIACI/19-42             ----.--LLLDLFMAGSETTSNSLSFSVLYL---
+#=GR tr|A0A3Q0JHQ7|A0A3Q0JHQ7_DIACI/19-42     PP .......679**************8787775...
+tr|A0A3Q0JHQ7|A0A3Q0JHQ7_DIACI/354-377           ----.--LLLDLFMAGSETTSNSLSFSVLYL---
+#=GR tr|A0A3Q0JHQ7|A0A3Q0JHQ7_DIACI/354-377   PP .......679**************8787775...
+tr|A0A498NHQ1|A0A498NHQ1_LABRO/321-344           ----.---ISELLLAGVDTTSNTM-LWTLHLLS-
+#=GR tr|A0A498NHQ1|A0A498NHQ1_LABRO/321-344   PP ........6799************.6**98775.
+tr|A0A498NHQ1|A0A498NHQ1_LABRO/693-721           --EV.YGSVSELLLAGVDTTSNTM-LWTLYLLS-
+#=GR tr|A0A498NHQ1|A0A498NHQ1_LABRO/693-721   PP ..66.777789*************.6****997.
+tr|A0AA47P344|A0AA47P344_MERPO/284-311           --QL.SSFAQDLHFAGTDTTSNTLLTSLLYL---
+#=GR tr|A0AA47P344|A0AA47P344_MERPO/284-311   PP ..67.89999***************998885...
+tr|A0AA47P344|A0AA47P344_MERPO/751-775           ----.-AFAQDLHFAGTDTTSNTLLTSLLYL---
+#=GR tr|A0AA47P344|A0AA47P344_MERPO/751-775   PP ......5788999************998885...
+tr|A0AA47P344|A0AA47P344_MERPO/1248-1275         --QL.SSFAQDLHFAGTDTTSNTLLTSLLYL---
+#=GR tr|A0AA47P344|A0AA47P344_MERPO/1248-1275 PP ..67.89999***************998885...
+tr|A0AA47P344|A0AA47P344_MERPO/1752-1776         ----.-AFAQDLHFAGTDTTSNTLLTSLLYL---
+#=GR tr|A0AA47P344|A0AA47P344_MERPO/1752-1776 PP ......688999*************998885...
+tr|C3XV68|C3XV68_BRAFL/330-354                   ----.--MAVDLMAAGIDTSGNTLM-FNLFCLA-
+#=GR tr|C3XV68|C3XV68_BRAFL/330-354           PP .......7889*************5.99****8.
+tr|C3XV68|C3XV68_BRAFL/787-811                   ----.--MAVDLMAAGIDTSGNTLM-FNLFCLA-
+#=GR tr|C3XV68|C3XV68_BRAFL/787-811           PP .......7889*************5.99****8.
+tr|C3XV68|C3XV68_BRAFL/1267-1295                 --EA.MEMAVDLLSAGIDTTGNTLM-FNLFCLA-
+#=GR tr|C3XV68|C3XV68_BRAFL/1267-1295         PP ..56.67999**************5.99****8.
+tr|A0A182NTP7|A0A182NTP7_9DIPT/781-807           ----.VIMALDMIFAGIETTSTST-LGTLYCLA-
+#=GR tr|A0A182NTP7|A0A182NTP7_9DIPT/781-807   PP .....569****************.599****8.
+tr|A0A182NTP7|A0A182NTP7_9DIPT/1756-1780         ----.--MSLDMLMAGIDTTSSGSV-GILYCLA-
+#=GR tr|A0A182NTP7|A0A182NTP7_9DIPT/1756-1780 PP .......89**********998886.89***98.
+tr|A0A9J6AKC7|A0A9J6AKC7_SOLCO/13-39             ----.VSIVLDLLFAGFETTSGLL-SLLVYFLA-
+#=GR tr|A0A9J6AKC7|A0A9J6AKC7_SOLCO/13-39     PP .....5799***************.9*****98.
+tr|A0A9J6AKC7|A0A9J6AKC7_SOLCO/391-416           ----.-SILLDLLLAGYETTSGLL-SLLVYFLA-
+#=GR tr|A0A9J6AKC7|A0A9J6AKC7_SOLCO/391-416   PP ......6789**************.9****997.
+tr|A0A8S1CB21|A0A8S1CB21_9INSE/322-345           ----.---GMDIILAGVDTTSNSA-AMILYYLA-
+#=GR tr|A0A8S1CB21|A0A8S1CB21_9INSE/322-345   PP ........589*************.6******8.
+tr|A0A8S1CB21|A0A8S1CB21_9INSE/805-827           ----.---GMDIILAGVDTTSNSA-AMVLYYL--
+#=GR tr|A0A8S1CB21|A0A8S1CB21_9INSE/805-827   PP ........589*************.6*****8..
+tr|M1DND6|M1DND6_SOLTU/82-108                    ----.VSIVLDLLFAGFETTSGLL-SLLVYFLA-
+#=GR tr|M1DND6|M1DND6_SOLTU/82-108            PP .....5799***************.9*****98.
+tr|M1DND6|M1DND6_SOLTU/460-485                   ----.-SILLDLLLAGYETTSGLL-SLLVYFLA-
+#=GR tr|M1DND6|M1DND6_SOLTU/460-485           PP ......6789**************.9****997.
+tr|A0A2A4K8G4|A0A2A4K8G4_HELVI/334-358           ----.--MALDLILVGIDTISMAV-CSILYQAA-
+#=GR tr|A0A2A4K8G4|A0A2A4K8G4_HELVI/334-358   PP .......89***************.9****998.
+tr|A0A2A4K8G4|A0A2A4K8G4_HELVI/565-589           ----.--MALDLILVGIDTISMAV-CSILYQAA-
+#=GR tr|A0A2A4K8G4|A0A2A4K8G4_HELVI/565-589   PP .......89***************.9****998.
+tr|A0A7R9BFG6|A0A7R9BFG6_9CRUS/318-342           ----.--LILDLLMAGIDTTSHSMG-FLLFQLA-
+#=GR tr|A0A7R9BFG6|A0A7R9BFG6_9CRUS/318-342   PP .......79***************8.*****98.
+tr|A0A7R9BFG6|A0A7R9BFG6_9CRUS/824-848           ----.--LILDLLMAGIDTTSHSMG-FLLYHLA-
+#=GR tr|A0A7R9BFG6|A0A7R9BFG6_9CRUS/824-848   PP .......79***************8.****987.
+tr|A0A8J6HEY8|A0A8J6HEY8_TENMO/840-868           ---VaVGMSLDMMIAGIDTTGRVL-ASGLYYLS-
+#=GR tr|A0A8J6HEY8|A0A8J6HEY8_TENMO/840-868   PP ...4489*****************.599***97.
+tr|A0A1I7RLW6|A0A1I7RLW6_BURXY/297-322           ----.-NICMDLWVAGQETTSSTL-TWIIAYLI-
+#=GR tr|A0A1I7RLW6|A0A1I7RLW6_BURXY/297-322   PP ......678***************.8****995.
+tr|A0A1I7RLW6|A0A1I7RLW6_BURXY/491-516           ----.-NICMDLWVAGQETTSSTL-TWIIAYLI-
+#=GR tr|A0A1I7RLW6|A0A1I7RLW6_BURXY/491-516   PP ......678***************.8****995.
+tr|A0A8J4UMJ4|A0A8J4UMJ4_CLAMG/329-357           -ENL.VSYIIDLHVAGTDTTSNTLLTAILYL---
+#=GR tr|A0A8J4UMJ4|A0A8J4UMJ4_CLAMG/329-357   PP .677.99*****************9998886...
+tr|A0A8J4UMJ4|A0A8J4UMJ4_CLAMG/755-783           -EQL.STYIMNLHLAGTDTTSNTLLTAILYL---
+#=GR tr|A0A8J4UMJ4|A0A8J4UMJ4_CLAMG/755-783   PP .789.9******************9998886...
+tr|A0A8J4UMJ4|A0A8J4UMJ4_CLAMG/1202-1230         -EQL.VAYILNLHVAGTDTTSNTLLTAMLYL---
+#=GR tr|A0A8J4UMJ4|A0A8J4UMJ4_CLAMG/1202-1230 PP .788.99**********************96...
+tr|A0A146B458|A0A146B458_BUBBU/8-37              -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A146B458|A0A146B458_BUBBU/8-37      PP .789.*******************.6****987.
+tr|A0A2P4USE4|A0A2P4USE4_CAERE/295-316           ---L.KTMIIDLWITGQETTTTTLIS--------
+#=GR tr|A0A2P4USE4|A0A2P4USE4_CAERE/295-316   PP ...5.89***************9974........
+tr|A0A5C6MWB6|A0A5C6MWB6_9TELE/234-258           ----.-LCSLDLFLAGTETTATTLL-WALVYL--
+#=GR tr|A0A5C6MWB6|A0A5C6MWB6_9TELE/234-258   PP ......599***************5.888877..
+tr|A0A5C6MWB6|A0A5C6MWB6_9TELE/631-658           --NL.AMCSLDLFIAGTETTATTLL-WALVYL--
+#=GR tr|A0A5C6MWB6|A0A5C6MWB6_9TELE/631-658   PP ..56.79*****************6.777666..
+tr|A0A5C6MWB6|A0A5C6MWB6_9TELE/1100-1127         --NL.VLCCLDLFLAGSETTSKTL-QWGLIYL--
+#=GR tr|A0A5C6MWB6|A0A5C6MWB6_9TELE/1100-1127 PP ..55.6699*************99.5877666..
+tr|E3NG39|E3NG39_CAERE/292-319                   ---D.SVCFD-LWVAGMETTSNTLYWSLLYVLL-
+#=GR tr|E3NG39|E3NG39_CAERE/292-319           PP ...4.66755.5*************99999886.
+tr|E3NG39|E3NG39_CAERE/605-632                   ---D.SVCFD-LWVAGMETTSNTLYWSLLYVLL-
+#=GR tr|E3NG39|E3NG39_CAERE/605-632           PP ...4.66755.5*************99999886.
+tr|A0A2J8VBN7|A0A2J8VBN7_PONAB/5-34              -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2J8VBN7|A0A2J8VBN7_PONAB/5-34      PP .789.*******************.6****987.
+tr|A0A2J8NSX2|A0A2J8NSX2_PANTR/5-34              -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2J8NSX2|A0A2J8NSX2_PANTR/5-34      PP .789.*******************.6****987.
+tr|H0YK57|H0YK57_HUMAN/6-35                      -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|H0YK57|H0YK57_HUMAN/6-35              PP .789.*******************.6****987.
+tr|A0A261CMN1|A0A261CMN1_9PELO/249-271           --NL.CACALDFWMAGMETTSNAL-RW-------
+#=GR tr|A0A261CMN1|A0A261CMN1_9PELO/249-271   PP ..56.68****************9.36.......
+tr|A0A498MRQ1|A0A498MRQ1_LABRO/1366-1389         ----.--CALDLFVAGTETTSTTLYWALLYM---
+#=GR tr|A0A498MRQ1|A0A498MRQ1_LABRO/1366-1389 PP .......9*****************888776...
+tr|A0A498MRQ1|A0A498MRQ1_LABRO/1643-1665         ----.--CTLDLFIAGTETTSTTLY-WGLLY---
+#=GR tr|A0A498MRQ1|A0A498MRQ1_LABRO/1643-1665 PP .......889**************9.64433...
+tr|A0A8H3GYA2|A0A8H3GYA2_9AGAM/330-350           ----.------MFLAGSDTSSNTL-SSLCYQLA-
+#=GR tr|A0A8H3GYA2|A0A8H3GYA2_9AGAM/330-350   PP ...........79***********.******97.
+tr|A0A8H3GYA2|A0A8H3GYA2_9AGAM/669-689           ----.------MFLAGSDTSSNTL-SSLCYQLA-
+#=GR tr|A0A8H3GYA2|A0A8H3GYA2_9AGAM/669-689   PP ...........79***********.******97.
+tr|A0A7R9Q1U2|A0A7R9Q1U2_9ACAR/542-564           ----.----ILFFIAGYDTTSASL-SHVVYYLS-
+#=GR tr|A0A7R9Q1U2|A0A7R9Q1U2_9ACAR/542-564   PP .........578************.******97.
+tr|A0A7R9Q1U2|A0A7R9Q1U2_9ACAR/566-593           ---N.KDXGILFFIAGYDTTSASL-SHVVYYLS-
+#=GR tr|A0A7R9Q1U2|A0A7R9Q1U2_9ACAR/566-593   PP ...5.6677899************.******97.
+tr|A0A2P4WPX1|A0A2P4WPX1_CAERE/237-259           --NL.CACALDFWMAGMETTSNAL-RW-------
+#=GR tr|A0A2P4WPX1|A0A2P4WPX1_CAERE/237-259   PP ..56.68****************9.36.......
+tr|A0A6J1N4F9|A0A6J1N4F9_BICAN/313-337           ----.--MANDMLFAGVDTTANTII-GALFLLA-
+#=GR tr|A0A6J1N4F9|A0A6J1N4F9_BICAN/313-337   PP .......89**************98.4488886.
+tr|A0A6J1N4F9|A0A6J1N4F9_BICAN/809-838           --NVaVTLANDLFLAGVDTSAGTA-LAILYLLA-
+#=GR tr|A0A6J1N4F9|A0A6J1N4F9_BICAN/809-838   PP ..66689*****************.6*****98.
+tr|A0A0D3F1P3|A0A0D3F1P3_9ORYZ/1749-1769         ----.KAIILDLFNAGSETSANTL-QW-------
+#=GR tr|A0A0D3F1P3|A0A0D3F1P3_9ORYZ/1749-1769 PP .....689***************9.47.......
+tr|A0A182XZZ6|A0A182XZZ6_ANOST/821-844           ----.---ALDMIFAGIDTTSSGA-AAILYCLA-
+#=GR tr|A0A182XZZ6|A0A182XZZ6_ANOST/821-844   PP ........79***********999.5******8.
+tr|A0A182XZZ6|A0A182XZZ6_ANOST/1305-1329         ----.--MSLDMLMAGIDTTSSGSI-GILYCLA-
+#=GR tr|A0A182XZZ6|A0A182XZZ6_ANOST/1305-1329 PP .......789**********99996.89***98.
+tr|A0A2J8NSW7|A0A2J8NSW7_PANTR/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2J8NSW7|A0A2J8NSW7_PANTR/294-323   PP .789.*******************.6****987.
+tr|E7EQ08|E7EQ08_HUMAN/294-323                   -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|E7EQ08|E7EQ08_HUMAN/294-323           PP .789.*******************.6****987.
+tr|Q7Z471|Q7Z471_HUMAN/294-323                   -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|Q7Z471|Q7Z471_HUMAN/294-323           PP .789.*******************.6****987.
+tr|A3EYF4|A3EYF4_BUBBU/8-37                      -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A3EYF4|A3EYF4_BUBBU/8-37              PP .789.*******************.6****987.
+tr|A0A2J8VBP2|A0A2J8VBP2_PONAB/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2J8VBP2|A0A2J8VBP2_PONAB/294-323   PP .789.*******************.6****987.
+tr|Q05CU4|Q05CU4_HUMAN/294-323                   -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|Q05CU4|Q05CU4_HUMAN/294-323           PP .789.*******************.6****987.
+tr|A0A8J6FXK7|A0A8J6FXK7_MICOH/294-322           -ENV.NQCILEMLIAAPDTMSVTLYFMLLLI---
+#=GR tr|A0A8J6FXK7|A0A8J6FXK7_MICOH/294-322   PP .577.*******************9666654...
+tr|H3ALV3|H3ALV3_LATCH/311-340                   -ENV.QQCLLEMLIAGPDTMSVTL-FYMLMLVA-
+#=GR tr|H3ALV3|H3ALV3_LATCH/311-340           PP .788.9******************.699*9886.
+tr|A0A1D5QZ23|A0A1D5QZ23_MACMU/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A1D5QZ23|A0A1D5QZ23_MACMU/294-323   PP .789.*******************.6****987.
+tr|A0A8J8XT54|A0A8J8XT54_MACMU/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A8J8XT54|A0A8J8XT54_MACMU/294-323   PP .789.*******************.6****987.
+tr|A0A8J8YF18|A0A8J8YF18_MACFA/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A8J8YF18|A0A8J8YF18_MACFA/294-323   PP .789.*******************.6****987.
+tr|Q95LY0|Q95LY0_MACFA/294-323                   -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|Q95LY0|Q95LY0_MACFA/294-323           PP .789.*******************.6****987.
+tr|A0A8C5PHZ9|A0A8C5PHZ9_9ANUR/306-334           -ENV.NQCILEMLIAAPDTMSVSLF-FMLVLI--
+#=GR tr|A0A8C5PHZ9|A0A8C5PHZ9_9ANUR/306-334   PP .789.*******************6.666554..
+tr|A0A8C0R3Y2|A0A8C0R3Y2_CANLU/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8C0R3Y2|A0A8C0R3Y2_CANLU/294-323   PP .789.*******************.6****987.
+tr|A0A8X7XPU8|A0A8X7XPU8_POLSE/260-288           --DV.TQCILEMLIAGPDTMSVTL-FFMLMLLA-
+#=GR tr|A0A8X7XPU8|A0A8X7XPU8_POLSE/260-288   PP ..56.9******************.6****997.
+tr|A0A2K6CXJ1|A0A2K6CXJ1_MACNE/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2K6CXJ1|A0A2K6CXJ1_MACNE/294-323   PP .789.*******************.6****987.
+tr|A0A2J8NSX0|A0A2J8NSX0_PANTR/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2J8NSX0|A0A2J8NSX0_PANTR/294-323   PP .789.*******************.6****987.
+tr|A0A6D2Y496|A0A6D2Y496_PANTR/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A6D2Y496|A0A6D2Y496_PANTR/294-323   PP .789.*******************.6****987.
+tr|A0A2K5KCE1|A0A2K5KCE1_COLAP/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2K5KCE1|A0A2K5KCE1_COLAP/294-323   PP .789.*******************.6****987.
+tr|A0A2K5L4E2|A0A2K5L4E2_CERAT/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2K5L4E2|A0A2K5L4E2_CERAT/294-323   PP .789.*******************.6****987.
+tr|Q45RG7|Q45RG7_HUMAN/294-323                   -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|Q45RG7|Q45RG7_HUMAN/294-323           PP .789.*******************.6****987.
+tr|Q8IYG4|Q8IYG4_HUMAN/294-323                   -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|Q8IYG4|Q8IYG4_HUMAN/294-323           PP .789.*******************.6****987.
+tr|A8K6W3|A8K6W3_HUMAN/294-323                   -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A8K6W3|A8K6W3_HUMAN/294-323           PP .789.*******************.6****987.
+tr|A0A2K6N010|A0A2K6N010_RHIBE/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2K6N010|A0A2K6N010_RHIBE/294-323   PP .789.*******************.6****987.
+tr|A0A2K6NTQ0|A0A2K6NTQ0_RHIRO/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2K6NTQ0|A0A2K6NTQ0_RHIRO/294-323   PP .789.*******************.6****987.
+tr|A0A8C9GPQ8|A0A8C9GPQ8_9PRIM/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A8C9GPQ8|A0A8C9GPQ8_9PRIM/294-323   PP .789.*******************.6****987.
+sp|P11511|CP19A_HUMAN/294-323                    -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR sp|P11511|CP19A_HUMAN/294-323            PP .789.*******************.6****987.
+tr|A0A2R9A604|A0A2R9A604_PANPA/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2R9A604|A0A2R9A604_PANPA/294-323   PP .789.*******************.6****987.
+tr|G3RDS5|G3RDS5_GORGO/294-323                   -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|G3RDS5|G3RDS5_GORGO/294-323           PP .789.*******************.6****987.
+tr|A0A096NM34|A0A096NM34_PAPAN/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A096NM34|A0A096NM34_PAPAN/294-323   PP .789.*******************.6****987.
+tr|A0A0D9RFI7|A0A0D9RFI7_CHLSB/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A0D9RFI7|A0A0D9RFI7_CHLSB/294-323   PP .789.*******************.6****987.
+tr|A0A2K6A906|A0A2K6A906_MANLE/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2K6A906|A0A2K6A906_MANLE/294-323   PP .789.*******************.6****987.
+tr|A0A8D2K1I4|A0A8D2K1I4_THEGE/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A8D2K1I4|A0A8D2K1I4_THEGE/294-323   PP .789.*******************.6****987.
+tr|A0A6D2WR21|A0A6D2WR21_PONAB/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A6D2WR21|A0A6D2WR21_PONAB/294-323   PP .789.*******************.6****987.
+tr|A0A2I3NHQ8|A0A2I3NHQ8_PAPAN/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A2I3NHQ8|A0A2I3NHQ8_PAPAN/294-323   PP .789.*******************.6****987.
+tr|A0A8D1I0T9|A0A8D1I0T9_PIG/294-323             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D1I0T9|A0A8D1I0T9_PIG/294-323     PP .577.*******************.6****987.
+sp|P46194|CP19A_BOVIN/294-323                    -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR sp|P46194|CP19A_BOVIN/294-323            PP .789.*******************.6****987.
+tr|A0A6P3FG77|A0A6P3FG77_OCTDE/294-323           -ENV.NQCILEMLIAAPDTMSVSVY-FMLFLIA-
+#=GR tr|A0A6P3FG77|A0A6P3FG77_OCTDE/294-323   PP .789.*******************9.99**987.
+tr|A0A6J1P1G8|A0A6J1P1G8_BICAN/317-341           ----.--MASDMLFAGVDTASNTM-TGTLYLLA-
+#=GR tr|A0A6J1P1G8|A0A6J1P1G8_BICAN/317-341   PP .......788**************.8****998.
+tr|A0A6J1P1G8|A0A6J1P1G8_BICAN/824-849           ----.-IMASDMLFAGVDTAANTM-TSTLFLLA-
+#=GR tr|A0A6J1P1G8|A0A6J1P1G8_BICAN/824-849   PP ......5899**************.8****997.
+tr|H0VPL2|H0VPL2_CAVPO/294-323                   -ENV.NQCILEMLIAAPDTMSVTVY-FMLFLIA-
+#=GR tr|H0VPL2|H0VPL2_CAVPO/294-323           PP .789.*******************9.99**987.
+tr|Q4STF7|Q4STF7_TETNG/173-201                   --NRlPRYALDLHFAGTDTTSNTLLTGFLYL---
+#=GR tr|Q4STF7|Q4STF7_TETNG/173-201           PP ..56699*****************9877775...
+tr|Q4STF7|Q4STF7_TETNG/414-439                   ----.PMYALDLHFAGTDTTSNTLLTGFLYL---
+#=GR tr|Q4STF7|Q4STF7_TETNG/414-439           PP .....89*****************9877775...
+tr|A0A1S3AAJ1|A0A1S3AAJ1_ERIEU/294-323           -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|A0A1S3AAJ1|A0A1S3AAJ1_ERIEU/294-323   PP .577.*******************.6****987.
+tr|A0A8D1SXV6|A0A8D1SXV6_PIG/59-88               -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D1SXV6|A0A8D1SXV6_PIG/59-88       PP .577.*******************.6****987.
+tr|A0A643BN43|A0A643BN43_BALPH/327-356           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A643BN43|A0A643BN43_BALPH/327-356   PP .789.*******************.6****987.
+tr|A0A340X6F7|A0A340X6F7_LIPVE/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A340X6F7|A0A340X6F7_LIPVE/294-323   PP .789.*******************.6****987.
+tr|A0A8C6D9I3|A0A8C6D9I3_MOSMO/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8C6D9I3|A0A8C6D9I3_MOSMO/294-323   PP .789.*******************.6****987.
+tr|A0A0D3F1P4|A0A0D3F1P4_9ORYZ/1548-1568         ----.KAIILDLFNAGSETSANTL-QW-------
+#=GR tr|A0A0D3F1P4|A0A0D3F1P4_9ORYZ/1548-1568 PP .....689***************9.47.......
+tr|L8I947|L8I947_9CETA/294-323                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|L8I947|L8I947_9CETA/294-323           PP .789.*******************.6****987.
+tr|A0A4W2G0D8|A0A4W2G0D8_BOBOX/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A4W2G0D8|A0A4W2G0D8_BOBOX/294-323   PP .789.*******************.6****987.
+tr|A0A6B0RA67|A0A6B0RA67_9CETA/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A6B0RA67|A0A6B0RA67_9CETA/294-323   PP .789.*******************.6****987.
+tr|A0A6P5CER6|A0A6P5CER6_BOSIN/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A6P5CER6|A0A6P5CER6_BOSIN/294-323   PP .789.*******************.6****987.
+tr|F2Z4F2|F2Z4F2_BOVIN/294-323                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|F2Z4F2|F2Z4F2_BOVIN/294-323           PP .789.*******************.6****987.
+tr|A0A6P6HHE0|A0A6P6HHE0_PUMCO/235-264           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A6P6HHE0|A0A6P6HHE0_PUMCO/235-264   PP .577.*******************.6****987.
+tr|A0A8D1QUM0|A0A8D1QUM0_PIG/131-160             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D1QUM0|A0A8D1QUM0_PIG/131-160     PP .577.*******************.6****987.
+tr|K7TVY1|K7TVY1_BUBBU/294-323                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|K7TVY1|K7TVY1_BUBBU/294-323           PP .789.*******************.6****987.
+tr|A0A212CTA7|A0A212CTA7_CEREH/169-198           -ENV.NQCILEMLITVPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A212CTA7|A0A212CTA7_CEREH/169-198   PP .789.*******************.6****987.
+tr|A0A8C2VRD8|A0A8C2VRD8_CHILA/294-323           -ENV.NQCVLEMLIAAPDTMSVTVY-FMLFLIA-
+#=GR tr|A0A8C2VRD8|A0A8C2VRD8_CHILA/294-323   PP .789.*******************9.99**987.
+tr|Q208A6|Q208A6_BUBBU/294-323                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|Q208A6|Q208A6_BUBBU/294-323           PP .789.*******************.6****987.
+tr|P79286|P79286_PIG/145-174                     -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|P79286|P79286_PIG/145-174             PP .577.*******************.6****987.
+tr|A0A4X1SYE6|A0A4X1SYE6_PIG/145-174             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A4X1SYE6|A0A4X1SYE6_PIG/145-174     PP .577.*******************.6****987.
+tr|I3LPP5|I3LPP5_PIG/145-174                     -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|I3LPP5|I3LPP5_PIG/145-174             PP .577.*******************.6****987.
+tr|A0A8D1SVX4|A0A8D1SVX4_PIG/85-114              -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D1SVX4|A0A8D1SVX4_PIG/85-114      PP .577.*******************.6****987.
+tr|A0A8D0NN40|A0A8D0NN40_PIG/145-174             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D0NN40|A0A8D0NN40_PIG/145-174     PP .577.*******************.6****987.
+tr|A0A8C2P619|A0A8C2P619_CAPHI/269-298           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8C2P619|A0A8C2P619_CAPHI/269-298   PP .577.*******************.6****987.
+tr|A0A5N3V6P0|A0A5N3V6P0_MUNMU/219-248           -ENV.NQCILEMLIAVPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A5N3V6P0|A0A5N3V6P0_MUNMU/219-248   PP .799.*******************.6****987.
+tr|A0A8D1YA89|A0A8D1YA89_PIG/145-174             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D1YA89|A0A8D1YA89_PIG/145-174     PP .577.*******************.6****987.
+tr|G3T3M3|G3T3M3_LOXAF/210-239                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|G3T3M3|G3T3M3_LOXAF/210-239           PP .789.*******************.6****987.
+tr|A0A8J2RD02|A0A8J2RD02_9CRUS/274-302           -EQL.MNIILDILSAGADTTGNSIGFALLYL---
+#=GR tr|A0A8J2RD02|A0A8J2RD02_9CRUS/274-302   PP .677.89******************999986...
+tr|A0A8J2RD02|A0A8J2RD02_9CRUS/704-732           -EQL.ISLIFDLFIAGGDTTGNAIGFVLLYM---
+#=GR tr|A0A8J2RD02|A0A8J2RD02_9CRUS/704-732   PP .678.999*****************888887...
+tr|A0A8D0VSZ3|A0A8D0VSZ3_PIG/145-174             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D0VSZ3|A0A8D0VSZ3_PIG/145-174     PP .577.*******************.6****987.
+tr|A0A0B7G0E2|A0A0B7G0E2_THACB/89-109            ----.------MLLAGSDTTSNTL-SSLCYHLA-
+#=GR tr|A0A0B7G0E2|A0A0B7G0E2_THACB/89-109    PP ...........689**********.*****886.
+tr|A0A0B7G0E2|A0A0B7G0E2_THACB/402-422           ----.------MLLAGSDTTSNTL-SSLCYHLA-
+#=GR tr|A0A0B7G0E2|A0A0B7G0E2_THACB/402-422   PP ...........689**********.*****886.
+tr|A0A8C2PDH2|A0A8C2PDH2_CAPHI/295-324           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8C2PDH2|A0A8C2PDH2_CAPHI/295-324   PP .577.*******************.6****987.
+tr|W5QIJ0|W5QIJ0_SHEEP/215-244                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|W5QIJ0|W5QIJ0_SHEEP/215-244           PP .577.*******************.6****987.
+tr|A0A260ZQ36|A0A260ZQ36_CAERE/295-316           ---L.KTMIIDLWITGQETTTTTLIS--------
+#=GR tr|A0A260ZQ36|A0A260ZQ36_CAERE/295-316   PP ...5.89***************9974........
+tr|A0A4U1EBV8|A0A4U1EBV8_MONMO/299-328           -ENV.NQCVLEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A4U1EBV8|A0A4U1EBV8_MONMO/299-328   PP .789.*******************.6****987.
+sp|Q6YI21|CP19A_CAPHI/294-323                    -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR sp|Q6YI21|CP19A_CAPHI/294-323            PP .577.*******************.6****987.
+sp|Q9XS28|CP19A_SHEEP/294-323                    -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR sp|Q9XS28|CP19A_SHEEP/294-323            PP .577.*******************.6****987.
+tr|A0A5N4E3E5|A0A5N4E3E5_CAMDR/135-164           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A5N4E3E5|A0A5N4E3E5_CAMDR/135-164   PP .577.*******************.6****987.
+tr|A0A7J8JT89|A0A7J8JT89_MOLMO/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A7J8JT89|A0A7J8JT89_MOLMO/294-323   PP .789.*******************.6****987.
+tr|G5C8S5|G5C8S5_HETGA/101-130                   -ENV.NQCILEMLIAAPDTMSVTVY-FMLFLIA-
+#=GR tr|G5C8S5|G5C8S5_HETGA/101-130           PP .789.*******************9.99**987.
+tr|A0A8C4T3V6|A0A8C4T3V6_ERPCA/280-308           --DV.TQCILEMLIAGPDTMSVTL-FFMLMLLA-
+#=GR tr|A0A8C4T3V6|A0A8C4T3V6_ERPCA/280-308   PP ..56.9******************.6****997.
+tr|A0A5N4E2D8|A0A5N4E2D8_CAMDR/155-184           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A5N4E2D8|A0A5N4E2D8_CAMDR/155-184   PP .577.*******************.6****987.
+tr|A0A6J3A280|A0A6J3A280_VICPA/169-198           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A6J3A280|A0A6J3A280_VICPA/169-198   PP .577.*******************.6****987.
+tr|Q2XVA0|Q2XVA0_MACFA/210-239                   -ENV.NQCILEMLIAAPDTMSVSL-FFMLFLIA-
+#=GR tr|Q2XVA0|Q2XVA0_MACFA/210-239           PP .789.*******************.6****987.
+tr|A0A2Y9MJL7|A0A2Y9MJL7_DELLE/84-113            -ENV.NQCVLEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A2Y9MJL7|A0A2Y9MJL7_DELLE/84-113    PP .789.*******************.6****987.
+tr|A0A6P6HHH2|A0A6P6HHH2_PUMCO/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A6P6HHH2|A0A6P6HHH2_PUMCO/294-323   PP .577.*******************.6****987.
+sp|Q29624|CP19A_PIG/294-323                      -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR sp|Q29624|CP19A_PIG/294-323              PP .577.*******************.6****987.
+tr|A0A6J8EGF9|A0A6J8EGF9_MYTCO/309-331           ----.VTF----FIAGYDTTANTL-SFACYCLA-
+#=GR tr|A0A6J8EGF9|A0A6J8EGF9_MYTCO/309-331   PP .....555....9***********.9******8.
+tr|A0A6J8EGF9|A0A6J8EGF9_MYTCO/830-850           ----.--F----FVAGYDTTANTL-SFACYCLA-
+#=GR tr|A0A6J8EGF9|A0A6J8EGF9_MYTCO/830-850   PP .......4....99**********.9******8.
+tr|A0A553PP19|A0A553PP19_TIGCA/1058-1078         ----.------FFLAGFETTANTL-STLCYNLA-
+#=GR tr|A0A553PP19|A0A553PP19_TIGCA/1058-1078 PP ...........69***********.*******8.
+tr|G1PEN3|G1PEN3_MYOLU/295-324                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIS-
+#=GR tr|G1PEN3|G1PEN3_MYOLU/295-324           PP .789.*******************.6****986.
+tr|A0A8D1QUG3|A0A8D1QUG3_PIG/252-281             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D1QUG3|A0A8D1QUG3_PIG/252-281     PP .577.*******************.6****987.
+tr|S7PEE2|S7PEE2_MYOBR/295-324                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIS-
+#=GR tr|S7PEE2|S7PEE2_MYOBR/295-324           PP .789.*******************.6****986.
+tr|A0A5S6HC39|A0A5S6HC39_PIG/311-340             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A5S6HC39|A0A5S6HC39_PIG/311-340     PP .577.*******************.6****987.
+tr|A0A8D1Y6K2|A0A8D1Y6K2_PIG/311-340             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D1Y6K2|A0A8D1Y6K2_PIG/311-340     PP .577.*******************.6****987.
+tr|A0A8C9B464|A0A8C9B464_PHOSS/294-323           -ENV.DQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8C9B464|A0A8C9B464_PHOSS/294-323   PP .577.*******************.6****987.
+tr|A0A8D0VRV5|A0A8D0VRV5_PIG/311-340             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D0VRV5|A0A8D0VRV5_PIG/311-340     PP .577.*******************.6****987.
+tr|Q9TSH1|Q9TSH1_PIG/195-224                     -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|Q9TSH1|Q9TSH1_PIG/195-224             PP .577.*******************.6****987.
+tr|A0A8D0NPU7|A0A8D0NPU7_PIG/311-340             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D0NPU7|A0A8D0NPU7_PIG/311-340     PP .577.*******************.6****987.
+tr|A0A8D0ZCU4|A0A8D0ZCU4_PIG/311-340             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D0ZCU4|A0A8D0ZCU4_PIG/311-340     PP .577.*******************.6****987.
+sp|Q69FB6|CP19A_LAGAC/294-323                    -ENV.DQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR sp|Q69FB6|CP19A_LAGAC/294-323            PP .577.*******************.6****987.
+tr|A0A8C6BIC7|A0A8C6BIC7_MONMO/294-323           -ENV.DQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8C6BIC7|A0A8C6BIC7_MONMO/294-323   PP .577.*******************.6****987.
+tr|A0A2Y9MYF4|A0A2Y9MYF4_DELLE/294-323           -ENV.DQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A2Y9MYF4|A0A2Y9MYF4_DELLE/294-323   PP .577.*******************.6****987.
+tr|A0A6J1UPQ4|A0A6J1UPQ4_9SAUR/295-324           -ENV.NQCVLEMLIAAPDTMSVTLF-FMLVLIA-
+#=GR tr|A0A6J1UPQ4|A0A6J1UPQ4_9SAUR/295-324   PP .688.*******************5.7776655.
+tr|A0A9W3GRH6|A0A9W3GRH6_CAMBA/192-221           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A9W3GRH6|A0A9W3GRH6_CAMBA/192-221   PP .577.*******************.6****987.
+tr|A0A8C5PHM5|A0A8C5PHM5_9ANUR/348-376           -ENV.NQCILEMLIAAPDTMSVSLF-FMLVLI--
+#=GR tr|A0A8C5PHM5|A0A8C5PHM5_9ANUR/348-376   PP .789.*******************6.666554..
+tr|A0A383Z5M0|A0A383Z5M0_BALAS/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A383Z5M0|A0A383Z5M0_BALAS/294-323   PP .789.*******************.6****987.
+tr|A0A226MIA2|A0A226MIA2_CALSU/294-322           --NL.VACTLDLFFAGTETTSTTIRWALLFMA--
+#=GR tr|A0A226MIA2|A0A226MIA2_CALSU/294-322   PP ..56.89***************9987888875..
+tr|A0A226MIA2|A0A226MIA2_CALSU/768-797           -ENL.VACTLDLLFAGTETSSTTIRWALLFMA--
+#=GR tr|A0A226MIA2|A0A226MIA2_CALSU/768-797   PP .678.9*****************988888887..
+tr|A0A226MIA2|A0A226MIA2_CALSU/1262-1290         --NL.VACTLDLFFAGTETTSTTIRWALLFMA--
+#=GR tr|A0A226MIA2|A0A226MIA2_CALSU/1262-1290 PP ..56.89***************9987888875..
+tr|A0A2Y9S1I1|A0A2Y9S1I1_PHYMC/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A2Y9S1I1|A0A2Y9S1I1_PHYMC/294-323   PP .789.*******************.6****987.
+tr|A0A8S4BMR2|A0A8S4BMR2_9TELE/316-337           ----.----LDLHFAGTDTTSNTLLTALLYL---
+#=GR tr|A0A8S4BMR2|A0A8S4BMR2_9TELE/316-337   PP .........7999***********9998885...
+tr|A0A8S4BMR2|A0A8S4BMR2_9TELE/481-502           ----.----LDLHFAGADTTSNTLLTAFLYL---
+#=GR tr|A0A8S4BMR2|A0A8S4BMR2_9TELE/481-502   PP .........7999***************997...
+tr|A0A8S4BMR2|A0A8S4BMR2_9TELE/731-758           --QL.VMYSLDLHFAGTDTTSNTLLTGFLYL---
+#=GR tr|A0A8S4BMR2|A0A8S4BMR2_9TELE/731-758   PP ..67.89*****************9877775...
+tr|A0A341B5G2|A0A341B5G2_NEOAA/294-323           -ENV.DQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A341B5G2|A0A341B5G2_NEOAA/294-323   PP .577.*******************.6****987.
+tr|A0A6J2BAC1|A0A6J2BAC1_ZALCA/235-264           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A6J2BAC1|A0A6J2BAC1_ZALCA/235-264   PP .789.*******************.6****987.
+tr|A0A2Y9HJM6|A0A2Y9HJM6_NEOSC/235-264           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A2Y9HJM6|A0A2Y9HJM6_NEOSC/235-264   PP .789.*******************.6****987.
+tr|A0A7J7FBI8|A0A7J7FBI8_DICBM/205-234           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLVA-
+#=GR tr|A0A7J7FBI8|A0A7J7FBI8_DICBM/205-234   PP .789.*******************.6****986.
+tr|A0A6J3R1G7|A0A6J3R1G7_TURTR/294-323           -ENV.DQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A6J3R1G7|A0A6J3R1G7_TURTR/294-323   PP .577.*******************.6****987.
+tr|A0A4U1EC89|A0A4U1EC89_MONMO/221-250           -ENV.DQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A4U1EC89|A0A4U1EC89_MONMO/221-250   PP .577.*******************.6****987.
+tr|L5MCK1|L5MCK1_MYODS/295-324                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIS-
+#=GR tr|L5MCK1|L5MCK1_MYODS/295-324           PP .789.*******************.6****986.
+tr|A0A8B6YCQ2|A0A8B6YCQ2_CAMFR/295-324           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8B6YCQ2|A0A8B6YCQ2_CAMFR/295-324   PP .577.*******************.6****987.
+tr|A0A8D1QW76|A0A8D1QW76_PIG/287-316             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D1QW76|A0A8D1QW76_PIG/287-316     PP .577.*******************.6****987.
+tr|A0A7J8AJN1|A0A7J8AJN1_MYOMY/295-324           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIS-
+#=GR tr|A0A7J8AJN1|A0A7J8AJN1_MYOMY/295-324   PP .789.*******************.6****986.
+tr|A0A6P4YM69|A0A6P4YM69_BRABE/327-354           ---A.VMTSIELITAGVDSTANTL-AFNLYCLA-
+#=GR tr|A0A6P4YM69|A0A6P4YM69_BRABE/327-354   PP ...5.666789*************.599****8.
+tr|A0A6P4YM69|A0A6P4YM69_BRABE/1290-1318         --EV.IMMAIGLIIGGVDSTGNTM-AFNLYFLA-
+#=GR tr|A0A6P4YM69|A0A6P4YM69_BRABE/1290-1318 PP ..57.89*****************.599*9998.
+tr|A0A8B8WR26|A0A8B8WR26_BALMU/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8B8WR26|A0A8B8WR26_BALMU/294-323   PP .789.*******************.6****987.
+tr|A0A8D1E091|A0A8D1E091_PIG/294-323             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D1E091|A0A8D1E091_PIG/294-323     PP .577.*******************.6****987.
+tr|A0A8B6ZCI0|A0A8B6ZCI0_ORYAF/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8B6ZCI0|A0A8B6ZCI0_ORYAF/294-323   PP .577.*******************.6****987.
+tr|A0A0E0CGV1|A0A0E0CGV1_9ORYZ/822-842           ----.KAIILDLFNAGSETSANTL-QW-------
+#=GR tr|A0A0E0CGV1|A0A0E0CGV1_9ORYZ/822-842   PP .....689***************9.47.......
+tr|A0A0L0C020|A0A0L0C020_LUCCU/330-358           --LA.IVMAMDLLMAGVDTTSSTF-TGLLLCLA-
+#=GR tr|A0A0L0C020|A0A0L0C020_LUCCU/330-358   PP ..57.89*****************.8*****98.
+tr|A0A0L0C020|A0A0L0C020_LUCCU/857-884           ---A.TVMAMDMLMAGVDTTTSSF-AALMLCLA-
+#=GR tr|A0A0L0C020|A0A0L0C020_LUCCU/857-884   PP ...5.78**************999.59999997.
+tr|A0A8D1E2U5|A0A8D1E2U5_PIG/145-174             -ENV.NQCILEMLIAAPDTMSVTV-FFMLFLIA-
+#=GR tr|A0A8D1E2U5|A0A8D1E2U5_PIG/145-174     PP .577.*******************.6****987.
+sp|Q5QQX7|CP19A_CANLF/294-323                    -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR sp|Q5QQX7|CP19A_CANLF/294-323            PP .789.*******************.6****987.
+tr|A0A3Q7TH54|A0A3Q7TH54_VULVU/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A3Q7TH54|A0A3Q7TH54_VULVU/294-323   PP .789.*******************.6****987.
+tr|A0A8C0TCX1|A0A8C0TCX1_CANLF/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8C0TCX1|A0A8C0TCX1_CANLF/294-323   PP .789.*******************.6****987.
+tr|A0A8I3PXC9|A0A8I3PXC9_CANLF/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8I3PXC9|A0A8I3PXC9_CANLF/294-323   PP .789.*******************.6****987.
+tr|A0A811Y5L1|A0A811Y5L1_NYCPR/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A811Y5L1|A0A811Y5L1_NYCPR/294-323   PP .789.*******************.6****987.
+tr|A0A3Q7Q1J8|A0A3Q7Q1J8_CALUR/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A3Q7Q1J8|A0A3Q7Q1J8_CALUR/294-323   PP .789.*******************.6****987.
+tr|A0A2U3VNE3|A0A2U3VNE3_ODORO/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A2U3VNE3|A0A2U3VNE3_ODORO/294-323   PP .789.*******************.6****987.
+tr|A0A2U3YTF3|A0A2U3YTF3_LEPWE/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A2U3YTF3|A0A2U3YTF3_LEPWE/294-323   PP .789.*******************.6****987.
+tr|A0A6J2B7T1|A0A6J2B7T1_ZALCA/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A6J2B7T1|A0A6J2B7T1_ZALCA/294-323   PP .789.*******************.6****987.
+tr|A0A2Y9HDD8|A0A2Y9HDD8_NEOSC/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A2Y9HDD8|A0A2Y9HDD8_NEOSC/294-323   PP .789.*******************.6****987.
+tr|K7NAC7|K7NAC7_LYNPA/235-264                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|K7NAC7|K7NAC7_LYNPA/235-264           PP .577.*******************.6****987.
+tr|A0A2Y9MJE2|A0A2Y9MJE2_DELLE/294-323           -ENV.NQCVLEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A2Y9MJE2|A0A2Y9MJE2_DELLE/294-323   PP .789.*******************.6****987.
+tr|A0A836A5V0|A0A836A5V0_SHEEP/311-340           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A836A5V0|A0A836A5V0_SHEEP/311-340   PP .577.*******************.6****987.
+tr|A0A1B0F0M7|A0A1B0F0M7_PHLPP/328-352           ----.--MVMDALFAGVDTTSTAT-FSVLYVLA-
+#=GR tr|A0A1B0F0M7|A0A1B0F0M7_PHLPP/328-352   PP .......899**************.6****998.
+tr|A0A1B0F0M7|A0A1B0F0M7_PHLPP/789-816           ---A.TVMAMDALFAGVDSTSTAT-FSVLYVLA-
+#=GR tr|A0A1B0F0M7|A0A1B0F0M7_PHLPP/789-816   PP ...5.789****************.6****998.
+tr|K7N9Z5|K7N9Z5_FELCA/235-264                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|K7N9Z5|K7N9Z5_FELCA/235-264           PP .577.*******************.6****987.
+tr|A0A5N4E2I3|A0A5N4E2I3_CAMDR/289-318           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A5N4E2I3|A0A5N4E2I3_CAMDR/289-318   PP .577.*******************.6****987.
+tr|A0A1A6GMM0|A0A1A6GMM0_NEOLE/84-112            -ENV.NQCILEMLIAAPDTMSVTLYFMLLLI---
+#=GR tr|A0A1A6GMM0|A0A1A6GMM0_NEOLE/84-112    PP .577.*******************9666654...
+tr|A0A260ZHC3|A0A260ZHC3_CAERE/287-308           ----.-----DLWLAGQETTSTTL-TWACVCLL-
+#=GR tr|A0A260ZHC3|A0A260ZHC3_CAERE/287-308   PP ..........89************.8*****97.
+tr|A0A260ZHC3|A0A260ZHC3_CAERE/775-796           ----.-----DLWIAGQETTSTTL-SWACACLL-
+#=GR tr|A0A260ZHC3|A0A260ZHC3_CAERE/775-796   PP ..........89************.******98.
+tr|G3UND5|G3UND5_LOXAF/294-323                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|G3UND5|G3UND5_LOXAF/294-323           PP .789.*******************.6****987.
+tr|A0A384DAX2|A0A384DAX2_URSMA/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A384DAX2|A0A384DAX2_URSMA/294-323   PP .577.*******************.6****987.
+tr|C9K5T2|C9K5T2_URSTH/294-323                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|C9K5T2|C9K5T2_URSTH/294-323           PP .577.*******************.6****987.
+tr|D2HEH6|D2HEH6_AILME/294-323                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|D2HEH6|D2HEH6_AILME/294-323           PP .577.*******************.6****987.
+tr|A0A452QBZ3|A0A452QBZ3_URSAM/256-285           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A452QBZ3|A0A452QBZ3_URSAM/256-285   PP .577.*******************.6****987.
+tr|A0A8J5ZPF1|A0A8J5ZPF1_GALPY/304-333           -ENV.NQCILEMLIAAPDTMSVSVF-FMLLLIA-
+#=GR tr|A0A8J5ZPF1|A0A8J5ZPF1_GALPY/304-333   PP .789.*******************6.6666554.
+tr|A0A9B0T5R1|A0A9B0T5R1_CHRAS/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLYLIA-
+#=GR tr|A0A9B0T5R1|A0A9B0T5R1_CHRAS/294-323   PP .577.*******************.6****987.
+tr|A0AA40HX56|A0AA40HX56_EPTNI/294-322           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLI--
+#=GR tr|A0AA40HX56|A0AA40HX56_EPTNI/294-322   PP .789.*******************.6***986..
+tr|A0A5N4E2N3|A0A5N4E2N3_CAMDR/288-317           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A5N4E2N3|A0A5N4E2N3_CAMDR/288-317   PP .577.*******************.6****987.
+tr|A0A8B8T4L6|A0A8B8T4L6_CAMFR/295-324           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8B8T4L6|A0A8B8T4L6_CAMFR/295-324   PP .577.*******************.6****987.
+tr|S9Y8A1|S9Y8A1_CAMFR/227-256                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|S9Y8A1|S9Y8A1_CAMFR/227-256           PP .577.*******************.6****987.
+sp|Q29605|CP19A_RABIT/294-323                    -ENV.NQCVLEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR sp|Q29605|CP19A_RABIT/294-323            PP .789.*******************.6****987.
+tr|A0A667GXF9|A0A667GXF9_LYNCA/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A667GXF9|A0A667GXF9_LYNCA/294-323   PP .577.*******************.6****987.
+tr|K7NAI8|K7NAI8_LYNPA/294-323                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|K7NAI8|K7NAI8_LYNPA/294-323           PP .577.*******************.6****987.
+tr|A0A6I9ZI52|A0A6I9ZI52_ACIJB/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A6I9ZI52|A0A6I9ZI52_ACIJB/294-323   PP .577.*******************.6****987.
+tr|A0A8C8WMB9|A0A8C8WMB9_PANLE/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8C8WMB9|A0A8C8WMB9_PANLE/294-323   PP .577.*******************.6****987.
+tr|A0A8C9J912|A0A8C9J912_PANTA/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8C9J912|A0A8C9J912_PANTA/294-323   PP .577.*******************.6****987.
+tr|A0A9W2UFY1|A0A9W2UFY1_PANPR/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A9W2UFY1|A0A9W2UFY1_PANPR/294-323   PP .577.*******************.6****987.
+tr|A0A6G1AXR0|A0A6G1AXR0_CROCR/294-323           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A6G1AXR0|A0A6G1AXR0_CROCR/294-323   PP .577.*******************.6****987.
+tr|K7NAJ2|K7NAJ2_FELCA/294-323                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|K7NAJ2|K7NAJ2_FELCA/294-323           PP .577.*******************.6****987.
+tr|H0WJG7|H0WJG7_OTOGA/294-323                   -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|H0WJG7|H0WJG7_OTOGA/294-323           PP .789.*******************.6****987.
+tr|G1R3I0|G1R3I0_NOMLE/294-323                   -ENV.NQCILEMLIAAPDTMSVSLF-FMLLLIA-
+#=GR tr|G1R3I0|G1R3I0_NOMLE/294-323           PP .789.*******************6.6666554.
+tr|A0A182Y1B2|A0A182Y1B2_ANOST/291-320           --QL.TMIILDLFIAGGHTTSTTIDLALMMMLV-
+#=GR tr|A0A182Y1B2|A0A182Y1B2_ANOST/291-320   PP ..67.9***************998777777775.
+tr|A0A182Y1B2|A0A182Y1B2_ANOST/785-815           DRQL.TMIILDIFIAGGQTTSTTLDLAFMMMI--
+#=GR tr|A0A182Y1B2|A0A182Y1B2_ANOST/785-815   PP 5799.****************99976666665..
+tr|A0A811KXK1|A0A811KXK1_9BILA/297-318           ---LaNVCFDL-WVAGQETTSNSL-TW-------
+#=GR tr|A0A811KXK1|A0A811KXK1_9BILA/297-318   PP ...43778666.************.78.......
+tr|A0A811KXK1|A0A811KXK1_9BILA/755-781           --LA.NVCFDL-WIAGQETTSTTL-TWAVSYI--
+#=GR tr|A0A811KXK1|A0A811KXK1_9BILA/755-781   PP ..56.778666.************.7976665..
+tr|A0A6G1ED27|A0A6G1ED27_9ORYZ/299-323           ----.-DIILNIVIAGKDSTSGSL-AWFLYMV--
+#=GR tr|A0A6G1ED27|A0A6G1ED27_9ORYZ/299-323   PP ......6889999***********.6****97..
+tr|A0A341B782|A0A341B782_NEOAA/294-323           -ENV.NQCVLEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A341B782|A0A341B782_NEOAA/294-323   PP .789.*******************.6****987.
+tr|F7ADA9|F7ADA9_ORNAN/303-332                   -ENV.NQCMLEMLIAAPDTMSVTIF-FMLLLIA-
+#=GR tr|F7ADA9|F7ADA9_ORNAN/303-332           PP .789.*******************6.6666554.
+tr|A0A8C9B7K7|A0A8C9B7K7_PHOSS/294-323           -ENV.NQCVLEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8C9B7K7|A0A8C9B7K7_PHOSS/294-323   PP .789.*******************.6****987.
+tr|A0A8D1DGT6|A0A8D1DGT6_PIG/46-75               -ENV.NQCILEMLIAAPDTLSVTV-FFMLFLIA-
+#=GR tr|A0A8D1DGT6|A0A8D1DGT6_PIG/46-75       PP .577.*******************.6****987.
+tr|A0A8D1CL66|A0A8D1CL66_PIG/127-156             -ENV.NQCILEMLIAAPDTLSVTV-FFMLFLIA-
+#=GR tr|A0A8D1CL66|A0A8D1CL66_PIG/127-156     PP .577.*******************.6****987.
+tr|A0A7R8YLE5|A0A7R8YLE5_HERIL/320-344           ----.--MATDMFVAGIDSTSSAI-TSVLYNLA-
+#=GR tr|A0A7R8YLE5|A0A7R8YLE5_HERIL/320-344   PP .......889**************.8******8.
+tr|A0A7R8YLE5|A0A7R8YLE5_HERIL/751-777           ----.TVMAIDMITAGVDTTSSAIV-SVLYNLA-
+#=GR tr|A0A7R8YLE5|A0A7R8YLE5_HERIL/751-777   PP .....689****************7.******8.
+tr|A0A7J8AZ37|A0A7J8AZ37_PIPKU/294-322           -ENV.NQCILEMLIAAPDTMSVSV-FFMLFLI--
+#=GR tr|A0A7J8AZ37|A0A7J8AZ37_PIPKU/294-322   PP .789.*******************.6***986..
+tr|A0A8C6BGT4|A0A8C6BGT4_MONMO/294-323           -ENV.NQCVLEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8C6BGT4|A0A8C6BGT4_MONMO/294-323   PP .789.*******************.6****987.
+tr|A0A6J3R200|A0A6J3R200_TURTR/294-323           -ENV.NQCVLEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A6J3R200|A0A6J3R200_TURTR/294-323   PP .789.*******************.6****987.
+tr|A0A8C9A8Q6|A0A8C9A8Q6_PROSS/294-323           -ENV.NQCVLEMLIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A8C9A8Q6|A0A8C9A8Q6_PROSS/294-323   PP .789.*******************.6****987.
+tr|A0A182TWT1|A0A182TWT1_9DIPT/318-342           ----.--MSLDMLIAGIDTTSSGS-TGVLYCLA-
+#=GR tr|A0A182TWT1|A0A182TWT1_9DIPT/318-342   PP .......89************999.89****98.
+tr|A0A182TWT1|A0A182TWT1_9DIPT/778-805           ---A.VVMAFDMIMAGIDTTSSST-FGILYCLA-
+#=GR tr|A0A182TWT1|A0A182TWT1_9DIPT/778-805   PP ...5.8899***************.6******8.
+tr|A0A8D2AQY8|A0A8D2AQY8_SCIVU/294-323           -ENV.NQCILEMLIAAPDTMSVTVY-FMLFLIA-
+#=GR tr|A0A8D2AQY8|A0A8D2AQY8_SCIVU/294-323   PP .789.*******************9.99**987.
+tr|A0A8D0R3G1|A0A8D0R3G1_PIG/143-172             -ENV.NQCILEMLIAAPDTLSVTV-FFMLFLIA-
+#=GR tr|A0A8D0R3G1|A0A8D0R3G1_PIG/143-172     PP .577.*******************.6****987.
+tr|A0A6J2L7H2|A0A6J2L7H2_9CHIR/293-322           -ENV.NQCILEMMIAAPDTMSVSV-FFMLFLIA-
+#=GR tr|A0A6J2L7H2|A0A6J2L7H2_9CHIR/293-322   PP .789.*******************.6****987.
+tr|A0AA41MIZ6|A0AA41MIZ6_SCICA/279-308           -ENV.NQCILEMLIAAPDTMSVTVY-FMLFLIA-
+#=GR tr|A0AA41MIZ6|A0AA41MIZ6_SCICA/279-308   PP .789.*******************9.99**987.
+tr|A0A5N4CXY9|A0A5N4CXY9_CAMDR/18-38             ----.-----IFIFAGYETTSNSL-SFIMYEL--
+#=GR tr|A0A5N4CXY9|A0A5N4CXY9_CAMDR/18-38     PP ..........5689**********.9987755..
+tr|A0A5N4CXY9|A0A5N4CXY9_CAMDR/75-95             ----.-----IFIFAGYETTSNSL-SFIMYEL--
+#=GR tr|A0A5N4CXY9|A0A5N4CXY9_CAMDR/75-95     PP ..........5689**********.9987755..
+tr|A0A8W7PEZ2|A0A8W7PEZ2_ANOCL/263-287           ----.--MSLDMLIAGIDTTSSGS-TGVLYCLA-
+#=GR tr|A0A8W7PEZ2|A0A8W7PEZ2_ANOCL/263-287   PP .......89************999.89****98.
+tr|A0A8W7PEZ2|A0A8W7PEZ2_ANOCL/752-779           ---A.VVMAFDMIMAGIDTTSSST-FGILYCLA-
+#=GR tr|A0A8W7PEZ2|A0A8W7PEZ2_ANOCL/752-779   PP ...5.8899***************.6******8.
+tr|A0A8D0M1N2|A0A8D0M1N2_PIG/145-174             -ENV.NQCILEMLIAAPDTLSVTV-FFMLFLIA-
+#=GR tr|A0A8D0M1N2|A0A8D0M1N2_PIG/145-174     PP .577.*******************.6****987.
+#=GC PP_cons                                     5678.9999***************8799*9987.
+#=GC RF                                          xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,754 @@
+>sid|75248|pid|54607|hfid|349|sfid|33|gi|308460667|taxonID|31234|Caenorhabditisremanei/292-319 [subseq from] sid|75248|pid|54607|hfid|349|sfid|33|gi|308460667|taxonID|31234|Caenorhabditisremanei
+---D-SVCFD-LWVAGMETTSNTLYWS-LLYVLL-
+>sid|75248|pid|54607|hfid|349|sfid|33|gi|308460667|taxonID|31234|Caenorhabditisremanei/605-632 [subseq from] sid|75248|pid|54607|hfid|349|sfid|33|gi|308460667|taxonID|31234|Caenorhabditisremanei
+---D-SVCFD-LWVAGMETTSNTLYWS-LLYVLL-
+>sid|6214|pid|4230|hfid|316|sfid|19|gb|AAH56258.1|gi|33604018|taxonID|9606|Homosapiens/294-323 [subseq from] sid|6214|pid|4230|hfid|316|sfid|19|gb|AAH56258.1|gi|33604018|taxonID|9606|Homosapiens
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6215|pid|4230|hfid|316|sfid|19|gb|AAH20767.1|gi|116283623|taxonID|9606|Homosapiens/294-323 [subseq from] sid|6215|pid|4230|hfid|316|sfid|19|gb|AAH20767.1|gi|116283623|taxonID|9606|Homosapiens
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6197|pid|4216|hfid|316|sfid|19|gi|532007179|taxonID|79684|Microtusochrogaster/294-322 [subseq from] sid|6197|pid|4216|hfid|316|sfid|19|gi|532007179|taxonID|79684|Microtusochrogaster
+-ENV-NQCILEMLIAAPDTMSVTLYFM-LLLI---
+>sid|6163|pid|4192|hfid|316|sfid|19|gi|635135801|taxonID|60711|Chlorocebussabaeus/199-228 [subseq from] sid|6163|pid|4192|hfid|316|sfid|19|gi|635135801|taxonID|60711|Chlorocebussabaeus
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6103|pid|4145|hfid|316|sfid|19|gi|567315997|taxonID|9541|Macacafascicularis/294-323 [subseq from] sid|6103|pid|4145|hfid|316|sfid|19|gi|567315997|taxonID|9541|Macacafascicularis
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6096|pid|4145|hfid|316|sfid|19|emb|CAL38062.1|gi|117645192|taxonID|32630|syntheticconstruct/294-323 [subseq from] sid|6096|pid|4145|hfid|316|sfid|19|emb|CAL38062.1|gi|117645192|taxonID|32630|syntheticconstruct
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6204|pid|4223|hfid|316|sfid|19|gi|530405451|taxonID|9606|Homosapiens/235-264 [subseq from] sid|6204|pid|4223|hfid|316|sfid|19|gi|530405451|taxonID|9606|Homosapiens
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6188|pid|4210|hfid|316|sfid|19|gi|507674554|taxonID|9371|Echinopstelfairi/294-323 [subseq from] sid|6188|pid|4210|hfid|316|sfid|19|gi|507674554|taxonID|9371|Echinopstelfairi
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6100|pid|4145|hfid|316|sfid|19|gi|114657064|taxonID|9598|Pantroglodytes/294-323 [subseq from] sid|6100|pid|4145|hfid|316|sfid|19|gi|114657064|taxonID|9598|Pantroglodytes
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6094|pid|4145|hfid|316|sfid|19|gb|AAZ23558.1|gi|71084088|taxonID|9606|Homosapiens/294-323 [subseq from] sid|6094|pid|4145|hfid|316|sfid|19|gb|AAZ23558.1|gi|71084088|taxonID|9606|Homosapiens
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6104|pid|4145|hfid|316|sfid|19|gb|AAH35959.1|gi|23271165|taxonID|9606|Homosapiens/294-323 [subseq from] sid|6104|pid|4145|hfid|316|sfid|19|gb|AAH35959.1|gi|23271165|taxonID|9606|Homosapiens
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6105|pid|4145|hfid|316|sfid|19|emb|CAL37411.1|gi|117646592|taxonID|32630|syntheticconstruct/294-323 [subseq from] sid|6105|pid|4145|hfid|316|sfid|19|emb|CAL37411.1|gi|117646592|taxonID|32630|syntheticconstruct
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6091|pid|4145|hfid|316|sfid|19|dbj|BAF84467.1|gi|158256988|taxonID|9606|Homosapiens/294-323 [subseq from] sid|6091|pid|4145|hfid|316|sfid|19|dbj|BAF84467.1|gi|158256988|taxonID|9606|Homosapiens
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6098|pid|4145|hfid|316|sfid|19|gb|AAA52141.1|gi|181288|gb|AAA52132.1|gi|181213|taxonID|9606|Homosapiens/294-323 [subseq from] sid|6098|pid|4145|hfid|316|sfid|19|gb|AAA52141.1|gi|181288|gb|AAA52132.1|gi|181213|taxonID|9606|Homosapiens
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6093|pid|4145|hfid|316|sfid|19|gi|13904858|gi|404312987|gi|404312988|gi|218766731|gi|390136177|gi|390136176|pdb|4GL5(A)|pdb|4GL7(A)|pdb|3EQM(A)|pdb|3S7S(A)|pdb|3S79(A)|taxonID|9606|Homosapiens/294-323 [subseq from] sid|6093|pid|4145|hfid|316|sfid|19|gi|13904858|gi|404312987|gi|404312988|gi|218766731|gi|390136177|gi|390136176|pdb|4GL5(A)|pdb|4GL7(A)|pdb|3EQM(A)|pdb|3S7S(A)|pdb|3S79(A)|taxonID|9606|Homosapiens
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6099|pid|4145|hfid|316|sfid|19|gi|426379075|taxonID|9595|Gorillagorillagorilla/294-323 [subseq from] sid|6099|pid|4145|hfid|316|sfid|19|gi|426379075|taxonID|9595|Gorillagorillagorilla
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6101|pid|4145|hfid|316|sfid|19|gb|ABB76809.1|gi|82468904|taxonID|9541|Macacafascicularis|gi|402874306|taxonID|9555|Papioanubis/294-323 [subseq from] sid|6101|pid|4145|hfid|316|sfid|19|gb|ABB76809.1|gi|82468904|taxonID|9541|Macacafascicularis|gi|402874306|taxonID|9555|Papioanubis
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6095|pid|4145|hfid|316|sfid|19|emb|CAA31929.1|gi|28847|taxonID|9606|Homosapiens/294-323 [subseq from] sid|6095|pid|4145|hfid|316|sfid|19|emb|CAA31929.1|gi|28847|taxonID|9606|Homosapiens
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6092|pid|4145|hfid|316|sfid|19|gi|297696649|taxonID|9601|Pongoabelii/294-323 [subseq from] sid|6092|pid|4145|hfid|316|sfid|19|gi|297696649|taxonID|9601|Pongoabelii
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6097|pid|4145|hfid|316|sfid|19|gb|AAI07786.1|gi|78070747|taxonID|9606|Homosapiens/294-323 [subseq from] sid|6097|pid|4145|hfid|316|sfid|19|gb|AAI07786.1|gi|78070747|taxonID|9606|Homosapiens
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6119|pid|4156|hfid|316|sfid|19|gi|578826655|gi|532137988|gb|AAA35556.1|gi|179000|pdb|4KQ8(A)|taxonID|9606|Homosapiens/260-289 [subseq from] sid|6119|pid|4156|hfid|316|sfid|19|gi|578826655|gi|532137988|gb|AAA35556.1|gi|179000|pdb|4KQ8(A)|taxonID|9606|Homosapiens
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6179|pid|4204|hfid|316|sfid|19|gi|27805827|taxonID|9913|Bostaurus/294-323 [subseq from] sid|6179|pid|4204|hfid|316|sfid|19|gi|27805827|taxonID|9913|Bostaurus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6113|pid|4151|hfid|316|sfid|19|gi|507679185|taxonID|10160|Octodondegus/294-323 [subseq from] sid|6113|pid|4151|hfid|316|sfid|19|gi|507679185|taxonID|10160|Octodondegus
+-ENV-NQCILEMLIAAPDTMSVSVY-F-MLFLIA-
+>sid|6125|pid|4162|hfid|316|sfid|19|gi|348572276|taxonID|10141|Caviaporcellus/294-323 [subseq from] sid|6125|pid|4162|hfid|316|sfid|19|gi|348572276|taxonID|10141|Caviaporcellus
+-ENV-NQCILEMLIAAPDTMSVTVY-F-MLFLIA-
+>sid|6160|pid|4189|hfid|316|sfid|19|gi|617641981|taxonID|9365|Erinaceuseuropaeus/294-323 [subseq from] sid|6160|pid|4189|hfid|316|sfid|19|gi|617641981|taxonID|9365|Erinaceuseuropaeus
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6107|pid|4147|hfid|316|sfid|19|gi|602686701|taxonID|118797|Lipotesvexillifer/294-323 [subseq from] sid|6107|pid|4147|hfid|316|sfid|19|gi|602686701|taxonID|118797|Lipotesvexillifer
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6177|pid|4204|hfid|316|sfid|19|gb|AAA62244.1|gi|625061|taxonID|9913|Bostaurus/294-323 [subseq from] sid|6177|pid|4204|hfid|316|sfid|19|gb|AAA62244.1|gi|625061|taxonID|9913|Bostaurus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6178|pid|4204|hfid|316|sfid|19|gi|555977142|taxonID|72004|Bosmutus/294-323 [subseq from] sid|6178|pid|4204|hfid|316|sfid|19|gi|555977142|taxonID|72004|Bosmutus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6180|pid|4204|hfid|316|sfid|19|gi|296483078|taxonID|9913|Bostaurus/294-323 [subseq from] sid|6180|pid|4204|hfid|316|sfid|19|gi|296483078|taxonID|9913|Bostaurus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6131|pid|4166|hfid|316|sfid|19|gi|595763331|taxonID|89462|Bubalusbubalis/294-323 [subseq from] sid|6131|pid|4166|hfid|316|sfid|19|gi|595763331|taxonID|89462|Bubalusbubalis
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6110|pid|4148|hfid|316|sfid|19|gi|488541242|taxonID|9361|Dasypusnovemcinctus/294-323 [subseq from] sid|6110|pid|4148|hfid|316|sfid|19|gi|488541242|taxonID|9361|Dasypusnovemcinctus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6130|pid|4166|hfid|316|sfid|19|gb|ABD64825.2|gi|117582069|taxonID|89462|Bubalusbubalis/294-323 [subseq from] sid|6130|pid|4166|hfid|316|sfid|19|gb|ABD64825.2|gi|117582069|taxonID|89462|Bubalusbubalis
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6128|pid|4165|hfid|316|sfid|19|gb|AAB61696.1|gi|1762231|taxonID|9823|Susscrofa/145-174 [subseq from] sid|6128|pid|4165|hfid|316|sfid|19|gb|AAB61696.1|gi|1762231|taxonID|9823|Susscrofa
+-ENV-NQCILEMLIAAPDTMSVTV-FF-MLFLIA-
+>sid|6199|pid|4218|hfid|316|sfid|19|gi|556769427|taxonID|59538|Pantholopshodgsonii/294-323 [subseq from] sid|6199|pid|4218|hfid|316|sfid|19|gi|556769427|taxonID|59538|Pantholopshodgsonii
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6129|pid|4166|hfid|316|sfid|19|gi|172088165|taxonID|9940|Ovisaries/294-323 [subseq from] sid|6129|pid|4166|hfid|316|sfid|19|gi|172088165|taxonID|9940|Ovisaries
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6220|pid|4235|hfid|316|sfid|19|gb|EHB17936.1|gi|351715017|taxonID|10181|Heterocephalusglaber/101-130 [subseq from] sid|6220|pid|4235|hfid|316|sfid|19|gb|EHB17936.1|gi|351715017|taxonID|10181|Heterocephalusglaber
+-ENV-NQCILEMLIAAPDTMSVTVY-F-MLFLIA-
+>sid|6173|pid|4201|hfid|316|sfid|19|gb|AAC48731.1|gi|1762362|gi|47523916|taxonID|9823|Susscrofa/294-323 [subseq from] sid|6173|pid|4201|hfid|316|sfid|19|gb|AAC48731.1|gi|1762362|gi|47523916|taxonID|9823|Susscrofa
+-ENV-NQCILEMLIAAPDTMSVTV-FF-MLFLIA-
+>sid|6136|pid|4170|hfid|316|sfid|19|gi|558112604|taxonID|59463|Myotislucifugus/295-324 [subseq from] sid|6136|pid|4170|hfid|316|sfid|19|gi|558112604|taxonID|59463|Myotislucifugus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIS-
+>sid|6135|pid|4170|hfid|316|sfid|19|gi|554538646|taxonID|109478|Myotisbrandtii/295-324 [subseq from] sid|6135|pid|4170|hfid|316|sfid|19|gi|554538646|taxonID|109478|Myotisbrandtii
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIS-
+>sid|6108|pid|4147|hfid|316|sfid|19|sp|Q69FB6.1|gi|54035752|taxonID|90246|Lagenorhynchusacutus/294-323 [subseq from] sid|6108|pid|4147|hfid|316|sfid|19|sp|Q69FB6.1|gi|54035752|taxonID|90246|Lagenorhynchusacutus
+-ENV-DQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6146|pid|4178|hfid|316|sfid|19|gi|594633993|taxonID|310752|Balaenopteraacutorostratascammoni/294-323 [subseq from] sid|6146|pid|4178|hfid|316|sfid|19|gi|594633993|taxonID|310752|Balaenopteraacutorostratascammoni
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|98551|pid|74295|hfid|316|sfid|19|gi|556996999|taxonID|7897|Latimeriachalumnae/294-323 [subseq from] sid|98551|pid|74295|hfid|316|sfid|19|gi|556996999|taxonID|7897|Latimeriachalumnae
+-ENV-QQCLLEMLIAGPDTMSVTL-FY-MLMLVA-
+>sid|6154|pid|4184|hfid|316|sfid|19|gi|593767741|taxonID|9755|Physetercatodon/294-323 [subseq from] sid|6154|pid|4184|hfid|316|sfid|19|gi|593767741|taxonID|9755|Physetercatodon
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6087|pid|4142|hfid|316|sfid|19|gi|585191461|taxonID|9713|Leptonychotesweddellii/235-264 [subseq from] sid|6087|pid|4142|hfid|316|sfid|19|gi|585191461|taxonID|9713|Leptonychotesweddellii
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6109|pid|4147|hfid|316|sfid|19|gi|466065682|taxonID|9733|Orcinusorca/294-323 [subseq from] sid|6109|pid|4147|hfid|316|sfid|19|gi|466065682|taxonID|9733|Orcinusorca
+-ENV-DQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6137|pid|4170|hfid|316|sfid|19|gi|584071514|taxonID|225400|Myotisdavidii/295-324 [subseq from] sid|6137|pid|4170|hfid|316|sfid|19|gi|584071514|taxonID|225400|Myotisdavidii
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIS-
+>sid|6114|pid|4152|hfid|316|sfid|19|gi|634832367|taxonID|1230840|Orycteropusaferafer/294-323 [subseq from] sid|6114|pid|4152|hfid|316|sfid|19|gi|634832367|taxonID|1230840|Orycteropusaferafer
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6142|pid|4174|hfid|316|sfid|19|gi|56790279|taxonID|9615|Canislupusfamiliaris/294-323 [subseq from] sid|6142|pid|4174|hfid|316|sfid|19|gi|56790279|taxonID|9615|Canislupusfamiliaris
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6088|pid|4143|hfid|316|sfid|19|gi|472353902|taxonID|9708|Odobenusrosmarusdivergens/294-323 [subseq from] sid|6088|pid|4143|hfid|316|sfid|19|gi|472353902|taxonID|9708|Odobenusrosmarusdivergens
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6205|pid|4224|hfid|316|sfid|19|gb|ADU04379.1|gi|315307950|taxonID|191816|Lynxpardinus/235-264 [subseq from] sid|6205|pid|4224|hfid|316|sfid|19|gb|ADU04379.1|gi|315307950|taxonID|191816|Lynxpardinus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6206|pid|4224|hfid|316|sfid|19|gi|586988968|taxonID|9685|Feliscatus/235-264 [subseq from] sid|6206|pid|4224|hfid|316|sfid|19|gi|586988968|taxonID|9685|Feliscatus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6157|pid|4186|hfid|316|sfid|19|gi|344297770|taxonID|9785|Loxodontaafricana/294-323 [subseq from] sid|6157|pid|4186|hfid|316|sfid|19|gi|344297770|taxonID|9785|Loxodontaafricana
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6156|pid|4185|hfid|316|sfid|19|dbj|BAI44113.1|gi|260279072|taxonID|378754|Ursusthibetanusjaponicus/294-323 [subseq from] sid|6156|pid|4185|hfid|316|sfid|19|dbj|BAI44113.1|gi|260279072|taxonID|378754|Ursusthibetanusjaponicus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6155|pid|4185|hfid|316|sfid|19|gi|301770097|taxonID|9646|Ailuropodamelanoleuca/294-323 [subseq from] sid|6155|pid|4185|hfid|316|sfid|19|gi|301770097|taxonID|9646|Ailuropodamelanoleuca
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6124|pid|4161|hfid|316|sfid|19|gi|586447052|taxonID|185453|Chrysochlorisasiatica/294-323 [subseq from] sid|6124|pid|4161|hfid|316|sfid|19|gi|586447052|taxonID|185453|Chrysochlorisasiatica
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLYLIA-
+>sid|6145|pid|4177|hfid|316|sfid|19|gi|533122756|gi|533122760|gi|533122758|taxonID|34839|Chinchillalanigera/421-450 [subseq from] sid|6145|pid|4177|hfid|316|sfid|19|gi|533122756|gi|533122760|gi|533122758|taxonID|34839|Chinchillalanigera
+-ENV-NQCVLEMLIAAPDTMSVTVY-F-MLFLIA-
+>sid|6194|pid|4215|hfid|316|sfid|19|gi|283135134|taxonID|9986|Oryctolaguscuniculus/294-323 [subseq from] sid|6194|pid|4215|hfid|316|sfid|19|gi|283135134|taxonID|9986|Oryctolaguscuniculus
+-ENV-NQCVLEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6189|pid|4211|hfid|316|sfid|19|gb|ADU04378.1|gi|315307948|taxonID|191816|Lynxpardinus/294-323 [subseq from] sid|6189|pid|4211|hfid|316|sfid|19|gb|ADU04378.1|gi|315307948|taxonID|191816|Lynxpardinus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6190|pid|4211|hfid|316|sfid|19|gi|586988966|taxonID|9685|Feliscatus/294-323 [subseq from] sid|6190|pid|4211|hfid|316|sfid|19|gi|586988966|taxonID|9685|Feliscatus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6121|pid|4158|hfid|316|sfid|19|gi|560910149|gb|EPY83671.1|gi|528764012|taxonID|419612|Camelusferus/295-324 [subseq from] sid|6121|pid|4158|hfid|316|sfid|19|gi|560910149|gb|EPY83671.1|gi|528764012|taxonID|419612|Camelusferus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6212|pid|4228|hfid|316|sfid|19|gi|395822184|taxonID|30611|Otolemurgarnettii/294-323 [subseq from] sid|6212|pid|4228|hfid|316|sfid|19|gi|395822184|taxonID|30611|Otolemurgarnettii
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6167|pid|4196|hfid|316|sfid|19|gi|585693806|taxonID|28737|Elephantulusedwardii/294-323 [subseq from] sid|6167|pid|4196|hfid|316|sfid|19|gi|585693806|taxonID|28737|Elephantulusedwardii
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6102|pid|4145|hfid|316|sfid|19|gi|332235559|taxonID|61853|Nomascusleucogenys/294-323 [subseq from] sid|6102|pid|4145|hfid|316|sfid|19|gi|332235559|taxonID|61853|Nomascusleucogenys
+-ENV-NQCILEMLIAAPDTMSVSLF-F-MLLLIA-
+>sid|6085|pid|4140|hfid|316|sfid|19|gi|466065851|taxonID|9733|Orcinusorca/260-289 [subseq from] sid|6085|pid|4140|hfid|316|sfid|19|gi|466065851|taxonID|9733|Orcinusorca
+-ENV-NQCVLEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6208|pid|4226|hfid|316|sfid|19|gi|478494572|taxonID|73337|Ceratotheriumsimumsimum/294-323 [subseq from] sid|6208|pid|4226|hfid|316|sfid|19|gi|478494572|taxonID|73337|Ceratotheriumsimumsimum
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLVA-
+>sid|6144|pid|4176|hfid|316|sfid|19|gi|641705083|taxonID|29078|Eptesicusfuscus/294-322 [subseq from] sid|6144|pid|4176|hfid|316|sfid|19|gi|641705083|taxonID|29078|Eptesicusfuscus
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLI--
+>sid|6216|pid|4231|hfid|316|sfid|19|gi|593767744|taxonID|9755|Physetercatodon/294-323 [subseq from] sid|6216|pid|4231|hfid|316|sfid|19|gi|593767744|taxonID|9755|Physetercatodon
+-ENV-NQCVLEMLIAAPDTMSVSVF-F-MLLLIA-
+>sid|6149|pid|4180|hfid|316|sfid|19|gb|ELK05419.1|gi|431896001|gi|586531034|taxonID|9402|Pteropusalecto/294-323 [subseq from] sid|6149|pid|4180|hfid|316|sfid|19|gb|ELK05419.1|gi|431896001|gi|586531034|taxonID|9402|Pteropusalecto
+-ENV-NQCILEMLIAAPDTLSVTV-FF-MLFLIA-
+>sid|6187|pid|4209|hfid|316|sfid|19|gi|391852669|taxonID|9483|Callithrixjacchus/294-323 [subseq from] sid|6187|pid|4209|hfid|316|sfid|19|gi|391852669|taxonID|9483|Callithrixjacchus
+-ENV-NQCMLEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6186|pid|4209|hfid|316|sfid|19|gi|403274266|taxonID|39432|Saimiriboliviensisboliviensis/294-323 [subseq from] sid|6186|pid|4209|hfid|316|sfid|19|gi|403274266|taxonID|39432|Saimiriboliviensisboliviensis
+-ENV-NQCMLEMLIAAPDTMSVSL-FF-MLFLIA-
+>sid|6132|pid|4167|hfid|316|sfid|19|gi|471379842|taxonID|127582|Trichechusmanatuslatirostris/294-323 [subseq from] sid|6132|pid|4167|hfid|316|sfid|19|gi|471379842|taxonID|127582|Trichechusmanatuslatirostris
+-ENV-NQCILEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6116|pid|4154|hfid|316|sfid|19|gi|47523910|taxonID|9823|Susscrofa/294-323 [subseq from] sid|6116|pid|4154|hfid|316|sfid|19|gi|47523910|taxonID|9823|Susscrofa
+-ENV-NQCILEMLIAAPDTLSVTV-FF-MLFLIA-
+>sid|6117|pid|4154|hfid|316|sfid|19|gb|AAB51387.1|gi|1928956|taxonID|9823|Susscrofa/294-323 [subseq from] sid|6117|pid|4154|hfid|316|sfid|19|gb|AAB51387.1|gi|1928956|taxonID|9823|Susscrofa
+-ENV-NQCILEMLIAAPDTLSVTV-FF-MLFLIA-
+>sid|6196|pid|4215|hfid|316|sfid|19|emb|CAA94315.1|gi|1240045|taxonID|9986|Oryctolaguscuniculus/294-323 [subseq from] sid|6196|pid|4215|hfid|316|sfid|19|emb|CAA94315.1|gi|1240045|taxonID|9986|Oryctolaguscuniculus
+-ENV-NQCVLEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6086|pid|4141|hfid|316|sfid|19|gi|6681099|gi|568960737|taxonID|10090|Musmusculus/294-323 [subseq from] sid|6086|pid|4141|hfid|316|sfid|19|gi|6681099|gi|568960737|taxonID|10090|Musmusculus
+-ENV-NQCILEMLIAAPDTMSVTLY-F-MLLLVA-
+>sid|6195|pid|4215|hfid|316|sfid|19|gi|655861582|taxonID|9986|Oryctolaguscuniculus/294-323 [subseq from] sid|6195|pid|4215|hfid|316|sfid|19|gi|655861582|taxonID|9986|Oryctolaguscuniculus
+-ENV-NQCVLEMLIAAPDTMSVSV-FF-MLFLIA-
+>sid|6120|pid|4157|hfid|316|sfid|19|gb|EGW14179.1|gi|344258075|gi|354493402|taxonID|10029|Cricetulusgriseus/294-322 [subseq from] sid|6120|pid|4157|hfid|316|sfid|19|gb|EGW14179.1|gi|344258075|gi|354493402|taxonID|10029|Cricetulusgriseus
+-ENV-NQCILEMLIAAPDTMSVTLYFM-LLLI---
+>sid|80164|pid|58680|hfid|354|sfid|35|gi|268554436|taxonID|6238|Caenorhabditisbriggsae/293-323 [subseq from] sid|80164|pid|58680|hfid|354|sfid|35|gi|268554436|taxonID|6238|Caenorhabditisbriggsae
+-ENL-KMLVLDLWITGQETTTMTLISA-FIRFLN-
+>sid|11737|pid|8483|hfid|1382|sfid|393|gb|ERL86685.1|gi|546675502|taxonID|77166|Dendroctonusponderosae/161-188 [subseq from] sid|11737|pid|8483|hfid|1382|sfid|393|gb|ERL86685.1|gi|546675502|taxonID|77166|Dendroctonusponderosae
+-----DDIAEEVFNAFLDTLSYSC-SS-LLFCFYE
+>sid|6115|pid|4153|hfid|316|sfid|19|gi|504130688|taxonID|9978|Ochotonaprinceps/296-325 [subseq from] sid|6115|pid|4153|hfid|316|sfid|19|gi|504130688|taxonID|9978|Ochotonaprinceps
+-ENV-NQCVLEMLIAAPDTMSVTV-FF-MLFLIA-
+>sid|6112|pid|4150|hfid|316|sfid|19|gi|589916659|taxonID|230844|Peromyscusmaniculatusbairdii/294-323 [subseq from] sid|6112|pid|4150|hfid|316|sfid|19|gi|589916659|taxonID|230844|Peromyscusmaniculatusbairdii
+-ENV-NQCILEMLIAAPDTMSVTLYFM-LLLMA--
+>sid|6127|pid|4164|hfid|316|sfid|19|gi|594633991|taxonID|310752|Balaenopteraacutorostratascammoni/294-323 [subseq from] sid|6127|pid|4164|hfid|316|sfid|19|gi|594633991|taxonID|310752|Balaenopteraacutorostratascammoni
+-ENV-NQCVLEMLIAAPDTMSVSVF-F-MLLLIA-
+>sid|6211|pid|4227|hfid|316|sfid|19|gb|ACM89456.1|gi|223452003|taxonID|8364|Xenopus(Silurana)tropicalis/292-320 [subseq from] sid|6211|pid|4227|hfid|316|sfid|19|gb|ACM89456.1|gi|223452003|taxonID|8364|Xenopus(Silurana)tropicalis
+-ENV-NQCILEMLIAAPDTMSVSLF-F-MLVLI--
+>sid|6260|pid|4262|hfid|316|sfid|19|gb|AAT36641.1|gi|47607479|taxonID|7937|Anguillajaponica/203-231 [subseq from] sid|6260|pid|4262|hfid|316|sfid|19|gb|AAT36641.1|gi|47607479|taxonID|7937|Anguillajaponica
+-ENV-QQCILEMIIAAPDTMSISL-FF-MLMLL--
+>sid|4933|pid|3315|hfid|1296|sfid|305|gb|ACN93795.1|gi|225548287|taxonID|36989|Reticulitermesflavipes/260-289 [subseq from] sid|4933|pid|3315|hfid|1296|sfid|305|gb|ACN93795.1|gi|225548287|taxonID|36989|Reticulitermesflavipes
+--QL-VALCLDLFMAGSETTSNTLGFA-MLYMLL-
+>sid|101260|pid|76766|hfid|307|sfid|15|emb|CBL95272.1|gi|296315553|taxonID|6973|Blattellagermanica/192-221 [subseq from] sid|101260|pid|76766|hfid|307|sfid|15|emb|CBL95272.1|gi|296315553|taxonID|6973|Blattellagermanica
+--QL-VSLSLDSFMAGSETTSNTLGFA-MLYMLL-
+>sid|11738|pid|8484|hfid|1382|sfid|393|gb|AFI45012.1|gi|385199928|taxonID|77166|Dendroctonusponderosae/260-287 [subseq from] sid|11738|pid|8484|hfid|1382|sfid|393|gb|AFI45012.1|gi|385199928|taxonID|77166|Dendroctonusponderosae
+-----DDIAEEVFNAFLDTLSYSC-SS-LLFCFYE
+>sid|6182|pid|4206|hfid|316|sfid|19|gi|532061479|taxonID|43179|Ictidomystridecemlineatus/294-323 [subseq from] sid|6182|pid|4206|hfid|316|sfid|19|gi|532061479|taxonID|43179|Ictidomystridecemlineatus
+-ENV-NQCILEMLIAAPDTMSVTVY-F-MLFLIA-
+>sid|6161|pid|4190|hfid|316|sfid|19|gi|524930819|taxonID|10036|Mesocricetusauratus/294-322 [subseq from] sid|6161|pid|4190|hfid|316|sfid|19|gi|524930819|taxonID|10036|Mesocricetusauratus
+-ENV-NQCVLEMLIAAPDTMSVTLYFM-LLLI---
+>sid|6123|pid|4160|hfid|316|sfid|19|gi|505836509|taxonID|42254|Sorexaraneus/294-322 [subseq from] sid|6123|pid|4160|hfid|316|sfid|19|gi|505836509|taxonID|42254|Sorexaraneus
+-ENV-NQCILEIMIAAPDTMSVTL-FF-MLFLI--
+>sid|11708|pid|8456|hfid|1370|sfid|347|gb|AFI45010.1|gi|385199924|gb|ERL92317.1|gi|546682375|taxonID|77166|Dendroctonusponderosae/178-201 [subseq from] sid|11708|pid|8456|hfid|1370|sfid|347|gb|AFI45010.1|gi|385199924|gb|ERL92317.1|gi|546682375|taxonID|77166|Dendroctonusponderosae
+---A-STF----FLDGYETSSLTL-SF-LLFNLA-
+>sid|11708|pid|8456|hfid|1370|sfid|347|gb|AFI45010.1|gi|385199924|gb|ERL92317.1|gi|546682375|taxonID|77166|Dendroctonusponderosae/622-645 [subseq from] sid|11708|pid|8456|hfid|1370|sfid|347|gb|AFI45010.1|gi|385199924|gb|ERL92317.1|gi|546682375|taxonID|77166|Dendroctonusponderosae
+---A-TTF----FLDGYESSSNVM-TS-LLMNLA-
+>sid|6203|pid|4222|hfid|316|sfid|19|gi|640825238|taxonID|9478|Tarsiussyrichta/294-322 [subseq from] sid|6203|pid|4222|hfid|316|sfid|19|gi|640825238|taxonID|9478|Tarsiussyrichta
+-ENV-NQCILEMLIAAPDTMSISVF-F-MLLLI--
+>sid|97167|pid|73113|hfid|1388|sfid|413|gb|AGT57838.1|gi|531445092|taxonID|7539|Leptinotarsadecemlineata/260-290 [subseq from] sid|97167|pid|73113|hfid|1388|sfid|413|gb|AGT57838.1|gi|531445092|taxonID|7539|Leptinotarsadecemlineata
+-RES-EGIIDEIIEIAVENIIYSC-ST-VLFCLYE
+>sid|80163|pid|58679|hfid|354|sfid|35|emb|CAP30519.2|gi|309360844|taxonID|6238|Caenorhabditisbriggsae/293-323 [subseq from] sid|80163|pid|58679|hfid|354|sfid|35|emb|CAP30519.2|gi|309360844|taxonID|6238|Caenorhabditisbriggsae
+-ENL-KMLVLDLWITGQETTTMTLISA-FIRFLN-
+>sid|6143|pid|4175|hfid|316|sfid|19|gi|602630672|taxonID|176946|Pythonbivittatus/295-324 [subseq from] sid|6143|pid|4175|hfid|316|sfid|19|gi|602630672|taxonID|176946|Pythonbivittatus
+-ENV-NQCVLEMLIAAPDTLSVTLF-F-MLVLIA-
+>sid|6089|pid|4144|hfid|316|sfid|19|dbj|BAA90529.1|gi|6899814|taxonID|8355|Xenopuslaevis/292-320 [subseq from] sid|6089|pid|4144|hfid|316|sfid|19|dbj|BAA90529.1|gi|6899814|taxonID|8355|Xenopuslaevis
+-ENV-NQCILEMLIAAPDTMSVSLF-F-MLVLI--
+>sid|6090|pid|4144|hfid|316|sfid|19|gi|148222838|taxonID|8355|Xenopuslaevis/292-320 [subseq from] sid|6090|pid|4144|hfid|316|sfid|19|gi|148222838|taxonID|8355|Xenopuslaevis
+-ENV-NQCILEMLIAAPDTMSVSLF-F-MLVLI--
+>sid|11739|pid|8484|hfid|1382|sfid|393|gb|ERL91318.1|gi|546681183|taxonID|77166|Dendroctonusponderosae/260-287 [subseq from] sid|11739|pid|8484|hfid|1382|sfid|393|gb|ERL91318.1|gi|546681183|taxonID|77166|Dendroctonusponderosae
+-----DDIAEEVFNAFLDTLSYSC-SS-LLFCFYE
+>sid|6151|pid|4182|hfid|316|sfid|19|dbj|BAE20061.1|gi|73760319|taxonID|481883|Eublepharismacularius/293-322 [subseq from] sid|6151|pid|4182|hfid|316|sfid|19|dbj|BAE20061.1|gi|73760319|taxonID|481883|Eublepharismacularius
+-ENV-NQCVLEMLIAAPDTLSVTL-FF-MLALIA-
+>sid|11709|pid|8457|hfid|1370|sfid|347|gb|ENN70690.1|gi|478250187|taxonID|77166|Dendroctonusponderosae/349-372 [subseq from] sid|11709|pid|8457|hfid|1370|sfid|347|gb|ENN70690.1|gi|478250187|taxonID|77166|Dendroctonusponderosae
+---A-STF----FLDGYETSSLTL-SF-LLFNLA-
+>sid|11709|pid|8457|hfid|1370|sfid|347|gb|ENN70690.1|gi|478250187|taxonID|77166|Dendroctonusponderosae/849-872 [subseq from] sid|11709|pid|8457|hfid|1370|sfid|347|gb|ENN70690.1|gi|478250187|taxonID|77166|Dendroctonusponderosae
+---A-TTF----FLDGYESSSNVM-TS-LLMNLA-
+>sid|6209|pid|4227|hfid|316|sfid|19|gi|148238050|taxonID|8364|Xenopus(Silurana)tropicalis/292-320 [subseq from] sid|6209|pid|4227|hfid|316|sfid|19|gi|148238050|taxonID|8364|Xenopus(Silurana)tropicalis
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLVLV--
+>sid|6210|pid|4227|hfid|316|sfid|19|dbj|BAE93232.1|gi|91754114|taxonID|8364|Xenopus(Silurana)tropicalis/292-320 [subseq from] sid|6210|pid|4227|hfid|316|sfid|19|dbj|BAE93232.1|gi|91754114|taxonID|8364|Xenopus(Silurana)tropicalis
+-ENV-NQCILEMLIAAPDTMSVSL-FF-MLVLV--
+>sid|6184|pid|4208|hfid|316|sfid|19|sp|P22443.1|gi|117295|taxonID|10116|Rattusnorvegicus/294-322 [subseq from] sid|6184|pid|4208|hfid|316|sfid|19|sp|P22443.1|gi|117295|taxonID|10116|Rattusnorvegicus
+-ENV-NQCILEMLIAAPDTMSVTLYVM-LLLI---
+>sid|6298|pid|4291|hfid|316|sfid|19|gi|573881136|taxonID|7918|Lepisosteusoculatus/282-309 [subseq from] sid|6298|pid|4291|hfid|316|sfid|19|gi|573881136|taxonID|7918|Lepisosteusoculatus
+--NV-NQCVLEMLIAAPDTMSVSLY-F-MLMLL--
+>sid|6185|pid|4208|hfid|316|sfid|19|gi|281182626|taxonID|10116|Rattusnorvegicus/294-322 [subseq from] sid|6185|pid|4208|hfid|316|sfid|19|gi|281182626|taxonID|10116|Rattusnorvegicus
+-ENV-NQCILEMLIAAPDTMSVTLYVM-LLLI---
+>sid|6202|pid|4221|hfid|316|sfid|19|gb|AAP43633.1|gi|31415709|taxonID|9337|Trichosurusvulpecula/216-244 [subseq from] sid|6202|pid|4221|hfid|316|sfid|19|gb|AAP43633.1|gi|31415709|taxonID|9337|Trichosurusvulpecula
+-ENV-NQCILEMLIAAPDTLSVTVYFM-LLLI---
+>sid|4935|pid|3317|hfid|1296|sfid|305|gb|AAS13464.1|gi|42398143|taxonID|6984|Diplopterapunctata/289-318 [subseq from] sid|4935|pid|3317|hfid|1296|sfid|305|gb|AAS13464.1|gi|42398143|taxonID|6984|Diplopterapunctata
+--QL-VSLCLDLFMAGSETTSNTLGFA-VLYMLL-
+>sid|6201|pid|4220|hfid|316|sfid|19|gi|511868515|taxonID|9669|Mustelaputoriusfuro/294-323 [subseq from] sid|6201|pid|4220|hfid|316|sfid|19|gi|511868515|taxonID|9669|Mustelaputoriusfuro
+-ENV-NQCILEMLVAAPDTMSVSV-FF-MLFLIA-
+>sid|6213|pid|4229|hfid|316|sfid|19|gb|AAM95462.1|gi|22475179|taxonID|8319|Pleurodeleswaltl/301-329 [subseq from] sid|6213|pid|4229|hfid|316|sfid|19|gb|AAM95462.1|gi|22475179|taxonID|8319|Pleurodeleswaltl
+--NV-NQCILEMLIAAPDTMSVSLY-F-MLMLIA-
+>sid|6166|pid|4195|hfid|316|sfid|19|gi|507557568|taxonID|51337|Jaculusjaculus/294-322 [subseq from] sid|6166|pid|4195|hfid|316|sfid|19|gi|507557568|taxonID|51337|Jaculusjaculus
+-ENV-NQCVLEMLIAAPDTMSVTVYFM-LLLI---
+>sid|85278|pid|62969|hfid|225|sfid|6|gi|340723208|taxonID|30195|Bombusterrestris/309-331 [subseq from] sid|85278|pid|62969|hfid|225|sfid|6|gi|340723208|taxonID|30195|Bombusterrestris
+--------AAIFFAAGFETSAATM-SF-TLYEL--
+>sid|85278|pid|62969|hfid|225|sfid|6|gi|340723208|taxonID|30195|Bombusterrestris/536-558 [subseq from] sid|85278|pid|62969|hfid|225|sfid|6|gi|340723208|taxonID|30195|Bombusterrestris
+--------AAILFAAGFETSSTTM-SF-TLYEL--
+>sid|6191|pid|4212|hfid|316|sfid|19|gi|602686705|taxonID|118797|Lipotesvexillifer/294-323 [subseq from] sid|6191|pid|4212|hfid|316|sfid|19|gi|602686705|taxonID|118797|Lipotesvexillifer
+-ENV-NQCVLEMLIAAPDTMSISVFFM-MLLIA--
+>sid|99405|pid|75068|hfid|1282|sfid|301|gb|AGN52764.1|gi|510813186|taxonID|195883|Laodelphaxstriatella/286-314 [subseq from] sid|99405|pid|75068|hfid|1282|sfid|301|gb|AGN52764.1|gi|510813186|taxonID|195883|Laodelphaxstriatella
+--LA-YVLALDLILVGIDTISMAV-CS-VLYQLA-
+>sid|6261|pid|4262|hfid|316|sfid|19|sp|Q6QHT9.1|gi|66773993|taxonID|7937|Anguillajaponica/307-335 [subseq from] sid|6261|pid|4262|hfid|316|sfid|19|sp|Q6QHT9.1|gi|66773993|taxonID|7937|Anguillajaponica
+-ENV-QQCILEMIIAAPDTMSISL-FF-MLMLL--
+>sid|6111|pid|4149|hfid|316|sfid|19|gi|47523920|taxonID|9823|Susscrofa/292-321 [subseq from] sid|6111|pid|4149|hfid|316|sfid|19|gi|47523920|taxonID|9823|Susscrofa
+-ENV-NQCVLEMMIAAPDTMSITV-FF-MLFLIA-
+>sid|105378|pid|80480|hfid|354|sfid|35|gi|308496309|taxonID|31234|Caenorhabditisremanei/293-323 [subseq from] sid|105378|pid|80480|hfid|354|sfid|35|gi|308496309|taxonID|31234|Caenorhabditisremanei
+-ENL-KILVLDLWITGQETTTMTLISA-FIQFLN-
+>sid|6262|pid|4262|hfid|316|sfid|19|gb|AHM63732.1|gi|595583445|taxonID|7936|Anguillaanguilla/307-335 [subseq from] sid|6262|pid|4262|hfid|316|sfid|19|gb|AHM63732.1|gi|595583445|taxonID|7936|Anguillaanguilla
+-ENV-RQCILEMIIAAPDTMSISL-FF-MLMLL--
+>sid|11387|pid|8179|hfid|1281|sfid|301|gi|170046077|taxonID|7176|Culexquinquefasciatus/368-397 [subseq from] sid|11387|pid|8179|hfid|1281|sfid|301|gi|170046077|taxonID|7176|Culexquinquefasciatus
+-KLA-VVMALDMILVGIDTISMAV-CS-ILYQLA-
+>sid|11380|pid|8173|hfid|1281|sfid|301|gi|158295296|taxonID|180454|Anophelesgambiaestr.PEST/365-394 [subseq from] sid|11380|pid|8173|hfid|1281|sfid|301|gi|158295296|taxonID|180454|Anophelesgambiaestr.PEST
+-KLA-VVMALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|105379|pid|80481|hfid|354|sfid|35|gb|EGT42727.1|gi|341886792|taxonID|135651|Caenorhabditisbrenneri/293-323 [subseq from] sid|105379|pid|80481|hfid|354|sfid|35|gb|EGT42727.1|gi|341886792|taxonID|135651|Caenorhabditisbrenneri
+-ENL-KVIVLDLWITGQETTTMTLISA-FIRFLN-
+>sid|11383|pid|8175|hfid|1281|sfid|301|gb|ETN65528.1|gi|568257189|taxonID|43151|Anophelesdarlingi/372-401 [subseq from] sid|11383|pid|8175|hfid|1281|sfid|301|gb|ETN65528.1|gi|568257189|taxonID|43151|Anophelesdarlingi
+-KLA-VVMALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|11402|pid|8194|hfid|1281|sfid|301|gi|557755455|taxonID|7370|Muscadomestica/379-403 [subseq from] sid|11402|pid|8194|hfid|1281|sfid|301|gi|557755455|taxonID|7370|Muscadomestica
+-------MALDLILVGIDTISMAV-CS-MLYQLA-
+>sid|6126|pid|4163|hfid|316|sfid|19|dbj|BAD12119.1|gi|44886090|taxonID|8330|Cynopspyrrhogaster/295-323 [subseq from] sid|6126|pid|4163|hfid|316|sfid|19|dbj|BAD12119.1|gi|44886090|taxonID|8330|Cynopspyrrhogaster
+--NV-NQCILEMLIAAPDTLSVTLY-F-MLMLIA-
+>sid|6122|pid|4159|hfid|316|sfid|19|gi|611969675|taxonID|13616|Monodelphisdomestica/294-322 [subseq from] sid|6122|pid|4159|hfid|316|sfid|19|gi|611969675|taxonID|13616|Monodelphisdomestica
+-ENV-NQCILEMLIAAPDTLSVTVYFM-LLLI---
+>sid|11412|pid|8200|hfid|1281|sfid|301|gi|195455871|taxonID|7260|Drosophilawillistoni/349-373 [subseq from] sid|11412|pid|8200|hfid|1281|sfid|301|gi|195455871|taxonID|7260|Drosophilawillistoni
+-------MALDLILVGIDTISMAV-CS-MLYQLA-
+>sid|6390|pid|4356|hfid|316|sfid|19|gb|ABD62880.1|gi|89152376|taxonID|8049|Gadusmorhua/317-344 [subseq from] sid|6390|pid|4356|hfid|316|sfid|19|gb|ABD62880.1|gi|89152376|taxonID|8049|Gadusmorhua
+--HV-RQCVLEMVIAGPDTLSVSLL-F-MLLLL--
+>sid|6359|pid|4334|hfid|316|sfid|19|dbj|BAJ19136.1|gi|307548819|taxonID|75329|Misgurnusanguillicaudatus/313-341 [subseq from] sid|6359|pid|4334|hfid|316|sfid|19|dbj|BAJ19136.1|gi|307548819|taxonID|75329|Misgurnusanguillicaudatus
+-ENV-KQCVLEMVIAGPDTLSVSL-FF-MLLIL--
+>sid|11394|pid|8186|hfid|1281|sfid|301|gb|EAT33149.2|gi|403183452|gi|157105917|taxonID|7159|Aedesaegypti/377-405 [subseq from] sid|11394|pid|8186|hfid|1281|sfid|301|gb|EAT33149.2|gi|403183452|gi|157105917|taxonID|7159|Aedesaegypti
+--LA-VVMALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|91911|pid|68598|hfid|225|sfid|6|gi|350418750|taxonID|132113|Bombusimpatiens/320-339 [subseq from] sid|91911|pid|68598|hfid|225|sfid|6|gi|350418750|taxonID|132113|Bombusimpatiens
+--------AAILFAAGFETSSTTM-SF-TL-----
+>sid|91911|pid|68598|hfid|225|sfid|6|gi|350418750|taxonID|132113|Bombusimpatiens/479-501 [subseq from] sid|91911|pid|68598|hfid|225|sfid|6|gi|350418750|taxonID|132113|Bombusimpatiens
+---------AIFFAAGFETSAATM-SF-TLYELA-
+>sid|11409|pid|8199|hfid|1281|sfid|301|gi|195582799|taxonID|7240|Drosophilasimulans/353-377 [subseq from] sid|11409|pid|8199|hfid|1281|sfid|301|gi|195582799|taxonID|7240|Drosophilasimulans
+-------MALDLILVGIDTISMAV-CS-MLYQLA-
+>sid|6183|pid|4207|hfid|316|sfid|19|gi|395503248|taxonID|9305|Sarcophilusharrisii/315-343 [subseq from] sid|6183|pid|4207|hfid|316|sfid|19|gi|395503248|taxonID|9305|Sarcophilusharrisii
+-ENV-NQCILEMLIAAPDTLSVTVYFM-LLLI---
+>sid|11389|pid|8181|hfid|1281|sfid|301|gi|195485293|taxonID|7245|Drosophilayakuba/353-377 [subseq from] sid|11389|pid|8181|hfid|1281|sfid|301|gi|195485293|taxonID|7245|Drosophilayakuba
+-------MALDLILVGIDTISMAV-CS-MLYQLA-
+>sid|11411|pid|8199|hfid|1281|sfid|301|gi|195333812|taxonID|7238|Drosophilasechellia/353-377 [subseq from] sid|11411|pid|8199|hfid|1281|sfid|301|gi|195333812|taxonID|7238|Drosophilasechellia
+-------MALDLILVGIDTISMAV-CS-MLYQLA-
+>sid|11410|pid|8199|hfid|1281|sfid|301|gi|19922108|taxonID|7227|Drosophilamelanogaster/353-377 [subseq from] sid|11410|pid|8199|hfid|1281|sfid|301|gi|19922108|taxonID|7227|Drosophilamelanogaster
+-------MALDLILVGIDTISMAV-CS-MLYQLA-
+>sid|11408|pid|8198|hfid|1281|sfid|301|gi|194883602|taxonID|7220|Drosophilaerecta/353-377 [subseq from] sid|11408|pid|8198|hfid|1281|sfid|301|gi|194883602|taxonID|7220|Drosophilaerecta
+-------MALDLILVGIDTISMAV-CS-MLYQLA-
+>sid|11419|pid|8206|hfid|1281|sfid|301|gi|125810259|taxonID|46245|Drosophilapseudoobscurapseudoobscura/358-382 [subseq from] sid|11419|pid|8206|hfid|1281|sfid|301|gi|125810259|taxonID|46245|Drosophilapseudoobscurapseudoobscura
+-------MALDLILVGIDTISMAV-CS-MLYQLA-
+>sid|11418|pid|8206|hfid|1281|sfid|301|gi|195175401|taxonID|7234|Drosophilapersimilis/358-382 [subseq from] sid|11418|pid|8206|hfid|1281|sfid|301|gi|195175401|taxonID|7234|Drosophilapersimilis
+-------MALDLILVGIDTISMAV-CS-MLYQLA-
+>sid|11401|pid|8193|hfid|1281|sfid|301|gi|194756494|taxonID|7217|Drosophilaananassae/363-387 [subseq from] sid|11401|pid|8193|hfid|1281|sfid|301|gi|194756494|taxonID|7217|Drosophilaananassae
+-------MALDLILVGIDTISMAV-CS-MLYQLA-
+>sid|61575|pid|43624|hfid|596|sfid|76|gi|357506985|taxonID|3880|Medicagotruncatula/299-316 [subseq from] sid|61575|pid|43624|hfid|596|sfid|76|gi|357506985|taxonID|3880|Medicagotruncatula
+------HLFLDLFFAGIDTTSNTI-----------
+>sid|6193|pid|4214|hfid|316|sfid|19|gi|564730659|taxonID|8496|Alligatormississippiensis/294-323 [subseq from] sid|6193|pid|4214|hfid|316|sfid|19|gi|564730659|taxonID|8496|Alligatormississippiensis
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLVLIA-
+>sid|6362|pid|4337|hfid|316|sfid|19|gb|ACM51147.1|gi|222433606|taxonID|8153|Haplochromisburtoni/171-198 [subseq from] sid|6362|pid|4337|hfid|316|sfid|19|gb|ACM51147.1|gi|222433606|taxonID|8153|Haplochromisburtoni
+--NV-RQCVLEMIIAAPDTLSISL-FF-MLMLL--
+>sid|6134|pid|4169|hfid|316|sfid|19|gi|326926613|taxonID|9103|Meleagrisgallopavo/293-322 [subseq from] sid|6134|pid|4169|hfid|316|sfid|19|gi|326926613|taxonID|9103|Meleagrisgallopavo
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLILIA-
+>sid|6147|pid|4179|hfid|316|sfid|19|gb|AAC04699.1|gi|2921280|taxonID|9796|Equuscaballus/294-322 [subseq from] sid|6147|pid|4179|hfid|316|sfid|19|gb|AAC04699.1|gi|2921280|taxonID|9796|Equuscaballus
+-ENV-NQCILEMMIAAPDTLSVTVFFM-LCLI---
+>sid|6218|pid|4233|hfid|316|sfid|19|gb|EMP29127.1|gi|465960938|taxonID|8469|Cheloniamydas/156-185 [subseq from] sid|6218|pid|4233|hfid|316|sfid|19|gb|EMP29127.1|gi|465960938|taxonID|8469|Cheloniamydas
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLVLIA-
+>sid|11815|pid|8536|hfid|360|sfid|39|gi|530382130|taxonID|9606|Homosapiens/261-290 [subseq from] sid|11815|pid|8536|hfid|360|sfid|39|gi|530382130|taxonID|9606|Homosapiens
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11756|pid|8495|hfid|360|sfid|39|gi|525313655|taxonID|9606|Homosapiens/241-270 [subseq from] sid|11756|pid|8495|hfid|360|sfid|39|gi|525313655|taxonID|9606|Homosapiens
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11757|pid|8495|hfid|360|sfid|39|dbj|BAH13522.1|gi|221043690|taxonID|9606|Homosapiens/241-270 [subseq from] sid|11757|pid|8495|hfid|360|sfid|39|dbj|BAH13522.1|gi|221043690|taxonID|9606|Homosapiens
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11814|pid|8536|hfid|360|sfid|39|gi|32313587|taxonID|9606|Homosapiens/261-290 [subseq from] sid|11814|pid|8536|hfid|360|sfid|39|gi|32313587|taxonID|9606|Homosapiens
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|10880|pid|7754|hfid|31|sfid|2|gb|EPY78829.1|gi|528759170|taxonID|419612|Camelusferus/222-243 [subseq from] sid|10880|pid|7754|hfid|31|sfid|2|gb|EPY78829.1|gi|528759170|taxonID|419612|Camelusferus
+--------TLDLFFAGTETTSTTL-CW-GLLY---
+>sid|10880|pid|7754|hfid|31|sfid|2|gb|EPY78829.1|gi|528759170|taxonID|419612|Camelusferus/685-712 [subseq from] sid|10880|pid|7754|hfid|31|sfid|2|gb|EPY78829.1|gi|528759170|taxonID|419612|Camelusferus
+-ENL-IYITLDLFFAGTETTSTTL-CW-GLLY---
+>sid|11753|pid|8495|hfid|360|sfid|39|gi|397526685|taxonID|9597|Panpaniscus/241-270 [subseq from] sid|11753|pid|8495|hfid|360|sfid|39|gi|397526685|taxonID|9597|Panpaniscus
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11754|pid|8495|hfid|360|sfid|39|gi|332824336|taxonID|9598|Pantroglodytes/241-270 [subseq from] sid|11754|pid|8495|hfid|360|sfid|39|gi|332824336|taxonID|9598|Pantroglodytes
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11759|pid|8497|hfid|360|sfid|39|gi|397526683|taxonID|9597|Panpaniscus/261-290 [subseq from] sid|11759|pid|8497|hfid|360|sfid|39|gi|397526683|taxonID|9597|Panpaniscus
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|6374|pid|4347|hfid|316|sfid|19|gb|AGN52746.1|gi|510813086|taxonID|111304|Acipenserschrenckii/274-302 [subseq from] sid|6374|pid|4347|hfid|316|sfid|19|gb|AGN52746.1|gi|510813086|taxonID|111304|Acipenserschrenckii
+--NV-KQCVLEMLIAAPDTMSVTL-FY-MLMLIA-
+>sid|11812|pid|8536|hfid|360|sfid|39|gb|AAF63329.1|gi|7533024|taxonID|9606|Homosapiens/261-290 [subseq from] sid|11812|pid|8536|hfid|360|sfid|39|gb|AAF63329.1|gi|7533024|taxonID|9606|Homosapiens
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11817|pid|8536|hfid|360|sfid|39|gi|114607654|taxonID|9598|Pantroglodytes/261-290 [subseq from] sid|11817|pid|8536|hfid|360|sfid|39|gi|114607654|taxonID|9598|Pantroglodytes
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11795|pid|8520|hfid|360|sfid|39|gi|635094648|taxonID|60711|Chlorocebussabaeus/241-270 [subseq from] sid|11795|pid|8520|hfid|360|sfid|39|gi|635094648|taxonID|60711|Chlorocebussabaeus
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11764|pid|8500|hfid|360|sfid|39|gi|635094646|taxonID|60711|Chlorocebussabaeus/261-290 [subseq from] sid|11764|pid|8500|hfid|360|sfid|39|gi|635094646|taxonID|60711|Chlorocebussabaeus
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|6172|pid|4200|hfid|316|sfid|19|gi|641773599|taxonID|8478|Chrysemyspictabellii/233-262 [subseq from] sid|6172|pid|4200|hfid|316|sfid|19|gi|641773599|taxonID|8478|Chrysemyspictabellii
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLVLIA-
+>sid|11755|pid|8495|hfid|360|sfid|39|gi|332210329|taxonID|61853|Nomascusleucogenys/241-270 [subseq from] sid|11755|pid|8495|hfid|360|sfid|39|gi|332210329|taxonID|61853|Nomascusleucogenys
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11769|pid|8500|hfid|360|sfid|39|gb|EHH18391.1|gi|355561759|taxonID|9544|Macacamulatta/261-290 [subseq from] sid|11769|pid|8500|hfid|360|sfid|39|gb|EHH18391.1|gi|355561759|taxonID|9544|Macacamulatta
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11760|pid|8497|hfid|360|sfid|39|gi|332210327|taxonID|61853|Nomascusleucogenys/261-290 [subseq from] sid|11760|pid|8497|hfid|360|sfid|39|gi|332210327|taxonID|61853|Nomascusleucogenys
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11768|pid|8500|hfid|360|sfid|39|gi|402867166|gi|402867168|taxonID|9555|Papioanubis/261-290 [subseq from] sid|11768|pid|8500|hfid|360|sfid|39|gi|402867166|gi|402867168|taxonID|9555|Papioanubis
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYIL-
+>sid|11767|pid|8500|hfid|360|sfid|39|gi|109071395|gi|302564277|taxonID|9544|Macacamulatta/261-290 [subseq from] sid|11767|pid|8500|hfid|360|sfid|39|gi|109071395|gi|302564277|taxonID|9544|Macacamulatta
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11766|pid|8500|hfid|360|sfid|39|dbj|BAE73077.1|gi|84579287|taxonID|9541|Macacafascicularis/261-290 [subseq from] sid|11766|pid|8500|hfid|360|sfid|39|dbj|BAE73077.1|gi|84579287|taxonID|9541|Macacafascicularis
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|6148|pid|4179|hfid|316|sfid|19|gi|126352438|taxonID|9796|Equuscaballus|gi|664710193|taxonID|9798|Equusprzewalskii/339-367 [subseq from] sid|6148|pid|4179|hfid|316|sfid|19|gi|126352438|taxonID|9796|Equuscaballus|gi|664710193|taxonID|9798|Equusprzewalskii
+-ENV-NQCILEMMIAAPDTLSVTVFFM-LCLI---
+>sid|11750|pid|8492|hfid|360|sfid|39|gi|426353406|taxonID|9595|Gorillagorillagorilla/261-290 [subseq from] sid|11750|pid|8492|hfid|360|sfid|39|gi|426353406|taxonID|9595|Gorillagorillagorilla
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|88683|pid|65849|hfid|373|sfid|49|gi|282721120|taxonID|7070|Triboliumcastaneum/310-338 [subseq from] sid|88683|pid|65849|hfid|373|sfid|49|gi|282721120|taxonID|7070|Triboliumcastaneum
+--TA-SNLALDMFLVGVDTTSNAV-AS-ILYQLS-
+>sid|6395|pid|4361|hfid|316|sfid|19|gb|ABB89869.1|gi|82754114|taxonID|47969|Oreochromisaureus/303-331 [subseq from] sid|6395|pid|4361|hfid|316|sfid|19|gb|ABB89869.1|gi|82754114|taxonID|47969|Oreochromisaureus
+-ENV-TQCALEMVIAAPDTLSLSLF-F-MLLLL--
+>sid|11802|pid|8527|hfid|360|sfid|39|gi|296198313|gi|296198311|taxonID|9483|Callithrixjacchus/261-290 [subseq from] sid|11802|pid|8527|hfid|360|sfid|39|gi|296198313|gi|296198311|taxonID|9483|Callithrixjacchus
+-ENS-PSYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11816|pid|8536|hfid|360|sfid|39|gi|297678267|taxonID|9601|Pongoabelii/261-290 [subseq from] sid|11816|pid|8536|hfid|360|sfid|39|gi|297678267|taxonID|9601|Pongoabelii
+-ENS-PNYGLLLLWASLSNAVPAA-FW-TLAYVL-
+>sid|6324|pid|4305|hfid|316|sfid|19|gb|ABX45102.1|gi|160623513|taxonID|43700|Monopterusalbus/296-323 [subseq from] sid|6324|pid|4305|hfid|316|sfid|19|gb|ABX45102.1|gi|160623513|taxonID|43700|Monopterusalbus
+--NV-RQCVLEMIMAAPDTLSVSL-FF-MLMLL--
+>sid|6287|pid|4283|hfid|316|sfid|19|gb|AAW72732.1|gi|58384768|taxonID|48193|Mugilcephalus/306-334 [subseq from] sid|6287|pid|4283|hfid|316|sfid|19|gb|AAW72732.1|gi|58384768|taxonID|48193|Mugilcephalus
+-ENV-RQCVLEMVIAAPDTLSVSLF-F-MLLLL--
+>sid|6207|pid|4225|hfid|316|sfid|19|gi|637342318|taxonID|28377|Anoliscarolinensis/252-277 [subseq from] sid|6207|pid|4225|hfid|316|sfid|19|gi|637342318|taxonID|28377|Anoliscarolinensis
+-ENV-NQCVLEMLIAAPDTLSVTL-FF-IL-----
+>sid|6329|pid|4308|hfid|316|sfid|19|gb|AAW23165.1|gi|56698934|taxonID|8078|Fundulusheteroclitus/305-333 [subseq from] sid|6329|pid|4308|hfid|316|sfid|19|gb|AAW23165.1|gi|56698934|taxonID|8078|Fundulusheteroclitus
+-ENV-TQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6331|pid|4309|hfid|316|sfid|19|gb|AAX55671.1|gi|61744176|taxonID|141886|Paralichthyslethostigma/304-332 [subseq from] sid|6331|pid|4309|hfid|316|sfid|19|gb|AAX55671.1|gi|61744176|taxonID|141886|Paralichthyslethostigma
+-ENV-VQCVLEMVIAAPDTLSVSLF-F-MLLLL--
+>sid|6330|pid|4309|hfid|316|sfid|19|dbj|BAA74777.1|gi|4239990|taxonID|8255|Paralichthysolivaceus/306-334 [subseq from] sid|6330|pid|4309|hfid|316|sfid|19|dbj|BAA74777.1|gi|4239990|taxonID|8255|Paralichthysolivaceus
+-ENV-VQCVLEMVIAAPDTLSVSLF-F-MLLLL--
+>sid|6227|pid|4242|hfid|316|sfid|19|gb|AAV91178.1|gi|56424223|taxonID|304459|Cromileptesaltivelis/303-331 [subseq from] sid|6227|pid|4242|hfid|316|sfid|19|gb|AAV91178.1|gi|56424223|taxonID|304459|Cromileptesaltivelis
+-ENV-SQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|11392|pid|8184|hfid|1281|sfid|301|gi|498944126|taxonID|7213|Ceratitiscapitata/368-393 [subseq from] sid|11392|pid|8184|hfid|1281|sfid|301|gi|498944126|taxonID|7213|Ceratitiscapitata
+------IMALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|12561|pid|9080|hfid|372|sfid|49|gi|557750175|taxonID|7370|Muscadomestica/349-377 [subseq from] sid|12561|pid|9080|hfid|372|sfid|49|gi|557750175|taxonID|7370|Muscadomestica
+--LA-AVLALDLFLVGVDTTSVAV-SS-TIYQLA-
+>sid|6328|pid|4308|hfid|316|sfid|19|gb|AAR97268.1|gi|40888695|taxonID|8078|Fundulusheteroclitus/305-333 [subseq from] sid|6328|pid|4308|hfid|316|sfid|19|gb|AAR97268.1|gi|40888695|taxonID|8078|Fundulusheteroclitus
+-ENV-TQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|4936|pid|3318|hfid|1296|sfid|305|gi|91079740|taxonID|7070|Triboliumcastaneum/289-314 [subseq from] sid|4936|pid|3318|hfid|1296|sfid|305|gi|91079740|taxonID|7070|Triboliumcastaneum
+------SLCLDLFMAGSETTSNTLGFS-VVYML--
+>sid|2512|pid|1767|hfid|297|sfid|12|gi|195335697|taxonID|7238|Drosophilasechellia/324-351 [subseq from] sid|2512|pid|1767|hfid|297|sfid|12|gi|195335697|taxonID|7238|Drosophilasechellia
+---A-VTMVMDMLMAGIDTTSSAC-LT-ILYHLA-
+>sid|11417|pid|8205|hfid|1281|sfid|301|gi|328723316|taxonID|7029|Acyrthosiphonpisum/345-370 [subseq from] sid|11417|pid|8205|hfid|1281|sfid|301|gi|328723316|taxonID|7029|Acyrthosiphonpisum
+------ILALDLILVGIDTISMAV-CS-MLYQIA-
+>sid|11400|pid|8192|hfid|1281|sfid|301|gi|195383812|taxonID|7244|Drosophilavirilis/354-378 [subseq from] sid|11400|pid|8192|hfid|1281|sfid|301|gi|195383812|taxonID|7244|Drosophilavirilis
+-------MALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|11420|pid|8207|hfid|1281|sfid|301|gi|350397449|taxonID|132113|Bombusimpatiens/226-250 [subseq from] sid|11420|pid|8207|hfid|1281|sfid|301|gi|350397449|taxonID|132113|Bombusimpatiens
+-------LALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|6373|pid|4346|hfid|316|sfid|19|gb|ACN70015.1|gi|224925990|taxonID|69293|Gasterosteusaculeatus/147-175 [subseq from] sid|6373|pid|4346|hfid|316|sfid|19|gb|ACN70015.1|gi|224925990|taxonID|69293|Gasterosteusaculeatus
+-ENV-RQCVLEMVIAAPDTLSVSLF-F-MLLLL--
+>sid|2518|pid|1773|hfid|297|sfid|12|gi|195584707|taxonID|7240|Drosophilasimulans/350-377 [subseq from] sid|2518|pid|1773|hfid|297|sfid|12|gi|195584707|taxonID|7240|Drosophilasimulans
+---A-VTMVMDMLMAGIDTTSSAC-LT-ILYHLA-
+>sid|105377|pid|80479|hfid|354|sfid|35|gi|25146185|taxonID|6239|Caenorhabditiselegans/292-323 [subseq from] sid|105377|pid|80479|hfid|354|sfid|35|gi|25146185|taxonID|6239|Caenorhabditiselegans
+-ENNlKMLITDLWITGQETTTTTLVSA-FIQFLN-
+>sid|11415|pid|8203|hfid|1281|sfid|301|gi|195029583|taxonID|7222|Drosophilagrimshawi/380-404 [subseq from] sid|11415|pid|8203|hfid|1281|sfid|301|gi|195029583|taxonID|7222|Drosophilagrimshawi
+-------MALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|11385|pid|8177|hfid|1281|sfid|301|gi|242009930|taxonID|121224|Pediculushumanuscorporis/332-357 [subseq from] sid|11385|pid|8177|hfid|1281|sfid|301|gi|242009930|taxonID|121224|Pediculushumanuscorporis
+------ILALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|11386|pid|8178|hfid|1281|sfid|301|gi|380020219|taxonID|7463|Apisflorea/300-325 [subseq from] sid|11386|pid|8178|hfid|1281|sfid|301|gi|380020219|taxonID|7463|Apisflorea
+------ILALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|11407|pid|8197|hfid|1281|sfid|301|gi|195121688|taxonID|7230|Drosophilamojavensis/378-402 [subseq from] sid|11407|pid|8197|hfid|1281|sfid|301|gi|195121688|taxonID|7230|Drosophilamojavensis
+-------MALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|11852|pid|8561|hfid|360|sfid|39|gi|403261428|gi|403261430|taxonID|39432|Saimiriboliviensisboliviensis/261-290 [subseq from] sid|11852|pid|8561|hfid|360|sfid|39|gi|403261428|gi|403261430|taxonID|39432|Saimiriboliviensisboliviensis
+-ENS-PSYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|11388|pid|8180|hfid|1281|sfid|301|gb|ADF87561.1|gi|295291752|taxonID|7263|Drosophilaarizonae/377-401 [subseq from] sid|11388|pid|8180|hfid|1281|sfid|301|gb|ADF87561.1|gi|295291752|taxonID|7263|Drosophilaarizonae
+-------MALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|6361|pid|4336|hfid|316|sfid|19|gb|AGE12465.1|gi|449826723|taxonID|211491|CarassiusauratusxCyprinuscarpioxCarassiuscuvieri/313-341 [subseq from] sid|6361|pid|4336|hfid|316|sfid|19|gb|AGE12465.1|gi|449826723|taxonID|211491|CarassiusauratusxCyprinuscarpioxCarassiuscuvieri
+-ENV-RQCVLEMIIAAPDTLSISLF-F-MLLLL--
+>sid|95519|pid|71701|hfid|57|sfid|2|gi|602677593|taxonID|176946|Pythonbivittatus/178-207 [subseq from] sid|95519|pid|71701|hfid|57|sfid|2|gi|602677593|taxonID|176946|Pythonbivittatus
+-ENL-AQCVHDLFLAGTETTSVTM-MW-ILLILA-
+>sid|11393|pid|8185|hfid|1281|sfid|301|gi|91081457|taxonID|7070|Triboliumcastaneum/321-346 [subseq from] sid|11393|pid|8185|hfid|1281|sfid|301|gi|91081457|taxonID|7070|Triboliumcastaneum
+------ILALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|11406|pid|8196|hfid|1281|sfid|301|gi|665800906|taxonID|69319|Microplitisdemolitor/319-346 [subseq from] sid|11406|pid|8196|hfid|1281|sfid|301|gi|665800906|taxonID|69319|Microplitisdemolitor
+---A-YVLALDLILVGIDTISMAV-CS-ILYQIA-
+>sid|6369|pid|4344|hfid|316|sfid|19|gi|525345423|taxonID|8128|Oreochromisniloticus/303-331 [subseq from] sid|6369|pid|4344|hfid|316|sfid|19|gi|525345423|taxonID|8128|Oreochromisniloticus
+-ENV-TQCVLEMVIAAPDTLSLSLF-F-MLLLL--
+>sid|63997|pid|45576|hfid|295|sfid|12|emb|CAI64834.1|gi|61657667|taxonID|7227|Drosophilamelanogaster/204-231 [subseq from] sid|63997|pid|45576|hfid|295|sfid|12|emb|CAI64834.1|gi|61657667|taxonID|7227|Drosophilamelanogaster
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|12559|pid|9078|hfid|372|sfid|49|gi|195120852|taxonID|7230|Drosophilamojavensis/386-414 [subseq from] sid|12559|pid|9078|hfid|372|sfid|49|gi|195120852|taxonID|7230|Drosophilamojavensis
+--LA-AVLALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|6370|pid|4344|hfid|316|sfid|19|gb|AAO62625.1|gi|28933412|taxonID|8128|Oreochromisniloticus/303-331 [subseq from] sid|6370|pid|4344|hfid|316|sfid|19|gb|AAO62625.1|gi|28933412|taxonID|8128|Oreochromisniloticus
+-ENV-TQCVLEMVIAAPDTLSLSLF-F-MLLLL--
+>sid|6398|pid|4363|hfid|316|sfid|19|gb|AFV60023.1|gi|410094583|taxonID|564874|Carassiusauratusssp.Pengze/314-342 [subseq from] sid|6398|pid|4363|hfid|316|sfid|19|gb|AFV60023.1|gi|410094583|taxonID|564874|Carassiusauratusssp.Pengze
+-ENV-RQCVLEMIIAAPDTLSISLF-F-MLLLL--
+>sid|6403|pid|4365|hfid|316|sfid|19|gb|AAD31031.1|gi|4838538|taxonID|8127|Oreochromismossambicus/303-331 [subseq from] sid|6403|pid|4365|hfid|316|sfid|19|gb|AAD31031.1|gi|4838538|taxonID|8127|Oreochromismossambicus
+-ENV-TQCVLEMVIAAPDTLSLSLF-F-MLLLL--
+>sid|6152|pid|4183|hfid|316|sfid|19|gi|543353895|taxonID|181119|Pseudopodoceshumilis/294-323 [subseq from] sid|6152|pid|4183|hfid|316|sfid|19|gi|543353895|taxonID|181119|Pseudopodoceshumilis
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLILIA-
+>sid|6153|pid|4183|hfid|316|sfid|19|gi|525008718|taxonID|59894|Ficedulaalbicollis/294-323 [subseq from] sid|6153|pid|4183|hfid|316|sfid|19|gi|525008718|taxonID|59894|Ficedulaalbicollis
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLILIA-
+>sid|6159|pid|4188|hfid|316|sfid|19|gi|115529248|taxonID|59729|Taeniopygiaguttata/294-323 [subseq from] sid|6159|pid|4188|hfid|316|sfid|19|gi|115529248|taxonID|59729|Taeniopygiaguttata
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLILIA-
+>sid|6174|pid|4202|hfid|316|sfid|19|gi|542148870|taxonID|44394|Zonotrichiaalbicollis/294-323 [subseq from] sid|6174|pid|4202|hfid|316|sfid|19|gi|542148870|taxonID|44394|Zonotrichiaalbicollis
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLILIA-
+>sid|6175|pid|4202|hfid|316|sfid|19|gi|543256319|taxonID|48883|Geospizafortis/294-323 [subseq from] sid|6175|pid|4202|hfid|316|sfid|19|gi|543256319|taxonID|48883|Geospizafortis
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLILIA-
+>sid|6181|pid|4205|hfid|316|sfid|19|gi|669290470|taxonID|85066|Corvusbrachyrhynchos/294-323 [subseq from] sid|6181|pid|4205|hfid|316|sfid|19|gi|669290470|taxonID|85066|Corvusbrachyrhynchos
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLILIA-
+>sid|11381|pid|8174|hfid|1281|sfid|301|gi|340715161|taxonID|30195|Bombusterrestris/331-355 [subseq from] sid|11381|pid|8174|hfid|1281|sfid|301|gi|340715161|taxonID|30195|Bombusterrestris
+-------LALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|6162|pid|4191|hfid|316|sfid|19|gi|663255637|taxonID|9244|Calypteanna/294-323 [subseq from] sid|6162|pid|4191|hfid|316|sfid|19|gi|663255637|taxonID|9244|Calypteanna
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLILIA-
+>sid|11382|pid|8174|hfid|1281|sfid|301|gi|350397446|taxonID|132113|Bombusimpatiens/331-355 [subseq from] sid|11382|pid|8174|hfid|1281|sfid|301|gi|350397446|taxonID|132113|Bombusimpatiens
+-------LALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|65305|pid|46673|hfid|337|sfid|27|gi|658840107|taxonID|8081|Poeciliareticulata/312-335 [subseq from] sid|65305|pid|46673|hfid|337|sfid|27|gi|658840107|taxonID|8081|Poeciliareticulata
+--------VTELLLAGVDTTSNTL-TW-TLYQLS-
+>sid|6226|pid|4241|hfid|316|sfid|19|gb|AGH69789.1|gi|469663687|taxonID|229290|Anoplopomafimbria/306-334 [subseq from] sid|6226|pid|4241|hfid|316|sfid|19|gb|AGH69789.1|gi|469663687|taxonID|229290|Anoplopomafimbria
+-ENV-KQCVLEMVIAAPDTLSVSLF-F-MLLLL--
+>sid|63988|pid|45572|hfid|295|sfid|12|gi|194900042|taxonID|7220|Drosophilaerecta/323-350 [subseq from] sid|63988|pid|45572|hfid|295|sfid|12|gi|194900042|taxonID|7220|Drosophilaerecta
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|11413|pid|8201|hfid|1281|sfid|301|gi|572315813|taxonID|7462|Apisdorsata/327-351 [subseq from] sid|11413|pid|8201|hfid|1281|sfid|301|gi|572315813|taxonID|7462|Apisdorsata
+-------LALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|11414|pid|8202|hfid|1281|sfid|301|gi|383855736|taxonID|143995|Megachilerotundata/329-353 [subseq from] sid|11414|pid|8202|hfid|1281|sfid|301|gi|383855736|taxonID|143995|Megachilerotundata
+-------LALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|65310|pid|46677|hfid|337|sfid|27|gi|551493301|taxonID|8083|Xiphophorusmaculatus/312-335 [subseq from] sid|65310|pid|46677|hfid|337|sfid|27|gi|551493301|taxonID|8083|Xiphophorusmaculatus
+--------VTELLLAGVDTTSNTL-TW-VLYQLS-
+>sid|6354|pid|4329|hfid|316|sfid|19|dbj|BAJ65432.1|gi|320118831|taxonID|8238|Thunnusorientalis/316-344 [subseq from] sid|6354|pid|4329|hfid|316|sfid|19|dbj|BAJ65432.1|gi|320118831|taxonID|8238|Thunnusorientalis
+-ENV-RQCVLEMVIAAPDTMSVSLF-F-MLLLL--
+>sid|63990|pid|45574|hfid|295|sfid|12|gi|195569749|taxonID|7240|Drosophilasimulans/323-350 [subseq from] sid|63990|pid|45574|hfid|295|sfid|12|gi|195569749|taxonID|7240|Drosophilasimulans
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|64012|pid|45591|hfid|295|sfid|12|gb|AAM76202.1|gi|21744287|taxonID|7227|Drosophilamelanogaster/323-350 [subseq from] sid|64012|pid|45591|hfid|295|sfid|12|gb|AAM76202.1|gi|21744287|taxonID|7227|Drosophilamelanogaster
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|64014|pid|45591|hfid|295|sfid|12|gi|21356685|taxonID|7227|Drosophilamelanogaster/323-350 [subseq from] sid|64014|pid|45591|hfid|295|sfid|12|gi|21356685|taxonID|7227|Drosophilamelanogaster
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|64013|pid|45591|hfid|295|sfid|12|gb|AAR88135.1|gi|40646521|taxonID|7227|Drosophilamelanogaster/323-350 [subseq from] sid|64013|pid|45591|hfid|295|sfid|12|gb|AAR88135.1|gi|40646521|taxonID|7227|Drosophilamelanogaster
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|11395|pid|8187|hfid|1281|sfid|301|gb|EFN87619.1|gi|307211541|taxonID|610380|Harpegnathossaltator/244-268 [subseq from] sid|11395|pid|8187|hfid|1281|sfid|301|gb|EFN87619.1|gi|307211541|taxonID|610380|Harpegnathossaltator
+-------FALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|6168|pid|4197|hfid|316|sfid|19|gi|591384940|taxonID|8469|Cheloniamydas/274-303 [subseq from] sid|6168|pid|4197|hfid|316|sfid|19|gi|591384940|taxonID|8469|Cheloniamydas
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLVLIA-
+>sid|63995|pid|45576|hfid|295|sfid|12|emb|CAG38967.1|gi|50880290|taxonID|7227|Drosophilamelanogaster/323-350 [subseq from] sid|63995|pid|45576|hfid|295|sfid|12|emb|CAG38967.1|gi|50880290|taxonID|7227|Drosophilamelanogaster
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|63993|pid|45576|hfid|295|sfid|12|gi|24648130|taxonID|7227|Drosophilamelanogaster/323-350 [subseq from] sid|63993|pid|45576|hfid|295|sfid|12|gi|24648130|taxonID|7227|Drosophilamelanogaster
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|63992|pid|45576|hfid|295|sfid|12|gb|AAL48134.1|gi|17944490|taxonID|7227|Drosophilamelanogaster/323-350 [subseq from] sid|63992|pid|45576|hfid|295|sfid|12|gb|AAL48134.1|gi|17944490|taxonID|7227|Drosophilamelanogaster
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|11765|pid|8500|hfid|360|sfid|39|gi|544427565|gi|544427563|gi|544427567|taxonID|9541|Macacafascicularis/261-290 [subseq from] sid|11765|pid|8500|hfid|360|sfid|39|gi|544427565|gi|544427563|gi|544427567|taxonID|9541|Macacafascicularis
+-ENS-PKYGLLLLWASLSNAVPVA-FW-TLAYVL-
+>sid|63989|pid|45573|hfid|295|sfid|12|gi|195569747|taxonID|7240|Drosophilasimulans/323-350 [subseq from] sid|63989|pid|45573|hfid|295|sfid|12|gi|195569747|taxonID|7240|Drosophilasimulans
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|63996|pid|45576|hfid|295|sfid|12|emb|CAG38968.1|gi|50880292|taxonID|7227|Drosophilamelanogaster/323-350 [subseq from] sid|63996|pid|45576|hfid|295|sfid|12|emb|CAG38968.1|gi|50880292|taxonID|7227|Drosophilamelanogaster
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|64002|pid|45581|hfid|295|sfid|12|gi|194900040|taxonID|7220|Drosophilaerecta/323-350 [subseq from] sid|64002|pid|45581|hfid|295|sfid|12|gi|194900040|taxonID|7220|Drosophilaerecta
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|6138|pid|4171|hfid|316|sfid|19|gb|AGZ83067.1|gi|556903891|taxonID|27788|Lepidochelysolivacea/293-322 [subseq from] sid|6138|pid|4171|hfid|316|sfid|19|gb|AGZ83067.1|gi|556903891|taxonID|27788|Lepidochelysolivacea
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLVLIA-
+>sid|6139|pid|4171|hfid|316|sfid|19|gb|AGW47686.1|gi|545693183|taxonID|27788|Lepidochelysolivacea/293-322 [subseq from] sid|6139|pid|4171|hfid|316|sfid|19|gb|AGW47686.1|gi|545693183|taxonID|27788|Lepidochelysolivacea
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLVLIA-
+>sid|6169|pid|4198|hfid|316|sfid|19|gb|AAG09376.1|gi|9957482|taxonID|34903|Trachemysscripta/293-322 [subseq from] sid|6169|pid|4198|hfid|316|sfid|19|gb|AAG09376.1|gi|9957482|taxonID|34903|Trachemysscripta
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLVLIA-
+>sid|6170|pid|4198|hfid|316|sfid|19|gi|532691798|taxonID|8479|Chrysemyspicta/293-322 [subseq from] sid|6170|pid|4198|hfid|316|sfid|19|gi|532691798|taxonID|8479|Chrysemyspicta
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLVLIA-
+>sid|63994|pid|45576|hfid|295|sfid|12|gi|195353713|taxonID|7238|Drosophilasechellia/323-350 [subseq from] sid|63994|pid|45576|hfid|295|sfid|12|gi|195353713|taxonID|7238|Drosophilasechellia
+---A-TVMAMDMLMAGVDTTSSTF-TA-LLLCLA-
+>sid|12558|pid|9077|hfid|372|sfid|49|gi|195442238|taxonID|7260|Drosophilawillistoni/388-416 [subseq from] sid|12558|pid|9077|hfid|372|sfid|49|gi|195442238|taxonID|7260|Drosophilawillistoni
+--LA-AVLALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|65324|pid|46688|hfid|337|sfid|27|gi|617400761|taxonID|48698|Poeciliaformosa/312-335 [subseq from] sid|65324|pid|46688|hfid|337|sfid|27|gi|617400761|taxonID|48698|Poeciliaformosa
+--------VTELLLAGVDTTSNTL-TW-TLYQLS-
+>sid|65322|pid|46686|hfid|337|sfid|27|gi|658840105|taxonID|8081|Poeciliareticulata/312-335 [subseq from] sid|65322|pid|46686|hfid|337|sfid|27|gi|658840105|taxonID|8081|Poeciliareticulata
+--------VTELLLAGVDTTSNTL-TW-TLYQLS-
+>sid|6349|pid|4325|hfid|316|sfid|19|dbj|BAI44466.1|gi|260763794|taxonID|80970|Amphiprionclarkii/306-334 [subseq from] sid|6349|pid|4325|hfid|316|sfid|19|dbj|BAI44466.1|gi|260763794|taxonID|80970|Amphiprionclarkii
+-ENV-TQCVLEMVIAAPDTLSVSLF-F-MLLLL--
+>sid|6270|pid|4268|hfid|316|sfid|19|dbj|BAB82524.1|gi|18147124|taxonID|143350|Pagrusmajor/306-334 [subseq from] sid|6270|pid|4268|hfid|316|sfid|19|dbj|BAB82524.1|gi|18147124|taxonID|143350|Pagrusmajor
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6106|pid|4146|hfid|316|sfid|19|gb|AGW47687.1|gi|545693185|taxonID|27788|Lepidochelysolivacea/325-354 [subseq from] sid|6106|pid|4146|hfid|316|sfid|19|gb|AGW47687.1|gi|545693185|taxonID|27788|Lepidochelysolivacea
+-ENV-NQCVLEMMIAAPDTLSVTLF-F-MLVLIA-
+>sid|12570|pid|9086|hfid|372|sfid|49|gi|195383662|taxonID|7244|Drosophilavirilis/377-405 [subseq from] sid|12570|pid|9086|hfid|372|sfid|49|gi|195383662|taxonID|7244|Drosophilavirilis
+--LA-AVLALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|6392|pid|4358|hfid|316|sfid|19|dbj|BAD91037.1|gi|61097792|taxonID|48668|Rutilusrutilus/313-341 [subseq from] sid|6392|pid|4358|hfid|316|sfid|19|dbj|BAD91037.1|gi|61097792|taxonID|48668|Rutilusrutilus
+-ENV-RQCVLEMLIAAPDTLSISLF-F-MLLLL--
+>sid|11836|pid|8550|hfid|360|sfid|39|gi|507924668|taxonID|143302|Condyluracristata/260-290 [subseq from] sid|11836|pid|8550|hfid|360|sfid|39|gi|507924668|taxonID|143302|Condyluracristata
+-EQNcPNYGLLLLWASLSNAVPVA-FW-TLAFVL-
+>sid|6217|pid|4232|hfid|316|sfid|19|sp|P79699.2|gi|21431508|taxonID|93934|Coturnixjaponica/172-201 [subseq from] sid|6217|pid|4232|hfid|316|sfid|19|sp|P79699.2|gi|21431508|taxonID|93934|Coturnixjaponica
+-ENV-NQCVLEMMIAAPDTLSVTLF-I-MLILIA-
+>sid|6141|pid|4173|hfid|316|sfid|19|gi|632938231|taxonID|7868|Callorhinchusmilii/305-334 [subseq from] sid|6141|pid|4173|hfid|316|sfid|19|gi|632938231|taxonID|7868|Callorhinchusmilii
+-ENV-TQSVLEILIAGPDTMSVTI-FF-MLMLIA-
+>sid|2510|pid|1765|hfid|297|sfid|12|gi|194881187|taxonID|7220|Drosophilaerecta/349-376 [subseq from] sid|2510|pid|1765|hfid|297|sfid|12|gi|194881187|taxonID|7220|Drosophilaerecta
+---A-VTMVMDMLMAGIDTTSSAC-LT-ILYHLA-
+>sid|2521|pid|1776|hfid|297|sfid|12|gb|AAY55548.1|gi|66772473|gi|221330401|taxonID|7227|Drosophilamelanogaster/321-348 [subseq from] sid|2521|pid|1776|hfid|297|sfid|12|gb|AAY55548.1|gi|66772473|gi|221330401|taxonID|7227|Drosophilamelanogaster
+---A-VTMVMDMLMAGIDTTSSAC-LT-ILYHLA-
+>sid|2511|pid|1766|hfid|297|sfid|12|gi|195487338|taxonID|7245|Drosophilayakuba/306-333 [subseq from] sid|2511|pid|1766|hfid|297|sfid|12|gi|195487338|taxonID|7245|Drosophilayakuba
+---A-VTMVMDMLMAGIDTTSSAC-LT-ILYHLA-
+>sid|6400|pid|4363|hfid|316|sfid|19|gb|AGE12464.1|gi|444792399|taxonID|7957|Carassiusauratus/313-341 [subseq from] sid|6400|pid|4363|hfid|316|sfid|19|gb|AGE12464.1|gi|444792399|taxonID|7957|Carassiusauratus
+-ENV-RQCVLEMIIAAPDTLSISLF-F-MLLLL--
+>sid|6397|pid|4363|hfid|316|sfid|19|dbj|BAA23758.1|gi|2662331|taxonID|7957|Carassiusauratus/314-342 [subseq from] sid|6397|pid|4363|hfid|316|sfid|19|dbj|BAA23758.1|gi|2662331|taxonID|7957|Carassiusauratus
+-ENV-RQCVLEMIIAAPDTLSISLF-F-MLLLL--
+>sid|6399|pid|4363|hfid|316|sfid|19|gb|AEX97168.1|gi|372477954|taxonID|7957|Carassiusauratus/314-342 [subseq from] sid|6399|pid|4363|hfid|316|sfid|19|gb|AEX97168.1|gi|372477954|taxonID|7957|Carassiusauratus
+-ENV-RQCVLEMIIAAPDTLSISLF-F-MLLLL--
+>sid|6401|pid|4363|hfid|316|sfid|19|sp|O73686.1|gi|7673981|taxonID|7957|Carassiusauratus/314-342 [subseq from] sid|6401|pid|4363|hfid|316|sfid|19|sp|O73686.1|gi|7673981|taxonID|7957|Carassiusauratus
+-ENV-RQCVLEMIIAAPDTLSISLF-F-MLLLL--
+>sid|6333|pid|4311|hfid|316|sfid|19|gi|525344735|taxonID|31033|Takifugurubripes/302-330 [subseq from] sid|6333|pid|4311|hfid|316|sfid|19|gi|525344735|taxonID|31033|Takifugurubripes
+-ENV-MQCVLEMVIAAPDTLSVSLF-F-MLLLL--
+>sid|6242|pid|4250|hfid|316|sfid|19|gb|AAV91179.1|gi|56424243|taxonID|8187|Latescalcarifer/306-334 [subseq from] sid|6242|pid|4250|hfid|316|sfid|19|gb|AAV91179.1|gi|56424243|taxonID|8187|Latescalcarifer
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6385|pid|4354|hfid|316|sfid|19|gb|AGE12466.1|gi|444792401|taxonID|543562|Carassiuscarassiusredvar.xCyprinuscarpio/313-341 [subseq from] sid|6385|pid|4354|hfid|316|sfid|19|gb|AGE12466.1|gi|444792401|taxonID|543562|Carassiuscarassiusredvar.xCyprinuscarpio
+-ENV-RQCVLEMIIAAPDTLSISLF-F-MLLLL--
+>sid|6386|pid|4354|hfid|316|sfid|19|gb|ACB13197.1|gi|170295882|taxonID|7962|Cyprinuscarpio/313-341 [subseq from] sid|6386|pid|4354|hfid|316|sfid|19|gb|ACB13197.1|gi|170295882|taxonID|7962|Cyprinuscarpio
+-ENV-RQCVLEMIIAAPDTLSISLF-F-MLLLL--
+>sid|12555|pid|9075|hfid|372|sfid|49|gi|195026393|taxonID|7222|Drosophilagrimshawi/414-442 [subseq from] sid|12555|pid|9075|hfid|372|sfid|49|gi|195026393|taxonID|7222|Drosophilagrimshawi
+--LA-AVLALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|6249|pid|4256|hfid|316|sfid|19|gb|AFP45764.1|gi|399532016|taxonID|435163|Thamnaconusseptentrionalis/218-245 [subseq from] sid|6249|pid|4256|hfid|316|sfid|19|gb|AFP45764.1|gi|399532016|taxonID|435163|Thamnaconusseptentrionalis
+--NV-RQCVLEMVIAAPDTLSISL-FF-MLMLL--
+>sid|65303|pid|46671|hfid|337|sfid|27|gi|551493299|taxonID|8083|Xiphophorusmaculatus/317-338 [subseq from] sid|65303|pid|46671|hfid|337|sfid|27|gi|551493299|taxonID|8083|Xiphophorusmaculatus
+----------ELLLAGVDTTSNTL-TW-VLYQLS-
+>sid|6303|pid|4295|hfid|316|sfid|19|gb|ABK30807.1|gi|116874241|taxonID|219752|Odontesthesbonariensis/306-334 [subseq from] sid|6303|pid|4295|hfid|316|sfid|19|gb|ABK30807.1|gi|116874241|taxonID|219752|Odontesthesbonariensis
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|90231|pid|67184|hfid|373|sfid|49|gi|645015254|taxonID|7425|Nasoniavitripennis/324-352 [subseq from] sid|90231|pid|67184|hfid|373|sfid|49|gi|645015254|taxonID|7425|Nasoniavitripennis
+--LA-TTLAFDLFLVGIDTTSNSV-AS-VLYQLA-
+>sid|6276|pid|4274|hfid|316|sfid|19|gi|658840784|taxonID|8081|Poeciliareticulata/305-333 [subseq from] sid|6276|pid|4274|hfid|316|sfid|19|gi|658840784|taxonID|8081|Poeciliareticulata
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|11405|pid|8195|hfid|1281|sfid|301|dbj|BAM73845.1|gi|433338979|taxonID|7091|Bombyxmori/172-196 [subseq from] sid|11405|pid|8195|hfid|1281|sfid|301|dbj|BAM73845.1|gi|433338979|taxonID|7091|Bombyxmori
+-------MALDLILVGIDTISMAV-CS-ILYQAA-
+>sid|8257|pid|5695|hfid|332|sfid|27|gi|585681237|taxonID|28737|Elephantulusedwardii/326-354 [subseq from] sid|8257|pid|5695|hfid|332|sfid|27|gi|585681237|taxonID|28737|Elephantulusedwardii
+--EA-IGCLAELLMAGVDTTSNTL-TW-ALYHLS-
+>sid|6344|pid|4321|hfid|316|sfid|19|gi|551496486|taxonID|8083|Xiphophorusmaculatus/305-333 [subseq from] sid|6344|pid|4321|hfid|316|sfid|19|gi|551496486|taxonID|8083|Xiphophorusmaculatus
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|90228|pid|67181|hfid|373|sfid|49|gi|340715177|taxonID|30195|Bombusterrestris/316-345 [subseq from] sid|90228|pid|67181|hfid|373|sfid|49|gi|340715177|taxonID|30195|Bombusterrestris
+-KLA-TVLSLDLFLVGIDTTSNAV-AS-TLYQLA-
+>sid|6278|pid|4276|hfid|316|sfid|19|gb|AGS14758.1|gi|527478367|taxonID|1084758|Trematocaramarginatum/295-321 [subseq from] sid|6278|pid|4276|hfid|316|sfid|19|gb|AGS14758.1|gi|527478367|taxonID|1084758|Trematocaramarginatum
+---V-TQCVLEMVIAAPDTMSLSLF-F-MLLLL--
+>sid|11398|pid|8190|hfid|1281|sfid|301|gi|571533529|taxonID|7460|Apismellifera/331-355 [subseq from] sid|11398|pid|8190|hfid|1281|sfid|301|gi|571533529|taxonID|7460|Apismellifera
+-------LALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|6236|pid|4248|hfid|316|sfid|19|gi|617426301|taxonID|48698|Poeciliaformosa/305-333 [subseq from] sid|6236|pid|4248|hfid|316|sfid|19|gi|617426301|taxonID|48698|Poeciliaformosa
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6368|pid|4343|hfid|316|sfid|19|gb|AGN04322.1|gi|508096314|taxonID|30732|Oryziasmelastigma/304-332 [subseq from] sid|6368|pid|4343|hfid|316|sfid|19|gb|AGN04322.1|gi|508096314|taxonID|30732|Oryziasmelastigma
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|7458|pid|5133|hfid|326|sfid|24|gb|EPQ05180.1|gi|521023392|taxonID|109478|Myotisbrandtii/287-314 [subseq from] sid|7458|pid|5133|hfid|326|sfid|24|gb|EPQ05180.1|gi|521023392|taxonID|109478|Myotisbrandtii
+---L-YAAVTELQLAAVETTANSL-LW-LLYNLS-
+>sid|65301|pid|46670|hfid|337|sfid|27|gi|658840112|taxonID|8081|Poeciliareticulata/306-328 [subseq from] sid|65301|pid|46670|hfid|337|sfid|27|gi|658840112|taxonID|8081|Poeciliareticulata
+---------TELLLAGVDTTSNTL-TW-TLYQLS-
+>sid|6246|pid|4254|hfid|316|sfid|19|gb|AAS58448.1|gi|45356818|taxonID|215347|Epinephelusakaara/306-334 [subseq from] sid|6246|pid|4254|hfid|316|sfid|19|gb|AAS58448.1|gi|45356818|taxonID|215347|Epinephelusakaara
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6391|pid|4357|hfid|316|sfid|19|emb|CAF99837.1|gi|47230644|taxonID|99883|Tetraodonnigroviridis/328-355 [subseq from] sid|6391|pid|4357|hfid|316|sfid|19|emb|CAF99837.1|gi|47230644|taxonID|99883|Tetraodonnigroviridis
+-ENV-MQCVLEMVIAAPDTLSVSL-FF-MLVL---
+>sid|6302|pid|4295|hfid|316|sfid|19|gb|ABK41198.1|gi|117574655|taxonID|378430|Odontestheshatcheri/306-334 [subseq from] sid|6302|pid|4295|hfid|316|sfid|19|gb|ABK41198.1|gi|117574655|taxonID|378430|Odontestheshatcheri
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6356|pid|4331|hfid|316|sfid|19|gb|ABL64075.1|gi|119353108|taxonID|8167|Percaflavescens/306-334 [subseq from] sid|6356|pid|4331|hfid|316|sfid|19|gb|ABL64075.1|gi|119353108|taxonID|8167|Percaflavescens
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|11384|pid|8176|hfid|1281|sfid|301|gi|645015256|taxonID|7425|Nasoniavitripennis/325-352 [subseq from] sid|11384|pid|8176|hfid|1281|sfid|301|gi|645015256|taxonID|7425|Nasoniavitripennis
+---A-YVLALDLILVGIDTISMAV-CS-IMYQLA-
+>sid|11390|pid|8182|hfid|1281|sfid|301|gb|EFZ21337.1|gi|322800333|taxonID|13686|Solenopsisinvicta/336-360 [subseq from] sid|11390|pid|8182|hfid|1281|sfid|301|gb|EFZ21337.1|gi|322800333|taxonID|13686|Solenopsisinvicta
+-------FALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|6393|pid|4359|hfid|316|sfid|19|gb|ABD47676.2|gi|95104788|taxonID|72011|Acanthopagrusschlegelii/166-193 [subseq from] sid|6393|pid|4359|hfid|316|sfid|19|gb|ABD47676.2|gi|95104788|taxonID|72011|Acanthopagrusschlegelii
+--NV-RQCVLEMVIAAPDTLSISL-FF-MLMLL--
+>sid|6240|pid|4250|hfid|316|sfid|19|gb|AFR23347.1|gi|403084310|taxonID|160731|Mycteropercarosacea/186-214 [subseq from] sid|6240|pid|4250|hfid|316|sfid|19|gb|AFR23347.1|gi|403084310|taxonID|160731|Mycteropercarosacea
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6158|pid|4187|hfid|316|sfid|19|gb|AAN04475.2|gi|25085761|taxonID|93934|Coturnixjaponica/293-322 [subseq from] sid|6158|pid|4187|hfid|316|sfid|19|gb|AAN04475.2|gi|25085761|taxonID|93934|Coturnixjaponica
+-ENV-NQCVLEMMIAAPDTLSVTLF-I-MLILIA-
+>sid|6140|pid|4172|hfid|316|sfid|19|gi|48976119|gb|AAA48739.1|gi|211705|taxonID|9031|Gallusgallus/293-321 [subseq from] sid|6140|pid|4172|hfid|316|sfid|19|gi|48976119|gb|AAA48739.1|gi|211705|taxonID|9031|Gallusgallus
+-ENV-NQCVLEMMIAAPDTLSVTLF-I-MLILI--
+>sid|65302|pid|46670|hfid|337|sfid|27|gi|658840109|taxonID|8081|Poeciliareticulata/306-328 [subseq from] sid|65302|pid|46670|hfid|337|sfid|27|gi|658840109|taxonID|8081|Poeciliareticulata
+---------TELLLAGVDTTSNTL-TW-TLYQLS-
+>sid|6337|pid|4315|hfid|316|sfid|19|emb|CAC84575.1|gi|18477218|taxonID|8022|Oncorhynchusmykiss/251-276 [subseq from] sid|6337|pid|4315|hfid|316|sfid|19|emb|CAC84575.1|gi|18477218|taxonID|8022|Oncorhynchusmykiss
+-----RQCVLEMVIAAPDTLSISL-FF-MLMLL--
+>sid|6164|pid|4193|hfid|316|sfid|19|gb|AAA48598.1|gi|211170|taxonID|9031|Gallusgallus/293-321 [subseq from] sid|6164|pid|4193|hfid|316|sfid|19|gb|AAA48598.1|gi|211170|taxonID|9031|Gallusgallus
+-ENV-NQCVLEMMIAAPDTLSVTLF-I-MLILI--
+>sid|6358|pid|4333|hfid|316|sfid|19|gb|ACO35041.1|gi|225903786|taxonID|215358|Larimichthyscrocea/306-334 [subseq from] sid|6358|pid|4333|hfid|316|sfid|19|gb|ACO35041.1|gi|225903786|taxonID|215358|Larimichthyscrocea
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|12569|pid|9085|hfid|372|sfid|49|gb|AID61431.1|gi|659106110|taxonID|145453|Calliphorastygia/364-388 [subseq from] sid|12569|pid|9085|hfid|372|sfid|49|gb|AID61431.1|gi|659106110|taxonID|145453|Calliphorastygia
+-------LALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|6338|pid|4315|hfid|316|sfid|19|emb|CAC84574.1|gi|18477216|taxonID|8022|Oncorhynchusmykiss/285-310 [subseq from] sid|6338|pid|4315|hfid|316|sfid|19|emb|CAC84574.1|gi|18477216|taxonID|8022|Oncorhynchusmykiss
+-----RQCVLEMVIAAPDTLSISL-FF-MLMLL--
+>sid|6346|pid|4323|hfid|316|sfid|19|gb|AAL27699.1|gi|16751572|taxonID|8175|Sparusaurata/306-334 [subseq from] sid|6346|pid|4323|hfid|316|sfid|19|gb|AAL27699.1|gi|16751572|taxonID|8175|Sparusaurata
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6269|pid|4267|hfid|316|sfid|19|gi|523704521|taxonID|8090|Oryziaslatipes/303-331 [subseq from] sid|6269|pid|4267|hfid|316|sfid|19|gi|523704521|taxonID|8090|Oryziaslatipes
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6347|pid|4323|hfid|316|sfid|19|gb|ABC70869.1|gi|85541261|taxonID|182642|Rhabdosargussarba/306-334 [subseq from] sid|6347|pid|4323|hfid|316|sfid|19|gb|ABC70869.1|gi|85541261|taxonID|182642|Rhabdosargussarba
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6299|pid|4292|hfid|316|sfid|19|gb|AHZ08827.1|gi|630867428|taxonID|75038|Scatophagusargus/306-334 [subseq from] sid|6299|pid|4292|hfid|316|sfid|19|gb|AHZ08827.1|gi|630867428|taxonID|75038|Scatophagusargus
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|56653|pid|40151|hfid|440|sfid|53|gi|568462693|taxonID|936046|Agaricusbisporusvar.bisporusH97/341-367 [subseq from] sid|56653|pid|40151|hfid|440|sfid|53|gi|568462693|taxonID|936046|Agaricusbisporusvar.bisporusH97
+-----TAEALTLLIAGSDTTSNST-CA-ILYYLA-
+>sid|11416|pid|8204|hfid|1281|sfid|301|gb|ENN80608.1|gi|478261030|taxonID|77166|Dendroctonusponderosae/321-345 [subseq from] sid|11416|pid|8204|hfid|1281|sfid|301|gb|ENN80608.1|gi|478261030|taxonID|77166|Dendroctonusponderosae
+-------LALDLILVGIDTISMAV-CS-ILYQLA-
+>sid|65299|pid|46668|hfid|337|sfid|27|gi|432933754|taxonID|8090|Oryziaslatipes/315-341 [subseq from] sid|65299|pid|46668|hfid|337|sfid|27|gi|432933754|taxonID|8090|Oryziaslatipes
+-----YASIAELLLAGVDTTSNTL-TW-ALYQLS-
+>sid|6355|pid|4330|hfid|316|sfid|19|gb|AAP23236.1|gi|30259314|taxonID|72011|Acanthopagrusschlegelii/306-334 [subseq from] sid|6355|pid|4330|hfid|316|sfid|19|gb|AAP23236.1|gi|30259314|taxonID|72011|Acanthopagrusschlegelii
+-ENV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|11403|pid|8195|hfid|1281|sfid|301|gi|512892082|taxonID|7091|Bombyxmori/333-357 [subseq from] sid|11403|pid|8195|hfid|1281|sfid|301|gi|512892082|taxonID|7091|Bombyxmori
+-------MALDLILVGIDTISMAV-CS-ILYQAA-
+>sid|6365|pid|4340|hfid|316|sfid|19|gb|ACI04549.2|gi|242308761|taxonID|98923|Veraspermoseri/306-334 [subseq from] sid|6365|pid|4340|hfid|316|sfid|19|gb|ACI04549.2|gi|242308761|taxonID|98923|Veraspermoseri
+-ENV-VQCVLEMVIAAPDTLSVSLF-F-MLLLL--
+>sid|11404|pid|8195|hfid|1281|sfid|301|dbj|BAM73846.1|gi|433338981|taxonID|7091|Bombyxmori/333-357 [subseq from] sid|11404|pid|8195|hfid|1281|sfid|301|dbj|BAM73846.1|gi|433338981|taxonID|7091|Bombyxmori
+-------MALDLILVGIDTISMAV-CS-ILYQAA-
+>sid|56652|pid|40151|hfid|440|sfid|53|gi|597989919|taxonID|597362|Agaricusbisporusvar.burnettiiJB137-S8/341-367 [subseq from] sid|56652|pid|40151|hfid|440|sfid|53|gi|597989919|taxonID|597362|Agaricusbisporusvar.burnettiiJB137-S8
+-----TAEALTLLIAGSDTTSNST-CA-ILYYLA-
+>sid|65325|pid|46689|hfid|337|sfid|27|gi|657582977|taxonID|144197|Stegastespartitus/314-341 [subseq from] sid|65325|pid|46689|hfid|337|sfid|27|gi|657582977|taxonID|144197|Stegastespartitus
+---V-YGSIAELLLAGVDTTSNTL-TW-ALYQLS-
+>sid|11391|pid|8183|hfid|1281|sfid|301|gb|EHJ78478.1|gi|357630154|taxonID|13037|Danausplexippus/330-354 [subseq from] sid|11391|pid|8183|hfid|1281|sfid|301|gb|EHJ78478.1|gi|357630154|taxonID|13037|Danausplexippus
+-------MALDLILVGIDTISMAV-CS-ILYQAA-
+>sid|6309|pid|4300|hfid|316|sfid|19|gb|AGS14773.1|gi|527478397|taxonID|143505|Gnathochromispermaxillaris/294-321 [subseq from] sid|6309|pid|4300|hfid|316|sfid|19|gb|AGS14773.1|gi|527478397|taxonID|143505|Gnathochromispermaxillaris
+--DV-TQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|63998|pid|45577|hfid|295|sfid|12|gi|194746689|taxonID|7217|Drosophilaananassae/324-349 [subseq from] sid|63998|pid|45577|hfid|295|sfid|12|gi|194746689|taxonID|7217|Drosophilaananassae
+-----TIMAMDMLMAGVDTTSSTF-TA-LLFCL--
+>sid|56636|pid|40135|hfid|440|sfid|53|gi|169851531|taxonID|240176|Coprinopsiscinereaokayama7#130/348-372 [subseq from] sid|56636|pid|40135|hfid|440|sfid|53|gi|169851531|taxonID|240176|Coprinopsiscinereaokayama7#130
+-------EALTLLIAGSDTTSNST-CA-ILYYLA-
+>sid|67846|pid|48682|hfid|31|sfid|2|gi|551488262|taxonID|8083|Xiphophorusmaculatus/297-326 [subseq from] sid|67846|pid|48682|hfid|31|sfid|2|gi|551488262|taxonID|8083|Xiphophorusmaculatus
+-ENL-IMCVLDLFVAGSETTSTTLRWA-FLFMA--
+>sid|6133|pid|4168|hfid|316|sfid|19|gb|ACN54526.1|gi|224552342|taxonID|8386|Rhinellamarina/294-322 [subseq from] sid|6133|pid|4168|hfid|316|sfid|19|gb|ACN54526.1|gi|224552342|taxonID|8386|Rhinellamarina
+-ENV-NQSILEMLIAAPDTMSVSLYFM-LILI---
+>sid|6335|pid|4313|hfid|316|sfid|19|gb|AAU25806.2|gi|62083299|taxonID|1234273|Tachysurusfulvidraco/293-317 [subseq from] sid|6335|pid|4313|hfid|316|sfid|19|gb|AAU25806.2|gi|62083299|taxonID|1234273|Tachysurusfulvidraco
+-----RQCVLEMVIAAPDTLSVSL-FF-MLVL---
+>sid|67856|pid|48692|hfid|31|sfid|2|gi|658845614|taxonID|8081|Poeciliareticulata/297-326 [subseq from] sid|67856|pid|48692|hfid|31|sfid|2|gi|658845614|taxonID|8081|Poeciliareticulata
+-ENL-IMCVLDLFVAGSETTSTTLRWA-FLYMA--
+>sid|90234|pid|67187|hfid|373|sfid|49|gi|665800944|taxonID|69319|Microplitisdemolitor/334-361 [subseq from] sid|90234|pid|67187|hfid|373|sfid|49|gi|665800944|taxonID|69319|Microplitisdemolitor
+---A-SVLALDLFLVGIDTTANAVG-S-ILYQLA-
+>sid|8268|pid|5704|hfid|332|sfid|27|gi|602625830|taxonID|176946|Pythonbivittatus/319-341 [subseq from] sid|8268|pid|5704|hfid|332|sfid|27|gi|602625830|taxonID|176946|Pythonbivittatus
+---------TELLLAGVDTTSNTL-SW-TLYHLA-
+>sid|76878|pid|55975|hfid|295|sfid|12|gi|557782239|taxonID|7370|Muscadomestica/217-244 [subseq from] sid|76878|pid|55975|hfid|295|sfid|12|gi|557782239|taxonID|7370|Muscadomestica
+---A-TVMAIDMILAGVDTTSTTF-TA-LLLCLA-
+>sid|12556|pid|9076|hfid|372|sfid|49|gi|24652454|taxonID|7227|Drosophilamelanogaster/208-232 [subseq from] sid|12556|pid|9076|hfid|372|sfid|49|gi|24652454|taxonID|7227|Drosophilamelanogaster
+-------LALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|67848|pid|48684|hfid|31|sfid|2|gi|617421853|taxonID|48698|Poeciliaformosa/297-326 [subseq from] sid|67848|pid|48684|hfid|31|sfid|2|gi|617421853|taxonID|48698|Poeciliaformosa
+-ENL-IMCVLDLFVAGSETTSTTLRWA-FLYMA--
+>sid|56233|pid|39801|hfid|31|sfid|2|gi|657758113|taxonID|244447|Cynoglossussemilaevis/292-320 [subseq from] sid|56233|pid|39801|hfid|31|sfid|2|gi|657758113|taxonID|244447|Cynoglossussemilaevis
+-ENL-YSCALDLFFAGTETTSTTLL-WgLLFM---
+>sid|6410|pid|4372|hfid|316|sfid|19|gi|659928133|taxonID|244447|Cynoglossussemilaevis/308-334 [subseq from] sid|6410|pid|4372|hfid|316|sfid|19|gi|659928133|taxonID|244447|Cynoglossussemilaevis
+---V-TQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|11745|pid|8489|hfid|360|sfid|39|gi|532065615|taxonID|43179|Ictidomystridecemlineatus/245-274 [subseq from] sid|11745|pid|8489|hfid|360|sfid|39|gi|532065615|taxonID|43179|Ictidomystridecemlineatus
+-KLN-PNYVLLMLWASLSNTIPVA-FW-TLAFVL-
+>sid|67854|pid|48690|hfid|31|sfid|2|gb|AGN04309.1|gi|508096288|taxonID|30732|Oryziasmelastigma/297-326 [subseq from] sid|67854|pid|48690|hfid|31|sfid|2|gb|AGN04309.1|gi|508096288|taxonID|30732|Oryziasmelastigma
+-ENL-IMCVLDLFVAGSETTSTTLRWA-FLYMA--
+>sid|11855|pid|8564|hfid|360|sfid|39|gi|507537984|taxonID|51337|Jaculusjaculus/261-291 [subseq from] sid|11855|pid|8564|hfid|360|sfid|39|gi|507537984|taxonID|51337|Jaculusjaculus
+DKQR-PNYGLLLLWASLSNAAPIA-FW-TLAFVL-
+>sid|6198|pid|4217|hfid|316|sfid|19|gi|558217776|taxonID|13735|Pelodiscussinensis/295-323 [subseq from] sid|6198|pid|4217|hfid|316|sfid|19|gi|558217776|taxonID|13735|Pelodiscussinensis
+--NV-NQCVLEMMIAAPDTLSVTLF-F-MLVLIA-
+>sid|2515|pid|1770|hfid|297|sfid|12|gi|194757928|taxonID|7217|Drosophilaananassae/293-321 [subseq from] sid|2515|pid|1770|hfid|297|sfid|12|gi|194757928|taxonID|7217|Drosophilaananassae
+---VaVVMVMDMLMAGIDTTSSSL-LT-ILYHLS-
+>sid|8288|pid|5720|hfid|332|sfid|27|gi|637249172|taxonID|28377|Anoliscarolinensis/245-273 [subseq from] sid|8288|pid|5720|hfid|332|sfid|27|gi|637249172|taxonID|28377|Anoliscarolinensis
+--EV-YGSIAELLLAGVDTTSNTL-SW-ALYHLA-
+>sid|11845|pid|8557|hfid|360|sfid|39|gi|532065613|taxonID|43179|Ictidomystridecemlineatus/265-294 [subseq from] sid|11845|pid|8557|hfid|360|sfid|39|gi|532065613|taxonID|43179|Ictidomystridecemlineatus
+-KLN-PNYVLLMLWASLSNTIPVA-FW-TLAFVL-
+>sid|105481|pid|80576|hfid|316|sfid|19|gb|AAH76104.1|gi|49902876|taxonID|7955|Daniorerio/264-289 [subseq from] sid|105481|pid|80576|hfid|316|sfid|19|gb|AAH76104.1|gi|49902876|taxonID|7955|Daniorerio
+-----RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6241|pid|4250|hfid|316|sfid|19|gb|AAR97601.1|gi|40949963|taxonID|94232|Epinepheluscoioides/306-334 [subseq from] sid|6241|pid|4250|hfid|316|sfid|19|gb|AAR97601.1|gi|40949963|taxonID|94232|Epinepheluscoioides
+-ENV-RQCVLEVVIAAPDTLSISLF-F-MLLLL--
+>sid|67850|pid|48686|hfid|31|sfid|2|gi|432856167|taxonID|8090|Oryziaslatipes/296-325 [subseq from] sid|67850|pid|48686|hfid|31|sfid|2|gi|432856167|taxonID|8090|Oryziaslatipes
+-ENL-IMCVLDLFVAGSETTSTTLRWA-FLYMA--
+>sid|67849|pid|48685|hfid|31|sfid|2|gi|432856165|taxonID|8090|Oryziaslatipes/297-326 [subseq from] sid|67849|pid|48685|hfid|31|sfid|2|gi|432856165|taxonID|8090|Oryziaslatipes
+-ENL-IMCVLDLFVAGSETTSTTLRWA-FLYMA--
+>sid|11805|pid|8529|hfid|360|sfid|39|gi|511830248|taxonID|9669|Mustelaputoriusfuro/241-270 [subseq from] sid|11805|pid|8529|hfid|360|sfid|39|gi|511830248|taxonID|9669|Mustelaputoriusfuro
+-EES-PNYGLLILWASLSNAVPVA-SW-TLAFIL-
+>sid|11840|pid|8553|hfid|360|sfid|39|gi|545519329|gi|73973079|gi|545519325|taxonID|9615|Canislupusfamiliaris/262-290 [subseq from] sid|11840|pid|8553|hfid|360|sfid|39|gi|545519329|gi|73973079|gi|545519325|taxonID|9615|Canislupusfamiliaris
+--KS-PNYGLLLLWASLSNAVPVA-FW-TLAFVL-
+>sid|12573|pid|9089|hfid|372|sfid|49|gi|195153455|taxonID|7234|Drosophilapersimilis/389-413 [subseq from] sid|12573|pid|9089|hfid|372|sfid|49|gi|195153455|taxonID|7234|Drosophilapersimilis
+-------LALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|8265|pid|5701|hfid|332|sfid|27|gi|327260612|taxonID|28377|Anoliscarolinensis/311-339 [subseq from] sid|8265|pid|5701|hfid|332|sfid|27|gi|327260612|taxonID|28377|Anoliscarolinensis
+--EV-YGSIAELLLAGVDTTSNTL-SW-ALYHLA-
+>sid|2516|pid|1771|hfid|297|sfid|12|gi|195029745|taxonID|7222|Drosophilagrimshawi/324-350 [subseq from] sid|2516|pid|1771|hfid|297|sfid|12|gi|195029745|taxonID|7222|Drosophilagrimshawi
+-----VAMAMDMLMAGMDTTSSALV-T-ILYNIA-
+>sid|12567|pid|9083|hfid|372|sfid|49|gi|125811121|gi|482683738|taxonID|46245|Drosophilapseudoobscurapseudoobscura/387-411 [subseq from] sid|12567|pid|9083|hfid|372|sfid|49|gi|125811121|gi|482683738|taxonID|46245|Drosophilapseudoobscurapseudoobscura
+-------LALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|6231|pid|4245|hfid|316|sfid|19|emb|CAC43178.1|gi|14589321|taxonID|13489|Dicentrarchuslabrax/305-333 [subseq from] sid|6231|pid|4245|hfid|316|sfid|19|emb|CAC43178.1|gi|14589321|taxonID|13489|Dicentrarchuslabrax
+-ENV-RQCVLEMVIAAPDTLSVSLF-F-MLLLL--
+>sid|6232|pid|4245|hfid|316|sfid|19|emb|CAC21712.1|gi|12227191|taxonID|13489|Dicentrarchuslabrax/305-333 [subseq from] sid|6232|pid|4245|hfid|316|sfid|19|emb|CAC21712.1|gi|12227191|taxonID|13489|Dicentrarchuslabrax
+-ENV-RQCVLEMVIAAPDTLSVSLF-F-MLLLL--
+>sid|6409|pid|4371|hfid|316|sfid|19|gb|ADB29065.1|gi|283776329|taxonID|143606|Gobiocyprisrarus/313-341 [subseq from] sid|6409|pid|4371|hfid|316|sfid|19|gb|ADB29065.1|gi|283776329|taxonID|143606|Gobiocyprisrarus
+-ENV-RQCVLEMVIAAPDTLSVSLF-F-MLLLL--
+>sid|6289|pid|4285|hfid|316|sfid|19|gb|AFM35729.1|gi|390986145|taxonID|435163|Thamnaconusseptentrionalis/293-321 [subseq from] sid|6289|pid|4285|hfid|316|sfid|19|gb|AFM35729.1|gi|390986145|taxonID|435163|Thamnaconusseptentrionalis
+-ENV-VQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|11790|pid|8515|hfid|360|sfid|39|gi|511830246|gi|511830250|taxonID|9669|Mustelaputoriusfuro/261-290 [subseq from] sid|11790|pid|8515|hfid|360|sfid|39|gi|511830246|gi|511830250|taxonID|9669|Mustelaputoriusfuro
+-EES-PNYGLLILWASLSNAVPVA-SW-TLAFIL-
+>sid|90233|pid|67186|hfid|373|sfid|49|gi|328723312|taxonID|7029|Acyrthosiphonpisum/321-345 [subseq from] sid|90233|pid|67186|hfid|373|sfid|49|gi|328723312|taxonID|7029|Acyrthosiphonpisum
+-------LSLDMFIVGIDTTSAAL-AS-ILYQLS-
+>sid|12038|pid|8686|hfid|65|sfid|3|gb|ELR58237.1|gi|440908190|taxonID|72004|Bosmutus/281-301 [subseq from] sid|12038|pid|8686|hfid|65|sfid|3|gb|ELR58237.1|gi|440908190|taxonID|72004|Bosmutus
+-----------FIFAGYETTSNTL-SF-LLYILA-
+>sid|11813|pid|8536|hfid|360|sfid|39|gb|AAH10358.1|gi|14714464|taxonID|9606|Homosapiens/261-289 [subseq from] sid|11813|pid|8536|hfid|360|sfid|39|gb|AAH10358.1|gi|14714464|taxonID|9606|Homosapiens
+-ENS-PNYGLLLLWASLSNAVPVA-FW-TLAHV--
+>sid|11786|pid|8512|hfid|360|sfid|39|gi|545519323|gi|545519327|gi|545519320|taxonID|9615|Canislupusfamiliaris/307-335 [subseq from] sid|11786|pid|8512|hfid|360|sfid|39|gi|545519323|gi|545519327|gi|545519320|taxonID|9615|Canislupusfamiliaris
+--KS-PNYGLLLLWASLSNAVPVA-FW-TLAFVL-
+>sid|6360|pid|4335|hfid|316|sfid|19|gi|657746469|taxonID|244447|Cynoglossussemilaevis/320-346 [subseq from] sid|6360|pid|4335|hfid|316|sfid|19|gi|657746469|taxonID|244447|Cynoglossussemilaevis
+---V-TQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6297|pid|4290|hfid|316|sfid|19|gb|AAY26901.1|gi|63022637|taxonID|8267|Hippoglossushippoglossus/292-318 [subseq from] sid|6297|pid|4290|hfid|316|sfid|19|gb|AAY26901.1|gi|63022637|taxonID|8267|Hippoglossushippoglossus
+--NV-RQCVLEMVIAGPDTLSISL-FF-MLIL---
+>sid|6266|pid|4265|hfid|316|sfid|19|gb|AGS14762.1|gi|527478375|taxonID|272724|Lamprologuslemairii/295-321 [subseq from] sid|6266|pid|4265|hfid|316|sfid|19|gb|AGS14762.1|gi|527478375|taxonID|272724|Lamprologuslemairii
+---V-TQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6406|pid|4368|hfid|316|sfid|19|gb|AGQ20431.1|gi|523352565|taxonID|150288|Boleophthalmuspectinirostris/306-333 [subseq from] sid|6406|pid|4368|hfid|316|sfid|19|gb|AGQ20431.1|gi|523352565|taxonID|150288|Boleophthalmuspectinirostris
+--NV-RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6265|pid|4265|hfid|316|sfid|19|gb|AGS14763.1|gi|527478377|taxonID|32501|Lamprologuscallipterus/295-321 [subseq from] sid|6265|pid|4265|hfid|316|sfid|19|gb|AGS14763.1|gi|527478377|taxonID|32501|Lamprologuscallipterus
+---V-TQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|8287|pid|5719|hfid|332|sfid|27|gi|641760778|taxonID|8478|Chrysemyspictabellii/262-290 [subseq from] sid|8287|pid|5719|hfid|332|sfid|27|gi|641760778|taxonID|8478|Chrysemyspictabellii
+--EV-YGSVAELLLAGVDTTSNTL-SW-ALYHLA-
+>sid|6342|pid|4319|hfid|316|sfid|19|gb|ACN39247.2|gi|253801096|taxonID|214486|Sebastesschlegelii/304-332 [subseq from] sid|6342|pid|4319|hfid|316|sfid|19|gb|ACN39247.2|gi|253801096|taxonID|214486|Sebastesschlegelii
+-ENV-VQCVLEMVIAAPDTLSISLF-F-TLLLL--
+>sid|6253|pid|4258|hfid|316|sfid|19|gb|AAR97602.1|gi|40949965|taxonID|94232|Epinepheluscoioides/295-322 [subseq from] sid|6253|pid|4258|hfid|316|sfid|19|gb|AAR97602.1|gi|40949965|taxonID|94232|Epinepheluscoioides
+--NV-RQCVLEMVIAGPDTLSISL-FF-MLMLL--
+>sid|6343|pid|4320|hfid|316|sfid|19|gb|AAV91181.1|gi|56424299|taxonID|304459|Cromileptesaltivelis/296-323 [subseq from] sid|6343|pid|4320|hfid|316|sfid|19|gb|AAV91181.1|gi|56424299|taxonID|304459|Cromileptesaltivelis
+--NV-RQCVLEMVIAGPDTLSISL-FF-MLMLL--
+>sid|12557|pid|9076|hfid|372|sfid|49|gi|195475356|taxonID|7245|Drosophilayakuba/381-405 [subseq from] sid|12557|pid|9076|hfid|372|sfid|49|gi|195475356|taxonID|7245|Drosophilayakuba
+-------LALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|6228|pid|4243|hfid|316|sfid|19|gb|AAS58447.1|gi|45356816|taxonID|215347|Epinephelusakaara/298-325 [subseq from] sid|6228|pid|4243|hfid|316|sfid|19|gb|AAS58447.1|gi|45356816|taxonID|215347|Epinephelusakaara
+--NV-RQCVLEMVIAGPDTLSISL-FF-MLMLL--
+>sid|12571|pid|9087|hfid|372|sfid|49|gi|194857855|taxonID|7220|Drosophilaerecta/381-405 [subseq from] sid|12571|pid|9087|hfid|372|sfid|49|gi|194857855|taxonID|7220|Drosophilaerecta
+-------LALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|6279|pid|4277|hfid|316|sfid|19|gb|ACF60486.1|gi|194396138|taxonID|43700|Monopterusalbus/306-334 [subseq from] sid|6279|pid|4277|hfid|316|sfid|19|gb|ACF60486.1|gi|194396138|taxonID|43700|Monopterusalbus
+-ENV-TQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6280|pid|4277|hfid|316|sfid|19|gb|ABX45101.1|gi|160623511|taxonID|43700|Monopterusalbus/306-334 [subseq from] sid|6280|pid|4277|hfid|316|sfid|19|gb|ABX45101.1|gi|160623511|taxonID|43700|Monopterusalbus
+-ENV-TQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|12566|pid|9082|hfid|372|sfid|49|gb|AAL68266.1|gi|18447404|taxonID|7227|Drosophilamelanogaster/382-406 [subseq from] sid|12566|pid|9082|hfid|372|sfid|49|gb|AAL68266.1|gi|18447404|taxonID|7227|Drosophilamelanogaster
+-------LALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|12565|pid|9082|hfid|372|sfid|49|gi|28573913|taxonID|7227|Drosophilamelanogaster/382-406 [subseq from] sid|12565|pid|9082|hfid|372|sfid|49|gi|28573913|taxonID|7227|Drosophilamelanogaster
+-------LALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|12564|pid|9082|hfid|372|sfid|49|gi|195333145|taxonID|7238|Drosophilasechellia/382-406 [subseq from] sid|12564|pid|9082|hfid|372|sfid|49|gi|195333145|taxonID|7238|Drosophilasechellia
+-------LALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|12563|pid|9082|hfid|372|sfid|49|gi|195582198|taxonID|7240|Drosophilasimulans/382-406 [subseq from] sid|12563|pid|9082|hfid|372|sfid|49|gi|195582198|taxonID|7240|Drosophilasimulans
+-------LALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|6310|pid|4301|hfid|316|sfid|19|gb|AGS14766.1|gi|527478383|taxonID|27731|Aulonocranusdewindti/294-321 [subseq from] sid|6310|pid|4301|hfid|316|sfid|19|gb|AGS14766.1|gi|527478383|taxonID|27731|Aulonocranusdewindti
+--DV-TQCVLEMVIAAPDTLSLSLF-F-MLLLL--
+>sid|6311|pid|4301|hfid|316|sfid|19|gb|AGS14765.1|gi|527478381|taxonID|68046|Ophthalmotilapianasuta/294-321 [subseq from] sid|6311|pid|4301|hfid|316|sfid|19|gb|AGS14765.1|gi|527478381|taxonID|68046|Ophthalmotilapianasuta
+--DV-TQCVLEMVIAAPDTLSLSLF-F-MLLLL--
+>sid|12568|pid|9084|hfid|372|sfid|49|gi|194757956|taxonID|7217|Drosophilaananassae/399-423 [subseq from] sid|12568|pid|9084|hfid|372|sfid|49|gi|194757956|taxonID|7217|Drosophilaananassae
+-------LALDLFLVGVDTTSVAA-SS-TIYQLA-
+>sid|6263|pid|4263|hfid|316|sfid|19|dbj|BAD91038.1|gi|61097794|taxonID|48668|Rutilusrutilus/295-320 [subseq from] sid|6263|pid|4263|hfid|316|sfid|19|dbj|BAD91038.1|gi|61097794|taxonID|48668|Rutilusrutilus
+-----RQCVLEMVIAAPDTLSISLF-F-MLLLL--
+>sid|6345|pid|4322|hfid|316|sfid|19|gb|AGS14755.1|gi|527478361|taxonID|559345|Xenotilapiamelanogenys/294-321 [subseq from] sid|6345|pid|4322|hfid|316|sfid|19|gb|AGS14755.1|gi|527478361|taxonID|559345|Xenotilapiamelanogenys
+--DV-TQCVLEMVIAAPDTLSLSLF-F-MLLLL--
+>sid|6312|pid|4301|hfid|316|sfid|19|gb|AGS14764.1|gi|527478379|taxonID|27755|Ophthalmotilapiaventralis/294-321 [subseq from] sid|6312|pid|4301|hfid|316|sfid|19|gb|AGS14764.1|gi|527478379|taxonID|27755|Ophthalmotilapiaventralis
+--DV-TQCVLEMVIAAPDTLSLSLF-F-MLLLL--
