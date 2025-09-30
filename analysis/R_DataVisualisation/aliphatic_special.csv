@@ -1,0 +1,13 @@
+acid_alc,acid,alc,king_cond,group_count,total_count,percentage,position1_groups,position2_groups
+AP,A,P,Metazoa,2,3,66.66666666666666,aliphatic,special
+AP,A,P,Viridiplantae,1,3,33.33333333333333,aliphatic,special
+GM,G,M,Metazoa,2,2,100,aliphatic,special
+GP,G,P,Bacillati,2,17,11.76470588235294,aliphatic,special
+GP,G,P,Metazoa,9,17,52.94117647058824,aliphatic,special
+GP,G,P,Other,2,17,11.76470588235294,aliphatic,special
+GP,G,P,Viridiplantae,4,17,23.52941176470588,aliphatic,special
+IP,I,P,Metazoa,2,4,50,aliphatic,special
+IP,I,P,Viridiplantae,2,4,50,aliphatic,special
+LP,L,P,Metazoa,1,1,100,aliphatic,special
+VP,V,P,Metazoa,4,6,66.66666666666666,aliphatic,special
+VP,V,P,Viridiplantae,2,6,33.33333333333333,aliphatic,special

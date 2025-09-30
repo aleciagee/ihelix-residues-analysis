@@ -1,0 +1,128 @@
+---
+title: "Taxonomy_FurtherAnalysis"
+author: "Alecia Gee"
+date: "2025-09-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r packages}
+library(tidyverse)
+```
+
+```{r import data}
+pfam_data <- read_csv("~/PhD/Experimental/Project 2/R_DataVisualisation/fulltable.csv")
+pfam_data
+```
+
+
+```{r cleanup}
+cleaned_data <- pfam_data %>%
+  select(-contains("sequence"),
+         -contains("accession"),
+         -contains("Unnamed: 0"),
+         -contains("lineage_and_ranks"),
+         -contains("taxon")
+  ) %>%
+  filter(acid_alc != "-T" & acid_alc != "--") %>%
+  filter(kingdom != "NA")
+```
+
+```{r unique kingdoms}
+unique_kingdoms <- cleaned_data %>%
+  group_by(kingdom) %>%
+  summarise(group_count = n(), .groups = "drop_last")
+print(unique_kingdoms)
+```
+Going to combine the kingdoms where n < 300. Therefore, Bamfordvirae, Heunggongvirae, Nanobdellati, Thermoproteati and Thermotogati and "Methanobacteriati".
+
+```{r}
+grouped_data_allkingdoms <- cleaned_data %>%
+  group_by(acid_alc, kingdom) %>%  
+  summarise(group_count = n(), .groups = "drop_last") %>%
+  mutate(
+    total_count = sum(group_count),
+    percentage = (group_count / total_count) * 100
+  ) %>%
+  arrange(acid_alc, kingdom) %>%
+  separate(acid_alc, into = c("acid", "alc"), sep = 1, remove = FALSE)
+
+grouped_data_allkingdoms
+```
+
+
+```{r Combining small groups to other}
+kingdoms_condensed <- cleaned_data %>%
+  mutate(king_cond = ifelse(kingdom %in% c("Bamfordvirae", "Heunggongvirae", "Nanobdellati", "Thermoproteati", "Thermotogati", "Methanobacteriati"), "Other", kingdom))
+```
+
+
+```{r acid and alcohol combo}
+grouped_data <- kingdoms_condensed %>%
+  group_by(acid_alc, king_cond) %>%  
+  summarise(group_count = n(), .groups = "drop_last") %>%
+  mutate(
+    total_count = sum(group_count),
+    percentage = (group_count / total_count) * 100
+  ) %>%
+  arrange(acid_alc, king_cond) %>%
+  separate(acid_alc, into = c("acid", "alc"), sep = 1, remove = FALSE)
+
+grouped
+```
+
+```{r adding groups}
+analysed_data <- grouped_data %>%
+    mutate(position1_groups = case_when(
+    acid %in% c("E", "D") ~ "acid",
+    acid %in% c("R", "H", "K") ~ "charged",
+    acid %in% c("S", "T") ~ "alcohol",
+    acid %in% c("N", "Q") ~ "amide",
+    acid %in% c("V", "A", "G", "I", "L", "F") ~ "aliphatic",
+    acid %in% c("C", "Y", "W", "P", "M") ~ "special",
+  )) %>%
+    mutate(position2_groups = case_when(
+    alc %in% c("E", "D") ~ "acid",
+    alc %in% c("R", "H", "K") ~ "charged",
+    alc %in% c("S", "T") ~ "alcohol",
+    alc %in% c("N", "Q") ~ "amide",
+    alc %in% c("V", "A", "G", "I", "L", "F") ~ "aliphatic",
+    alc %in% c("C", "Y", "W", "P", "M") ~ "special",
+  ))
+```
+
+```{r amino acid grouping to output}
+
+groups <- c("acid", "alcohol", "charged", "amide", "aliphatic", "special")
+
+# make all 36 combos
+combos <- expand.grid(position1_groups = groups,
+                      position2_groups = groups,
+                      stringsAsFactors = FALSE)
+
+# generate filtered data for each combo
+results <- pmap(combos, function(position1_groups, position2_groups) {
+  analysed_data %>%
+    filter(position1_groups == !!position1_groups,
+           position2_groups == !!position2_groups)
+})
+
+# give each element a name like "acid_alcohol"
+names(results) <- paste(combos$position1_groups, combos$position2_groups, sep = "_")
+
+# write each element of results to CSV
+walk2(results, names(results), ~ write_csv(.x, paste0(.y, ".csv")))
+```
+
+Combos that are empty: alcohol_acid, charged_acid, amide_acid, special_acid, alcohol_charged, amide_charged, special_charged
+There are 29 groups left.
+
+```{r analysing acid alcohol groups}
+six_groups <- read_csv("~/PhD/Experimental/Project 2/R_DataVisualisation/acidalc.csv")
+
+heatmap(six_groups)
+```
+

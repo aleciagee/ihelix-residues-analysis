@@ -1,0 +1,7 @@
+acid_alc,acid,alc,king_cond,group_count,total_count,percentage,position1_groups,position2_groups
+HP,H,P,Fungi,3,7,42.857142857142854,charged,special
+HP,H,P,Metazoa,3,7,42.857142857142854,charged,special
+HP,H,P,Viridiplantae,1,7,14.285714285714285,charged,special
+KP,K,P,Metazoa,2,5,40,charged,special
+KP,K,P,Viridiplantae,3,5,60,charged,special
+RP,R,P,Metazoa,1,1,100,charged,special

@@ -1,0 +1,12 @@
+acid_alc,acid,alc,king_cond,group_count,total_count,percentage,position1_groups,position2_groups
+HN,H,N,Bacillati,4,89,4.49438202247191,charged,amide
+HN,H,N,Fungi,80,89,89.8876404494382,charged,amide
+HN,H,N,Metazoa,3,89,3.3707865168539324,charged,amide
+HN,H,N,Pseudomonadati,1,89,1.1235955056179776,charged,amide
+HN,H,N,Viridiplantae,1,89,1.1235955056179776,charged,amide
+HQ,H,Q,Fungi,7,8,87.5,charged,amide
+HQ,H,Q,Metazoa,1,8,12.5,charged,amide
+KN,K,N,Metazoa,1,2,50,charged,amide
+KN,K,N,Pseudomonadati,1,2,50,charged,amide
+RN,R,N,Metazoa,2,3,66.66666666666666,charged,amide
+RN,R,N,Pseudomonadati,1,3,33.33333333333333,charged,amide

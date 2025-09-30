@@ -1,0 +1,6 @@
+acid_alc,acid,alc,king_cond,group_count,total_count,percentage,position1_groups,position2_groups
+SN,S,N,Fungi,7,17,41.17647058823529,alcohol,amide
+SN,S,N,Metazoa,10,17,58.82352941176471,alcohol,amide
+SQ,S,Q,Viridiplantae,1,1,100,alcohol,amide
+TN,T,N,Fungi,8,12,66.66666666666666,alcohol,amide
+TN,T,N,Metazoa,4,12,33.33333333333333,alcohol,amide

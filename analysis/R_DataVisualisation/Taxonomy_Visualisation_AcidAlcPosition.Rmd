@@ -1,0 +1,145 @@
+---
+title: "DataImport"
+author: "Alecia Gee"
+date: "2025-09-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+```{r packages, include=FALSE}
+library(tidyverse)
+library(cowplot)
+library(ggpubr)
+library(RColorBrewer)
+```
+
+Importing the acid alcohol data:
+```{r import}
+acidalc <- read_csv("~/PhD/Experimental/Project 2/R_DataVisualisation/acid_alcohol.csv")
+acidalc
+```
+
+```{r plotting test and legend}
+# Define your groups
+king_groups <- c("Bacillati", "Pseudomonadati", "Fungi", "Metazoa", "Viridiplantae", "Other")
+
+# Define your custom colors
+colours <- c("#d73027", "#fc8d59", "#fee090", 
+             "#e0f3f8", "#91bfdb", "#4575b4")
+
+# Name them according to the groups
+names(colours) <- king_groups
+
+# Set factor levels for the main data (if needed elsewhere)
+acidalc$king_cond <- factor(acidalc$king_cond, levels = king_groups)
+
+
+acidalcie <- acidalc %>%
+  ggplot(aes(y = reorder(acid_alc, total_count), x = percentage, fill = king_cond)) +
+  geom_col(width = 0.5) +
+  ylab(NULL) +
+  xlab(NULL) +
+  theme(
+    panel.grid.major.x = element_line(colour = "lightgrey", linetype = "dashed"),
+    panel.background = element_rect(fill = "white", colour = NA),
+    axis.ticks.y = element_blank(),
+    axis.ticks.x = element_line(colour = "lightgrey"),
+    legend.position = "bottom",
+    legend.title = element_blank(),
+    axis.text.x = element_text(size = 8, colour = "black"),
+    axis.text.y = element_text(size = 8, colour = "black")
+  ) +
+  scale_y_discrete(expand = c(0, 0)) +
+  scale_x_continuous(expand = c(0.01, 0)) +
+  guides(fill = guide_legend(nrow = 1)) +
+  scale_fill_manual(values = colours)
+
+my_legend <- get_legend(acidalcie)
+as_ggplot(my_legend)
+
+ggsave("legend.png", plot = my_legend, width = 8, height = 1, dpi = 600)
+
+acidalcie
+```
+
+
+
+```{r plotting}
+# Define your groups
+king_groups <- c("Bacillati", "Pseudomonadati", "Fungi", "Metazoa", "Viridiplantae", "Other")
+
+# Define your custom colors
+colours <- c("#d73027", "#fc8d59", "#fee090", 
+             "#e0f3f8", "#91bfdb", "#4575b4")
+
+# Name them according to the groups
+names(colours) <- king_groups
+
+# Set factor levels for the main data (if needed elsewhere)
+acidalc$king_cond <- droplevels(acidalc$king_cond)
+
+groups <- c("acid", "alcohol", "charged", "amide", "aliphatic", "special")
+
+# Make all 36 combos
+combos <- expand.grid(position1_groups = groups,
+                      position2_groups = groups,
+                      stringsAsFactors = FALSE)
+
+# Loop through each combination
+for (i in 1:nrow(combos)) {
+  pos1 <- combos$position1_groups[i]
+  pos2 <- combos$position2_groups[i]
+  
+  file_name <- paste0(pos1, "_", pos2, ".csv")
+  
+  if (file.exists(file_name)) {
+    # Load the data
+    df <- read.csv(file_name)
+    
+    # Set factor levels here to ensure correct order in plots
+    df$king_cond <- factor(df$king_cond, levels = rev(king_groups))
+    
+    # Make the plot
+    p <- df %>%
+      ggplot(aes(y = reorder(acid_alc, total_count), x = percentage, fill = king_cond)) +
+      geom_col(width = 0.5) +
+      ylab(NULL) +
+      xlab(NULL) +
+      theme(
+        panel.grid.major.x = element_line(colour = "lightgrey", linetype = "solid", size = 0.3),
+        panel.background = element_rect(fill = "white", colour = NA),
+        axis.ticks.y = element_blank(),
+        axis.ticks.x = element_blank(),
+        axis.text.x = element_text(size = 8, colour = "black"),
+        axis.text.y = element_text(size = 8, colour = "black")
+      ) +
+      scale_y_discrete(expand = c(0, 0)) +
+      scale_x_continuous(expand = c(0.01, 0)) +
+      guides(fill = guide_legend(nrow = 1)) +
+      theme(legend.position = "none") +
+      scale_fill_manual(values = colours)
+    
+    
+    # Number of rows (unique bars)
+    n_bars <- length(unique(df$acid_alc))
+    
+    # Scale height: e.g., 0.3 inches per bar
+    plot_height <- n_bars * 0.3
+    
+    ggsave(filename = paste0(pos1, "_", pos2, ".png"),
+           plot = p,
+           width = 5,
+           height = plot_height,
+           dpi = 600)
+    
+  } else {
+    warning(paste("File not found:", file_name))
+  }
+}
+
+```
+
+

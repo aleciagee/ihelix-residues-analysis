@@ -1,0 +1,6 @@
+Acid/Acid,24,Alcohol/Acid,0,Aliphatic/Acid,2,Amide/Acid,0,Charged/Acid,0,CYPM/Acid,0
+Acid/Alcohol,274091,Alcohol/Alcohol,1654,Aliphatic/Alcohol,7393,Amide/Alcohol,2113,Charged/Alcohol,7977,CYPM/Alcohol,234
+Acid/Aliphatic,4592,Alcohol/Aliphatic,66,Aliphatic/Aliphatic,64,Amide/Aliphatic,19,Charged/Aliphatic,35,CYPM/Aliphatic,4
+Acid/Amide,1849,Alcohol/Amide,30,Aliphatic/Amide,896,Amide/Amide,16,Charged/Amide,102,CYPM/Amide,10
+Acid/Charged,40,Alcohol/Charged,0,Aliphatic/Charged,4,Amide/Charged,0,Charged/Charged,137,CYPM/Charged,0
+Acid/CYPM,1541,Alcohol/CYPM,14,Aliphatic/CYPM,33,Amide/CYPM,18,Charged/CYPM,13,CYPM/CYPM,2

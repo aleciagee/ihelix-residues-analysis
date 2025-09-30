@@ -1,0 +1,9 @@
+acid_alc,acid,alc,king_cond,group_count,total_count,percentage,position1_groups,position2_groups
+DD,D,D,Fungi,1,1,100,acid,acid
+DE,D,E,Fungi,2,4,50,acid,acid
+DE,D,E,Metazoa,2,4,50,acid,acid
+ED,E,D,Bacillati,2,2,100,acid,acid
+EE,E,E,Fungi,4,17,23.52941176470588,acid,acid
+EE,E,E,Metazoa,10,17,58.82352941176471,acid,acid
+EE,E,E,Pseudomonadati,1,17,5.88235294117647,acid,acid
+EE,E,E,Viridiplantae,2,17,11.76470588235294,acid,acid

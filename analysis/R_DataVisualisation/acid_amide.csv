@@ -1,0 +1,16 @@
+acid_alc,acid,alc,king_cond,group_count,total_count,percentage,position1_groups,position2_groups
+DN,D,N,Bacillati,160,952,16.80672268907563,acid,amide
+DN,D,N,Fungi,82,952,8.61344537815126,acid,amide
+DN,D,N,Metazoa,47,952,4.936974789915967,acid,amide
+DN,D,N,Pseudomonadati,15,952,1.5756302521008403,acid,amide
+DN,D,N,Viridiplantae,648,952,68.0672268907563,acid,amide
+DQ,D,Q,Metazoa,13,15,86.66666666666667,acid,amide
+DQ,D,Q,Viridiplantae,2,15,13.333333333333334,acid,amide
+EN,E,N,Bacillati,467,851,54.87661574618097,acid,amide
+EN,E,N,Fungi,162,851,19.036427732079904,acid,amide
+EN,E,N,Metazoa,112,851,13.160987074030553,acid,amide
+EN,E,N,Pseudomonadati,5,851,0.5875440658049353,acid,amide
+EN,E,N,Viridiplantae,105,851,12.338425381903642,acid,amide
+EQ,E,Q,Bacillati,1,31,3.225806451612903,acid,amide
+EQ,E,Q,Fungi,1,31,3.225806451612903,acid,amide
+EQ,E,Q,Metazoa,29,31,93.54838709677419,acid,amide

@@ -1,0 +1,8 @@
+acid_alc,acid,alc,king_cond,group_count,total_count,percentage,position1_groups,position2_groups
+NG,N,G,Fungi,1,9,11.11111111111111,amide,aliphatic
+NG,N,G,Viridiplantae,8,9,88.88888888888889,amide,aliphatic
+QA,Q,A,Bacillati,1,5,20,amide,aliphatic
+QA,Q,A,Metazoa,1,5,20,amide,aliphatic
+QA,Q,A,Viridiplantae,3,5,60,amide,aliphatic
+QF,Q,F,Fungi,1,1,100,amide,aliphatic
+QI,Q,I,Metazoa,4,4,100,amide,aliphatic

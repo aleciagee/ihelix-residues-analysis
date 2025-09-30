@@ -1,0 +1,14 @@
+acid_alc,acid,alc,king_cond,group_count,total_count,percentage,position1_groups,position2_groups
+SA,S,A,Bacillati,5,10,50,alcohol,aliphatic
+SA,S,A,Fungi,2,10,20,alcohol,aliphatic
+SA,S,A,Metazoa,2,10,20,alcohol,aliphatic
+SA,S,A,Pseudomonadati,1,10,10,alcohol,aliphatic
+SG,S,G,Viridiplantae,2,2,100,alcohol,aliphatic
+SI,S,I,Metazoa,1,1,100,alcohol,aliphatic
+TA,T,A,Bacillati,1,7,14.285714285714285,alcohol,aliphatic
+TA,T,A,Fungi,1,7,14.285714285714285,alcohol,aliphatic
+TA,T,A,Metazoa,3,7,42.857142857142854,alcohol,aliphatic
+TA,T,A,Viridiplantae,2,7,28.57142857142857,alcohol,aliphatic
+TG,T,G,Fungi,1,3,33.33333333333333,alcohol,aliphatic
+TG,T,G,Metazoa,2,3,66.66666666666666,alcohol,aliphatic
+TL,T,L,Metazoa,3,3,100,alcohol,aliphatic

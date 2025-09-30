@@ -1,0 +1,2 @@
+"0","kingdoms_condensed <- cleaned_data %>%"
+"0","  mutate(king_cond = ifelse(kingdom %in% c(""Bamfordvirae"", ""Heunggongvirae"", ""Nanobdellati"", ""Thermoproteati"", ""Thermotogati"", ""Methanobacteriati""), ""Other"", kingdom))"

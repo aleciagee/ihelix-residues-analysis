@@ -1,0 +1,4 @@
+"0","unique_kingdoms <- cleaned_data %>%"
+"0","  group_by(kingdom) %>%"
+"0","  summarise(group_count = n(), .groups = ""drop_last"")"
+"0","print(unique_kingdoms)"

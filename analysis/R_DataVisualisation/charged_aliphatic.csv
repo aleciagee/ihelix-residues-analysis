@@ -1,0 +1,9 @@
+acid_alc,acid,alc,king_cond,group_count,total_count,percentage,position1_groups,position2_groups
+HA,H,A,Bacillati,10,27,37.03703703703704,charged,aliphatic
+HA,H,A,Fungi,7,27,25.925925925925924,charged,aliphatic
+HA,H,A,Metazoa,3,27,11.11111111111111,charged,aliphatic
+HA,H,A,Viridiplantae,7,27,25.925925925925924,charged,aliphatic
+HG,H,G,Fungi,2,2,100,charged,aliphatic
+HV,H,V,Bacillati,1,4,25,charged,aliphatic
+HV,H,V,Fungi,3,4,75,charged,aliphatic
+KI,K,I,Metazoa,2,2,100,charged,aliphatic

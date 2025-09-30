@@ -1,0 +1,7 @@
+acid_alc,acid,alc,king_cond,group_count,total_count,percentage,position1_groups,position2_groups
+NN,N,N,Bacillati,3,13,23.076923076923077,amide,amide
+NN,N,N,Fungi,1,13,7.6923076923076925,amide,amide
+NN,N,N,Metazoa,3,13,23.076923076923077,amide,amide
+NN,N,N,Viridiplantae,6,13,46.15384615384615,amide,amide
+QN,Q,N,Bacillati,1,3,33.33333333333333,amide,amide
+QN,Q,N,Metazoa,2,3,66.66666666666666,amide,amide
