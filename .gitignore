@@ -8,3 +8,4 @@ output/hmm_search_2/pfam/
 # Ignore large taxonomy output
 analysis/pfam_tax/r1r2_pfam_acidalc_taxon.csv
 analysis/pfam_tax/taxonomy_parsed.csv
+analysis/pfam_tax/fulltable.csv
